@@ -500,14 +500,31 @@ function renderInsights(bucketed){
   el.innerHTML = items.join('') || '<p style="color:var(--muted)">Not enough data for this filter yet.</p>';
 }
 
+/** Returns the last month that's actually complete — if the most recent revenue
+ * date is mid-month, that month is still partial (full month's costs would be
+ * compared against partial revenue), so we step back to the prior month instead. */
+function getReportingMonth_(){
+  const dates = REVENUE_FACTS.map(r => r.date).filter(Boolean).sort();
+  if(!dates.length) return null;
+  const maxDate = dates[dates.length - 1];
+  const mKey = monthKeyOf(maxDate);
+  const day = parseInt(maxDate.slice(8,10), 10);
+  if(day < daysInMonth(mKey)){
+    const [y,m] = mKey.split('-').map(Number);
+    const prev = new Date(y, m - 2, 1); // step back one month
+    return prev.getFullYear() + '-' + String(prev.getMonth()+1).padStart(2,'0');
+  }
+  return mKey;
+}
+
 function renderTable(){
   const groupKey = state.tableGroup; // 'city' or 'client'
   const groups = groupKey === 'city' ? allCities() : allClients();
-  const monthKeys = [...new Set(EXPENSE_FACTS.map(e => e.month))].sort();
-  const latestMonth = monthKeys[monthKeys.length - 1];
+  const latestMonth = getReportingMonth_();
 
+  const monthLabel = latestMonth ? new Date(latestMonth + '-01T00:00:00').toLocaleDateString('en-IN', { month: 'short', year: 'numeric' }) : '';
   document.getElementById('tableHead').innerHTML =
-    `<th>${groupKey === 'city' ? 'City' : 'Client'}</th><th>Revenue (latest mo.)</th><th>Cost</th><th>Margin</th><th>Margin %</th>`;
+    `<th>${groupKey === 'city' ? 'City' : 'Client'}</th><th>Revenue (${monthLabel})</th><th>Cost</th><th>Margin</th><th>Margin %</th>`;
 
   const rows = groups.map(g => {
     const rev = REVENUE_FACTS.filter(r => monthKeyOf(r.date) === latestMonth && r[groupKey] === g)
