@@ -1,0 +1,576 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Kadam Mobility — P&amp;L Dashboard</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@500;600;700&family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
+<script src="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/4.4.0/chart.umd.min.js"></script>
+<style>
+  :root{
+    --bg:#F2F4F2;
+    --surface:#FFFFFF;
+    --ink:#10201A;
+    --ink-soft:#4C5C55;
+    --muted:#8A968F;
+    --border:#DCE3DE;
+    --accent:#0E7C5A;
+    --accent-soft:#E3F2EB;
+    --neg:#B5402E;
+    --neg-soft:#FBE9E5;
+    --warn:#B8781E;
+    --radius:8px;
+    --font-display:'Space Grotesk',sans-serif;
+    --font-body:'Inter',sans-serif;
+  }
+  *{box-sizing:border-box;}
+  body{
+    margin:0;
+    background:var(--bg);
+    color:var(--ink);
+    font-family:var(--font-body);
+    font-size:14px;
+    line-height:1.5;
+  }
+  .wrap{max-width:1280px;margin:0 auto;padding:28px 32px 80px;}
+
+  /* ---- Header ---- */
+  header{display:flex;align-items:flex-end;justify-content:space-between;flex-wrap:wrap;gap:16px;margin-bottom:24px;}
+  .brand{display:flex;flex-direction:column;gap:2px;}
+  .brand .mark{font-family:var(--font-display);font-weight:600;font-size:13px;letter-spacing:0.02em;color:var(--accent);}
+  .brand h1{font-family:var(--font-display);font-weight:600;font-size:26px;margin:0;color:var(--ink);}
+  .updated{font-size:12px;color:var(--muted);}
+
+  /* ---- Controls ---- */
+  .controls{display:flex;align-items:center;justify-content:space-between;flex-wrap:wrap;gap:14px;margin-bottom:20px;}
+  .period-toggle{display:inline-flex;background:var(--surface);border:1px solid var(--border);border-radius:var(--radius);padding:3px;}
+  .period-toggle button{
+    border:none;background:transparent;font-family:var(--font-body);font-weight:600;font-size:13px;
+    padding:7px 16px;border-radius:6px;color:var(--ink-soft);cursor:pointer;
+  }
+  .period-toggle button.active{background:var(--ink);color:#fff;}
+  .filters{display:flex;gap:8px;flex-wrap:wrap;align-items:center;}
+  .filter-group{display:flex;gap:6px;flex-wrap:wrap;align-items:center;}
+  .filter-label{font-size:12px;color:var(--muted);font-weight:600;margin-right:2px;}
+  .chip{
+    border:1px solid var(--border);background:var(--surface);color:var(--ink-soft);
+    font-size:12.5px;font-weight:500;padding:6px 12px;border-radius:100px;cursor:pointer;
+    transition:background .12s, color .12s, border-color .12s;
+  }
+  .chip.active{background:var(--ink);border-color:var(--ink);color:#fff;}
+
+  /* ---- KPI row ---- */
+  .kpis{display:grid;grid-template-columns:repeat(4,1fr);gap:14px;margin-bottom:22px;}
+  .kpi{background:var(--surface);border:1px solid var(--border);border-radius:var(--radius);padding:18px 20px;}
+  .kpi .label{font-size:12.5px;color:var(--muted);font-weight:600;margin-bottom:8px;}
+  .kpi .value{font-family:var(--font-display);font-size:26px;font-weight:600;color:var(--ink);}
+  .kpi .delta{font-size:12.5px;font-weight:600;margin-top:6px;display:inline-flex;align-items:center;gap:4px;}
+  .delta.up{color:var(--accent);}
+  .delta.down{color:var(--neg);}
+  .delta.flat{color:var(--muted);}
+
+  /* ---- Main grid: chart + insights ---- */
+  .main-grid{display:grid;grid-template-columns:1.7fr 1fr;gap:14px;margin-bottom:14px;}
+  .panel{background:var(--surface);border:1px solid var(--border);border-radius:var(--radius);padding:20px 22px;}
+  .panel h2{font-family:var(--font-display);font-size:15px;font-weight:600;margin:0 0 14px;color:var(--ink);}
+  .chart-wrap{height:280px;}
+
+  .insight{display:flex;gap:10px;padding:12px 0;border-bottom:1px solid var(--border);}
+  .insight:last-child{border-bottom:none;}
+  .insight .dot{width:7px;height:7px;border-radius:50%;margin-top:6px;flex-shrink:0;}
+  .insight .dot.up{background:var(--accent);}
+  .insight .dot.down{background:var(--neg);}
+  .insight .dot.flag{background:var(--warn);}
+  .insight p{margin:0;font-size:13.5px;color:var(--ink-soft);}
+  .insight strong{color:var(--ink);}
+
+  /* ---- Breakdown table ---- */
+  .tabs{display:flex;gap:4px;margin-bottom:14px;}
+  .tab{
+    border:none;background:transparent;font-family:var(--font-body);font-weight:600;font-size:13px;
+    padding:8px 4px;color:var(--muted);cursor:pointer;border-bottom:2px solid transparent;
+  }
+  .tab.active{color:var(--ink);border-bottom-color:var(--accent);}
+  table{width:100%;border-collapse:collapse;}
+  th{
+    text-align:right;font-size:11.5px;text-transform:uppercase;letter-spacing:0.03em;color:var(--muted);
+    font-weight:600;padding:8px 10px;border-bottom:1px solid var(--border);
+  }
+  th:first-child{text-align:left;}
+  td{padding:11px 10px;text-align:right;font-size:13.5px;border-bottom:1px solid var(--border);color:var(--ink-soft);}
+  td:first-child{text-align:left;font-weight:600;color:var(--ink);}
+  tr:last-child td{border-bottom:none;}
+  .pos{color:var(--accent);font-weight:600;}
+  .neg{color:var(--neg);font-weight:600;}
+  .bar-cell{position:relative;}
+  .bar-cell .bar{position:absolute;left:0;top:0;bottom:0;background:var(--accent-soft);z-index:0;border-radius:3px;}
+  .bar-cell span{position:relative;z-index:1;}
+
+  .note{font-size:12px;color:var(--muted);margin-top:14px;line-height:1.6;}
+
+  @media (max-width: 900px){
+    .kpis{grid-template-columns:repeat(2,1fr);}
+    .main-grid{grid-template-columns:1fr;}
+  }
+</style>
+</head>
+<body>
+<div class="wrap">
+
+  <header>
+    <div class="brand">
+      <span class="mark">KADAM MOBILITY</span>
+      <h1>Pan-India P&amp;L</h1>
+    </div>
+    <div class="updated" id="updatedLabel">Loading…</div>
+  </header>
+
+  <div class="controls">
+    <div class="period-toggle" id="periodToggle">
+      <button data-period="day" class="active">Daily</button>
+      <button data-period="week">Weekly</button>
+      <button data-period="month">Monthly</button>
+    </div>
+    <div class="filters">
+      <div class="filter-group">
+        <span class="filter-label">City</span>
+        <span id="cityChips"></span>
+      </div>
+      <div class="filter-group">
+        <span class="filter-label">Client</span>
+        <span id="clientChips"></span>
+      </div>
+    </div>
+  </div>
+
+  <div class="kpis" id="kpiRow"></div>
+
+  <div class="main-grid">
+    <div class="panel">
+      <h2>Revenue vs. cost</h2>
+      <div class="chart-wrap"><canvas id="trendChart"></canvas></div>
+    </div>
+    <div class="panel">
+      <h2>What changed</h2>
+      <div id="insights"></div>
+    </div>
+  </div>
+
+  <div class="panel">
+    <div class="tabs">
+      <button class="tab active" data-group="city">By city</button>
+      <button class="tab" data-group="client">By client</button>
+    </div>
+    <table>
+      <thead>
+        <tr id="tableHead"></tr>
+      </thead>
+      <tbody id="tableBody"></tbody>
+    </table>
+    <p class="note">Pan-India HR/Admin overhead is excluded from city and client breakdowns (it isn't tied to either) but is included in the top-line KPIs and chart. Monthly cost lines (Rent, Electricity, Supervisor, Lease/EMI) are spread evenly across days of their month for the Daily and Weekly views.</p>
+  </div>
+
+</div>
+
+<script>
+/* ============================================================================
+ * FALLBACK SAMPLE DATA — only used if the live GitHub fetch below fails
+ * (network issue, or the Apps Script sync hasn't run yet). Structured
+ * identically to the real revenue_facts.json / expense_facts.json.
+ * ========================================================================== */
+
+function mulberry32(seed){
+  return function(){
+    seed |= 0; seed = (seed + 0x6D2B79F5) | 0;
+    let t = Math.imul(seed ^ (seed >>> 15), 1 | seed);
+    t = (t + Math.imul(t ^ (t >>> 7), 61 | t)) ^ t;
+    return ((t ^ (t >>> 14)) >>> 0) / 4294967296;
+  };
+}
+const rand = mulberry32(42);
+
+function toISODate(d){ return d.toISOString().slice(0,10); }
+function daysInMonth(monthKey){
+  const [y,m] = monthKey.split('-').map(Number);
+  return new Date(y, m, 0).getDate();
+}
+function monthKeyOf(dateStr){ return dateStr.slice(0,7); }
+
+function generateSampleData(){
+  const CITIES = ['Gurgaon','Delhi','Bangalore','Kolkata','Mumbai','Noida'];
+  const CLIENT_BY_CITY = {
+    Gurgaon: ['Blinkit','Porter - 3W L3','Passenger Rental','Amicco'],
+    Delhi: ['Blinkit','Zomato','Porter - 3W L3','Delhivery'],
+    Bangalore: ['Delhivery','Porter - 3W L3','Swiggy'],
+    Kolkata: ['Spencer','Blinkit'],
+    Mumbai: ['Zomato','Delhivery'],
+    Noida: ['Blinkit','Delhivery','Porter - 3W L3'],
+  };
+  const BASE_DAILY_REVENUE = { // rough per-client daily revenue baseline
+    'Blinkit': 55000, 'Zomato': 22000, 'Porter - 3W L3': 38000, 'Delhivery': 26000,
+    'Passenger Rental': 72000, 'Amicco': 3200, 'Swiggy': 9000, 'Spencer': 12000,
+  };
+
+  const revenue = [];
+  const today = new Date();
+  const DAYS = 120;
+
+  for(let i = DAYS; i >= 0; i--){
+    const d = new Date(today); d.setDate(d.getDate() - i);
+    const dateStr = toISODate(d);
+    const dow = d.getDay(); // 0 = Sunday
+    const weekendFactor = (dow === 0) ? 0.55 : (dow === 6 ? 0.85 : 1);
+    const trendFactor = 1 + (DAYS - i) * 0.0025; // gentle upward trend over the window
+
+    CITIES.forEach(city => {
+      CLIENT_BY_CITY[city].forEach(client => {
+        const base = BASE_DAILY_REVENUE[client] / (CLIENT_BY_CITY[city].length + 1);
+        const noise = 0.85 + rand() * 0.3;
+        const rev = Math.round(base * weekendFactor * trendFactor * noise);
+        if(rev > 0){
+          revenue.push({ date: dateStr, city, hub: city + ' Hub', client, vehicleType: '3W', revenue: rev });
+        }
+      });
+    });
+  }
+
+  const expense = [];
+  const monthsSeen = new Set(revenue.map(r => monthKeyOf(r.date)));
+  const LINE_ITEMS = [
+    { item: 'Driver Payout', pct: 0.55 },
+    { item: 'Hub Rental', pct: 0.04, hubLevel: true },
+    { item: 'Electricity', pct: 0.03, hubLevel: true },
+    { item: '3rd Party Parking', pct: 0.02, hubLevel: true },
+    { item: 'Supervisor Cost', pct: 0.05, hubLevel: true },
+    { item: 'Maintenance', pct: 0.06 },
+    { item: 'Lease/EMI', pct: 0.09 },
+  ];
+
+  monthsSeen.forEach(monthKey => {
+    const monthRevenueByCityClient = {};
+    revenue.filter(r => monthKeyOf(r.date) === monthKey).forEach(r => {
+      const key = r.city + '|' + r.client;
+      monthRevenueByCityClient[key] = (monthRevenueByCityClient[key] || 0) + r.revenue;
+    });
+
+    Object.keys(monthRevenueByCityClient).forEach(key => {
+      const [city, client] = key.split('|');
+      const rev = monthRevenueByCityClient[key];
+      LINE_ITEMS.forEach(li => {
+        const amount = Math.round(rev * li.pct * (0.9 + rand() * 0.2));
+        if(amount > 0){
+          expense.push({ month: monthKey, city, hub: city + ' Hub', client, lineItem: li.item, amount });
+        }
+      });
+    });
+
+    // Pan-India overhead — not tied to any city/client
+    const totalRevThisMonth = Object.values(monthRevenueByCityClient).reduce((a,b)=>a+b,0);
+    expense.push({ month: monthKey, city: '', hub: '', client: '', lineItem: 'HR/Admin Overhead', amount: Math.round(totalRevThisMonth * 0.03) });
+  });
+
+  return { revenue, expense };
+}
+
+// ---- Live data source ------------------------------------------------------
+// Reads the two fact tables the Apps Script sync pushes to GitHub. Falls back
+// to generated sample data if the fetch fails for any reason (network issue,
+// files not synced yet), so the dashboard never shows a blank page.
+const DATA_BASE_URL = 'https://raw.githubusercontent.com/anubhav-del/kadam-pnl-dashboard-/main/data';
+
+let REVENUE_FACTS = [];
+let EXPENSE_FACTS = [];
+
+async function loadData(){
+  try {
+    const [revRes, expRes] = await Promise.all([
+      fetch(DATA_BASE_URL + '/revenue_facts.json', { cache: 'no-store' }),
+      fetch(DATA_BASE_URL + '/expense_facts.json', { cache: 'no-store' }),
+    ]);
+    if(!revRes.ok || !expRes.ok) throw new Error('HTTP ' + revRes.status + '/' + expRes.status);
+    const revJson = await revRes.json();
+    const expJson = await expRes.json();
+    if(!Array.isArray(revJson.records) || !Array.isArray(expJson.records)) throw new Error('unexpected JSON shape');
+    return { revenue: revJson.records, expense: expJson.records, live: true, generatedAt: revJson.generatedAt };
+  } catch (e) {
+    console.warn('Live data fetch failed, using sample data instead:', e);
+    const sample = generateSampleData();
+    return { revenue: sample.revenue, expense: sample.expense, live: false, generatedAt: null };
+  }
+}
+
+/* ============================================================================
+ * AGGREGATION
+ * ========================================================================== */
+
+// Build one row per day across the full window: revenue + spread-out expenses.
+function buildDailySeries(cityFilter, clientFilter){
+  const dates = [...new Set(REVENUE_FACTS.map(r => r.date))].sort();
+  const map = {};
+  dates.forEach(d => { map[d] = { date: d, revenue: 0, costs: {} }; });
+
+  REVENUE_FACTS.forEach(r => {
+    if(cityFilter && r.city !== cityFilter) return;
+    if(clientFilter && r.client !== clientFilter) return;
+    map[r.date].revenue += r.revenue;
+  });
+
+  EXPENSE_FACTS.forEach(e => {
+    const isOverhead = !e.city && !e.client;
+    if(isOverhead){
+      if(cityFilter || clientFilter) return; // overhead only shown unfiltered
+    } else {
+      if(cityFilter && e.city !== cityFilter) return;
+      if(clientFilter && e.client !== clientFilter) return;
+    }
+    const dim = daysInMonth(e.month);
+    const perDay = e.amount / dim;
+    dates.forEach(d => {
+      if(monthKeyOf(d) === e.month){
+        map[d].costs[e.lineItem] = (map[d].costs[e.lineItem] || 0) + perDay;
+      }
+    });
+  });
+
+  return dates.map(d => map[d]);
+}
+
+function isoWeekStart(dateStr){
+  const d = new Date(dateStr + 'T00:00:00');
+  const day = (d.getDay() + 6) % 7; // Monday = 0
+  d.setDate(d.getDate() - day);
+  return toISODate(d);
+}
+
+function bucketSeries(daily, granularity){
+  if(granularity === 'day') return daily.map(r => ({ label: r.date, ...flattenCosts(r) }));
+  const buckets = {};
+  daily.forEach(r => {
+    const key = granularity === 'week' ? isoWeekStart(r.date) : monthKeyOf(r.date);
+    if(!buckets[key]) buckets[key] = { label: key, revenue: 0, costs: {} };
+    buckets[key].revenue += r.revenue;
+    Object.keys(r.costs).forEach(k => {
+      buckets[key].costs[k] = (buckets[key].costs[k] || 0) + r.costs[k];
+    });
+  });
+  return Object.values(buckets).sort((a,b) => a.label.localeCompare(b.label)).map(flattenCosts);
+}
+
+function flattenCosts(r){
+  const totalCost = Object.values(r.costs).reduce((a,b)=>a+b,0);
+  return { label: r.label, revenue: r.revenue, totalCost, costs: r.costs, margin: r.revenue - totalCost };
+}
+
+function fmtINR(n){
+  const sign = n < 0 ? '-' : '';
+  n = Math.abs(Math.round(n));
+  if(n >= 10000000) return sign + '₹' + (n/10000000).toFixed(2) + 'Cr';
+  if(n >= 100000) return sign + '₹' + (n/100000).toFixed(2) + 'L';
+  return sign + '₹' + n.toLocaleString('en-IN');
+}
+function fmtPct(n){ return (n >= 0 ? '+' : '') + n.toFixed(1) + '%'; }
+
+/* ============================================================================
+ * STATE + RENDER
+ * ========================================================================== */
+
+const state = { period: 'day', city: null, client: null, tableGroup: 'city' };
+let chart = null;
+
+function allCities(){
+  const set = new Set();
+  REVENUE_FACTS.forEach(r => { if(r.city) set.add(r.city); });
+  return [...set].sort();
+}
+function allClients(){
+  const set = new Set();
+  REVENUE_FACTS.forEach(r => { if(r.client) set.add(r.client); });
+  return [...set].sort();
+}
+
+function renderChips(){
+  const cityEl = document.getElementById('cityChips');
+  cityEl.innerHTML = ['All', ...allCities()].map(c =>
+    `<button class="chip ${((c==='All'&&!state.city)||c===state.city)?'active':''}" data-city="${c}">${c}</button>`
+  ).join('');
+  cityEl.querySelectorAll('.chip').forEach(btn => btn.onclick = () => {
+    state.city = btn.dataset.city === 'All' ? null : btn.dataset.city;
+    renderAll();
+  });
+
+  const clientEl = document.getElementById('clientChips');
+  clientEl.innerHTML = ['All', ...allClients()].map(c =>
+    `<button class="chip ${((c==='All'&&!state.client)||c===state.client)?'active':''}" data-client="${c}">${c}</button>`
+  ).join('');
+  clientEl.querySelectorAll('.chip').forEach(btn => btn.onclick = () => {
+    state.client = btn.dataset.client === 'All' ? null : btn.dataset.client;
+    renderAll();
+  });
+}
+
+function renderKPIs(bucketed){
+  const cur = bucketed[bucketed.length - 1];
+  const prev = bucketed[bucketed.length - 2];
+  const driverPayout = cur.costs['Driver Payout'] || 0;
+  const grossMargin = cur.revenue - driverPayout;
+
+  function deltaHTML(curVal, prevVal){
+    if(!prev || prevVal === 0) return `<span class="delta flat">no prior period</span>`;
+    const pct = ((curVal - prevVal) / Math.abs(prevVal)) * 100;
+    const cls = pct > 0.5 ? 'up' : pct < -0.5 ? 'down' : 'flat';
+    return `<span class="delta ${cls}">${fmtPct(pct)} vs prior</span>`;
+  }
+
+  const kpis = [
+    { label: 'Total revenue', value: cur.revenue, prev: prev ? prev.revenue : null },
+    { label: 'Driver payout', value: driverPayout, prev: prev ? (prev.costs['Driver Payout']||0) : null },
+    { label: 'Gross margin', value: grossMargin, prev: prev ? (prev.revenue - (prev.costs['Driver Payout']||0)) : null },
+    { label: 'Net margin', value: cur.margin, prev: prev ? prev.margin : null },
+  ];
+
+  document.getElementById('kpiRow').innerHTML = kpis.map(k => `
+    <div class="kpi">
+      <div class="label">${k.label}</div>
+      <div class="value">${fmtINR(k.value)}</div>
+      ${deltaHTML(k.value, k.prev)}
+    </div>
+  `).join('');
+}
+
+function renderChart(bucketed){
+  const labels = bucketed.map(b => b.label);
+  const revenueData = bucketed.map(b => b.revenue);
+  const costData = bucketed.map(b => b.totalCost);
+
+  if(chart) chart.destroy();
+  const ctx = document.getElementById('trendChart').getContext('2d');
+  chart = new Chart(ctx, {
+    type: 'line',
+    data: {
+      labels,
+      datasets: [
+        { label: 'Revenue', data: revenueData, borderColor: '#0E7C5A', backgroundColor: 'rgba(14,124,90,0.08)', fill: true, tension: 0.3, pointRadius: 0, borderWidth: 2 },
+        { label: 'Cost', data: costData, borderColor: '#B5402E', backgroundColor: 'transparent', borderDash: [4,3], tension: 0.3, pointRadius: 0, borderWidth: 1.5 },
+      ]
+    },
+    options: {
+      responsive: true, maintainAspectRatio: false,
+      interaction: { mode: 'index', intersect: false },
+      plugins: { legend: { position: 'bottom', labels: { boxWidth: 10, font: { family: 'Inter', size: 12 } } } },
+      scales: {
+        x: { grid: { display: false }, ticks: { maxTicksLimit: 8, font: { size: 11 } } },
+        y: { grid: { color: '#E7ECE8' }, ticks: { callback: v => fmtINR(v), font: { size: 11 } } },
+      }
+    }
+  });
+}
+
+function renderInsights(bucketed){
+  const cur = bucketed[bucketed.length - 1];
+  const prev = bucketed[bucketed.length - 2];
+  const el = document.getElementById('insights');
+  const items = [];
+
+  if(prev && prev.revenue > 0){
+    const pct = ((cur.revenue - prev.revenue) / prev.revenue) * 100;
+    const dir = pct >= 0 ? 'up' : 'down';
+    items.push(`<div class="insight"><span class="dot ${dir}"></span><p>Revenue is <strong>${fmtPct(pct)}</strong> vs. the prior period (${fmtINR(prev.revenue)} → ${fmtINR(cur.revenue)}).</p></div>`);
+  }
+
+  // Top mover by client within current filter set
+  const byClient = {};
+  REVENUE_FACTS.forEach(r => {
+    if(state.city && r.city !== state.city) return;
+    if(state.client && r.client !== state.client) return;
+    const bucketLabel = state.period === 'day' ? r.date : (state.period === 'week' ? isoWeekStart(r.date) : monthKeyOf(r.date));
+    if(bucketLabel !== cur.label) return;
+    byClient[r.client] = (byClient[r.client] || 0) + r.revenue;
+  });
+  const topClient = Object.entries(byClient).sort((a,b) => b[1]-a[1])[0];
+  if(topClient){
+    items.push(`<div class="insight"><span class="dot up"></span><p><strong>${topClient[0]}</strong> is the largest contributor this period at ${fmtINR(topClient[1])}.</p></div>`);
+  }
+
+  const marginPct = cur.revenue ? (cur.margin / cur.revenue) * 100 : 0;
+  const marginFlag = marginPct < 0 ? 'down' : marginPct < 10 ? 'flag' : 'up';
+  items.push(`<div class="insight"><span class="dot ${marginFlag}"></span><p>Net margin is <strong>${marginPct.toFixed(1)}%</strong> of revenue this period.</p></div>`);
+
+  el.innerHTML = items.join('') || '<p style="color:var(--muted)">Not enough data for this filter yet.</p>';
+}
+
+function renderTable(){
+  const groupKey = state.tableGroup; // 'city' or 'client'
+  const groups = groupKey === 'city' ? allCities() : allClients();
+  const monthKeys = [...new Set(EXPENSE_FACTS.map(e => e.month))].sort();
+  const latestMonth = monthKeys[monthKeys.length - 1];
+
+  document.getElementById('tableHead').innerHTML =
+    `<th>${groupKey === 'city' ? 'City' : 'Client'}</th><th>Revenue (latest mo.)</th><th>Cost</th><th>Margin</th><th>Margin %</th>`;
+
+  const rows = groups.map(g => {
+    const rev = REVENUE_FACTS.filter(r => monthKeyOf(r.date) === latestMonth && r[groupKey] === g)
+      .reduce((s,r) => s + r.revenue, 0);
+    const cost = EXPENSE_FACTS.filter(e => e.month === latestMonth && e[groupKey] === g)
+      .reduce((s,e) => s + e.amount, 0);
+    const margin = rev - cost;
+    const marginPct = rev ? (margin/rev)*100 : 0;
+    return { g, rev, cost, margin, marginPct };
+  }).filter(r => r.rev > 0).sort((a,b) => b.rev - a.rev);
+
+  const maxRev = Math.max(...rows.map(r => r.rev), 1);
+
+  document.getElementById('tableBody').innerHTML = rows.map(r => `
+    <tr>
+      <td>${r.g}</td>
+      <td class="bar-cell"><span class="bar" style="width:${(r.rev/maxRev*100).toFixed(0)}%"></span><span>${fmtINR(r.rev)}</span></td>
+      <td>${fmtINR(r.cost)}</td>
+      <td class="${r.margin >= 0 ? 'pos' : 'neg'}">${fmtINR(r.margin)}</td>
+      <td class="${r.marginPct >= 0 ? 'pos' : 'neg'}">${r.marginPct.toFixed(1)}%</td>
+    </tr>
+  `).join('');
+}
+
+function renderAll(){
+  renderChips();
+  const daily = buildDailySeries(state.city, state.client);
+  const bucketed = bucketSeries(daily, state.period);
+  renderKPIs(bucketed);
+  renderChart(bucketed);
+  renderInsights(bucketed);
+  renderTable();
+}
+
+document.getElementById('periodToggle').addEventListener('click', e => {
+  const btn = e.target.closest('button[data-period]');
+  if(!btn) return;
+  state.period = btn.dataset.period;
+  document.querySelectorAll('#periodToggle button').forEach(b => b.classList.toggle('active', b === btn));
+  renderAll();
+});
+
+document.querySelectorAll('.tab').forEach(tab => {
+  tab.addEventListener('click', () => {
+    document.querySelectorAll('.tab').forEach(t => t.classList.remove('active'));
+    tab.classList.add('active');
+    state.tableGroup = tab.dataset.group;
+    renderTable();
+  });
+});
+
+async function init(){
+  const data = await loadData();
+  REVENUE_FACTS = data.revenue;
+  EXPENSE_FACTS = data.expense;
+  const label = document.getElementById('updatedLabel');
+  label.textContent = data.live
+    ? ('Live data — synced ' + new Date(data.generatedAt).toLocaleString('en-IN'))
+    : 'Could not reach live data — showing sample data instead';
+  renderAll();
+}
+
+init();
+</script>
+</body>
+</html>
