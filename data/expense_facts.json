@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-07T05:49:02.069Z",
+  "generatedAt": "2026-09-07T10:50:12.096Z",
   "records": [
     {
       "month": "2026-06",
@@ -173,17 +173,17 @@
       "month": "2026-08",
       "city": "Gurgaon",
       "hub": "Wazirabad",
-      "client": "Amicco",
+      "client": "Delhivery",
       "lineItem": "Hub Rental",
-      "amount": 1443.298969072165
+      "amount": 10103.092783505153
     },
     {
       "month": "2026-08",
       "city": "Gurgaon",
       "hub": "Wazirabad",
-      "client": "Delhivery",
+      "client": "Amicco",
       "lineItem": "Hub Rental",
-      "amount": 11546.39175257732
+      "amount": 2886.59793814433
     },
     {
       "month": "2026-08",
@@ -693,17 +693,17 @@
       "month": "2026-07",
       "city": "Gurgaon",
       "hub": "Wazirabad",
-      "client": "Amicco",
+      "client": "Delhivery",
       "lineItem": "3rd Party Parking",
-      "amount": 3186.59793814433
+      "amount": 22306.185567010307
     },
     {
       "month": "2026-07",
       "city": "Gurgaon",
       "hub": "Wazirabad",
-      "client": "Delhivery",
+      "client": "Amicco",
       "lineItem": "3rd Party Parking",
-      "amount": 25492.78350515464
+      "amount": 6373.19587628866
     },
     {
       "month": "2026-07",
@@ -3643,18 +3643,18 @@
       "month": "2026-04",
       "city": "Gurgaon",
       "hub": "Wazirabad",
-      "client": "Amicco",
+      "client": "Delhivery",
       "lineItem": "Maintenance",
-      "amount": -9.457086508292244,
+      "amount": -66.1996055580457,
       "segment": "cargo"
     },
     {
       "month": "2026-04",
       "city": "Gurgaon",
       "hub": "Wazirabad",
-      "client": "Delhivery",
+      "client": "Amicco",
       "lineItem": "Maintenance",
-      "amount": -75.65669206633795,
+      "amount": -18.91417301658449,
       "segment": "cargo"
     },
     {
@@ -3688,18 +3688,18 @@
       "month": "2026-04",
       "city": "Gurgaon",
       "hub": "Wazirabad",
-      "client": "Amicco",
+      "client": "Delhivery",
       "lineItem": "Maintenance",
-      "amount": -10.825230838189151,
+      "amount": -75.77661586732405,
       "segment": "cargo"
     },
     {
       "month": "2026-04",
       "city": "Gurgaon",
       "hub": "Wazirabad",
-      "client": "Delhivery",
+      "client": "Amicco",
       "lineItem": "Maintenance",
-      "amount": -86.60184670551321,
+      "amount": -21.650461676378303,
       "segment": "cargo"
     },
     {
@@ -3733,18 +3733,18 @@
       "month": "2026-04",
       "city": "Gurgaon",
       "hub": "Wazirabad",
-      "client": "Amicco",
+      "client": "Delhivery",
       "lineItem": "Maintenance",
-      "amount": -11.853581353653068,
+      "amount": -82.97506947557147,
       "segment": "cargo"
     },
     {
       "month": "2026-04",
       "city": "Gurgaon",
       "hub": "Wazirabad",
-      "client": "Delhivery",
+      "client": "Amicco",
       "lineItem": "Maintenance",
-      "amount": -94.82865082922454,
+      "amount": -23.707162707306136,
       "segment": "cargo"
     },
     {
@@ -3778,18 +3778,18 @@
       "month": "2026-04",
       "city": "Gurgaon",
       "hub": "Wazirabad",
-      "client": "Amicco",
+      "client": "Delhivery",
       "lineItem": "Maintenance",
-      "amount": -1.7689421783953376,
+      "amount": -12.382595248767363,
       "segment": "cargo"
     },
     {
       "month": "2026-04",
       "city": "Gurgaon",
       "hub": "Wazirabad",
-      "client": "Delhivery",
+      "client": "Amicco",
       "lineItem": "Maintenance",
-      "amount": -14.151537427162701,
+      "amount": -3.5378843567906753,
       "segment": "cargo"
     },
     {
@@ -3823,18 +3823,18 @@
       "month": "2026-04",
       "city": "Gurgaon",
       "hub": "Wazirabad",
-      "client": "Amicco",
+      "client": "Delhivery",
       "lineItem": "Maintenance",
-      "amount": -6.581828776333483,
+      "amount": -46.07280143433437,
       "segment": "cargo"
     },
     {
       "month": "2026-04",
       "city": "Gurgaon",
       "hub": "Wazirabad",
-      "client": "Delhivery",
+      "client": "Amicco",
       "lineItem": "Maintenance",
-      "amount": -52.65463021066786,
+      "amount": -13.163657552666965,
       "segment": "cargo"
     },
     {
@@ -3868,18 +3868,18 @@
       "month": "2026-04",
       "city": "Gurgaon",
       "hub": "Wazirabad",
-      "client": "Amicco",
+      "client": "Delhivery",
       "lineItem": "Maintenance",
-      "amount": -1.7721380546839969,
+      "amount": -12.404966382787977,
       "segment": "cargo"
     },
     {
       "month": "2026-04",
       "city": "Gurgaon",
       "hub": "Wazirabad",
-      "client": "Delhivery",
+      "client": "Amicco",
       "lineItem": "Maintenance",
-      "amount": -14.177104437471975,
+      "amount": -3.5442761093679938,
       "segment": "cargo"
     },
     {
@@ -3913,18 +3913,18 @@
       "month": "2026-04",
       "city": "Gurgaon",
       "hub": "Wazirabad",
-      "client": "Amicco",
+      "client": "Delhivery",
       "lineItem": "Maintenance",
-      "amount": 34.52250112057373,
+      "amount": 241.65750784401607,
       "segment": "cargo"
     },
     {
       "month": "2026-04",
       "city": "Gurgaon",
       "hub": "Wazirabad",
-      "client": "Delhivery",
+      "client": "Amicco",
       "lineItem": "Maintenance",
-      "amount": 276.18000896458983,
+      "amount": 69.04500224114746,
       "segment": "cargo"
     },
     {
@@ -3958,18 +3958,18 @@
       "month": "2026-04",
       "city": "Gurgaon",
       "hub": "Wazirabad",
-      "client": "Amicco",
+      "client": "Delhivery",
       "lineItem": "Maintenance",
-      "amount": 3.919511429852086,
+      "amount": 27.436580008964597,
       "segment": "cargo"
     },
     {
       "month": "2026-04",
       "city": "Gurgaon",
       "hub": "Wazirabad",
-      "client": "Delhivery",
+      "client": "Amicco",
       "lineItem": "Maintenance",
-      "amount": 31.356091438816687,
+      "amount": 7.839022859704172,
       "segment": "cargo"
     },
     {
@@ -4003,18 +4003,18 @@
       "month": "2026-04",
       "city": "Gurgaon",
       "hub": "Wazirabad",
-      "client": "Amicco",
+      "client": "Delhivery",
       "lineItem": "Maintenance",
-      "amount": 175.69662483191394,
+      "amount": 1229.8763738233974,
       "segment": "cargo"
     },
     {
       "month": "2026-04",
       "city": "Gurgaon",
       "hub": "Wazirabad",
-      "client": "Delhivery",
+      "client": "Amicco",
       "lineItem": "Maintenance",
-      "amount": 1405.5729986553115,
+      "amount": 351.3932496638279,
       "segment": "cargo"
     },
     {
@@ -4048,18 +4048,18 @@
       "month": "2026-04",
       "city": "Gurgaon",
       "hub": "Wazirabad",
-      "client": "Amicco",
+      "client": "Delhivery",
       "lineItem": "Maintenance",
-      "amount": -11.96162259076647,
+      "amount": -83.73135813536528,
       "segment": "cargo"
     },
     {
       "month": "2026-04",
       "city": "Gurgaon",
       "hub": "Wazirabad",
-      "client": "Delhivery",
+      "client": "Amicco",
       "lineItem": "Maintenance",
-      "amount": -95.69298072613176,
+      "amount": -23.92324518153294,
       "segment": "cargo"
     },
     {
@@ -4093,18 +4093,18 @@
       "month": "2026-04",
       "city": "Gurgaon",
       "hub": "Wazirabad",
-      "client": "Amicco",
+      "client": "Delhivery",
       "lineItem": "Maintenance",
-      "amount": -10.620282384580905,
+      "amount": -74.34197669206632,
       "segment": "cargo"
     },
     {
       "month": "2026-04",
       "city": "Gurgaon",
       "hub": "Wazirabad",
-      "client": "Delhivery",
+      "client": "Amicco",
       "lineItem": "Maintenance",
-      "amount": -84.96225907664724,
+      "amount": -21.24056476916181,
       "segment": "cargo"
     },
     {
@@ -4138,18 +4138,18 @@
       "month": "2026-04",
       "city": "Gurgaon",
       "hub": "Wazirabad",
-      "client": "Amicco",
+      "client": "Delhivery",
       "lineItem": "Maintenance",
-      "amount": -11.139354549529358,
+      "amount": -77.97548184670549,
       "segment": "cargo"
     },
     {
       "month": "2026-04",
       "city": "Gurgaon",
       "hub": "Wazirabad",
-      "client": "Delhivery",
+      "client": "Amicco",
       "lineItem": "Maintenance",
-      "amount": -89.11483639623486,
+      "amount": -22.278709099058716,
       "segment": "cargo"
     },
     {
@@ -4183,18 +4183,18 @@
       "month": "2026-04",
       "city": "Gurgaon",
       "hub": "Wazirabad",
-      "client": "Amicco",
+      "client": "Delhivery",
       "lineItem": "Maintenance",
-      "amount": -9.89461228148812,
+      "amount": -69.26228597041684,
       "segment": "cargo"
     },
     {
       "month": "2026-04",
       "city": "Gurgaon",
       "hub": "Wazirabad",
-      "client": "Delhivery",
+      "client": "Amicco",
       "lineItem": "Maintenance",
-      "amount": -79.15689825190496,
+      "amount": -19.78922456297624,
       "segment": "cargo"
     },
     {
@@ -4228,18 +4228,18 @@
       "month": "2026-04",
       "city": "Gurgaon",
       "hub": "Wazirabad",
-      "client": "Amicco",
+      "client": "Delhivery",
       "lineItem": "Maintenance",
-      "amount": -9.689148363962348,
+      "amount": -67.82403854773644,
       "segment": "cargo"
     },
     {
       "month": "2026-04",
       "city": "Gurgaon",
       "hub": "Wazirabad",
-      "client": "Delhivery",
+      "client": "Amicco",
       "lineItem": "Maintenance",
-      "amount": -77.51318691169878,
+      "amount": -19.378296727924695,
       "segment": "cargo"
     },
     {
@@ -4273,18 +4273,18 @@
       "month": "2026-04",
       "city": "Gurgaon",
       "hub": "Wazirabad",
-      "client": "Amicco",
+      "client": "Delhivery",
       "lineItem": "Maintenance",
-      "amount": -3.1045091887046157,
+      "amount": -21.731564320932307,
       "segment": "cargo"
     },
     {
       "month": "2026-04",
       "city": "Gurgaon",
       "hub": "Wazirabad",
-      "client": "Delhivery",
+      "client": "Amicco",
       "lineItem": "Maintenance",
-      "amount": -24.836073509636925,
+      "amount": -6.209018377409231,
       "segment": "cargo"
     },
     {
@@ -4318,18 +4318,18 @@
       "month": "2026-04",
       "city": "Gurgaon",
       "hub": "Wazirabad",
-      "client": "Amicco",
+      "client": "Delhivery",
       "lineItem": "Maintenance",
-      "amount": -9.68059166293142,
+      "amount": -67.76414164051994,
       "segment": "cargo"
     },
     {
       "month": "2026-04",
       "city": "Gurgaon",
       "hub": "Wazirabad",
-      "client": "Delhivery",
+      "client": "Amicco",
       "lineItem": "Maintenance",
-      "amount": -77.44473330345136,
+      "amount": -19.36118332586284,
       "segment": "cargo"
     },
     {
@@ -4363,18 +4363,18 @@
       "month": "2026-04",
       "city": "Gurgaon",
       "hub": "Wazirabad",
-      "client": "Amicco",
+      "client": "Delhivery",
       "lineItem": "Maintenance",
-      "amount": -11.138323621694306,
+      "amount": -77.96826535186014,
       "segment": "cargo"
     },
     {
       "month": "2026-04",
       "city": "Gurgaon",
       "hub": "Wazirabad",
-      "client": "Delhivery",
+      "client": "Amicco",
       "lineItem": "Maintenance",
-      "amount": -89.10658897355445,
+      "amount": -22.276647243388613,
       "segment": "cargo"
     },
     {
@@ -4408,18 +4408,18 @@
       "month": "2026-04",
       "city": "Gurgaon",
       "hub": "Wazirabad",
-      "client": "Amicco",
+      "client": "Delhivery",
       "lineItem": "Maintenance",
-      "amount": -5.976467951591214,
+      "amount": -41.835275661138496,
       "segment": "cargo"
     },
     {
       "month": "2026-04",
       "city": "Gurgaon",
       "hub": "Wazirabad",
-      "client": "Delhivery",
+      "client": "Amicco",
       "lineItem": "Maintenance",
-      "amount": -47.811743612729714,
+      "amount": -11.952935903182428,
       "segment": "cargo"
     },
     {
@@ -4453,18 +4453,18 @@
       "month": "2026-04",
       "city": "Gurgaon",
       "hub": "Wazirabad",
-      "client": "Amicco",
+      "client": "Delhivery",
       "lineItem": "Maintenance",
-      "amount": -5.351313312415956,
+      "amount": -37.45919318691169,
       "segment": "cargo"
     },
     {
       "month": "2026-04",
       "city": "Gurgaon",
       "hub": "Wazirabad",
-      "client": "Delhivery",
+      "client": "Amicco",
       "lineItem": "Maintenance",
-      "amount": -42.81050649932765,
+      "amount": -10.702626624831913,
       "segment": "cargo"
     },
     {
@@ -4498,18 +4498,18 @@
       "month": "2026-04",
       "city": "Gurgaon",
       "hub": "Wazirabad",
-      "client": "Amicco",
+      "client": "Delhivery",
       "lineItem": "Maintenance",
-      "amount": 15.199202151501568,
+      "amount": 106.39441506051098,
       "segment": "cargo"
     },
     {
       "month": "2026-04",
       "city": "Gurgaon",
       "hub": "Wazirabad",
-      "client": "Delhivery",
+      "client": "Amicco",
       "lineItem": "Maintenance",
-      "amount": 121.59361721201255,
+      "amount": 30.398404303003137,
       "segment": "cargo"
     },
     {
@@ -4543,18 +4543,18 @@
       "month": "2026-04",
       "city": "Gurgaon",
       "hub": "Wazirabad",
-      "client": "Amicco",
+      "client": "Delhivery",
       "lineItem": "Maintenance",
-      "amount": -11.70182877633348,
+      "amount": -81.91280143433436,
       "segment": "cargo"
     },
     {
       "month": "2026-04",
       "city": "Gurgaon",
       "hub": "Wazirabad",
-      "client": "Delhivery",
+      "client": "Amicco",
       "lineItem": "Maintenance",
-      "amount": -93.61463021066784,
+      "amount": -23.40365755266696,
       "segment": "cargo"
     },
     {
@@ -4588,18 +4588,18 @@
       "month": "2026-04",
       "city": "Gurgaon",
       "hub": "Wazirabad",
-      "client": "Amicco",
+      "client": "Delhivery",
       "lineItem": "Maintenance",
-      "amount": 29.069923800986103,
+      "amount": 203.4894666069027,
       "segment": "cargo"
     },
     {
       "month": "2026-04",
       "city": "Gurgaon",
       "hub": "Wazirabad",
-      "client": "Delhivery",
+      "client": "Amicco",
       "lineItem": "Maintenance",
-      "amount": 232.55939040788883,
+      "amount": 58.13984760197221,
       "segment": "cargo"
     },
     {
@@ -4633,18 +4633,18 @@
       "month": "2026-04",
       "city": "Gurgaon",
       "hub": "Wazirabad",
-      "client": "Amicco",
+      "client": "Delhivery",
       "lineItem": "Maintenance",
-      "amount": -1.8579112505602862,
+      "amount": -13.005378753922002,
       "segment": "cargo"
     },
     {
       "month": "2026-04",
       "city": "Gurgaon",
       "hub": "Wazirabad",
-      "client": "Delhivery",
+      "client": "Amicco",
       "lineItem": "Maintenance",
-      "amount": -14.86329000448229,
+      "amount": -3.7158225011205723,
       "segment": "cargo"
     },
     {
@@ -4678,18 +4678,18 @@
       "month": "2026-04",
       "city": "Gurgaon",
       "hub": "Wazirabad",
-      "client": "Amicco",
+      "client": "Delhivery",
       "lineItem": "Maintenance",
-      "amount": -12.312479135984288,
+      "amount": -86.18735395189002,
       "segment": "cargo"
     },
     {
       "month": "2026-04",
       "city": "Gurgaon",
       "hub": "Wazirabad",
-      "client": "Delhivery",
+      "client": "Amicco",
       "lineItem": "Maintenance",
-      "amount": -98.49983308787431,
+      "amount": -24.624958271968577,
       "segment": "cargo"
     },
     {
@@ -4723,18 +4723,18 @@
       "month": "2026-04",
       "city": "Gurgaon",
       "hub": "Wazirabad",
-      "client": "Amicco",
+      "client": "Delhivery",
       "lineItem": "Maintenance",
-      "amount": -13.680623465881196,
+      "amount": -95.76436426116837,
       "segment": "cargo"
     },
     {
       "month": "2026-04",
       "city": "Gurgaon",
       "hub": "Wazirabad",
-      "client": "Delhivery",
+      "client": "Amicco",
       "lineItem": "Maintenance",
-      "amount": -109.44498772704956,
+      "amount": -27.36124693176239,
       "segment": "cargo"
     },
     {
@@ -4768,18 +4768,18 @@
       "month": "2026-04",
       "city": "Gurgaon",
       "hub": "Wazirabad",
-      "client": "Amicco",
+      "client": "Delhivery",
       "lineItem": "Maintenance",
-      "amount": -4.624334806087383,
+      "amount": -32.37034364261168,
       "segment": "cargo"
     },
     {
       "month": "2026-04",
       "city": "Gurgaon",
       "hub": "Wazirabad",
-      "client": "Delhivery",
+      "client": "Amicco",
       "lineItem": "Maintenance",
-      "amount": -36.99467844869906,
+      "amount": -9.248669612174766,
       "segment": "cargo"
     },
     {
@@ -4813,18 +4813,18 @@
       "month": "2026-04",
       "city": "Gurgaon",
       "hub": "Wazirabad",
-      "client": "Amicco",
+      "client": "Delhivery",
       "lineItem": "Maintenance",
-      "amount": -9.437221404025527,
+      "amount": -66.0605498281787,
       "segment": "cargo"
     },
     {
       "month": "2026-04",
       "city": "Gurgaon",
       "hub": "Wazirabad",
-      "client": "Delhivery",
+      "client": "Amicco",
       "lineItem": "Maintenance",
-      "amount": -75.49777123220422,
+      "amount": -18.874442808051054,
       "segment": "cargo"
     },
     {
@@ -4858,18 +4858,18 @@
       "month": "2026-04",
       "city": "Gurgaon",
       "hub": "Wazirabad",
-      "client": "Amicco",
+      "client": "Delhivery",
       "lineItem": "Maintenance",
-      "amount": -4.627530682376042,
+      "amount": -32.392714776632296,
       "segment": "cargo"
     },
     {
       "month": "2026-04",
       "city": "Gurgaon",
       "hub": "Wazirabad",
-      "client": "Delhivery",
+      "client": "Amicco",
       "lineItem": "Maintenance",
-      "amount": -37.020245459008336,
+      "amount": -9.255061364752084,
       "segment": "cargo"
     },
     {
@@ -4903,18 +4903,18 @@
       "month": "2026-04",
       "city": "Gurgaon",
       "hub": "Wazirabad",
-      "client": "Amicco",
+      "client": "Delhivery",
       "lineItem": "Maintenance",
-      "amount": 31.667108492881685,
+      "amount": 221.66975945017177,
       "segment": "cargo"
     },
     {
       "month": "2026-04",
       "city": "Gurgaon",
       "hub": "Wazirabad",
-      "client": "Delhivery",
+      "client": "Amicco",
       "lineItem": "Maintenance",
-      "amount": 253.33686794305348,
+      "amount": 63.33421698576337,
       "segment": "cargo"
     },
     {
@@ -4948,18 +4948,18 @@
       "month": "2026-04",
       "city": "Gurgaon",
       "hub": "Wazirabad",
-      "client": "Amicco",
+      "client": "Delhivery",
       "lineItem": "Maintenance",
-      "amount": 17.150819833087876,
+      "amount": 120.05573883161513,
       "segment": "cargo"
     },
     {
       "month": "2026-04",
       "city": "Gurgaon",
       "hub": "Wazirabad",
-      "client": "Delhivery",
+      "client": "Amicco",
       "lineItem": "Maintenance",
-      "amount": 137.206558664703,
+      "amount": 34.30163966617575,
       "segment": "cargo"
     },
     {
@@ -4993,18 +4993,18 @@
       "month": "2026-04",
       "city": "Gurgaon",
       "hub": "Wazirabad",
-      "client": "Amicco",
+      "client": "Delhivery",
       "lineItem": "Maintenance",
-      "amount": 184.68659302896415,
+      "amount": 1292.806151202749,
       "segment": "cargo"
     },
     {
       "month": "2026-04",
       "city": "Gurgaon",
       "hub": "Wazirabad",
-      "client": "Delhivery",
+      "client": "Amicco",
       "lineItem": "Maintenance",
-      "amount": 1477.4927442317132,
+      "amount": 369.3731860579283,
       "segment": "cargo"
     },
     {
@@ -5038,18 +5038,18 @@
       "month": "2026-04",
       "city": "Gurgaon",
       "hub": "Wazirabad",
-      "client": "Amicco",
+      "client": "Delhivery",
       "lineItem": "Maintenance",
-      "amount": -14.817015218458517,
+      "amount": -103.71910652920961,
       "segment": "cargo"
     },
     {
       "month": "2026-04",
       "city": "Gurgaon",
       "hub": "Wazirabad",
-      "client": "Delhivery",
+      "client": "Amicco",
       "lineItem": "Maintenance",
-      "amount": -118.53612174766813,
+      "amount": -29.634030436917033,
       "segment": "cargo"
     },
     {
@@ -5083,18 +5083,18 @@
       "month": "2026-04",
       "city": "Gurgaon",
       "hub": "Wazirabad",
-      "client": "Amicco",
+      "client": "Delhivery",
       "lineItem": "Maintenance",
-      "amount": 0.4358713794796276,
+      "amount": 3.051099656357393,
       "segment": "cargo"
     },
     {
       "month": "2026-04",
       "city": "Gurgaon",
       "hub": "Wazirabad",
-      "client": "Delhivery",
+      "client": "Amicco",
       "lineItem": "Maintenance",
-      "amount": 3.486971035837021,
+      "amount": 0.8717427589592552,
       "segment": "cargo"
     },
     {
@@ -5128,18 +5128,18 @@
       "month": "2026-04",
       "city": "Gurgaon",
       "hub": "Wazirabad",
-      "client": "Amicco",
+      "client": "Delhivery",
       "lineItem": "Maintenance",
-      "amount": -13.994747177221402,
+      "amount": -97.96323024054982,
       "segment": "cargo"
     },
     {
       "month": "2026-04",
       "city": "Gurgaon",
       "hub": "Wazirabad",
-      "client": "Delhivery",
+      "client": "Amicco",
       "lineItem": "Maintenance",
-      "amount": -111.95797741777122,
+      "amount": -27.989494354442805,
       "segment": "cargo"
     },
     {
@@ -5173,18 +5173,18 @@
       "month": "2026-04",
       "city": "Gurgaon",
       "hub": "Wazirabad",
-      "client": "Amicco",
+      "client": "Delhivery",
       "lineItem": "Maintenance",
-      "amount": -13.994747177221402,
+      "amount": -97.96323024054982,
       "segment": "cargo"
     },
     {
       "month": "2026-04",
       "city": "Gurgaon",
       "hub": "Wazirabad",
-      "client": "Delhivery",
+      "client": "Amicco",
       "lineItem": "Maintenance",
-      "amount": -111.95797741777122,
+      "amount": -27.989494354442805,
       "segment": "cargo"
     },
     {
@@ -5218,18 +5218,18 @@
       "month": "2026-04",
       "city": "Gurgaon",
       "hub": "Wazirabad",
-      "client": "Amicco",
+      "client": "Delhivery",
       "lineItem": "Maintenance",
-      "amount": -12.544540991654394,
+      "amount": -87.81178694158075,
       "segment": "cargo"
     },
     {
       "month": "2026-04",
       "city": "Gurgaon",
       "hub": "Wazirabad",
-      "client": "Delhivery",
+      "client": "Amicco",
       "lineItem": "Maintenance",
-      "amount": -100.35632793323515,
+      "amount": -25.089081983308787,
       "segment": "cargo"
     },
     {
@@ -5263,18 +5263,18 @@
       "month": "2026-04",
       "city": "Gurgaon",
       "hub": "Wazirabad",
-      "client": "Amicco",
+      "client": "Delhivery",
       "lineItem": "Maintenance",
-      "amount": -5.959901816396661,
+      "amount": -41.71931271477662,
       "segment": "cargo"
     },
     {
       "month": "2026-04",
       "city": "Gurgaon",
       "hub": "Wazirabad",
-      "client": "Delhivery",
+      "client": "Amicco",
       "lineItem": "Maintenance",
-      "amount": -47.67921453117329,
+      "amount": -11.919803632793322,
       "segment": "cargo"
     },
     {
@@ -5308,18 +5308,18 @@
       "month": "2026-04",
       "city": "Gurgaon",
       "hub": "Wazirabad",
-      "client": "Amicco",
+      "client": "Delhivery",
       "lineItem": "Maintenance",
-      "amount": 8.697727049582719,
+      "amount": 60.884089347079026,
       "segment": "cargo"
     },
     {
       "month": "2026-04",
       "city": "Gurgaon",
       "hub": "Wazirabad",
-      "client": "Delhivery",
+      "client": "Amicco",
       "lineItem": "Maintenance",
-      "amount": 69.58181639666175,
+      "amount": 17.395454099165438,
       "segment": "cargo"
     },
     {
@@ -5353,18 +5353,18 @@
       "month": "2026-04",
       "city": "Gurgaon",
       "hub": "Wazirabad",
-      "client": "Amicco",
+      "client": "Delhivery",
       "lineItem": "Maintenance",
-      "amount": -10.693200785468825,
+      "amount": -74.85240549828177,
       "segment": "cargo"
     },
     {
       "month": "2026-04",
       "city": "Gurgaon",
       "hub": "Wazirabad",
-      "client": "Delhivery",
+      "client": "Amicco",
       "lineItem": "Maintenance",
-      "amount": -85.5456062837506,
+      "amount": -21.38640157093765,
       "segment": "cargo"
     },
     {
@@ -5398,18 +5398,18 @@
       "month": "2026-04",
       "city": "Gurgaon",
       "hub": "Wazirabad",
-      "client": "Amicco",
+      "client": "Delhivery",
       "lineItem": "Maintenance",
-      "amount": -13.117633775159549,
+      "amount": -91.82343642611683,
       "segment": "cargo"
     },
     {
       "month": "2026-04",
       "city": "Gurgaon",
       "hub": "Wazirabad",
-      "client": "Delhivery",
+      "client": "Amicco",
       "lineItem": "Maintenance",
-      "amount": -104.94107020127639,
+      "amount": -26.235267550319097,
       "segment": "cargo"
     },
     {
@@ -5443,18 +5443,18 @@
       "month": "2026-04",
       "city": "Gurgaon",
       "hub": "Wazirabad",
-      "client": "Amicco",
+      "client": "Delhivery",
       "lineItem": "Maintenance",
-      "amount": 12.343809523809524,
+      "amount": 86.40666666666667,
       "segment": "cargo"
     },
     {
       "month": "2026-04",
       "city": "Gurgaon",
       "hub": "Wazirabad",
-      "client": "Delhivery",
+      "client": "Amicco",
       "lineItem": "Maintenance",
-      "amount": 98.75047619047619,
+      "amount": 24.687619047619048,
       "segment": "cargo"
     },
     {
@@ -5488,18 +5488,18 @@
       "month": "2026-04",
       "city": "Gurgaon",
       "hub": "Wazirabad",
-      "client": "Amicco",
+      "client": "Delhivery",
       "lineItem": "Maintenance",
-      "amount": -14.557221404025526,
+      "amount": -101.90054982817867,
       "segment": "cargo"
     },
     {
       "month": "2026-04",
       "city": "Gurgaon",
       "hub": "Wazirabad",
-      "client": "Delhivery",
+      "client": "Amicco",
       "lineItem": "Maintenance",
-      "amount": -116.45777123220421,
+      "amount": -29.114442808051052,
       "segment": "cargo"
     },
     {
@@ -5533,18 +5533,18 @@
       "month": "2026-04",
       "city": "Gurgaon",
       "hub": "Wazirabad",
-      "client": "Amicco",
+      "client": "Delhivery",
       "lineItem": "Maintenance",
-      "amount": 26.21453117329406,
+      "amount": 183.5017182130584,
       "segment": "cargo"
     },
     {
       "month": "2026-04",
       "city": "Gurgaon",
       "hub": "Wazirabad",
-      "client": "Delhivery",
+      "client": "Amicco",
       "lineItem": "Maintenance",
-      "amount": 209.71624938635247,
+      "amount": 52.42906234658812,
       "segment": "cargo"
     },
     {
@@ -5578,18 +5578,18 @@
       "month": "2026-04",
       "city": "Gurgaon",
       "hub": "Wazirabad",
-      "client": "Amicco",
+      "client": "Delhivery",
       "lineItem": "Maintenance",
-      "amount": -4.713303878252331,
+      "amount": -32.993127147766316,
       "segment": "cargo"
     },
     {
       "month": "2026-04",
       "city": "Gurgaon",
       "hub": "Wazirabad",
-      "client": "Delhivery",
+      "client": "Amicco",
       "lineItem": "Maintenance",
-      "amount": -37.70643102601865,
+      "amount": -9.426607756504662,
       "segment": "cargo"
     },
     {
@@ -7927,18 +7927,18 @@
       "month": "2026-03",
       "city": "Gurgaon",
       "hub": "Wazirabad",
-      "client": "Amicco",
+      "client": "Delhivery",
       "lineItem": "Maintenance",
-      "amount": 56.02061855670103,
+      "amount": 392.1443298969072,
       "segment": "cargo"
     },
     {
       "month": "2026-03",
       "city": "Gurgaon",
       "hub": "Wazirabad",
-      "client": "Delhivery",
+      "client": "Amicco",
       "lineItem": "Maintenance",
-      "amount": 448.16494845360825,
+      "amount": 112.04123711340206,
       "segment": "cargo"
     },
     {
@@ -8044,18 +8044,18 @@
       "month": "2026-07",
       "city": "Gurgaon",
       "hub": "Wazirabad",
-      "client": "Amicco",
+      "client": "Delhivery",
       "lineItem": "Maintenance",
-      "amount": 290.7422680412371,
+      "amount": 2035.1958762886595,
       "segment": "cargo"
     },
     {
       "month": "2026-07",
       "city": "Gurgaon",
       "hub": "Wazirabad",
-      "client": "Delhivery",
+      "client": "Amicco",
       "lineItem": "Maintenance",
-      "amount": 2325.9381443298967,
+      "amount": 581.4845360824742,
       "segment": "cargo"
     },
     {
@@ -8089,18 +8089,18 @@
       "month": "2026-07",
       "city": "Gurgaon",
       "hub": "Wazirabad",
-      "client": "Amicco",
+      "client": "Delhivery",
       "lineItem": "Maintenance",
-      "amount": 2.5051546391752577,
+      "amount": 17.536082474226802,
       "segment": "cargo"
     },
     {
       "month": "2026-07",
       "city": "Gurgaon",
       "hub": "Wazirabad",
-      "client": "Delhivery",
+      "client": "Amicco",
       "lineItem": "Maintenance",
-      "amount": 20.04123711340206,
+      "amount": 5.010309278350515,
       "segment": "cargo"
     },
     {
@@ -8197,18 +8197,18 @@
       "month": "2026-07",
       "city": "Gurgaon",
       "hub": "Wazirabad",
-      "client": "Amicco",
+      "client": "Delhivery",
       "lineItem": "Maintenance",
-      "amount": 46.90721649484536,
+      "amount": 328.3505154639175,
       "segment": "cargo"
     },
     {
       "month": "2026-07",
       "city": "Gurgaon",
       "hub": "Wazirabad",
-      "client": "Delhivery",
+      "client": "Amicco",
       "lineItem": "Maintenance",
-      "amount": 375.25773195876286,
+      "amount": 93.81443298969072,
       "segment": "cargo"
     },
     {
@@ -8449,18 +8449,18 @@
       "month": "2026-08",
       "city": "Gurgaon",
       "hub": "Wazirabad",
-      "client": "Amicco",
+      "client": "Delhivery",
       "lineItem": "Maintenance",
-      "amount": 161.30927835051546,
+      "amount": 1129.164948453608,
       "segment": "cargo"
     },
     {
       "month": "2026-08",
       "city": "Gurgaon",
       "hub": "Wazirabad",
-      "client": "Delhivery",
+      "client": "Amicco",
       "lineItem": "Maintenance",
-      "amount": 1290.4742268041236,
+      "amount": 322.6185567010309,
       "segment": "cargo"
     },
     {
@@ -8494,18 +8494,18 @@
       "month": "2026-08",
       "city": "Gurgaon",
       "hub": "Wazirabad",
-      "client": "Amicco",
+      "client": "Delhivery",
       "lineItem": "Maintenance",
-      "amount": -0.010309278350515464,
+      "amount": -0.07216494845360824,
       "segment": "cargo"
     },
     {
       "month": "2026-08",
       "city": "Gurgaon",
       "hub": "Wazirabad",
-      "client": "Delhivery",
+      "client": "Amicco",
       "lineItem": "Maintenance",
-      "amount": -0.08247422680412371,
+      "amount": -0.020618556701030927,
       "segment": "cargo"
     },
     {
@@ -8539,18 +8539,18 @@
       "month": "2026-08",
       "city": "Gurgaon",
       "hub": "Wazirabad",
-      "client": "Amicco",
+      "client": "Delhivery",
       "lineItem": "Maintenance",
-      "amount": 161.30927835051546,
+      "amount": 1129.164948453608,
       "segment": "cargo"
     },
     {
       "month": "2026-08",
       "city": "Gurgaon",
       "hub": "Wazirabad",
-      "client": "Delhivery",
+      "client": "Amicco",
       "lineItem": "Maintenance",
-      "amount": 1290.4742268041236,
+      "amount": 322.6185567010309,
       "segment": "cargo"
     },
     {
@@ -8584,18 +8584,18 @@
       "month": "2026-08",
       "city": "Gurgaon",
       "hub": "Wazirabad",
-      "client": "Amicco",
+      "client": "Delhivery",
       "lineItem": "Maintenance",
-      "amount": 46.69072164948454,
+      "amount": 326.8350515463917,
       "segment": "cargo"
     },
     {
       "month": "2026-08",
       "city": "Gurgaon",
       "hub": "Wazirabad",
-      "client": "Delhivery",
+      "client": "Amicco",
       "lineItem": "Maintenance",
-      "amount": 373.5257731958763,
+      "amount": 93.38144329896907,
       "segment": "cargo"
     },
     {
@@ -8728,18 +8728,18 @@
       "month": "2026-09",
       "city": "Gurgaon",
       "hub": "Wazirabad",
-      "client": "Amicco",
+      "client": "Delhivery",
       "lineItem": "Maintenance",
-      "amount": 357.90721649484533,
+      "amount": 2505.3505154639174,
       "segment": "cargo"
     },
     {
       "month": "2026-09",
       "city": "Gurgaon",
       "hub": "Wazirabad",
-      "client": "Delhivery",
+      "client": "Amicco",
       "lineItem": "Maintenance",
-      "amount": 2863.2577319587626,
+      "amount": 715.8144329896907,
       "segment": "cargo"
     },
     {
@@ -10348,18 +10348,18 @@
       "month": "2026-07",
       "city": "Gurgaon",
       "hub": "Wazirabad",
-      "client": "Amicco",
+      "client": "Delhivery",
       "lineItem": "Maintenance",
-      "amount": 0.6701030927835051,
+      "amount": 4.690721649484535,
       "segment": "cargo"
     },
     {
       "month": "2026-07",
       "city": "Gurgaon",
       "hub": "Wazirabad",
-      "client": "Delhivery",
+      "client": "Amicco",
       "lineItem": "Maintenance",
-      "amount": 5.360824742268041,
+      "amount": 1.3402061855670102,
       "segment": "cargo"
     },
     {
@@ -10420,18 +10420,18 @@
       "month": "2026-07",
       "city": "Gurgaon",
       "hub": "Wazirabad",
-      "client": "Amicco",
+      "client": "Delhivery",
       "lineItem": "Maintenance",
-      "amount": 2.0618556701030926,
+      "amount": 14.432989690721648,
       "segment": "cargo"
     },
     {
       "month": "2026-07",
       "city": "Gurgaon",
       "hub": "Wazirabad",
-      "client": "Delhivery",
+      "client": "Amicco",
       "lineItem": "Maintenance",
-      "amount": 16.49484536082474,
+      "amount": 4.123711340206185,
       "segment": "cargo"
     },
     {
@@ -10465,18 +10465,18 @@
       "month": "2026-07",
       "city": "Gurgaon",
       "hub": "Wazirabad",
-      "client": "Amicco",
+      "client": "Delhivery",
       "lineItem": "Maintenance",
-      "amount": 0.8762886597938144,
+      "amount": 6.1340206185567006,
       "segment": "cargo"
     },
     {
       "month": "2026-07",
       "city": "Gurgaon",
       "hub": "Wazirabad",
-      "client": "Delhivery",
+      "client": "Amicco",
       "lineItem": "Maintenance",
-      "amount": 7.010309278350515,
+      "amount": 1.7525773195876289,
       "segment": "cargo"
     },
     {
@@ -10510,18 +10510,18 @@
       "month": "2026-07",
       "city": "Gurgaon",
       "hub": "Wazirabad",
-      "client": "Amicco",
+      "client": "Delhivery",
       "lineItem": "Maintenance",
-      "amount": 0.30927835051546393,
+      "amount": 2.1649484536082473,
       "segment": "cargo"
     },
     {
       "month": "2026-07",
       "city": "Gurgaon",
       "hub": "Wazirabad",
-      "client": "Delhivery",
+      "client": "Amicco",
       "lineItem": "Maintenance",
-      "amount": 2.4742268041237114,
+      "amount": 0.6185567010309279,
       "segment": "cargo"
     },
     {
@@ -10582,18 +10582,18 @@
       "month": "2026-07",
       "city": "Gurgaon",
       "hub": "Wazirabad",
-      "client": "Amicco",
+      "client": "Delhivery",
       "lineItem": "Maintenance",
-      "amount": 12.45360824742268,
+      "amount": 87.17525773195875,
       "segment": "cargo"
     },
     {
       "month": "2026-07",
       "city": "Gurgaon",
       "hub": "Wazirabad",
-      "client": "Delhivery",
+      "client": "Amicco",
       "lineItem": "Maintenance",
-      "amount": 99.62886597938144,
+      "amount": 24.90721649484536,
       "segment": "cargo"
     },
     {
@@ -10627,18 +10627,18 @@
       "month": "2026-07",
       "city": "Gurgaon",
       "hub": "Wazirabad",
-      "client": "Amicco",
+      "client": "Delhivery",
       "lineItem": "Maintenance",
-      "amount": 0.8762886597938144,
+      "amount": 6.1340206185567006,
       "segment": "cargo"
     },
     {
       "month": "2026-07",
       "city": "Gurgaon",
       "hub": "Wazirabad",
-      "client": "Delhivery",
+      "client": "Amicco",
       "lineItem": "Maintenance",
-      "amount": 7.010309278350515,
+      "amount": 1.7525773195876289,
       "segment": "cargo"
     },
     {
@@ -10699,18 +10699,18 @@
       "month": "2026-07",
       "city": "Gurgaon",
       "hub": "Wazirabad",
-      "client": "Amicco",
+      "client": "Delhivery",
       "lineItem": "Maintenance",
-      "amount": 2.3711340206185567,
+      "amount": 16.597938144329895,
       "segment": "cargo"
     },
     {
       "month": "2026-07",
       "city": "Gurgaon",
       "hub": "Wazirabad",
-      "client": "Delhivery",
+      "client": "Amicco",
       "lineItem": "Maintenance",
-      "amount": 18.969072164948454,
+      "amount": 4.742268041237113,
       "segment": "cargo"
     },
     {
@@ -10744,18 +10744,18 @@
       "month": "2026-07",
       "city": "Gurgaon",
       "hub": "Wazirabad",
-      "client": "Amicco",
+      "client": "Delhivery",
       "lineItem": "Maintenance",
-      "amount": 7.597938144329897,
+      "amount": 53.18556701030927,
       "segment": "cargo"
     },
     {
       "month": "2026-07",
       "city": "Gurgaon",
       "hub": "Wazirabad",
-      "client": "Delhivery",
+      "client": "Amicco",
       "lineItem": "Maintenance",
-      "amount": 60.78350515463917,
+      "amount": 15.195876288659793,
       "segment": "cargo"
     },
     {
@@ -10789,18 +10789,18 @@
       "month": "2026-07",
       "city": "Gurgaon",
       "hub": "Wazirabad",
-      "client": "Amicco",
+      "client": "Delhivery",
       "lineItem": "Maintenance",
-      "amount": 1.0309278350515463,
+      "amount": 7.216494845360824,
       "segment": "cargo"
     },
     {
       "month": "2026-07",
       "city": "Gurgaon",
       "hub": "Wazirabad",
-      "client": "Delhivery",
+      "client": "Amicco",
       "lineItem": "Maintenance",
-      "amount": 8.24742268041237,
+      "amount": 2.0618556701030926,
       "segment": "cargo"
     },
     {
@@ -10834,18 +10834,18 @@
       "month": "2026-07",
       "city": "Gurgaon",
       "hub": "Wazirabad",
-      "client": "Amicco",
+      "client": "Delhivery",
       "lineItem": "Maintenance",
-      "amount": 0.8762886597938144,
+      "amount": 6.1340206185567006,
       "segment": "cargo"
     },
     {
       "month": "2026-07",
       "city": "Gurgaon",
       "hub": "Wazirabad",
-      "client": "Delhivery",
+      "client": "Amicco",
       "lineItem": "Maintenance",
-      "amount": 7.010309278350515,
+      "amount": 1.7525773195876289,
       "segment": "cargo"
     },
     {
@@ -10942,18 +10942,18 @@
       "month": "2026-07",
       "city": "Gurgaon",
       "hub": "Wazirabad",
-      "client": "Amicco",
+      "client": "Delhivery",
       "lineItem": "Maintenance",
-      "amount": 31.11340206185567,
+      "amount": 217.79381443298968,
       "segment": "cargo"
     },
     {
       "month": "2026-07",
       "city": "Gurgaon",
       "hub": "Wazirabad",
-      "client": "Delhivery",
+      "client": "Amicco",
       "lineItem": "Maintenance",
-      "amount": 248.90721649484536,
+      "amount": 62.22680412371134,
       "segment": "cargo"
     },
     {
@@ -10987,18 +10987,18 @@
       "month": "2026-07",
       "city": "Gurgaon",
       "hub": "Wazirabad",
-      "client": "Amicco",
+      "client": "Delhivery",
       "lineItem": "Maintenance",
-      "amount": 2.0618556701030926,
+      "amount": 14.432989690721648,
       "segment": "cargo"
     },
     {
       "month": "2026-07",
       "city": "Gurgaon",
       "hub": "Wazirabad",
-      "client": "Delhivery",
+      "client": "Amicco",
       "lineItem": "Maintenance",
-      "amount": 16.49484536082474,
+      "amount": 4.123711340206185,
       "segment": "cargo"
     },
     {
@@ -11122,18 +11122,18 @@
       "month": "2026-07",
       "city": "Gurgaon",
       "hub": "Wazirabad",
-      "client": "Amicco",
+      "client": "Delhivery",
       "lineItem": "Maintenance",
-      "amount": 1.5463917525773196,
+      "amount": 10.824742268041236,
       "segment": "cargo"
     },
     {
       "month": "2026-07",
       "city": "Gurgaon",
       "hub": "Wazirabad",
-      "client": "Delhivery",
+      "client": "Amicco",
       "lineItem": "Maintenance",
-      "amount": 12.371134020618557,
+      "amount": 3.0927835051546393,
       "segment": "cargo"
     },
     {
@@ -11194,18 +11194,18 @@
       "month": "2026-07",
       "city": "Gurgaon",
       "hub": "Wazirabad",
-      "client": "Amicco",
+      "client": "Delhivery",
       "lineItem": "Maintenance",
-      "amount": 2.0618556701030926,
+      "amount": 14.432989690721648,
       "segment": "cargo"
     },
     {
       "month": "2026-07",
       "city": "Gurgaon",
       "hub": "Wazirabad",
-      "client": "Delhivery",
+      "client": "Amicco",
       "lineItem": "Maintenance",
-      "amount": 16.49484536082474,
+      "amount": 4.123711340206185,
       "segment": "cargo"
     },
     {
@@ -11239,18 +11239,18 @@
       "month": "2026-07",
       "city": "Gurgaon",
       "hub": "Wazirabad",
-      "client": "Amicco",
+      "client": "Delhivery",
       "lineItem": "Maintenance",
-      "amount": 2.422680412371134,
+      "amount": 16.95876288659794,
       "segment": "cargo"
     },
     {
       "month": "2026-07",
       "city": "Gurgaon",
       "hub": "Wazirabad",
-      "client": "Delhivery",
+      "client": "Amicco",
       "lineItem": "Maintenance",
-      "amount": 19.38144329896907,
+      "amount": 4.845360824742268,
       "segment": "cargo"
     },
     {
@@ -11284,18 +11284,18 @@
       "month": "2026-07",
       "city": "Gurgaon",
       "hub": "Wazirabad",
-      "client": "Amicco",
+      "client": "Delhivery",
       "lineItem": "Maintenance",
-      "amount": 3.0927835051546393,
+      "amount": 21.649484536082472,
       "segment": "cargo"
     },
     {
       "month": "2026-07",
       "city": "Gurgaon",
       "hub": "Wazirabad",
-      "client": "Delhivery",
+      "client": "Amicco",
       "lineItem": "Maintenance",
-      "amount": 24.742268041237114,
+      "amount": 6.185567010309279,
       "segment": "cargo"
     },
     {
@@ -11329,18 +11329,18 @@
       "month": "2026-07",
       "city": "Gurgaon",
       "hub": "Wazirabad",
-      "client": "Amicco",
+      "client": "Delhivery",
       "lineItem": "Maintenance",
-      "amount": 0.8762886597938144,
+      "amount": 6.1340206185567006,
       "segment": "cargo"
     },
     {
       "month": "2026-07",
       "city": "Gurgaon",
       "hub": "Wazirabad",
-      "client": "Delhivery",
+      "client": "Amicco",
       "lineItem": "Maintenance",
-      "amount": 7.010309278350515,
+      "amount": 1.7525773195876289,
       "segment": "cargo"
     },
     {
@@ -11644,18 +11644,18 @@
       "month": "2026-07",
       "city": "Gurgaon",
       "hub": "Wazirabad",
-      "client": "Amicco",
+      "client": "Delhivery",
       "lineItem": "Maintenance",
-      "amount": 2.0618556701030926,
+      "amount": 14.432989690721648,
       "segment": "cargo"
     },
     {
       "month": "2026-07",
       "city": "Gurgaon",
       "hub": "Wazirabad",
-      "client": "Delhivery",
+      "client": "Amicco",
       "lineItem": "Maintenance",
-      "amount": 16.49484536082474,
+      "amount": 4.123711340206185,
       "segment": "cargo"
     },
     {
@@ -11770,18 +11770,18 @@
       "month": "2026-07",
       "city": "Gurgaon",
       "hub": "Wazirabad",
-      "client": "Amicco",
+      "client": "Delhivery",
       "lineItem": "Maintenance",
-      "amount": 5.051546391752577,
+      "amount": 35.360824742268036,
       "segment": "cargo"
     },
     {
       "month": "2026-07",
       "city": "Gurgaon",
       "hub": "Wazirabad",
-      "client": "Delhivery",
+      "client": "Amicco",
       "lineItem": "Maintenance",
-      "amount": 40.41237113402062,
+      "amount": 10.103092783505154,
       "segment": "cargo"
     },
     {
@@ -11815,18 +11815,18 @@
       "month": "2026-07",
       "city": "Gurgaon",
       "hub": "Wazirabad",
-      "client": "Amicco",
+      "client": "Delhivery",
       "lineItem": "Maintenance",
-      "amount": 2.6804123711340204,
+      "amount": 18.76288659793814,
       "segment": "cargo"
     },
     {
       "month": "2026-07",
       "city": "Gurgaon",
       "hub": "Wazirabad",
-      "client": "Delhivery",
+      "client": "Amicco",
       "lineItem": "Maintenance",
-      "amount": 21.443298969072163,
+      "amount": 5.360824742268041,
       "segment": "cargo"
     },
     {
@@ -11860,18 +11860,18 @@
       "month": "2026-07",
       "city": "Gurgaon",
       "hub": "Wazirabad",
-      "client": "Amicco",
+      "client": "Delhivery",
       "lineItem": "Maintenance",
-      "amount": 15.1340206185567,
+      "amount": 105.9381443298969,
       "segment": "cargo"
     },
     {
       "month": "2026-07",
       "city": "Gurgaon",
       "hub": "Wazirabad",
-      "client": "Delhivery",
+      "client": "Amicco",
       "lineItem": "Maintenance",
-      "amount": 121.0721649484536,
+      "amount": 30.2680412371134,
       "segment": "cargo"
     },
     {
@@ -12031,18 +12031,18 @@
       "month": "2026-07",
       "city": "Gurgaon",
       "hub": "Wazirabad",
-      "client": "Amicco",
+      "client": "Delhivery",
       "lineItem": "Maintenance",
-      "amount": 1.134020618556701,
+      "amount": 7.9381443298969065,
       "segment": "cargo"
     },
     {
       "month": "2026-07",
       "city": "Gurgaon",
       "hub": "Wazirabad",
-      "client": "Delhivery",
+      "client": "Amicco",
       "lineItem": "Maintenance",
-      "amount": 9.072164948453608,
+      "amount": 2.268041237113402,
       "segment": "cargo"
     },
     {
@@ -12103,18 +12103,18 @@
       "month": "2026-07",
       "city": "Gurgaon",
       "hub": "Wazirabad",
-      "client": "Amicco",
+      "client": "Delhivery",
       "lineItem": "Maintenance",
-      "amount": 15.463917525773196,
+      "amount": 108.24742268041236,
       "segment": "cargo"
     },
     {
       "month": "2026-07",
       "city": "Gurgaon",
       "hub": "Wazirabad",
-      "client": "Delhivery",
+      "client": "Amicco",
       "lineItem": "Maintenance",
-      "amount": 123.71134020618557,
+      "amount": 30.927835051546392,
       "segment": "cargo"
     },
     {
@@ -12175,18 +12175,18 @@
       "month": "2026-07",
       "city": "Gurgaon",
       "hub": "Wazirabad",
-      "client": "Amicco",
+      "client": "Delhivery",
       "lineItem": "Maintenance",
-      "amount": 15.463917525773196,
+      "amount": 108.24742268041236,
       "segment": "cargo"
     },
     {
       "month": "2026-07",
       "city": "Gurgaon",
       "hub": "Wazirabad",
-      "client": "Delhivery",
+      "client": "Amicco",
       "lineItem": "Maintenance",
-      "amount": 123.71134020618557,
+      "amount": 30.927835051546392,
       "segment": "cargo"
     },
     {
@@ -12220,18 +12220,18 @@
       "month": "2026-07",
       "city": "Gurgaon",
       "hub": "Wazirabad",
-      "client": "Amicco",
+      "client": "Delhivery",
       "lineItem": "Maintenance",
-      "amount": 2.0618556701030926,
+      "amount": 14.432989690721648,
       "segment": "cargo"
     },
     {
       "month": "2026-07",
       "city": "Gurgaon",
       "hub": "Wazirabad",
-      "client": "Delhivery",
+      "client": "Amicco",
       "lineItem": "Maintenance",
-      "amount": 16.49484536082474,
+      "amount": 4.123711340206185,
       "segment": "cargo"
     },
     {
@@ -12265,18 +12265,18 @@
       "month": "2026-07",
       "city": "Gurgaon",
       "hub": "Wazirabad",
-      "client": "Amicco",
+      "client": "Delhivery",
       "lineItem": "Maintenance",
-      "amount": 2.6804123711340204,
+      "amount": 18.76288659793814,
       "segment": "cargo"
     },
     {
       "month": "2026-07",
       "city": "Gurgaon",
       "hub": "Wazirabad",
-      "client": "Delhivery",
+      "client": "Amicco",
       "lineItem": "Maintenance",
-      "amount": 21.443298969072163,
+      "amount": 5.360824742268041,
       "segment": "cargo"
     },
     {
@@ -12337,18 +12337,18 @@
       "month": "2026-07",
       "city": "Gurgaon",
       "hub": "Wazirabad",
-      "client": "Amicco",
+      "client": "Delhivery",
       "lineItem": "Maintenance",
-      "amount": 29.896907216494846,
+      "amount": 209.2783505154639,
       "segment": "cargo"
     },
     {
       "month": "2026-07",
       "city": "Gurgaon",
       "hub": "Wazirabad",
-      "client": "Delhivery",
+      "client": "Amicco",
       "lineItem": "Maintenance",
-      "amount": 239.17525773195877,
+      "amount": 59.79381443298969,
       "segment": "cargo"
     },
     {
@@ -12634,18 +12634,18 @@
       "month": "2026-07",
       "city": "Gurgaon",
       "hub": "Wazirabad",
-      "client": "Amicco",
+      "client": "Delhivery",
       "lineItem": "Maintenance",
-      "amount": 0.8762886597938144,
+      "amount": 6.1340206185567006,
       "segment": "cargo"
     },
     {
       "month": "2026-07",
       "city": "Gurgaon",
       "hub": "Wazirabad",
-      "client": "Delhivery",
+      "client": "Amicco",
       "lineItem": "Maintenance",
-      "amount": 7.010309278350515,
+      "amount": 1.7525773195876289,
       "segment": "cargo"
     },
     {
@@ -12760,18 +12760,18 @@
       "month": "2026-07",
       "city": "Gurgaon",
       "hub": "Wazirabad",
-      "client": "Amicco",
+      "client": "Delhivery",
       "lineItem": "Maintenance",
-      "amount": 3.6804123711340204,
+      "amount": 25.76288659793814,
       "segment": "cargo"
     },
     {
       "month": "2026-07",
       "city": "Gurgaon",
       "hub": "Wazirabad",
-      "client": "Delhivery",
+      "client": "Amicco",
       "lineItem": "Maintenance",
-      "amount": 29.443298969072163,
+      "amount": 7.360824742268041,
       "segment": "cargo"
     },
     {
@@ -12805,18 +12805,18 @@
       "month": "2026-07",
       "city": "Gurgaon",
       "hub": "Wazirabad",
-      "client": "Amicco",
+      "client": "Delhivery",
       "lineItem": "Maintenance",
-      "amount": 0.8762886597938144,
+      "amount": 6.1340206185567006,
       "segment": "cargo"
     },
     {
       "month": "2026-07",
       "city": "Gurgaon",
       "hub": "Wazirabad",
-      "client": "Delhivery",
+      "client": "Amicco",
       "lineItem": "Maintenance",
-      "amount": 7.010309278350515,
+      "amount": 1.7525773195876289,
       "segment": "cargo"
     },
     {
@@ -12904,18 +12904,18 @@
       "month": "2026-07",
       "city": "Gurgaon",
       "hub": "Wazirabad",
-      "client": "Amicco",
+      "client": "Delhivery",
       "lineItem": "Maintenance",
-      "amount": 2.0618556701030926,
+      "amount": 14.432989690721648,
       "segment": "cargo"
     },
     {
       "month": "2026-07",
       "city": "Gurgaon",
       "hub": "Wazirabad",
-      "client": "Delhivery",
+      "client": "Amicco",
       "lineItem": "Maintenance",
-      "amount": 16.49484536082474,
+      "amount": 4.123711340206185,
       "segment": "cargo"
     },
     {
@@ -12949,18 +12949,18 @@
       "month": "2026-07",
       "city": "Gurgaon",
       "hub": "Wazirabad",
-      "client": "Amicco",
+      "client": "Delhivery",
       "lineItem": "Maintenance",
-      "amount": 15.463917525773196,
+      "amount": 108.24742268041236,
       "segment": "cargo"
     },
     {
       "month": "2026-07",
       "city": "Gurgaon",
       "hub": "Wazirabad",
-      "client": "Delhivery",
+      "client": "Amicco",
       "lineItem": "Maintenance",
-      "amount": 123.71134020618557,
+      "amount": 30.927835051546392,
       "segment": "cargo"
     },
     {
@@ -12994,18 +12994,18 @@
       "month": "2026-07",
       "city": "Gurgaon",
       "hub": "Wazirabad",
-      "client": "Amicco",
+      "client": "Delhivery",
       "lineItem": "Maintenance",
-      "amount": 2.0103092783505154,
+      "amount": 14.072164948453606,
       "segment": "cargo"
     },
     {
       "month": "2026-07",
       "city": "Gurgaon",
       "hub": "Wazirabad",
-      "client": "Delhivery",
+      "client": "Amicco",
       "lineItem": "Maintenance",
-      "amount": 16.082474226804123,
+      "amount": 4.020618556701031,
       "segment": "cargo"
     },
     {
@@ -13039,18 +13039,18 @@
       "month": "2026-07",
       "city": "Gurgaon",
       "hub": "Wazirabad",
-      "client": "Amicco",
+      "client": "Delhivery",
       "lineItem": "Maintenance",
-      "amount": 1.134020618556701,
+      "amount": 7.9381443298969065,
       "segment": "cargo"
     },
     {
       "month": "2026-07",
       "city": "Gurgaon",
       "hub": "Wazirabad",
-      "client": "Delhivery",
+      "client": "Amicco",
       "lineItem": "Maintenance",
-      "amount": 9.072164948453608,
+      "amount": 2.268041237113402,
       "segment": "cargo"
     },
     {
@@ -13084,18 +13084,18 @@
       "month": "2026-07",
       "city": "Gurgaon",
       "hub": "Wazirabad",
-      "client": "Amicco",
+      "client": "Delhivery",
       "lineItem": "Maintenance",
-      "amount": 5.051546391752577,
+      "amount": 35.360824742268036,
       "segment": "cargo"
     },
     {
       "month": "2026-07",
       "city": "Gurgaon",
       "hub": "Wazirabad",
-      "client": "Delhivery",
+      "client": "Amicco",
       "lineItem": "Maintenance",
-      "amount": 40.41237113402062,
+      "amount": 10.103092783505154,
       "segment": "cargo"
     },
     {
@@ -13354,18 +13354,18 @@
       "month": "2026-07",
       "city": "Gurgaon",
       "hub": "Wazirabad",
-      "client": "Amicco",
+      "client": "Delhivery",
       "lineItem": "Maintenance",
-      "amount": 2.0618556701030926,
+      "amount": 14.432989690721648,
       "segment": "cargo"
     },
     {
       "month": "2026-07",
       "city": "Gurgaon",
       "hub": "Wazirabad",
-      "client": "Delhivery",
+      "client": "Amicco",
       "lineItem": "Maintenance",
-      "amount": 16.49484536082474,
+      "amount": 4.123711340206185,
       "segment": "cargo"
     },
     {
@@ -13399,18 +13399,18 @@
       "month": "2026-07",
       "city": "Gurgaon",
       "hub": "Wazirabad",
-      "client": "Amicco",
+      "client": "Delhivery",
       "lineItem": "Maintenance",
-      "amount": 2.979381443298969,
+      "amount": 20.85567010309278,
       "segment": "cargo"
     },
     {
       "month": "2026-07",
       "city": "Gurgaon",
       "hub": "Wazirabad",
-      "client": "Delhivery",
+      "client": "Amicco",
       "lineItem": "Maintenance",
-      "amount": 23.835051546391753,
+      "amount": 5.958762886597938,
       "segment": "cargo"
     },
     {
@@ -13444,18 +13444,18 @@
       "month": "2026-07",
       "city": "Gurgaon",
       "hub": "Wazirabad",
-      "client": "Amicco",
+      "client": "Delhivery",
       "lineItem": "Maintenance",
-      "amount": 1.134020618556701,
+      "amount": 7.9381443298969065,
       "segment": "cargo"
     },
     {
       "month": "2026-07",
       "city": "Gurgaon",
       "hub": "Wazirabad",
-      "client": "Delhivery",
+      "client": "Amicco",
       "lineItem": "Maintenance",
-      "amount": 9.072164948453608,
+      "amount": 2.268041237113402,
       "segment": "cargo"
     },
     {
@@ -13525,18 +13525,18 @@
       "month": "2026-07",
       "city": "Gurgaon",
       "hub": "Wazirabad",
-      "client": "Amicco",
+      "client": "Delhivery",
       "lineItem": "Maintenance",
-      "amount": 2.938144329896907,
+      "amount": 20.56701030927835,
       "segment": "cargo"
     },
     {
       "month": "2026-07",
       "city": "Gurgaon",
       "hub": "Wazirabad",
-      "client": "Delhivery",
+      "client": "Amicco",
       "lineItem": "Maintenance",
-      "amount": 23.505154639175256,
+      "amount": 5.876288659793814,
       "segment": "cargo"
     },
     {
@@ -13597,18 +13597,18 @@
       "month": "2026-07",
       "city": "Gurgaon",
       "hub": "Wazirabad",
-      "client": "Amicco",
+      "client": "Delhivery",
       "lineItem": "Maintenance",
-      "amount": 2.0618556701030926,
+      "amount": 14.432989690721648,
       "segment": "cargo"
     },
     {
       "month": "2026-07",
       "city": "Gurgaon",
       "hub": "Wazirabad",
-      "client": "Delhivery",
+      "client": "Amicco",
       "lineItem": "Maintenance",
-      "amount": 16.49484536082474,
+      "amount": 4.123711340206185,
       "segment": "cargo"
     },
     {
@@ -13642,18 +13642,18 @@
       "month": "2026-07",
       "city": "Gurgaon",
       "hub": "Wazirabad",
-      "client": "Amicco",
+      "client": "Delhivery",
       "lineItem": "Maintenance",
-      "amount": 15.463917525773196,
+      "amount": 108.24742268041236,
       "segment": "cargo"
     },
     {
       "month": "2026-07",
       "city": "Gurgaon",
       "hub": "Wazirabad",
-      "client": "Delhivery",
+      "client": "Amicco",
       "lineItem": "Maintenance",
-      "amount": 123.71134020618557,
+      "amount": 30.927835051546392,
       "segment": "cargo"
     },
     {
@@ -13687,18 +13687,18 @@
       "month": "2026-07",
       "city": "Gurgaon",
       "hub": "Wazirabad",
-      "client": "Amicco",
+      "client": "Delhivery",
       "lineItem": "Maintenance",
-      "amount": 2.0618556701030926,
+      "amount": 14.432989690721648,
       "segment": "cargo"
     },
     {
       "month": "2026-07",
       "city": "Gurgaon",
       "hub": "Wazirabad",
-      "client": "Delhivery",
+      "client": "Amicco",
       "lineItem": "Maintenance",
-      "amount": 16.49484536082474,
+      "amount": 4.123711340206185,
       "segment": "cargo"
     },
     {
@@ -13732,18 +13732,18 @@
       "month": "2026-07",
       "city": "Gurgaon",
       "hub": "Wazirabad",
-      "client": "Amicco",
+      "client": "Delhivery",
       "lineItem": "Maintenance",
-      "amount": 0.8762886597938144,
+      "amount": 6.1340206185567006,
       "segment": "cargo"
     },
     {
       "month": "2026-07",
       "city": "Gurgaon",
       "hub": "Wazirabad",
-      "client": "Delhivery",
+      "client": "Amicco",
       "lineItem": "Maintenance",
-      "amount": 7.010309278350515,
+      "amount": 1.7525773195876289,
       "segment": "cargo"
     },
     {
@@ -13777,18 +13777,18 @@
       "month": "2026-07",
       "city": "Gurgaon",
       "hub": "Wazirabad",
-      "client": "Amicco",
+      "client": "Delhivery",
       "lineItem": "Maintenance",
-      "amount": 4.515463917525773,
+      "amount": 31.60824742268041,
       "segment": "cargo"
     },
     {
       "month": "2026-07",
       "city": "Gurgaon",
       "hub": "Wazirabad",
-      "client": "Delhivery",
+      "client": "Amicco",
       "lineItem": "Maintenance",
-      "amount": 36.123711340206185,
+      "amount": 9.030927835051546,
       "segment": "cargo"
     },
     {
@@ -13858,18 +13858,18 @@
       "month": "2026-07",
       "city": "Gurgaon",
       "hub": "Wazirabad",
-      "client": "Amicco",
+      "client": "Delhivery",
       "lineItem": "Maintenance",
-      "amount": 1.309278350515464,
+      "amount": 9.164948453608247,
       "segment": "cargo"
     },
     {
       "month": "2026-07",
       "city": "Gurgaon",
       "hub": "Wazirabad",
-      "client": "Delhivery",
+      "client": "Amicco",
       "lineItem": "Maintenance",
-      "amount": 10.474226804123711,
+      "amount": 2.618556701030928,
       "segment": "cargo"
     },
     {
@@ -13903,18 +13903,18 @@
       "month": "2026-07",
       "city": "Gurgaon",
       "hub": "Wazirabad",
-      "client": "Amicco",
+      "client": "Delhivery",
       "lineItem": "Maintenance",
-      "amount": 1.134020618556701,
+      "amount": 7.9381443298969065,
       "segment": "cargo"
     },
     {
       "month": "2026-07",
       "city": "Gurgaon",
       "hub": "Wazirabad",
-      "client": "Delhivery",
+      "client": "Amicco",
       "lineItem": "Maintenance",
-      "amount": 9.072164948453608,
+      "amount": 2.268041237113402,
       "segment": "cargo"
     },
     {
@@ -14119,18 +14119,18 @@
       "month": "2026-07",
       "city": "Gurgaon",
       "hub": "Wazirabad",
-      "client": "Amicco",
+      "client": "Delhivery",
       "lineItem": "Maintenance",
-      "amount": 0.6701030927835051,
+      "amount": 4.690721649484535,
       "segment": "cargo"
     },
     {
       "month": "2026-07",
       "city": "Gurgaon",
       "hub": "Wazirabad",
-      "client": "Delhivery",
+      "client": "Amicco",
       "lineItem": "Maintenance",
-      "amount": 5.360824742268041,
+      "amount": 1.3402061855670102,
       "segment": "cargo"
     },
     {
@@ -14164,18 +14164,18 @@
       "month": "2026-07",
       "city": "Gurgaon",
       "hub": "Wazirabad",
-      "client": "Amicco",
+      "client": "Delhivery",
       "lineItem": "Maintenance",
-      "amount": 5.546391752577319,
+      "amount": 38.824742268041234,
       "segment": "cargo"
     },
     {
       "month": "2026-07",
       "city": "Gurgaon",
       "hub": "Wazirabad",
-      "client": "Delhivery",
+      "client": "Amicco",
       "lineItem": "Maintenance",
-      "amount": 44.371134020618555,
+      "amount": 11.092783505154639,
       "segment": "cargo"
     },
     {
@@ -14209,18 +14209,18 @@
       "month": "2026-07",
       "city": "Gurgaon",
       "hub": "Wazirabad",
-      "client": "Amicco",
+      "client": "Delhivery",
       "lineItem": "Maintenance",
-      "amount": 1.2989690721649485,
+      "amount": 9.092783505154639,
       "segment": "cargo"
     },
     {
       "month": "2026-07",
       "city": "Gurgaon",
       "hub": "Wazirabad",
-      "client": "Delhivery",
+      "client": "Amicco",
       "lineItem": "Maintenance",
-      "amount": 10.391752577319588,
+      "amount": 2.597938144329897,
       "segment": "cargo"
     },
     {
@@ -14254,18 +14254,18 @@
       "month": "2026-07",
       "city": "Gurgaon",
       "hub": "Wazirabad",
-      "client": "Amicco",
+      "client": "Delhivery",
       "lineItem": "Maintenance",
-      "amount": 0.8762886597938144,
+      "amount": 6.1340206185567006,
       "segment": "cargo"
     },
     {
       "month": "2026-07",
       "city": "Gurgaon",
       "hub": "Wazirabad",
-      "client": "Delhivery",
+      "client": "Amicco",
       "lineItem": "Maintenance",
-      "amount": 7.010309278350515,
+      "amount": 1.7525773195876289,
       "segment": "cargo"
     },
     {
@@ -14299,18 +14299,18 @@
       "month": "2026-07",
       "city": "Gurgaon",
       "hub": "Wazirabad",
-      "client": "Amicco",
+      "client": "Delhivery",
       "lineItem": "Maintenance",
-      "amount": 0.8762886597938144,
+      "amount": 6.1340206185567006,
       "segment": "cargo"
     },
     {
       "month": "2026-07",
       "city": "Gurgaon",
       "hub": "Wazirabad",
-      "client": "Delhivery",
+      "client": "Amicco",
       "lineItem": "Maintenance",
-      "amount": 7.010309278350515,
+      "amount": 1.7525773195876289,
       "segment": "cargo"
     },
     {
@@ -14344,18 +14344,18 @@
       "month": "2026-07",
       "city": "Gurgaon",
       "hub": "Wazirabad",
-      "client": "Amicco",
+      "client": "Delhivery",
       "lineItem": "Maintenance",
-      "amount": 0.8762886597938144,
+      "amount": 6.1340206185567006,
       "segment": "cargo"
     },
     {
       "month": "2026-07",
       "city": "Gurgaon",
       "hub": "Wazirabad",
-      "client": "Delhivery",
+      "client": "Amicco",
       "lineItem": "Maintenance",
-      "amount": 7.010309278350515,
+      "amount": 1.7525773195876289,
       "segment": "cargo"
     },
     {
@@ -14461,18 +14461,18 @@
       "month": "2026-07",
       "city": "Gurgaon",
       "hub": "Wazirabad",
-      "client": "Amicco",
+      "client": "Delhivery",
       "lineItem": "Maintenance",
-      "amount": 3.6804123711340204,
+      "amount": 25.76288659793814,
       "segment": "cargo"
     },
     {
       "month": "2026-07",
       "city": "Gurgaon",
       "hub": "Wazirabad",
-      "client": "Delhivery",
+      "client": "Amicco",
       "lineItem": "Maintenance",
-      "amount": 29.443298969072163,
+      "amount": 7.360824742268041,
       "segment": "cargo"
     },
     {
@@ -14632,18 +14632,18 @@
       "month": "2026-07",
       "city": "Gurgaon",
       "hub": "Wazirabad",
-      "client": "Amicco",
+      "client": "Delhivery",
       "lineItem": "Maintenance",
-      "amount": 2.6804123711340204,
+      "amount": 18.76288659793814,
       "segment": "cargo"
     },
     {
       "month": "2026-07",
       "city": "Gurgaon",
       "hub": "Wazirabad",
-      "client": "Delhivery",
+      "client": "Amicco",
       "lineItem": "Maintenance",
-      "amount": 21.443298969072163,
+      "amount": 5.360824742268041,
       "segment": "cargo"
     },
     {
@@ -14704,18 +14704,18 @@
       "month": "2026-07",
       "city": "Gurgaon",
       "hub": "Wazirabad",
-      "client": "Amicco",
+      "client": "Delhivery",
       "lineItem": "Maintenance",
-      "amount": 1.4742268041237112,
+      "amount": 10.319587628865978,
       "segment": "cargo"
     },
     {
       "month": "2026-07",
       "city": "Gurgaon",
       "hub": "Wazirabad",
-      "client": "Delhivery",
+      "client": "Amicco",
       "lineItem": "Maintenance",
-      "amount": 11.79381443298969,
+      "amount": 2.9484536082474224,
       "segment": "cargo"
     },
     {
@@ -14776,18 +14776,18 @@
       "month": "2026-07",
       "city": "Gurgaon",
       "hub": "Wazirabad",
-      "client": "Amicco",
+      "client": "Delhivery",
       "lineItem": "Maintenance",
-      "amount": 2.0103092783505154,
+      "amount": 14.072164948453606,
       "segment": "cargo"
     },
     {
       "month": "2026-07",
       "city": "Gurgaon",
       "hub": "Wazirabad",
-      "client": "Delhivery",
+      "client": "Amicco",
       "lineItem": "Maintenance",
-      "amount": 16.082474226804123,
+      "amount": 4.020618556701031,
       "segment": "cargo"
     },
     {
@@ -14821,18 +14821,18 @@
       "month": "2026-07",
       "city": "Gurgaon",
       "hub": "Wazirabad",
-      "client": "Amicco",
+      "client": "Delhivery",
       "lineItem": "Maintenance",
-      "amount": 2.0618556701030926,
+      "amount": 14.432989690721648,
       "segment": "cargo"
     },
     {
       "month": "2026-07",
       "city": "Gurgaon",
       "hub": "Wazirabad",
-      "client": "Delhivery",
+      "client": "Amicco",
       "lineItem": "Maintenance",
-      "amount": 16.49484536082474,
+      "amount": 4.123711340206185,
       "segment": "cargo"
     },
     {
@@ -15037,18 +15037,18 @@
       "month": "2026-07",
       "city": "Gurgaon",
       "hub": "Wazirabad",
-      "client": "Amicco",
+      "client": "Delhivery",
       "lineItem": "Maintenance",
-      "amount": 2.6804123711340204,
+      "amount": 18.76288659793814,
       "segment": "cargo"
     },
     {
       "month": "2026-07",
       "city": "Gurgaon",
       "hub": "Wazirabad",
-      "client": "Delhivery",
+      "client": "Amicco",
       "lineItem": "Maintenance",
-      "amount": 21.443298969072163,
+      "amount": 5.360824742268041,
       "segment": "cargo"
     },
     {
@@ -15082,18 +15082,18 @@
       "month": "2026-07",
       "city": "Gurgaon",
       "hub": "Wazirabad",
-      "client": "Amicco",
+      "client": "Delhivery",
       "lineItem": "Maintenance",
-      "amount": 3.6804123711340204,
+      "amount": 25.76288659793814,
       "segment": "cargo"
     },
     {
       "month": "2026-07",
       "city": "Gurgaon",
       "hub": "Wazirabad",
-      "client": "Delhivery",
+      "client": "Amicco",
       "lineItem": "Maintenance",
-      "amount": 29.443298969072163,
+      "amount": 7.360824742268041,
       "segment": "cargo"
     },
     {
@@ -15127,18 +15127,18 @@
       "month": "2026-07",
       "city": "Gurgaon",
       "hub": "Wazirabad",
-      "client": "Amicco",
+      "client": "Delhivery",
       "lineItem": "Maintenance",
-      "amount": 2.6804123711340204,
+      "amount": 18.76288659793814,
       "segment": "cargo"
     },
     {
       "month": "2026-07",
       "city": "Gurgaon",
       "hub": "Wazirabad",
-      "client": "Delhivery",
+      "client": "Amicco",
       "lineItem": "Maintenance",
-      "amount": 21.443298969072163,
+      "amount": 5.360824742268041,
       "segment": "cargo"
     },
     {
@@ -15172,18 +15172,18 @@
       "month": "2026-07",
       "city": "Gurgaon",
       "hub": "Wazirabad",
-      "client": "Amicco",
+      "client": "Delhivery",
       "lineItem": "Maintenance",
-      "amount": 4.463917525773196,
+      "amount": 31.247422680412367,
       "segment": "cargo"
     },
     {
       "month": "2026-07",
       "city": "Gurgaon",
       "hub": "Wazirabad",
-      "client": "Delhivery",
+      "client": "Amicco",
       "lineItem": "Maintenance",
-      "amount": 35.71134020618557,
+      "amount": 8.927835051546392,
       "segment": "cargo"
     },
     {
@@ -15217,18 +15217,18 @@
       "month": "2026-07",
       "city": "Gurgaon",
       "hub": "Wazirabad",
-      "client": "Amicco",
+      "client": "Delhivery",
       "lineItem": "Maintenance",
-      "amount": 2.6804123711340204,
+      "amount": 18.76288659793814,
       "segment": "cargo"
     },
     {
       "month": "2026-07",
       "city": "Gurgaon",
       "hub": "Wazirabad",
-      "client": "Delhivery",
+      "client": "Amicco",
       "lineItem": "Maintenance",
-      "amount": 21.443298969072163,
+      "amount": 5.360824742268041,
       "segment": "cargo"
     },
     {
@@ -15262,18 +15262,18 @@
       "month": "2026-07",
       "city": "Gurgaon",
       "hub": "Wazirabad",
-      "client": "Amicco",
+      "client": "Delhivery",
       "lineItem": "Maintenance",
-      "amount": 15.463917525773196,
+      "amount": 108.24742268041236,
       "segment": "cargo"
     },
     {
       "month": "2026-07",
       "city": "Gurgaon",
       "hub": "Wazirabad",
-      "client": "Delhivery",
+      "client": "Amicco",
       "lineItem": "Maintenance",
-      "amount": 123.71134020618557,
+      "amount": 30.927835051546392,
       "segment": "cargo"
     },
     {
@@ -15307,18 +15307,18 @@
       "month": "2026-07",
       "city": "Gurgaon",
       "hub": "Wazirabad",
-      "client": "Amicco",
+      "client": "Delhivery",
       "lineItem": "Maintenance",
-      "amount": 2.6804123711340204,
+      "amount": 18.76288659793814,
       "segment": "cargo"
     },
     {
       "month": "2026-07",
       "city": "Gurgaon",
       "hub": "Wazirabad",
-      "client": "Delhivery",
+      "client": "Amicco",
       "lineItem": "Maintenance",
-      "amount": 21.443298969072163,
+      "amount": 5.360824742268041,
       "segment": "cargo"
     },
     {
@@ -15388,18 +15388,18 @@
       "month": "2026-07",
       "city": "Gurgaon",
       "hub": "Wazirabad",
-      "client": "Amicco",
+      "client": "Delhivery",
       "lineItem": "Maintenance",
-      "amount": 2.0618556701030926,
+      "amount": 14.432989690721648,
       "segment": "cargo"
     },
     {
       "month": "2026-07",
       "city": "Gurgaon",
       "hub": "Wazirabad",
-      "client": "Delhivery",
+      "client": "Amicco",
       "lineItem": "Maintenance",
-      "amount": 16.49484536082474,
+      "amount": 4.123711340206185,
       "segment": "cargo"
     },
     {
@@ -15505,18 +15505,18 @@
       "month": "2026-07",
       "city": "Gurgaon",
       "hub": "Wazirabad",
-      "client": "Amicco",
+      "client": "Delhivery",
       "lineItem": "Maintenance",
-      "amount": 2.0618556701030926,
+      "amount": 14.432989690721648,
       "segment": "cargo"
     },
     {
       "month": "2026-07",
       "city": "Gurgaon",
       "hub": "Wazirabad",
-      "client": "Delhivery",
+      "client": "Amicco",
       "lineItem": "Maintenance",
-      "amount": 16.49484536082474,
+      "amount": 4.123711340206185,
       "segment": "cargo"
     },
     {
@@ -15550,18 +15550,18 @@
       "month": "2026-07",
       "city": "Gurgaon",
       "hub": "Wazirabad",
-      "client": "Amicco",
+      "client": "Delhivery",
       "lineItem": "Maintenance",
-      "amount": 0.6701030927835051,
+      "amount": 4.690721649484535,
       "segment": "cargo"
     },
     {
       "month": "2026-07",
       "city": "Gurgaon",
       "hub": "Wazirabad",
-      "client": "Delhivery",
+      "client": "Amicco",
       "lineItem": "Maintenance",
-      "amount": 5.360824742268041,
+      "amount": 1.3402061855670102,
       "segment": "cargo"
     },
     {
@@ -15649,18 +15649,18 @@
       "month": "2026-07",
       "city": "Gurgaon",
       "hub": "Wazirabad",
-      "client": "Amicco",
+      "client": "Delhivery",
       "lineItem": "Maintenance",
-      "amount": 3.5051546391752577,
+      "amount": 24.536082474226802,
       "segment": "cargo"
     },
     {
       "month": "2026-07",
       "city": "Gurgaon",
       "hub": "Wazirabad",
-      "client": "Delhivery",
+      "client": "Amicco",
       "lineItem": "Maintenance",
-      "amount": 28.04123711340206,
+      "amount": 7.010309278350515,
       "segment": "cargo"
     },
     {
@@ -15721,18 +15721,18 @@
       "month": "2026-07",
       "city": "Gurgaon",
       "hub": "Wazirabad",
-      "client": "Amicco",
+      "client": "Delhivery",
       "lineItem": "Maintenance",
-      "amount": 0.6701030927835051,
+      "amount": 4.690721649484535,
       "segment": "cargo"
     },
     {
       "month": "2026-07",
       "city": "Gurgaon",
       "hub": "Wazirabad",
-      "client": "Delhivery",
+      "client": "Amicco",
       "lineItem": "Maintenance",
-      "amount": 5.360824742268041,
+      "amount": 1.3402061855670102,
       "segment": "cargo"
     },
     {
@@ -15874,18 +15874,18 @@
       "month": "2026-07",
       "city": "Gurgaon",
       "hub": "Wazirabad",
-      "client": "Amicco",
+      "client": "Delhivery",
       "lineItem": "Maintenance",
-      "amount": 2.0618556701030926,
+      "amount": 14.432989690721648,
       "segment": "cargo"
     },
     {
       "month": "2026-07",
       "city": "Gurgaon",
       "hub": "Wazirabad",
-      "client": "Delhivery",
+      "client": "Amicco",
       "lineItem": "Maintenance",
-      "amount": 16.49484536082474,
+      "amount": 4.123711340206185,
       "segment": "cargo"
     },
     {
@@ -16009,18 +16009,18 @@
       "month": "2026-07",
       "city": "Gurgaon",
       "hub": "Wazirabad",
-      "client": "Amicco",
+      "client": "Delhivery",
       "lineItem": "Maintenance",
-      "amount": 0.8762886597938144,
+      "amount": 6.1340206185567006,
       "segment": "cargo"
     },
     {
       "month": "2026-07",
       "city": "Gurgaon",
       "hub": "Wazirabad",
-      "client": "Delhivery",
+      "client": "Amicco",
       "lineItem": "Maintenance",
-      "amount": 7.010309278350515,
+      "amount": 1.7525773195876289,
       "segment": "cargo"
     },
     {
@@ -16090,18 +16090,18 @@
       "month": "2026-07",
       "city": "Gurgaon",
       "hub": "Wazirabad",
-      "client": "Amicco",
+      "client": "Delhivery",
       "lineItem": "Maintenance",
-      "amount": 0.6701030927835051,
+      "amount": 4.690721649484535,
       "segment": "cargo"
     },
     {
       "month": "2026-07",
       "city": "Gurgaon",
       "hub": "Wazirabad",
-      "client": "Delhivery",
+      "client": "Amicco",
       "lineItem": "Maintenance",
-      "amount": 5.360824742268041,
+      "amount": 1.3402061855670102,
       "segment": "cargo"
     },
     {
@@ -16207,18 +16207,18 @@
       "month": "2026-07",
       "city": "Gurgaon",
       "hub": "Wazirabad",
-      "client": "Amicco",
+      "client": "Delhivery",
       "lineItem": "Maintenance",
-      "amount": 15.463917525773196,
+      "amount": 108.24742268041236,
       "segment": "cargo"
     },
     {
       "month": "2026-07",
       "city": "Gurgaon",
       "hub": "Wazirabad",
-      "client": "Delhivery",
+      "client": "Amicco",
       "lineItem": "Maintenance",
-      "amount": 123.71134020618557,
+      "amount": 30.927835051546392,
       "segment": "cargo"
     },
     {
@@ -16324,18 +16324,18 @@
       "month": "2026-07",
       "city": "Gurgaon",
       "hub": "Wazirabad",
-      "client": "Amicco",
+      "client": "Delhivery",
       "lineItem": "Maintenance",
-      "amount": 1.134020618556701,
+      "amount": 7.9381443298969065,
       "segment": "cargo"
     },
     {
       "month": "2026-07",
       "city": "Gurgaon",
       "hub": "Wazirabad",
-      "client": "Delhivery",
+      "client": "Amicco",
       "lineItem": "Maintenance",
-      "amount": 9.072164948453608,
+      "amount": 2.268041237113402,
       "segment": "cargo"
     },
     {
@@ -16369,18 +16369,18 @@
       "month": "2026-07",
       "city": "Gurgaon",
       "hub": "Wazirabad",
-      "client": "Amicco",
+      "client": "Delhivery",
       "lineItem": "Maintenance",
-      "amount": 2.6804123711340204,
+      "amount": 18.76288659793814,
       "segment": "cargo"
     },
     {
       "month": "2026-07",
       "city": "Gurgaon",
       "hub": "Wazirabad",
-      "client": "Delhivery",
+      "client": "Amicco",
       "lineItem": "Maintenance",
-      "amount": 21.443298969072163,
+      "amount": 5.360824742268041,
       "segment": "cargo"
     },
     {
@@ -16450,18 +16450,18 @@
       "month": "2026-07",
       "city": "Gurgaon",
       "hub": "Wazirabad",
-      "client": "Amicco",
+      "client": "Delhivery",
       "lineItem": "Maintenance",
-      "amount": 2.0618556701030926,
+      "amount": 14.432989690721648,
       "segment": "cargo"
     },
     {
       "month": "2026-07",
       "city": "Gurgaon",
       "hub": "Wazirabad",
-      "client": "Delhivery",
+      "client": "Amicco",
       "lineItem": "Maintenance",
-      "amount": 16.49484536082474,
+      "amount": 4.123711340206185,
       "segment": "cargo"
     },
     {
@@ -16495,18 +16495,18 @@
       "month": "2026-07",
       "city": "Gurgaon",
       "hub": "Wazirabad",
-      "client": "Amicco",
+      "client": "Delhivery",
       "lineItem": "Maintenance",
-      "amount": 2.0618556701030926,
+      "amount": 14.432989690721648,
       "segment": "cargo"
     },
     {
       "month": "2026-07",
       "city": "Gurgaon",
       "hub": "Wazirabad",
-      "client": "Delhivery",
+      "client": "Amicco",
       "lineItem": "Maintenance",
-      "amount": 16.49484536082474,
+      "amount": 4.123711340206185,
       "segment": "cargo"
     },
     {
@@ -16567,18 +16567,18 @@
       "month": "2026-07",
       "city": "Gurgaon",
       "hub": "Wazirabad",
-      "client": "Amicco",
+      "client": "Delhivery",
       "lineItem": "Maintenance",
-      "amount": 2.4432989690721647,
+      "amount": 17.103092783505154,
       "segment": "cargo"
     },
     {
       "month": "2026-07",
       "city": "Gurgaon",
       "hub": "Wazirabad",
-      "client": "Delhivery",
+      "client": "Amicco",
       "lineItem": "Maintenance",
-      "amount": 19.546391752577318,
+      "amount": 4.886597938144329,
       "segment": "cargo"
     },
     {
@@ -16738,18 +16738,18 @@
       "month": "2026-07",
       "city": "Gurgaon",
       "hub": "Wazirabad",
-      "client": "Amicco",
+      "client": "Delhivery",
       "lineItem": "Maintenance",
-      "amount": 1.134020618556701,
+      "amount": 7.9381443298969065,
       "segment": "cargo"
     },
     {
       "month": "2026-07",
       "city": "Gurgaon",
       "hub": "Wazirabad",
-      "client": "Delhivery",
+      "client": "Amicco",
       "lineItem": "Maintenance",
-      "amount": 9.072164948453608,
+      "amount": 2.268041237113402,
       "segment": "cargo"
     },
     {
@@ -16837,18 +16837,18 @@
       "month": "2026-07",
       "city": "Gurgaon",
       "hub": "Wazirabad",
-      "client": "Amicco",
+      "client": "Delhivery",
       "lineItem": "Maintenance",
-      "amount": 13.144329896907216,
+      "amount": 92.0103092783505,
       "segment": "cargo"
     },
     {
       "month": "2026-07",
       "city": "Gurgaon",
       "hub": "Wazirabad",
-      "client": "Delhivery",
+      "client": "Amicco",
       "lineItem": "Maintenance",
-      "amount": 105.15463917525773,
+      "amount": 26.288659793814432,
       "segment": "cargo"
     },
     {
@@ -16882,18 +16882,18 @@
       "month": "2026-07",
       "city": "Gurgaon",
       "hub": "Wazirabad",
-      "client": "Amicco",
+      "client": "Delhivery",
       "lineItem": "Maintenance",
-      "amount": 1.134020618556701,
+      "amount": 7.9381443298969065,
       "segment": "cargo"
     },
     {
       "month": "2026-07",
       "city": "Gurgaon",
       "hub": "Wazirabad",
-      "client": "Delhivery",
+      "client": "Amicco",
       "lineItem": "Maintenance",
-      "amount": 9.072164948453608,
+      "amount": 2.268041237113402,
       "segment": "cargo"
     },
     {
@@ -16927,18 +16927,18 @@
       "month": "2026-07",
       "city": "Gurgaon",
       "hub": "Wazirabad",
-      "client": "Amicco",
+      "client": "Delhivery",
       "lineItem": "Maintenance",
-      "amount": 2.556701030927835,
+      "amount": 17.896907216494842,
       "segment": "cargo"
     },
     {
       "month": "2026-07",
       "city": "Gurgaon",
       "hub": "Wazirabad",
-      "client": "Delhivery",
+      "client": "Amicco",
       "lineItem": "Maintenance",
-      "amount": 20.45360824742268,
+      "amount": 5.11340206185567,
       "segment": "cargo"
     },
     {
@@ -17584,18 +17584,18 @@
       "month": "2026-08",
       "city": "Gurgaon",
       "hub": "Wazirabad",
-      "client": "Amicco",
+      "client": "Delhivery",
       "lineItem": "Maintenance",
-      "amount": 1.134020618556701,
+      "amount": 7.9381443298969065,
       "segment": "cargo"
     },
     {
       "month": "2026-08",
       "city": "Gurgaon",
       "hub": "Wazirabad",
-      "client": "Delhivery",
+      "client": "Amicco",
       "lineItem": "Maintenance",
-      "amount": 9.072164948453608,
+      "amount": 2.268041237113402,
       "segment": "cargo"
     },
     {
@@ -17629,18 +17629,18 @@
       "month": "2026-08",
       "city": "Gurgaon",
       "hub": "Wazirabad",
-      "client": "Amicco",
+      "client": "Delhivery",
       "lineItem": "Maintenance",
-      "amount": 2.6804123711340204,
+      "amount": 18.76288659793814,
       "segment": "cargo"
     },
     {
       "month": "2026-08",
       "city": "Gurgaon",
       "hub": "Wazirabad",
-      "client": "Delhivery",
+      "client": "Amicco",
       "lineItem": "Maintenance",
-      "amount": 21.443298969072163,
+      "amount": 5.360824742268041,
       "segment": "cargo"
     },
     {
@@ -17674,18 +17674,18 @@
       "month": "2026-08",
       "city": "Gurgaon",
       "hub": "Wazirabad",
-      "client": "Amicco",
+      "client": "Delhivery",
       "lineItem": "Maintenance",
-      "amount": 3.5051546391752577,
+      "amount": 24.536082474226802,
       "segment": "cargo"
     },
     {
       "month": "2026-08",
       "city": "Gurgaon",
       "hub": "Wazirabad",
-      "client": "Delhivery",
+      "client": "Amicco",
       "lineItem": "Maintenance",
-      "amount": 28.04123711340206,
+      "amount": 7.010309278350515,
       "segment": "cargo"
     },
     {
@@ -17719,18 +17719,18 @@
       "month": "2026-08",
       "city": "Gurgaon",
       "hub": "Wazirabad",
-      "client": "Amicco",
+      "client": "Delhivery",
       "lineItem": "Maintenance",
-      "amount": 2.0618556701030926,
+      "amount": 14.432989690721648,
       "segment": "cargo"
     },
     {
       "month": "2026-08",
       "city": "Gurgaon",
       "hub": "Wazirabad",
-      "client": "Delhivery",
+      "client": "Amicco",
       "lineItem": "Maintenance",
-      "amount": 16.49484536082474,
+      "amount": 4.123711340206185,
       "segment": "cargo"
     },
     {
@@ -17764,18 +17764,18 @@
       "month": "2026-08",
       "city": "Gurgaon",
       "hub": "Wazirabad",
-      "client": "Amicco",
+      "client": "Delhivery",
       "lineItem": "Maintenance",
-      "amount": 3.8144329896907214,
+      "amount": 26.70103092783505,
       "segment": "cargo"
     },
     {
       "month": "2026-08",
       "city": "Gurgaon",
       "hub": "Wazirabad",
-      "client": "Delhivery",
+      "client": "Amicco",
       "lineItem": "Maintenance",
-      "amount": 30.51546391752577,
+      "amount": 7.628865979381443,
       "segment": "cargo"
     },
     {
@@ -17809,18 +17809,18 @@
       "month": "2026-08",
       "city": "Gurgaon",
       "hub": "Wazirabad",
-      "client": "Amicco",
+      "client": "Delhivery",
       "lineItem": "Maintenance",
-      "amount": 0.8762886597938144,
+      "amount": 6.1340206185567006,
       "segment": "cargo"
     },
     {
       "month": "2026-08",
       "city": "Gurgaon",
       "hub": "Wazirabad",
-      "client": "Delhivery",
+      "client": "Amicco",
       "lineItem": "Maintenance",
-      "amount": 7.010309278350515,
+      "amount": 1.7525773195876289,
       "segment": "cargo"
     },
     {
@@ -17908,18 +17908,18 @@
       "month": "2026-08",
       "city": "Gurgaon",
       "hub": "Wazirabad",
-      "client": "Amicco",
+      "client": "Delhivery",
       "lineItem": "Maintenance",
-      "amount": 1.7216494845360824,
+      "amount": 12.051546391752575,
       "segment": "cargo"
     },
     {
       "month": "2026-08",
       "city": "Gurgaon",
       "hub": "Wazirabad",
-      "client": "Delhivery",
+      "client": "Amicco",
       "lineItem": "Maintenance",
-      "amount": 13.773195876288659,
+      "amount": 3.4432989690721647,
       "segment": "cargo"
     },
     {
@@ -18115,18 +18115,18 @@
       "month": "2026-08",
       "city": "Gurgaon",
       "hub": "Wazirabad",
-      "client": "Amicco",
+      "client": "Delhivery",
       "lineItem": "Maintenance",
-      "amount": 2.6804123711340204,
+      "amount": 18.76288659793814,
       "segment": "cargo"
     },
     {
       "month": "2026-08",
       "city": "Gurgaon",
       "hub": "Wazirabad",
-      "client": "Delhivery",
+      "client": "Amicco",
       "lineItem": "Maintenance",
-      "amount": 21.443298969072163,
+      "amount": 5.360824742268041,
       "segment": "cargo"
     },
     {
@@ -18160,18 +18160,18 @@
       "month": "2026-08",
       "city": "Gurgaon",
       "hub": "Wazirabad",
-      "client": "Amicco",
+      "client": "Delhivery",
       "lineItem": "Maintenance",
-      "amount": 0.979381443298969,
+      "amount": 6.855670103092783,
       "segment": "cargo"
     },
     {
       "month": "2026-08",
       "city": "Gurgaon",
       "hub": "Wazirabad",
-      "client": "Delhivery",
+      "client": "Amicco",
       "lineItem": "Maintenance",
-      "amount": 7.835051546391752,
+      "amount": 1.958762886597938,
       "segment": "cargo"
     },
     {
@@ -18232,18 +18232,18 @@
       "month": "2026-08",
       "city": "Gurgaon",
       "hub": "Wazirabad",
-      "client": "Amicco",
+      "client": "Delhivery",
       "lineItem": "Maintenance",
-      "amount": 0.7216494845360825,
+      "amount": 5.051546391752577,
       "segment": "cargo"
     },
     {
       "month": "2026-08",
       "city": "Gurgaon",
       "hub": "Wazirabad",
-      "client": "Delhivery",
+      "client": "Amicco",
       "lineItem": "Maintenance",
-      "amount": 5.77319587628866,
+      "amount": 1.443298969072165,
       "segment": "cargo"
     },
     {
@@ -18475,18 +18475,18 @@
       "month": "2026-08",
       "city": "Gurgaon",
       "hub": "Wazirabad",
-      "client": "Amicco",
+      "client": "Delhivery",
       "lineItem": "Maintenance",
-      "amount": 33.04123711340206,
+      "amount": 231.28865979381442,
       "segment": "cargo"
     },
     {
       "month": "2026-08",
       "city": "Gurgaon",
       "hub": "Wazirabad",
-      "client": "Delhivery",
+      "client": "Amicco",
       "lineItem": "Maintenance",
-      "amount": 264.3298969072165,
+      "amount": 66.08247422680412,
       "segment": "cargo"
     },
     {
@@ -18520,18 +18520,18 @@
       "month": "2026-08",
       "city": "Gurgaon",
       "hub": "Wazirabad",
-      "client": "Amicco",
+      "client": "Delhivery",
       "lineItem": "Maintenance",
-      "amount": 3.7628865979381443,
+      "amount": 26.34020618556701,
       "segment": "cargo"
     },
     {
       "month": "2026-08",
       "city": "Gurgaon",
       "hub": "Wazirabad",
-      "client": "Delhivery",
+      "client": "Amicco",
       "lineItem": "Maintenance",
-      "amount": 30.103092783505154,
+      "amount": 7.525773195876289,
       "segment": "cargo"
     },
     {
@@ -18565,18 +18565,18 @@
       "month": "2026-08",
       "city": "Gurgaon",
       "hub": "Wazirabad",
-      "client": "Amicco",
+      "client": "Delhivery",
       "lineItem": "Maintenance",
-      "amount": 0.979381443298969,
+      "amount": 6.855670103092783,
       "segment": "cargo"
     },
     {
       "month": "2026-08",
       "city": "Gurgaon",
       "hub": "Wazirabad",
-      "client": "Delhivery",
+      "client": "Amicco",
       "lineItem": "Maintenance",
-      "amount": 7.835051546391752,
+      "amount": 1.958762886597938,
       "segment": "cargo"
     },
     {
@@ -18736,18 +18736,18 @@
       "month": "2026-08",
       "city": "Gurgaon",
       "hub": "Wazirabad",
-      "client": "Amicco",
+      "client": "Delhivery",
       "lineItem": "Maintenance",
-      "amount": 7.608247422680412,
+      "amount": 53.25773195876288,
       "segment": "cargo"
     },
     {
       "month": "2026-08",
       "city": "Gurgaon",
       "hub": "Wazirabad",
-      "client": "Delhivery",
+      "client": "Amicco",
       "lineItem": "Maintenance",
-      "amount": 60.865979381443296,
+      "amount": 15.216494845360824,
       "segment": "cargo"
     },
     {
@@ -18826,18 +18826,18 @@
       "month": "2026-08",
       "city": "Gurgaon",
       "hub": "Wazirabad",
-      "client": "Amicco",
+      "client": "Delhivery",
       "lineItem": "Maintenance",
-      "amount": 3.0927835051546393,
+      "amount": 21.649484536082472,
       "segment": "cargo"
     },
     {
       "month": "2026-08",
       "city": "Gurgaon",
       "hub": "Wazirabad",
-      "client": "Delhivery",
+      "client": "Amicco",
       "lineItem": "Maintenance",
-      "amount": 24.742268041237114,
+      "amount": 6.185567010309279,
       "segment": "cargo"
     },
     {
@@ -18880,18 +18880,18 @@
       "month": "2026-08",
       "city": "Gurgaon",
       "hub": "Wazirabad",
-      "client": "Amicco",
+      "client": "Delhivery",
       "lineItem": "Maintenance",
-      "amount": 1.134020618556701,
+      "amount": 7.9381443298969065,
       "segment": "cargo"
     },
     {
       "month": "2026-08",
       "city": "Gurgaon",
       "hub": "Wazirabad",
-      "client": "Delhivery",
+      "client": "Amicco",
       "lineItem": "Maintenance",
-      "amount": 9.072164948453608,
+      "amount": 2.268041237113402,
       "segment": "cargo"
     },
     {
@@ -18925,18 +18925,18 @@
       "month": "2026-08",
       "city": "Gurgaon",
       "hub": "Wazirabad",
-      "client": "Amicco",
+      "client": "Delhivery",
       "lineItem": "Maintenance",
-      "amount": 1.0309278350515463,
+      "amount": 7.216494845360824,
       "segment": "cargo"
     },
     {
       "month": "2026-08",
       "city": "Gurgaon",
       "hub": "Wazirabad",
-      "client": "Delhivery",
+      "client": "Amicco",
       "lineItem": "Maintenance",
-      "amount": 8.24742268041237,
+      "amount": 2.0618556701030926,
       "segment": "cargo"
     },
     {
@@ -18970,18 +18970,18 @@
       "month": "2026-08",
       "city": "Gurgaon",
       "hub": "Wazirabad",
-      "client": "Amicco",
+      "client": "Delhivery",
       "lineItem": "Maintenance",
-      "amount": 2.938144329896907,
+      "amount": 20.56701030927835,
       "segment": "cargo"
     },
     {
       "month": "2026-08",
       "city": "Gurgaon",
       "hub": "Wazirabad",
-      "client": "Delhivery",
+      "client": "Amicco",
       "lineItem": "Maintenance",
-      "amount": 23.505154639175256,
+      "amount": 5.876288659793814,
       "segment": "cargo"
     },
     {
@@ -19015,18 +19015,18 @@
       "month": "2026-08",
       "city": "Gurgaon",
       "hub": "Wazirabad",
-      "client": "Amicco",
+      "client": "Delhivery",
       "lineItem": "Maintenance",
-      "amount": 2.6804123711340204,
+      "amount": 18.76288659793814,
       "segment": "cargo"
     },
     {
       "month": "2026-08",
       "city": "Gurgaon",
       "hub": "Wazirabad",
-      "client": "Delhivery",
+      "client": "Amicco",
       "lineItem": "Maintenance",
-      "amount": 21.443298969072163,
+      "amount": 5.360824742268041,
       "segment": "cargo"
     },
     {
@@ -19357,18 +19357,18 @@
       "month": "2026-08",
       "city": "Gurgaon",
       "hub": "Wazirabad",
-      "client": "Amicco",
+      "client": "Delhivery",
       "lineItem": "Maintenance",
-      "amount": 5.051546391752577,
+      "amount": 35.360824742268036,
       "segment": "cargo"
     },
     {
       "month": "2026-08",
       "city": "Gurgaon",
       "hub": "Wazirabad",
-      "client": "Delhivery",
+      "client": "Amicco",
       "lineItem": "Maintenance",
-      "amount": 40.41237113402062,
+      "amount": 10.103092783505154,
       "segment": "cargo"
     },
     {
@@ -19600,18 +19600,18 @@
       "month": "2026-08",
       "city": "Gurgaon",
       "hub": "Wazirabad",
-      "client": "Amicco",
+      "client": "Delhivery",
       "lineItem": "Maintenance",
-      "amount": 2.0618556701030926,
+      "amount": 14.432989690721648,
       "segment": "cargo"
     },
     {
       "month": "2026-08",
       "city": "Gurgaon",
       "hub": "Wazirabad",
-      "client": "Delhivery",
+      "client": "Amicco",
       "lineItem": "Maintenance",
-      "amount": 16.49484536082474,
+      "amount": 4.123711340206185,
       "segment": "cargo"
     },
     {
@@ -19780,18 +19780,18 @@
       "month": "2026-08",
       "city": "Gurgaon",
       "hub": "Wazirabad",
-      "client": "Amicco",
+      "client": "Delhivery",
       "lineItem": "Maintenance",
-      "amount": 2.556701030927835,
+      "amount": 17.896907216494842,
       "segment": "cargo"
     },
     {
       "month": "2026-08",
       "city": "Gurgaon",
       "hub": "Wazirabad",
-      "client": "Delhivery",
+      "client": "Amicco",
       "lineItem": "Maintenance",
-      "amount": 20.45360824742268,
+      "amount": 5.11340206185567,
       "segment": "cargo"
     },
     {
@@ -19825,18 +19825,18 @@
       "month": "2026-08",
       "city": "Gurgaon",
       "hub": "Wazirabad",
-      "client": "Amicco",
+      "client": "Delhivery",
       "lineItem": "Maintenance",
-      "amount": 7.608247422680412,
+      "amount": 53.25773195876288,
       "segment": "cargo"
     },
     {
       "month": "2026-08",
       "city": "Gurgaon",
       "hub": "Wazirabad",
-      "client": "Delhivery",
+      "client": "Amicco",
       "lineItem": "Maintenance",
-      "amount": 60.865979381443296,
+      "amount": 15.216494845360824,
       "segment": "cargo"
     },
     {
@@ -19870,18 +19870,18 @@
       "month": "2026-08",
       "city": "Gurgaon",
       "hub": "Wazirabad",
-      "client": "Amicco",
+      "client": "Delhivery",
       "lineItem": "Maintenance",
-      "amount": 0.9175257731958762,
+      "amount": 6.422680412371133,
       "segment": "cargo"
     },
     {
       "month": "2026-08",
       "city": "Gurgaon",
       "hub": "Wazirabad",
-      "client": "Delhivery",
+      "client": "Amicco",
       "lineItem": "Maintenance",
-      "amount": 7.34020618556701,
+      "amount": 1.8350515463917525,
       "segment": "cargo"
     },
     {
@@ -19915,18 +19915,18 @@
       "month": "2026-08",
       "city": "Gurgaon",
       "hub": "Wazirabad",
-      "client": "Amicco",
+      "client": "Delhivery",
       "lineItem": "Maintenance",
-      "amount": 2.0618556701030926,
+      "amount": 14.432989690721648,
       "segment": "cargo"
     },
     {
       "month": "2026-08",
       "city": "Gurgaon",
       "hub": "Wazirabad",
-      "client": "Delhivery",
+      "client": "Amicco",
       "lineItem": "Maintenance",
-      "amount": 16.49484536082474,
+      "amount": 4.123711340206185,
       "segment": "cargo"
     },
     {
@@ -19960,18 +19960,18 @@
       "month": "2026-08",
       "city": "Gurgaon",
       "hub": "Wazirabad",
-      "client": "Amicco",
+      "client": "Delhivery",
       "lineItem": "Maintenance",
-      "amount": 2.6804123711340204,
+      "amount": 18.76288659793814,
       "segment": "cargo"
     },
     {
       "month": "2026-08",
       "city": "Gurgaon",
       "hub": "Wazirabad",
-      "client": "Delhivery",
+      "client": "Amicco",
       "lineItem": "Maintenance",
-      "amount": 21.443298969072163,
+      "amount": 5.360824742268041,
       "segment": "cargo"
     },
     {
@@ -20005,18 +20005,18 @@
       "month": "2026-08",
       "city": "Gurgaon",
       "hub": "Wazirabad",
-      "client": "Amicco",
+      "client": "Delhivery",
       "lineItem": "Maintenance",
-      "amount": 0.8762886597938144,
+      "amount": 6.1340206185567006,
       "segment": "cargo"
     },
     {
       "month": "2026-08",
       "city": "Gurgaon",
       "hub": "Wazirabad",
-      "client": "Delhivery",
+      "client": "Amicco",
       "lineItem": "Maintenance",
-      "amount": 7.010309278350515,
+      "amount": 1.7525773195876289,
       "segment": "cargo"
     },
     {
@@ -20050,18 +20050,18 @@
       "month": "2026-08",
       "city": "Gurgaon",
       "hub": "Wazirabad",
-      "client": "Amicco",
+      "client": "Delhivery",
       "lineItem": "Maintenance",
-      "amount": 3.3711340206185567,
+      "amount": 23.597938144329895,
       "segment": "cargo"
     },
     {
       "month": "2026-08",
       "city": "Gurgaon",
       "hub": "Wazirabad",
-      "client": "Delhivery",
+      "client": "Amicco",
       "lineItem": "Maintenance",
-      "amount": 26.969072164948454,
+      "amount": 6.742268041237113,
       "segment": "cargo"
     },
     {
@@ -20095,18 +20095,18 @@
       "month": "2026-08",
       "city": "Gurgaon",
       "hub": "Wazirabad",
-      "client": "Amicco",
+      "client": "Delhivery",
       "lineItem": "Maintenance",
-      "amount": 0.8762886597938144,
+      "amount": 6.1340206185567006,
       "segment": "cargo"
     },
     {
       "month": "2026-08",
       "city": "Gurgaon",
       "hub": "Wazirabad",
-      "client": "Delhivery",
+      "client": "Amicco",
       "lineItem": "Maintenance",
-      "amount": 7.010309278350515,
+      "amount": 1.7525773195876289,
       "segment": "cargo"
     },
     {
@@ -20203,18 +20203,18 @@
       "month": "2026-08",
       "city": "Gurgaon",
       "hub": "Wazirabad",
-      "client": "Amicco",
+      "client": "Delhivery",
       "lineItem": "Maintenance",
-      "amount": 6.896907216494845,
+      "amount": 48.27835051546391,
       "segment": "cargo"
     },
     {
       "month": "2026-08",
       "city": "Gurgaon",
       "hub": "Wazirabad",
-      "client": "Delhivery",
+      "client": "Amicco",
       "lineItem": "Maintenance",
-      "amount": 55.17525773195876,
+      "amount": 13.79381443298969,
       "segment": "cargo"
     },
     {
@@ -20248,18 +20248,18 @@
       "month": "2026-08",
       "city": "Gurgaon",
       "hub": "Wazirabad",
-      "client": "Amicco",
+      "client": "Delhivery",
       "lineItem": "Maintenance",
-      "amount": 2.11340206185567,
+      "amount": 14.79381443298969,
       "segment": "cargo"
     },
     {
       "month": "2026-08",
       "city": "Gurgaon",
       "hub": "Wazirabad",
-      "client": "Delhivery",
+      "client": "Amicco",
       "lineItem": "Maintenance",
-      "amount": 16.90721649484536,
+      "amount": 4.22680412371134,
       "segment": "cargo"
     },
     {
@@ -20455,18 +20455,18 @@
       "month": "2026-08",
       "city": "Gurgaon",
       "hub": "Wazirabad",
-      "client": "Amicco",
+      "client": "Delhivery",
       "lineItem": "Maintenance",
-      "amount": 0.8762886597938144,
+      "amount": 6.1340206185567006,
       "segment": "cargo"
     },
     {
       "month": "2026-08",
       "city": "Gurgaon",
       "hub": "Wazirabad",
-      "client": "Delhivery",
+      "client": "Amicco",
       "lineItem": "Maintenance",
-      "amount": 7.010309278350515,
+      "amount": 1.7525773195876289,
       "segment": "cargo"
     },
     {
@@ -20599,18 +20599,18 @@
       "month": "2026-08",
       "city": "Gurgaon",
       "hub": "Wazirabad",
-      "client": "Amicco",
+      "client": "Delhivery",
       "lineItem": "Maintenance",
-      "amount": 0.7216494845360825,
+      "amount": 5.051546391752577,
       "segment": "cargo"
     },
     {
       "month": "2026-08",
       "city": "Gurgaon",
       "hub": "Wazirabad",
-      "client": "Delhivery",
+      "client": "Amicco",
       "lineItem": "Maintenance",
-      "amount": 5.77319587628866,
+      "amount": 1.443298969072165,
       "segment": "cargo"
     },
     {
@@ -20644,18 +20644,18 @@
       "month": "2026-08",
       "city": "Gurgaon",
       "hub": "Wazirabad",
-      "client": "Amicco",
+      "client": "Delhivery",
       "lineItem": "Maintenance",
-      "amount": 3.0927835051546393,
+      "amount": 21.649484536082472,
       "segment": "cargo"
     },
     {
       "month": "2026-08",
       "city": "Gurgaon",
       "hub": "Wazirabad",
-      "client": "Delhivery",
+      "client": "Amicco",
       "lineItem": "Maintenance",
-      "amount": 24.742268041237114,
+      "amount": 6.185567010309279,
       "segment": "cargo"
     },
     {
@@ -20689,18 +20689,18 @@
       "month": "2026-08",
       "city": "Gurgaon",
       "hub": "Wazirabad",
-      "client": "Amicco",
+      "client": "Delhivery",
       "lineItem": "Maintenance",
-      "amount": 23.49484536082474,
+      "amount": 164.46391752577318,
       "segment": "cargo"
     },
     {
       "month": "2026-08",
       "city": "Gurgaon",
       "hub": "Wazirabad",
-      "client": "Delhivery",
+      "client": "Amicco",
       "lineItem": "Maintenance",
-      "amount": 187.95876288659792,
+      "amount": 46.98969072164948,
       "segment": "cargo"
     },
     {
@@ -20788,18 +20788,18 @@
       "month": "2026-08",
       "city": "Gurgaon",
       "hub": "Wazirabad",
-      "client": "Amicco",
+      "client": "Delhivery",
       "lineItem": "Maintenance",
-      "amount": 5.051546391752577,
+      "amount": 35.360824742268036,
       "segment": "cargo"
     },
     {
       "month": "2026-08",
       "city": "Gurgaon",
       "hub": "Wazirabad",
-      "client": "Delhivery",
+      "client": "Amicco",
       "lineItem": "Maintenance",
-      "amount": 40.41237113402062,
+      "amount": 10.103092783505154,
       "segment": "cargo"
     },
     {
@@ -20941,18 +20941,18 @@
       "month": "2026-08",
       "city": "Gurgaon",
       "hub": "Wazirabad",
-      "client": "Amicco",
+      "client": "Delhivery",
       "lineItem": "Maintenance",
-      "amount": 2.0618556701030926,
+      "amount": 14.432989690721648,
       "segment": "cargo"
     },
     {
       "month": "2026-08",
       "city": "Gurgaon",
       "hub": "Wazirabad",
-      "client": "Delhivery",
+      "client": "Amicco",
       "lineItem": "Maintenance",
-      "amount": 16.49484536082474,
+      "amount": 4.123711340206185,
       "segment": "cargo"
     },
     {
@@ -20986,18 +20986,18 @@
       "month": "2026-08",
       "city": "Gurgaon",
       "hub": "Wazirabad",
-      "client": "Amicco",
+      "client": "Delhivery",
       "lineItem": "Maintenance",
-      "amount": 2.0618556701030926,
+      "amount": 14.432989690721648,
       "segment": "cargo"
     },
     {
       "month": "2026-08",
       "city": "Gurgaon",
       "hub": "Wazirabad",
-      "client": "Delhivery",
+      "client": "Amicco",
       "lineItem": "Maintenance",
-      "amount": 16.49484536082474,
+      "amount": 4.123711340206185,
       "segment": "cargo"
     },
     {
@@ -21031,18 +21031,18 @@
       "month": "2026-08",
       "city": "Gurgaon",
       "hub": "Wazirabad",
-      "client": "Amicco",
+      "client": "Delhivery",
       "lineItem": "Maintenance",
-      "amount": 0.8762886597938144,
+      "amount": 6.1340206185567006,
       "segment": "cargo"
     },
     {
       "month": "2026-08",
       "city": "Gurgaon",
       "hub": "Wazirabad",
-      "client": "Delhivery",
+      "client": "Amicco",
       "lineItem": "Maintenance",
-      "amount": 7.010309278350515,
+      "amount": 1.7525773195876289,
       "segment": "cargo"
     },
     {
@@ -21076,18 +21076,18 @@
       "month": "2026-08",
       "city": "Gurgaon",
       "hub": "Wazirabad",
-      "client": "Amicco",
+      "client": "Delhivery",
       "lineItem": "Maintenance",
-      "amount": 7.11340206185567,
+      "amount": 49.793814432989684,
       "segment": "cargo"
     },
     {
       "month": "2026-08",
       "city": "Gurgaon",
       "hub": "Wazirabad",
-      "client": "Delhivery",
+      "client": "Amicco",
       "lineItem": "Maintenance",
-      "amount": 56.90721649484536,
+      "amount": 14.22680412371134,
       "segment": "cargo"
     },
     {
@@ -21121,18 +21121,18 @@
       "month": "2026-08",
       "city": "Gurgaon",
       "hub": "Wazirabad",
-      "client": "Amicco",
+      "client": "Delhivery",
       "lineItem": "Maintenance",
-      "amount": 13.371134020618557,
+      "amount": 93.59793814432989,
       "segment": "cargo"
     },
     {
       "month": "2026-08",
       "city": "Gurgaon",
       "hub": "Wazirabad",
-      "client": "Delhivery",
+      "client": "Amicco",
       "lineItem": "Maintenance",
-      "amount": 106.96907216494846,
+      "amount": 26.742268041237114,
       "segment": "cargo"
     },
     {
@@ -21265,18 +21265,18 @@
       "month": "2026-08",
       "city": "Gurgaon",
       "hub": "Wazirabad",
-      "client": "Amicco",
+      "client": "Delhivery",
       "lineItem": "Maintenance",
-      "amount": 9.175257731958762,
+      "amount": 64.22680412371133,
       "segment": "cargo"
     },
     {
       "month": "2026-08",
       "city": "Gurgaon",
       "hub": "Wazirabad",
-      "client": "Delhivery",
+      "client": "Amicco",
       "lineItem": "Maintenance",
-      "amount": 73.4020618556701,
+      "amount": 18.350515463917525,
       "segment": "cargo"
     },
     {
@@ -21310,18 +21310,18 @@
       "month": "2026-08",
       "city": "Gurgaon",
       "hub": "Wazirabad",
-      "client": "Amicco",
+      "client": "Delhivery",
       "lineItem": "Maintenance",
-      "amount": 3.8144329896907214,
+      "amount": 26.70103092783505,
       "segment": "cargo"
     },
     {
       "month": "2026-08",
       "city": "Gurgaon",
       "hub": "Wazirabad",
-      "client": "Delhivery",
+      "client": "Amicco",
       "lineItem": "Maintenance",
-      "amount": 30.51546391752577,
+      "amount": 7.628865979381443,
       "segment": "cargo"
     },
     {
@@ -21355,18 +21355,18 @@
       "month": "2026-08",
       "city": "Gurgaon",
       "hub": "Wazirabad",
-      "client": "Amicco",
+      "client": "Delhivery",
       "lineItem": "Maintenance",
-      "amount": 2.0618556701030926,
+      "amount": 14.432989690721648,
       "segment": "cargo"
     },
     {
       "month": "2026-08",
       "city": "Gurgaon",
       "hub": "Wazirabad",
-      "client": "Delhivery",
+      "client": "Amicco",
       "lineItem": "Maintenance",
-      "amount": 16.49484536082474,
+      "amount": 4.123711340206185,
       "segment": "cargo"
     },
     {
@@ -21427,18 +21427,18 @@
       "month": "2026-08",
       "city": "Gurgaon",
       "hub": "Wazirabad",
-      "client": "Amicco",
+      "client": "Delhivery",
       "lineItem": "Maintenance",
-      "amount": 7.608247422680412,
+      "amount": 53.25773195876288,
       "segment": "cargo"
     },
     {
       "month": "2026-08",
       "city": "Gurgaon",
       "hub": "Wazirabad",
-      "client": "Delhivery",
+      "client": "Amicco",
       "lineItem": "Maintenance",
-      "amount": 60.865979381443296,
+      "amount": 15.216494845360824,
       "segment": "cargo"
     },
     {
@@ -21472,18 +21472,18 @@
       "month": "2026-08",
       "city": "Gurgaon",
       "hub": "Wazirabad",
-      "client": "Amicco",
+      "client": "Delhivery",
       "lineItem": "Maintenance",
-      "amount": 0.8762886597938144,
+      "amount": 6.1340206185567006,
       "segment": "cargo"
     },
     {
       "month": "2026-08",
       "city": "Gurgaon",
       "hub": "Wazirabad",
-      "client": "Delhivery",
+      "client": "Amicco",
       "lineItem": "Maintenance",
-      "amount": 7.010309278350515,
+      "amount": 1.7525773195876289,
       "segment": "cargo"
     },
     {
@@ -21517,18 +21517,18 @@
       "month": "2026-08",
       "city": "Gurgaon",
       "hub": "Wazirabad",
-      "client": "Amicco",
+      "client": "Delhivery",
       "lineItem": "Maintenance",
-      "amount": 0.7216494845360825,
+      "amount": 5.051546391752577,
       "segment": "cargo"
     },
     {
       "month": "2026-08",
       "city": "Gurgaon",
       "hub": "Wazirabad",
-      "client": "Delhivery",
+      "client": "Amicco",
       "lineItem": "Maintenance",
-      "amount": 5.77319587628866,
+      "amount": 1.443298969072165,
       "segment": "cargo"
     },
     {
@@ -21562,18 +21562,18 @@
       "month": "2026-08",
       "city": "Gurgaon",
       "hub": "Wazirabad",
-      "client": "Amicco",
+      "client": "Delhivery",
       "lineItem": "Maintenance",
-      "amount": 1.134020618556701,
+      "amount": 7.9381443298969065,
       "segment": "cargo"
     },
     {
       "month": "2026-08",
       "city": "Gurgaon",
       "hub": "Wazirabad",
-      "client": "Delhivery",
+      "client": "Amicco",
       "lineItem": "Maintenance",
-      "amount": 9.072164948453608,
+      "amount": 2.268041237113402,
       "segment": "cargo"
     },
     {
@@ -21643,18 +21643,18 @@
       "month": "2026-08",
       "city": "Gurgaon",
       "hub": "Wazirabad",
-      "client": "Amicco",
+      "client": "Delhivery",
       "lineItem": "Maintenance",
-      "amount": 1.5463917525773196,
+      "amount": 10.824742268041236,
       "segment": "cargo"
     },
     {
       "month": "2026-08",
       "city": "Gurgaon",
       "hub": "Wazirabad",
-      "client": "Delhivery",
+      "client": "Amicco",
       "lineItem": "Maintenance",
-      "amount": 12.371134020618557,
+      "amount": 3.0927835051546393,
       "segment": "cargo"
     },
     {
@@ -21688,18 +21688,18 @@
       "month": "2026-08",
       "city": "Gurgaon",
       "hub": "Wazirabad",
-      "client": "Amicco",
+      "client": "Delhivery",
       "lineItem": "Maintenance",
-      "amount": 6.577319587628866,
+      "amount": 46.041237113402055,
       "segment": "cargo"
     },
     {
       "month": "2026-08",
       "city": "Gurgaon",
       "hub": "Wazirabad",
-      "client": "Delhivery",
+      "client": "Amicco",
       "lineItem": "Maintenance",
-      "amount": 52.618556701030926,
+      "amount": 13.154639175257731,
       "segment": "cargo"
     },
     {
@@ -21814,18 +21814,18 @@
       "month": "2026-08",
       "city": "Gurgaon",
       "hub": "Wazirabad",
-      "client": "Amicco",
+      "client": "Delhivery",
       "lineItem": "Maintenance",
-      "amount": 2.0618556701030926,
+      "amount": 14.432989690721648,
       "segment": "cargo"
     },
     {
       "month": "2026-08",
       "city": "Gurgaon",
       "hub": "Wazirabad",
-      "client": "Delhivery",
+      "client": "Amicco",
       "lineItem": "Maintenance",
-      "amount": 16.49484536082474,
+      "amount": 4.123711340206185,
       "segment": "cargo"
     },
     {
@@ -21859,18 +21859,18 @@
       "month": "2026-08",
       "city": "Gurgaon",
       "hub": "Wazirabad",
-      "client": "Amicco",
+      "client": "Delhivery",
       "lineItem": "Maintenance",
-      "amount": 0.8762886597938144,
+      "amount": 6.1340206185567006,
       "segment": "cargo"
     },
     {
       "month": "2026-08",
       "city": "Gurgaon",
       "hub": "Wazirabad",
-      "client": "Delhivery",
+      "client": "Amicco",
       "lineItem": "Maintenance",
-      "amount": 7.010309278350515,
+      "amount": 1.7525773195876289,
       "segment": "cargo"
     },
     {
@@ -21931,18 +21931,18 @@
       "month": "2026-08",
       "city": "Gurgaon",
       "hub": "Wazirabad",
-      "client": "Amicco",
+      "client": "Delhivery",
       "lineItem": "Maintenance",
-      "amount": 0.8762886597938144,
+      "amount": 6.1340206185567006,
       "segment": "cargo"
     },
     {
       "month": "2026-08",
       "city": "Gurgaon",
       "hub": "Wazirabad",
-      "client": "Delhivery",
+      "client": "Amicco",
       "lineItem": "Maintenance",
-      "amount": 7.010309278350515,
+      "amount": 1.7525773195876289,
       "segment": "cargo"
     },
     {
@@ -21976,18 +21976,18 @@
       "month": "2026-08",
       "city": "Gurgaon",
       "hub": "Wazirabad",
-      "client": "Amicco",
+      "client": "Delhivery",
       "lineItem": "Maintenance",
-      "amount": 1.5463917525773196,
+      "amount": 10.824742268041236,
       "segment": "cargo"
     },
     {
       "month": "2026-08",
       "city": "Gurgaon",
       "hub": "Wazirabad",
-      "client": "Delhivery",
+      "client": "Amicco",
       "lineItem": "Maintenance",
-      "amount": 12.371134020618557,
+      "amount": 3.0927835051546393,
       "segment": "cargo"
     },
     {
@@ -22021,18 +22021,18 @@
       "month": "2026-08",
       "city": "Gurgaon",
       "hub": "Wazirabad",
-      "client": "Amicco",
+      "client": "Delhivery",
       "lineItem": "Maintenance",
-      "amount": 0.8762886597938144,
+      "amount": 6.1340206185567006,
       "segment": "cargo"
     },
     {
       "month": "2026-08",
       "city": "Gurgaon",
       "hub": "Wazirabad",
-      "client": "Delhivery",
+      "client": "Amicco",
       "lineItem": "Maintenance",
-      "amount": 7.010309278350515,
+      "amount": 1.7525773195876289,
       "segment": "cargo"
     },
     {
@@ -22066,18 +22066,18 @@
       "month": "2026-08",
       "city": "Gurgaon",
       "hub": "Wazirabad",
-      "client": "Amicco",
+      "client": "Delhivery",
       "lineItem": "Maintenance",
-      "amount": 3.5051546391752577,
+      "amount": 24.536082474226802,
       "segment": "cargo"
     },
     {
       "month": "2026-08",
       "city": "Gurgaon",
       "hub": "Wazirabad",
-      "client": "Delhivery",
+      "client": "Amicco",
       "lineItem": "Maintenance",
-      "amount": 28.04123711340206,
+      "amount": 7.010309278350515,
       "segment": "cargo"
     },
     {
@@ -22354,18 +22354,18 @@
       "month": "2026-08",
       "city": "Gurgaon",
       "hub": "Wazirabad",
-      "client": "Amicco",
+      "client": "Delhivery",
       "lineItem": "Maintenance",
-      "amount": 1.134020618556701,
+      "amount": 7.9381443298969065,
       "segment": "cargo"
     },
     {
       "month": "2026-08",
       "city": "Gurgaon",
       "hub": "Wazirabad",
-      "client": "Delhivery",
+      "client": "Amicco",
       "lineItem": "Maintenance",
-      "amount": 9.072164948453608,
+      "amount": 2.268041237113402,
       "segment": "cargo"
     },
     {
@@ -22399,18 +22399,18 @@
       "month": "2026-08",
       "city": "Gurgaon",
       "hub": "Wazirabad",
-      "client": "Amicco",
+      "client": "Delhivery",
       "lineItem": "Maintenance",
-      "amount": 0.4948453608247423,
+      "amount": 3.4639175257731956,
       "segment": "cargo"
     },
     {
       "month": "2026-08",
       "city": "Gurgaon",
       "hub": "Wazirabad",
-      "client": "Delhivery",
+      "client": "Amicco",
       "lineItem": "Maintenance",
-      "amount": 3.9587628865979383,
+      "amount": 0.9896907216494846,
       "segment": "cargo"
     },
     {
@@ -22444,18 +22444,18 @@
       "month": "2026-08",
       "city": "Gurgaon",
       "hub": "Wazirabad",
-      "client": "Amicco",
+      "client": "Delhivery",
       "lineItem": "Maintenance",
-      "amount": 1.5463917525773196,
+      "amount": 10.824742268041236,
       "segment": "cargo"
     },
     {
       "month": "2026-08",
       "city": "Gurgaon",
       "hub": "Wazirabad",
-      "client": "Delhivery",
+      "client": "Amicco",
       "lineItem": "Maintenance",
-      "amount": 12.371134020618557,
+      "amount": 3.0927835051546393,
       "segment": "cargo"
     },
     {
@@ -22507,18 +22507,18 @@
       "month": "2026-08",
       "city": "Gurgaon",
       "hub": "Wazirabad",
-      "client": "Amicco",
+      "client": "Delhivery",
       "lineItem": "Maintenance",
-      "amount": 6.752577319587629,
+      "amount": 47.2680412371134,
       "segment": "cargo"
     },
     {
       "month": "2026-08",
       "city": "Gurgaon",
       "hub": "Wazirabad",
-      "client": "Delhivery",
+      "client": "Amicco",
       "lineItem": "Maintenance",
-      "amount": 54.02061855670103,
+      "amount": 13.505154639175258,
       "segment": "cargo"
     },
     {
@@ -22732,18 +22732,18 @@
       "month": "2026-08",
       "city": "Gurgaon",
       "hub": "Wazirabad",
-      "client": "Amicco",
+      "client": "Delhivery",
       "lineItem": "Maintenance",
-      "amount": 4.835051546391752,
+      "amount": 33.845360824742265,
       "segment": "cargo"
     },
     {
       "month": "2026-08",
       "city": "Gurgaon",
       "hub": "Wazirabad",
-      "client": "Delhivery",
+      "client": "Amicco",
       "lineItem": "Maintenance",
-      "amount": 38.68041237113402,
+      "amount": 9.670103092783505,
       "segment": "cargo"
     },
     {
@@ -22777,18 +22777,18 @@
       "month": "2026-08",
       "city": "Gurgaon",
       "hub": "Wazirabad",
-      "client": "Amicco",
+      "client": "Delhivery",
       "lineItem": "Maintenance",
-      "amount": 0.6701030927835051,
+      "amount": 4.690721649484535,
       "segment": "cargo"
     },
     {
       "month": "2026-08",
       "city": "Gurgaon",
       "hub": "Wazirabad",
-      "client": "Delhivery",
+      "client": "Amicco",
       "lineItem": "Maintenance",
-      "amount": 5.360824742268041,
+      "amount": 1.3402061855670102,
       "segment": "cargo"
     },
     {
@@ -22912,18 +22912,18 @@
       "month": "2026-09",
       "city": "Gurgaon",
       "hub": "Wazirabad",
-      "client": "Amicco",
+      "client": "Delhivery",
       "lineItem": "Maintenance",
-      "amount": 1.134020618556701,
+      "amount": 7.9381443298969065,
       "segment": "cargo"
     },
     {
       "month": "2026-09",
       "city": "Gurgaon",
       "hub": "Wazirabad",
-      "client": "Delhivery",
+      "client": "Amicco",
       "lineItem": "Maintenance",
-      "amount": 9.072164948453608,
+      "amount": 2.268041237113402,
       "segment": "cargo"
     },
     {
@@ -22957,18 +22957,18 @@
       "month": "2026-09",
       "city": "Gurgaon",
       "hub": "Wazirabad",
-      "client": "Amicco",
+      "client": "Delhivery",
       "lineItem": "Maintenance",
-      "amount": 5.721649484536083,
+      "amount": 40.051546391752574,
       "segment": "cargo"
     },
     {
       "month": "2026-09",
       "city": "Gurgaon",
       "hub": "Wazirabad",
-      "client": "Delhivery",
+      "client": "Amicco",
       "lineItem": "Maintenance",
-      "amount": 45.77319587628866,
+      "amount": 11.443298969072165,
       "segment": "cargo"
     },
     {
@@ -23002,18 +23002,18 @@
       "month": "2026-09",
       "city": "Gurgaon",
       "hub": "Wazirabad",
-      "client": "Amicco",
+      "client": "Delhivery",
       "lineItem": "Maintenance",
-      "amount": 2.6804123711340204,
+      "amount": 18.76288659793814,
       "segment": "cargo"
     },
     {
       "month": "2026-09",
       "city": "Gurgaon",
       "hub": "Wazirabad",
-      "client": "Delhivery",
+      "client": "Amicco",
       "lineItem": "Maintenance",
-      "amount": 21.443298969072163,
+      "amount": 5.360824742268041,
       "segment": "cargo"
     },
     {
@@ -23074,18 +23074,18 @@
       "month": "2026-09",
       "city": "Gurgaon",
       "hub": "Wazirabad",
-      "client": "Amicco",
+      "client": "Delhivery",
       "lineItem": "Maintenance",
-      "amount": 1.5463917525773196,
+      "amount": 10.824742268041236,
       "segment": "cargo"
     },
     {
       "month": "2026-09",
       "city": "Gurgaon",
       "hub": "Wazirabad",
-      "client": "Delhivery",
+      "client": "Amicco",
       "lineItem": "Maintenance",
-      "amount": 12.371134020618557,
+      "amount": 3.0927835051546393,
       "segment": "cargo"
     },
     {
@@ -23119,18 +23119,18 @@
       "month": "2026-09",
       "city": "Gurgaon",
       "hub": "Wazirabad",
-      "client": "Amicco",
+      "client": "Delhivery",
       "lineItem": "Maintenance",
-      "amount": 1.7525773195876289,
+      "amount": 12.268041237113401,
       "segment": "cargo"
     },
     {
       "month": "2026-09",
       "city": "Gurgaon",
       "hub": "Wazirabad",
-      "client": "Delhivery",
+      "client": "Amicco",
       "lineItem": "Maintenance",
-      "amount": 14.02061855670103,
+      "amount": 3.5051546391752577,
       "segment": "cargo"
     },
     {
@@ -23164,18 +23164,18 @@
       "month": "2026-09",
       "city": "Gurgaon",
       "hub": "Wazirabad",
-      "client": "Amicco",
+      "client": "Delhivery",
       "lineItem": "Maintenance",
-      "amount": 3.1958762886597936,
+      "amount": 22.371134020618555,
       "segment": "cargo"
     },
     {
       "month": "2026-09",
       "city": "Gurgaon",
       "hub": "Wazirabad",
-      "client": "Delhivery",
+      "client": "Amicco",
       "lineItem": "Maintenance",
-      "amount": 25.56701030927835,
+      "amount": 6.391752577319587,
       "segment": "cargo"
     },
     {
@@ -23371,18 +23371,18 @@
       "month": "2026-09",
       "city": "Gurgaon",
       "hub": "Wazirabad",
-      "client": "Amicco",
+      "client": "Delhivery",
       "lineItem": "Maintenance",
-      "amount": 1.134020618556701,
+      "amount": 7.9381443298969065,
       "segment": "cargo"
     },
     {
       "month": "2026-09",
       "city": "Gurgaon",
       "hub": "Wazirabad",
-      "client": "Delhivery",
+      "client": "Amicco",
       "lineItem": "Maintenance",
-      "amount": 9.072164948453608,
+      "amount": 2.268041237113402,
       "segment": "cargo"
     },
     {
@@ -23416,18 +23416,18 @@
       "month": "2026-09",
       "city": "Gurgaon",
       "hub": "Wazirabad",
-      "client": "Amicco",
+      "client": "Delhivery",
       "lineItem": "Maintenance",
-      "amount": 0.8762886597938144,
+      "amount": 6.1340206185567006,
       "segment": "cargo"
     },
     {
       "month": "2026-09",
       "city": "Gurgaon",
       "hub": "Wazirabad",
-      "client": "Delhivery",
+      "client": "Amicco",
       "lineItem": "Maintenance",
-      "amount": 7.010309278350515,
+      "amount": 1.7525773195876289,
       "segment": "cargo"
     },
     {
@@ -23488,18 +23488,18 @@
       "month": "2026-09",
       "city": "Gurgaon",
       "hub": "Wazirabad",
-      "client": "Amicco",
+      "client": "Delhivery",
       "lineItem": "Maintenance",
-      "amount": 1.134020618556701,
+      "amount": 7.9381443298969065,
       "segment": "cargo"
     },
     {
       "month": "2026-09",
       "city": "Gurgaon",
       "hub": "Wazirabad",
-      "client": "Delhivery",
+      "client": "Amicco",
       "lineItem": "Maintenance",
-      "amount": 9.072164948453608,
+      "amount": 2.268041237113402,
       "segment": "cargo"
     },
     {
@@ -23533,18 +23533,18 @@
       "month": "2026-09",
       "city": "Gurgaon",
       "hub": "Wazirabad",
-      "client": "Amicco",
+      "client": "Delhivery",
       "lineItem": "Maintenance",
-      "amount": 0.30927835051546393,
+      "amount": 2.1649484536082473,
       "segment": "cargo"
     },
     {
       "month": "2026-09",
       "city": "Gurgaon",
       "hub": "Wazirabad",
-      "client": "Delhivery",
+      "client": "Amicco",
       "lineItem": "Maintenance",
-      "amount": 2.4742268041237114,
+      "amount": 0.6185567010309279,
       "segment": "cargo"
     },
     {
@@ -24058,6 +24058,402 @@
       "client": "Delhivery",
       "lineItem": "Maintenance",
       "amount": 12.745098039215685,
+      "segment": "cargo"
+    },
+    {
+      "month": "2026-09",
+      "city": "Delhi",
+      "hub": "Nilothi",
+      "client": "Porter - 3W L3",
+      "lineItem": "Maintenance",
+      "amount": 28.03921568627451,
+      "segment": "cargo"
+    },
+    {
+      "month": "2026-09",
+      "city": "Delhi",
+      "hub": "Nilothi",
+      "client": "Blinkit",
+      "lineItem": "Maintenance",
+      "amount": 60.392156862745104,
+      "segment": "cargo"
+    },
+    {
+      "month": "2026-09",
+      "city": "Delhi",
+      "hub": "Nilothi",
+      "client": "Delhivery",
+      "lineItem": "Maintenance",
+      "amount": 21.56862745098039,
+      "segment": "cargo"
+    },
+    {
+      "month": "2026-09",
+      "city": "Gurgaon",
+      "hub": "Wazirabad",
+      "client": "Porter - 3W L3",
+      "lineItem": "Maintenance",
+      "amount": 1709.4123711340208,
+      "segment": "cargo"
+    },
+    {
+      "month": "2026-09",
+      "city": "Gurgaon",
+      "hub": "Wazirabad",
+      "client": "Blinkit",
+      "lineItem": "Maintenance",
+      "amount": 899.6907216494845,
+      "segment": "cargo"
+    },
+    {
+      "month": "2026-09",
+      "city": "Gurgaon",
+      "hub": "Wazirabad",
+      "client": "Delhivery",
+      "lineItem": "Maintenance",
+      "amount": 209.92783505154637,
+      "segment": "cargo"
+    },
+    {
+      "month": "2026-09",
+      "city": "Gurgaon",
+      "hub": "Wazirabad",
+      "client": "Amicco",
+      "lineItem": "Maintenance",
+      "amount": 59.97938144329897,
+      "segment": "cargo"
+    },
+    {
+      "month": "2026-09",
+      "city": "Gurgaon",
+      "hub": "Wazirabad",
+      "client": "Wash4you",
+      "lineItem": "Maintenance",
+      "amount": 29.989690721649485,
+      "segment": "cargo"
+    },
+    {
+      "month": "2026-09",
+      "city": "Gurgaon",
+      "hub": "Wazirabad",
+      "client": "Porter - 3W L3",
+      "lineItem": "Maintenance",
+      "amount": 64.63917525773196,
+      "segment": "cargo"
+    },
+    {
+      "month": "2026-09",
+      "city": "Gurgaon",
+      "hub": "Wazirabad",
+      "client": "Blinkit",
+      "lineItem": "Maintenance",
+      "amount": 34.02061855670103,
+      "segment": "cargo"
+    },
+    {
+      "month": "2026-09",
+      "city": "Gurgaon",
+      "hub": "Wazirabad",
+      "client": "Delhivery",
+      "lineItem": "Maintenance",
+      "amount": 7.9381443298969065,
+      "segment": "cargo"
+    },
+    {
+      "month": "2026-09",
+      "city": "Gurgaon",
+      "hub": "Wazirabad",
+      "client": "Amicco",
+      "lineItem": "Maintenance",
+      "amount": 2.268041237113402,
+      "segment": "cargo"
+    },
+    {
+      "month": "2026-09",
+      "city": "Gurgaon",
+      "hub": "Wazirabad",
+      "client": "Wash4you",
+      "lineItem": "Maintenance",
+      "amount": 1.134020618556701,
+      "segment": "cargo"
+    },
+    {
+      "month": "2026-09",
+      "city": "Delhi",
+      "hub": "Saket",
+      "client": "Porter - 3W L3",
+      "lineItem": "Maintenance",
+      "amount": 351.6290322580645,
+      "segment": "cargo"
+    },
+    {
+      "month": "2026-09",
+      "city": "Delhi",
+      "hub": "Saket",
+      "client": "Blinkit",
+      "lineItem": "Maintenance",
+      "amount": 1163.0806451612905,
+      "segment": "cargo"
+    },
+    {
+      "month": "2026-09",
+      "city": "Delhi",
+      "hub": "Saket",
+      "client": "Rental_L5",
+      "lineItem": "Maintenance",
+      "amount": 135.24193548387098,
+      "segment": "cargo"
+    },
+    {
+      "month": "2026-09",
+      "city": "Delhi",
+      "hub": "Saket",
+      "client": "Delhivery",
+      "lineItem": "Maintenance",
+      "amount": 27.048387096774192,
+      "segment": "cargo"
+    },
+    {
+      "month": "2026-09",
+      "city": "Delhi",
+      "hub": "Saket",
+      "client": "Porter - 3W L3",
+      "lineItem": "Maintenance",
+      "amount": 13.629032258064516,
+      "segment": "cargo"
+    },
+    {
+      "month": "2026-09",
+      "city": "Delhi",
+      "hub": "Saket",
+      "client": "Blinkit",
+      "lineItem": "Maintenance",
+      "amount": 45.08064516129033,
+      "segment": "cargo"
+    },
+    {
+      "month": "2026-09",
+      "city": "Delhi",
+      "hub": "Saket",
+      "client": "Rental_L5",
+      "lineItem": "Maintenance",
+      "amount": 5.241935483870968,
+      "segment": "cargo"
+    },
+    {
+      "month": "2026-09",
+      "city": "Delhi",
+      "hub": "Saket",
+      "client": "Delhivery",
+      "lineItem": "Maintenance",
+      "amount": 1.0483870967741935,
+      "segment": "cargo"
+    },
+    {
+      "month": "2026-09",
+      "city": "Gurgaon",
+      "hub": "Wazirabad",
+      "client": "Porter - 3W L3",
+      "lineItem": "Maintenance",
+      "amount": 64.63917525773196,
+      "segment": "cargo"
+    },
+    {
+      "month": "2026-09",
+      "city": "Gurgaon",
+      "hub": "Wazirabad",
+      "client": "Blinkit",
+      "lineItem": "Maintenance",
+      "amount": 34.02061855670103,
+      "segment": "cargo"
+    },
+    {
+      "month": "2026-09",
+      "city": "Gurgaon",
+      "hub": "Wazirabad",
+      "client": "Delhivery",
+      "lineItem": "Maintenance",
+      "amount": 7.9381443298969065,
+      "segment": "cargo"
+    },
+    {
+      "month": "2026-09",
+      "city": "Gurgaon",
+      "hub": "Wazirabad",
+      "client": "Amicco",
+      "lineItem": "Maintenance",
+      "amount": 2.268041237113402,
+      "segment": "cargo"
+    },
+    {
+      "month": "2026-09",
+      "city": "Gurgaon",
+      "hub": "Wazirabad",
+      "client": "Wash4you",
+      "lineItem": "Maintenance",
+      "amount": 1.134020618556701,
+      "segment": "cargo"
+    },
+    {
+      "month": "2026-09",
+      "city": "Gurgaon",
+      "hub": "Wazirabad",
+      "client": "Porter - 3W L3",
+      "lineItem": "Maintenance",
+      "amount": 152.7835051546392,
+      "segment": "cargo"
+    },
+    {
+      "month": "2026-09",
+      "city": "Gurgaon",
+      "hub": "Wazirabad",
+      "client": "Blinkit",
+      "lineItem": "Maintenance",
+      "amount": 80.41237113402062,
+      "segment": "cargo"
+    },
+    {
+      "month": "2026-09",
+      "city": "Gurgaon",
+      "hub": "Wazirabad",
+      "client": "Delhivery",
+      "lineItem": "Maintenance",
+      "amount": 18.76288659793814,
+      "segment": "cargo"
+    },
+    {
+      "month": "2026-09",
+      "city": "Gurgaon",
+      "hub": "Wazirabad",
+      "client": "Amicco",
+      "lineItem": "Maintenance",
+      "amount": 5.360824742268041,
+      "segment": "cargo"
+    },
+    {
+      "month": "2026-09",
+      "city": "Gurgaon",
+      "hub": "Wazirabad",
+      "client": "Wash4you",
+      "lineItem": "Maintenance",
+      "amount": 2.6804123711340204,
+      "segment": "cargo"
+    },
+    {
+      "month": "2026-09",
+      "city": "Gurgaon",
+      "hub": "Wazirabad",
+      "client": "Porter - 3W L3",
+      "lineItem": "Maintenance",
+      "amount": 152.7835051546392,
+      "segment": "cargo"
+    },
+    {
+      "month": "2026-09",
+      "city": "Gurgaon",
+      "hub": "Wazirabad",
+      "client": "Blinkit",
+      "lineItem": "Maintenance",
+      "amount": 80.41237113402062,
+      "segment": "cargo"
+    },
+    {
+      "month": "2026-09",
+      "city": "Gurgaon",
+      "hub": "Wazirabad",
+      "client": "Delhivery",
+      "lineItem": "Maintenance",
+      "amount": 18.76288659793814,
+      "segment": "cargo"
+    },
+    {
+      "month": "2026-09",
+      "city": "Gurgaon",
+      "hub": "Wazirabad",
+      "client": "Amicco",
+      "lineItem": "Maintenance",
+      "amount": 5.360824742268041,
+      "segment": "cargo"
+    },
+    {
+      "month": "2026-09",
+      "city": "Gurgaon",
+      "hub": "Wazirabad",
+      "client": "Wash4you",
+      "lineItem": "Maintenance",
+      "amount": 2.6804123711340204,
+      "segment": "cargo"
+    },
+    {
+      "month": "2026-09",
+      "city": "Delhi",
+      "hub": "Nilothi",
+      "client": "Porter - 3W L3",
+      "lineItem": "Maintenance",
+      "amount": 101.96078431372548,
+      "segment": "cargo"
+    },
+    {
+      "month": "2026-09",
+      "city": "Delhi",
+      "hub": "Nilothi",
+      "client": "Blinkit",
+      "lineItem": "Maintenance",
+      "amount": 219.60784313725492,
+      "segment": "cargo"
+    },
+    {
+      "month": "2026-09",
+      "city": "Delhi",
+      "hub": "Nilothi",
+      "client": "Delhivery",
+      "lineItem": "Maintenance",
+      "amount": 78.43137254901961,
+      "segment": "cargo"
+    },
+    {
+      "month": "2026-09",
+      "city": "Gurgaon",
+      "hub": "Wazirabad",
+      "client": "Porter - 3W L3",
+      "lineItem": "Maintenance",
+      "amount": 88.14432989690722,
+      "segment": "cargo"
+    },
+    {
+      "month": "2026-09",
+      "city": "Gurgaon",
+      "hub": "Wazirabad",
+      "client": "Blinkit",
+      "lineItem": "Maintenance",
+      "amount": 46.391752577319586,
+      "segment": "cargo"
+    },
+    {
+      "month": "2026-09",
+      "city": "Gurgaon",
+      "hub": "Wazirabad",
+      "client": "Delhivery",
+      "lineItem": "Maintenance",
+      "amount": 10.824742268041236,
+      "segment": "cargo"
+    },
+    {
+      "month": "2026-09",
+      "city": "Gurgaon",
+      "hub": "Wazirabad",
+      "client": "Amicco",
+      "lineItem": "Maintenance",
+      "amount": 3.0927835051546393,
+      "segment": "cargo"
+    },
+    {
+      "month": "2026-09",
+      "city": "Gurgaon",
+      "hub": "Wazirabad",
+      "client": "Wash4you",
+      "lineItem": "Maintenance",
+      "amount": 1.5463917525773196,
       "segment": "cargo"
     },
     {
@@ -28709,7 +29105,7 @@
       "month": "2026-09",
       "city": "Gurgaon",
       "hub": "Wazirabad",
-      "client": "Amicco",
+      "client": "Delhivery",
       "lineItem": "Lease/EMI",
       "amount": 15000
     },
@@ -28741,7 +29137,7 @@
       "month": "2026-09",
       "city": "Gurgaon",
       "hub": "Wazirabad",
-      "client": "Delhivery",
+      "client": "Amicco",
       "lineItem": "Lease/EMI",
       "amount": 14600
     },
@@ -28749,7 +29145,7 @@
       "month": "2026-09",
       "city": "Gurgaon",
       "hub": "Wazirabad",
-      "client": "Delhivery",
+      "client": "Amicco",
       "lineItem": "Lease/EMI",
       "amount": 14600
     },
@@ -106343,7 +106739,7 @@
       "hub": "",
       "client": "DELHIVERY",
       "lineItem": "Driver Payout",
-      "amount": 15653.297000000002
+      "amount": 16105.5945
     },
     {
       "month": "2026-08",
@@ -106367,7 +106763,7 @@
       "hub": "",
       "client": "DELHIVERY",
       "lineItem": "Driver Payout",
-      "amount": 12515.766500000002
+      "amount": 12645.8515
     },
     {
       "month": "2026-08",
@@ -106567,7 +106963,7 @@
       "hub": "",
       "client": "DELHIVERY",
       "lineItem": "Driver Payout",
-      "amount": 17211.890000000003
+      "amount": 17580.61
     },
     {
       "month": "2026-08",
@@ -106623,7 +107019,7 @@
       "hub": "",
       "client": "DELHIVERY",
       "lineItem": "Driver Payout",
-      "amount": 7797.079499999999
+      "amount": 8398.0795
     },
     {
       "month": "2026-08",
