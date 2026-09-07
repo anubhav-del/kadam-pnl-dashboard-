@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-07T10:50:12.096Z",
+  "generatedAt": "2026-09-07T15:48:55.687Z",
   "records": [
     {
       "month": "2026-06",
@@ -8785,6 +8785,24 @@
       "client": "Amicco",
       "lineItem": "Maintenance",
       "amount": 235.11538461538464,
+      "segment": "cargo"
+    },
+    {
+      "month": "2026-09",
+      "city": "Bangalore",
+      "hub": "Kormangala",
+      "client": "3W L3 Porter- Fixed",
+      "lineItem": "Maintenance",
+      "amount": 158.79310344827587,
+      "segment": "cargo"
+    },
+    {
+      "month": "2026-09",
+      "city": "Bangalore",
+      "hub": "Kormangala",
+      "client": "Delhivery",
+      "lineItem": "Maintenance",
+      "amount": 148.20689655172416,
       "segment": "cargo"
     },
     {
@@ -24454,6 +24472,132 @@
       "client": "Wash4you",
       "lineItem": "Maintenance",
       "amount": 1.5463917525773196,
+      "segment": "cargo"
+    },
+    {
+      "month": "2026-09",
+      "city": "Delhi",
+      "hub": "Saket",
+      "client": "Porter - 3W L3",
+      "lineItem": "Maintenance",
+      "amount": 381.61290322580646,
+      "segment": "cargo"
+    },
+    {
+      "month": "2026-09",
+      "city": "Delhi",
+      "hub": "Saket",
+      "client": "Blinkit",
+      "lineItem": "Maintenance",
+      "amount": 1262.258064516129,
+      "segment": "cargo"
+    },
+    {
+      "month": "2026-09",
+      "city": "Delhi",
+      "hub": "Saket",
+      "client": "Rental_L5",
+      "lineItem": "Maintenance",
+      "amount": 146.7741935483871,
+      "segment": "cargo"
+    },
+    {
+      "month": "2026-09",
+      "city": "Delhi",
+      "hub": "Saket",
+      "client": "Delhivery",
+      "lineItem": "Maintenance",
+      "amount": 29.35483870967742,
+      "segment": "cargo"
+    },
+    {
+      "month": "2026-09",
+      "city": "Delhi",
+      "hub": "Saket",
+      "client": "Porter - 3W L3",
+      "lineItem": "Maintenance",
+      "amount": 23.06451612903226,
+      "segment": "cargo"
+    },
+    {
+      "month": "2026-09",
+      "city": "Delhi",
+      "hub": "Saket",
+      "client": "Blinkit",
+      "lineItem": "Maintenance",
+      "amount": 76.29032258064517,
+      "segment": "cargo"
+    },
+    {
+      "month": "2026-09",
+      "city": "Delhi",
+      "hub": "Saket",
+      "client": "Rental_L5",
+      "lineItem": "Maintenance",
+      "amount": 8.870967741935484,
+      "segment": "cargo"
+    },
+    {
+      "month": "2026-09",
+      "city": "Delhi",
+      "hub": "Saket",
+      "client": "Delhivery",
+      "lineItem": "Maintenance",
+      "amount": 1.7741935483870968,
+      "segment": "cargo"
+    },
+    {
+      "month": "2026-09",
+      "city": "Delhi",
+      "hub": "Nilothi",
+      "client": "Porter - 3W L3",
+      "lineItem": "Maintenance",
+      "amount": 12.235294117647058,
+      "segment": "cargo"
+    },
+    {
+      "month": "2026-09",
+      "city": "Delhi",
+      "hub": "Nilothi",
+      "client": "Blinkit",
+      "lineItem": "Maintenance",
+      "amount": 26.35294117647059,
+      "segment": "cargo"
+    },
+    {
+      "month": "2026-09",
+      "city": "Delhi",
+      "hub": "Nilothi",
+      "client": "Delhivery",
+      "lineItem": "Maintenance",
+      "amount": 9.411764705882353,
+      "segment": "cargo"
+    },
+    {
+      "month": "2026-09",
+      "city": "Delhi",
+      "hub": "Nilothi",
+      "client": "Porter - 3W L3",
+      "lineItem": "Maintenance",
+      "amount": 54.803921568627445,
+      "segment": "cargo"
+    },
+    {
+      "month": "2026-09",
+      "city": "Delhi",
+      "hub": "Nilothi",
+      "client": "Blinkit",
+      "lineItem": "Maintenance",
+      "amount": 118.03921568627452,
+      "segment": "cargo"
+    },
+    {
+      "month": "2026-09",
+      "city": "Delhi",
+      "hub": "Nilothi",
+      "client": "Delhivery",
+      "lineItem": "Maintenance",
+      "amount": 42.15686274509804,
       "segment": "cargo"
     },
     {
@@ -107315,7 +107459,7 @@
       "hub": "",
       "client": "DELHIVERY",
       "lineItem": "Driver Payout",
-      "amount": 1108.97
+      "amount": 810.97
     },
     {
       "month": "2026-08",
