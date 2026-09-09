@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-09T03:49:13.979Z",
+  "generatedAt": "2026-09-09T04:49:00.112Z",
   "records": [
     {
       "month": "2026-06",
@@ -25453,6 +25453,78 @@
       "client": "Delhivery",
       "lineItem": "Maintenance",
       "amount": 34.09090909090909,
+      "segment": "cargo"
+    },
+    {
+      "month": "2026-09",
+      "city": "Noida",
+      "hub": "Sector 121",
+      "client": "Blinkit",
+      "lineItem": "Maintenance",
+      "amount": 310.96153846153845,
+      "segment": "cargo"
+    },
+    {
+      "month": "2026-09",
+      "city": "Noida",
+      "hub": "Sector 121",
+      "client": "Porter - 3W L3",
+      "lineItem": "Maintenance",
+      "amount": 103.65384615384615,
+      "segment": "cargo"
+    },
+    {
+      "month": "2026-09",
+      "city": "Noida",
+      "hub": "Sector 121",
+      "client": "Delhivery",
+      "lineItem": "Maintenance",
+      "amount": 65.96153846153845,
+      "segment": "cargo"
+    },
+    {
+      "month": "2026-09",
+      "city": "Noida",
+      "hub": "Sector 121",
+      "client": "Amicco",
+      "lineItem": "Maintenance",
+      "amount": 9.423076923076923,
+      "segment": "cargo"
+    },
+    {
+      "month": "2026-09",
+      "city": "Noida",
+      "hub": "Sector 121",
+      "client": "Blinkit",
+      "lineItem": "Maintenance",
+      "amount": 215.76923076923075,
+      "segment": "cargo"
+    },
+    {
+      "month": "2026-09",
+      "city": "Noida",
+      "hub": "Sector 121",
+      "client": "Porter - 3W L3",
+      "lineItem": "Maintenance",
+      "amount": 71.92307692307692,
+      "segment": "cargo"
+    },
+    {
+      "month": "2026-09",
+      "city": "Noida",
+      "hub": "Sector 121",
+      "client": "Delhivery",
+      "lineItem": "Maintenance",
+      "amount": 45.76923076923077,
+      "segment": "cargo"
+    },
+    {
+      "month": "2026-09",
+      "city": "Noida",
+      "hub": "Sector 121",
+      "client": "Amicco",
+      "lineItem": "Maintenance",
+      "amount": 6.538461538461539,
       "segment": "cargo"
     },
     {
