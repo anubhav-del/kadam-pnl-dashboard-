@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-10T00:50:20.752Z",
+  "generatedAt": "2026-09-10T08:50:20.890Z",
   "records": [
     {
       "month": "2026-06",
@@ -1247,7 +1247,7 @@
       "hub": "Hero Honda",
       "client": "Passenger Rental",
       "lineItem": "Supervisor Cost",
-      "amount": 142065.82608695654
+      "amount": 137065.82608695654
     },
     {
       "month": "2026-08",
@@ -1263,7 +1263,7 @@
       "hub": "Andheri",
       "client": "Zomato - 2W",
       "lineItem": "Supervisor Cost",
-      "amount": 65698
+      "amount": 68698
     },
     {
       "month": "2026-08",
@@ -1279,7 +1279,7 @@
       "hub": "Sector 121",
       "client": "Blinkit",
       "lineItem": "Supervisor Cost",
-      "amount": 77823.75634510996
+      "amount": 79460.4064723364
     },
     {
       "month": "2026-08",
@@ -1287,7 +1287,7 @@
       "hub": "Sector 121",
       "client": "Delhivery",
       "lineItem": "Supervisor Cost",
-      "amount": 15358.008842298741
+      "amount": 15680.991030593901
     },
     {
       "month": "2026-08",
@@ -1295,7 +1295,7 @@
       "hub": "Sector 121",
       "client": "Porter - 3W L3",
       "lineItem": "Supervisor Cost",
-      "amount": 22889.34010150293
+      "amount": 23370.707785981293
     },
     {
       "month": "2026-09",
@@ -1383,7 +1383,7 @@
       "hub": "Saket",
       "client": "Rental_L5",
       "lineItem": "Supervisor Cost",
-      "amount": 5312.129639979943
+      "amount": 10093.04631596189
     },
     {
       "month": "2026-09",
@@ -1391,7 +1391,7 @@
       "hub": "Saket",
       "client": "Delhivery",
       "lineItem": "Supervisor Cost",
-      "amount": 5312.129639979943
+      "amount": 531.2129639979943
     },
     {
       "month": "2026-09",
@@ -25960,6 +25960,294 @@
       "segment": "cargo"
     },
     {
+      "month": "2026-09",
+      "city": "Delhi",
+      "hub": "Saket",
+      "client": "Porter - 3W L3",
+      "lineItem": "Maintenance",
+      "amount": 14.67741935483871,
+      "segment": "cargo"
+    },
+    {
+      "month": "2026-09",
+      "city": "Delhi",
+      "hub": "Saket",
+      "client": "Blinkit",
+      "lineItem": "Maintenance",
+      "amount": 48.5483870967742,
+      "segment": "cargo"
+    },
+    {
+      "month": "2026-09",
+      "city": "Delhi",
+      "hub": "Saket",
+      "client": "Rental_L5",
+      "lineItem": "Maintenance",
+      "amount": 5.64516129032258,
+      "segment": "cargo"
+    },
+    {
+      "month": "2026-09",
+      "city": "Delhi",
+      "hub": "Saket",
+      "client": "Delhivery",
+      "lineItem": "Maintenance",
+      "amount": 1.129032258064516,
+      "segment": "cargo"
+    },
+    {
+      "month": "2026-09",
+      "city": "Gurgaon",
+      "hub": "Wazirabad",
+      "client": "Porter - 3W L3",
+      "lineItem": "Maintenance",
+      "amount": 117.5257731958763,
+      "segment": "cargo"
+    },
+    {
+      "month": "2026-09",
+      "city": "Gurgaon",
+      "hub": "Wazirabad",
+      "client": "Blinkit",
+      "lineItem": "Maintenance",
+      "amount": 61.855670103092784,
+      "segment": "cargo"
+    },
+    {
+      "month": "2026-09",
+      "city": "Gurgaon",
+      "hub": "Wazirabad",
+      "client": "Delhivery",
+      "lineItem": "Maintenance",
+      "amount": 14.432989690721648,
+      "segment": "cargo"
+    },
+    {
+      "month": "2026-09",
+      "city": "Gurgaon",
+      "hub": "Wazirabad",
+      "client": "Amicco",
+      "lineItem": "Maintenance",
+      "amount": 4.123711340206185,
+      "segment": "cargo"
+    },
+    {
+      "month": "2026-09",
+      "city": "Gurgaon",
+      "hub": "Wazirabad",
+      "client": "Wash4you",
+      "lineItem": "Maintenance",
+      "amount": 2.0618556701030926,
+      "segment": "cargo"
+    },
+    {
+      "month": "2026-09",
+      "city": "Delhi",
+      "hub": "Saket",
+      "client": "Porter - 3W L3",
+      "lineItem": "Maintenance",
+      "amount": 31.451612903225808,
+      "segment": "cargo"
+    },
+    {
+      "month": "2026-09",
+      "city": "Delhi",
+      "hub": "Saket",
+      "client": "Blinkit",
+      "lineItem": "Maintenance",
+      "amount": 104.03225806451614,
+      "segment": "cargo"
+    },
+    {
+      "month": "2026-09",
+      "city": "Delhi",
+      "hub": "Saket",
+      "client": "Rental_L5",
+      "lineItem": "Maintenance",
+      "amount": 12.096774193548386,
+      "segment": "cargo"
+    },
+    {
+      "month": "2026-09",
+      "city": "Delhi",
+      "hub": "Saket",
+      "client": "Delhivery",
+      "lineItem": "Maintenance",
+      "amount": 2.4193548387096775,
+      "segment": "cargo"
+    },
+    {
+      "month": "2026-09",
+      "city": "Gurgaon",
+      "hub": "Wazirabad",
+      "client": "Porter - 3W L3",
+      "lineItem": "Maintenance",
+      "amount": 92.84536082474227,
+      "segment": "cargo"
+    },
+    {
+      "month": "2026-09",
+      "city": "Gurgaon",
+      "hub": "Wazirabad",
+      "client": "Blinkit",
+      "lineItem": "Maintenance",
+      "amount": 48.8659793814433,
+      "segment": "cargo"
+    },
+    {
+      "month": "2026-09",
+      "city": "Gurgaon",
+      "hub": "Wazirabad",
+      "client": "Delhivery",
+      "lineItem": "Maintenance",
+      "amount": 11.402061855670102,
+      "segment": "cargo"
+    },
+    {
+      "month": "2026-09",
+      "city": "Gurgaon",
+      "hub": "Wazirabad",
+      "client": "Amicco",
+      "lineItem": "Maintenance",
+      "amount": 3.2577319587628866,
+      "segment": "cargo"
+    },
+    {
+      "month": "2026-09",
+      "city": "Gurgaon",
+      "hub": "Wazirabad",
+      "client": "Wash4you",
+      "lineItem": "Maintenance",
+      "amount": 1.6288659793814433,
+      "segment": "cargo"
+    },
+    {
+      "month": "2026-09",
+      "city": "Delhi",
+      "hub": "Saket",
+      "client": "Porter - 3W L3",
+      "lineItem": "Maintenance",
+      "amount": 16.56451612903226,
+      "segment": "cargo"
+    },
+    {
+      "month": "2026-09",
+      "city": "Delhi",
+      "hub": "Saket",
+      "client": "Blinkit",
+      "lineItem": "Maintenance",
+      "amount": 54.79032258064517,
+      "segment": "cargo"
+    },
+    {
+      "month": "2026-09",
+      "city": "Delhi",
+      "hub": "Saket",
+      "client": "Rental_L5",
+      "lineItem": "Maintenance",
+      "amount": 6.370967741935484,
+      "segment": "cargo"
+    },
+    {
+      "month": "2026-09",
+      "city": "Delhi",
+      "hub": "Saket",
+      "client": "Delhivery",
+      "lineItem": "Maintenance",
+      "amount": 1.2741935483870968,
+      "segment": "cargo"
+    },
+    {
+      "month": "2026-09",
+      "city": "Gurgaon",
+      "hub": "Wazirabad",
+      "client": "Porter - 3W L3",
+      "lineItem": "Maintenance",
+      "amount": 92.84536082474227,
+      "segment": "cargo"
+    },
+    {
+      "month": "2026-09",
+      "city": "Gurgaon",
+      "hub": "Wazirabad",
+      "client": "Blinkit",
+      "lineItem": "Maintenance",
+      "amount": 48.8659793814433,
+      "segment": "cargo"
+    },
+    {
+      "month": "2026-09",
+      "city": "Gurgaon",
+      "hub": "Wazirabad",
+      "client": "Delhivery",
+      "lineItem": "Maintenance",
+      "amount": 11.402061855670102,
+      "segment": "cargo"
+    },
+    {
+      "month": "2026-09",
+      "city": "Gurgaon",
+      "hub": "Wazirabad",
+      "client": "Amicco",
+      "lineItem": "Maintenance",
+      "amount": 3.2577319587628866,
+      "segment": "cargo"
+    },
+    {
+      "month": "2026-09",
+      "city": "Gurgaon",
+      "hub": "Wazirabad",
+      "client": "Wash4you",
+      "lineItem": "Maintenance",
+      "amount": 1.6288659793814433,
+      "segment": "cargo"
+    },
+    {
+      "month": "2026-09",
+      "city": "Gurgaon",
+      "hub": "Wazirabad",
+      "client": "Porter - 3W L3",
+      "lineItem": "Maintenance",
+      "amount": 64.63917525773196,
+      "segment": "cargo"
+    },
+    {
+      "month": "2026-09",
+      "city": "Gurgaon",
+      "hub": "Wazirabad",
+      "client": "Blinkit",
+      "lineItem": "Maintenance",
+      "amount": 34.02061855670103,
+      "segment": "cargo"
+    },
+    {
+      "month": "2026-09",
+      "city": "Gurgaon",
+      "hub": "Wazirabad",
+      "client": "Delhivery",
+      "lineItem": "Maintenance",
+      "amount": 7.9381443298969065,
+      "segment": "cargo"
+    },
+    {
+      "month": "2026-09",
+      "city": "Gurgaon",
+      "hub": "Wazirabad",
+      "client": "Amicco",
+      "lineItem": "Maintenance",
+      "amount": 2.268041237113402,
+      "segment": "cargo"
+    },
+    {
+      "month": "2026-09",
+      "city": "Gurgaon",
+      "hub": "Wazirabad",
+      "client": "Wash4you",
+      "lineItem": "Maintenance",
+      "amount": 1.134020618556701,
+      "segment": "cargo"
+    },
+    {
       "month": "2026-03",
       "city": "Gurgaon",
       "hub": "Gurgaon Sec 68",
@@ -28423,6 +28711,24 @@
       "client": "Passenger Rental",
       "lineItem": "Maintenance",
       "amount": 1355,
+      "segment": "passenger"
+    },
+    {
+      "month": "2026-09",
+      "city": "Gurgaon",
+      "hub": "Gurgaon Sec 68",
+      "client": "Passenger Rental",
+      "lineItem": "Maintenance",
+      "amount": 725,
+      "segment": "passenger"
+    },
+    {
+      "month": "2026-09",
+      "city": "Gurgaon",
+      "hub": "Gurgaon Sec 68",
+      "client": "Passenger Rental",
+      "lineItem": "Maintenance",
+      "amount": 2106,
       "segment": "passenger"
     },
     {
@@ -53863,7 +54169,7 @@
       "hub": "",
       "client": "Blinkit",
       "lineItem": "Driver Payout",
-      "amount": 17995.282541350003
+      "amount": 18092.82087635
     },
     {
       "month": "2025-08",
@@ -53927,7 +54233,7 @@
       "hub": "",
       "client": "Blinkit",
       "lineItem": "Driver Payout",
-      "amount": -109.0576386333305
+      "amount": 329.698923255557
     },
     {
       "month": "2025-08",
@@ -54159,7 +54465,7 @@
       "hub": "",
       "client": "Blinkit",
       "lineItem": "Driver Payout",
-      "amount": 3905.605229822223
+      "amount": 3581.9442873777784
     },
     {
       "month": "2025-08",
@@ -54231,7 +54537,7 @@
       "hub": "",
       "client": "Blinkit",
       "lineItem": "Driver Payout",
-      "amount": 15904.042464499998
+      "amount": 15768.942466999997
     },
     {
       "month": "2025-08",
@@ -54527,7 +54833,7 @@
       "hub": "",
       "client": "Blinkit",
       "lineItem": "Driver Payout",
-      "amount": 20840.677564749996
+      "amount": 20945.677564749996
     },
     {
       "month": "2025-08",
@@ -54655,7 +54961,7 @@
       "hub": "",
       "client": "Blinkit",
       "lineItem": "Driver Payout",
-      "amount": 22860.9124915
+      "amount": 20094.325010499997
     },
     {
       "month": "2025-08",
@@ -54983,7 +55289,7 @@
       "hub": "",
       "client": "Blinkit",
       "lineItem": "Driver Payout",
-      "amount": -0.2250092555568699
+      "amount": -152.6211198666715
     },
     {
       "month": "2025-08",
@@ -55127,7 +55433,7 @@
       "hub": "",
       "client": "Blinkit",
       "lineItem": "Driver Payout",
-      "amount": 21493.0458500015
+      "amount": 18683.996703500998
     },
     {
       "month": "2025-08",
@@ -55135,7 +55441,7 @@
       "hub": "",
       "client": "Blinkit",
       "lineItem": "Driver Payout",
-      "amount": 22463.040003000002
+      "amount": 18902.108332000003
     },
     {
       "month": "2025-08",
@@ -55143,7 +55449,7 @@
       "hub": "",
       "client": "Blinkit",
       "lineItem": "Driver Payout",
-      "amount": 3528.3599940000004
+      "amount": 2099.6650019999997
     },
     {
       "month": "2025-08",
@@ -55151,7 +55457,7 @@
       "hub": "",
       "client": "Blinkit",
       "lineItem": "Driver Payout",
-      "amount": 13570.159155000001
+      "amount": 10842.2858295
     },
     {
       "month": "2025-08",
@@ -55159,7 +55465,7 @@
       "hub": "",
       "client": "Blinkit",
       "lineItem": "Driver Payout",
-      "amount": 2101.0316117500042
+      "amount": -1006.3691883499978
     },
     {
       "month": "2025-08",
@@ -55167,7 +55473,7 @@
       "hub": "",
       "client": "Blinkit",
       "lineItem": "Driver Payout",
-      "amount": 20192.339973
+      "amount": 18861.805816499997
     },
     {
       "month": "2025-08",
@@ -55175,7 +55481,7 @@
       "hub": "",
       "client": "Blinkit",
       "lineItem": "Driver Payout",
-      "amount": 9357.274956500001
+      "amount": 6982.064136
     },
     {
       "month": "2025-08",
@@ -55183,7 +55489,7 @@
       "hub": "",
       "client": "Blinkit",
       "lineItem": "Driver Payout",
-      "amount": 0.002484999999978754
+      "amount": -3270.7900025
     },
     {
       "month": "2025-08",
@@ -55191,7 +55497,7 @@
       "hub": "",
       "client": "Blinkit",
       "lineItem": "Driver Payout",
-      "amount": 24311.890832
+      "amount": 21218.201650500003
     },
     {
       "month": "2025-08",
@@ -55199,7 +55505,7 @@
       "hub": "",
       "client": "Blinkit",
       "lineItem": "Driver Payout",
-      "amount": 25068.925853750003
+      "amount": 21088.57336775
     },
     {
       "month": "2025-08",
@@ -55207,7 +55513,7 @@
       "hub": "",
       "client": "Blinkit",
       "lineItem": "Driver Payout",
-      "amount": 24769.3124355
+      "amount": 21805.453288999997
     },
     {
       "month": "2025-08",
@@ -55215,7 +55521,7 @@
       "hub": "",
       "client": "Blinkit",
       "lineItem": "Driver Payout",
-      "amount": 8978.295832
+      "amount": 5369.2433304999995
     },
     {
       "month": "2025-08",
@@ -55223,7 +55529,7 @@
       "hub": "",
       "client": "Blinkit",
       "lineItem": "Driver Payout",
-      "amount": 1218.7649895
+      "amount": 713.819994
     },
     {
       "month": "2025-08",
@@ -55231,7 +55537,7 @@
       "hub": "",
       "client": "Blinkit",
       "lineItem": "Driver Payout",
-      "amount": 23404.7583585
+      "amount": 20326.995858500002
     },
     {
       "month": "2025-08",
@@ -55239,7 +55545,7 @@
       "hub": "",
       "client": "Blinkit",
       "lineItem": "Driver Payout",
-      "amount": 1718.542486499995
+      "amount": -300.7750114999981
     },
     {
       "month": "2025-08",
@@ -55247,7 +55553,7 @@
       "hub": "",
       "client": "Blinkit",
       "lineItem": "Driver Payout",
-      "amount": 9001.070917000001
+      "amount": 6605.0567075
     },
     {
       "month": "2025-08",
@@ -55255,7 +55561,7 @@
       "hub": "",
       "client": "Blinkit",
       "lineItem": "Driver Payout",
-      "amount": 25617.677518499997
+      "amount": 21597.850863
     },
     {
       "month": "2025-08",
@@ -55263,7 +55569,7 @@
       "hub": "",
       "client": "Blinkit",
       "lineItem": "Driver Payout",
-      "amount": 21988.620819
+      "amount": 17957.833928611115
     },
     {
       "month": "2025-08",
@@ -55271,7 +55577,7 @@
       "hub": "",
       "client": "Blinkit",
       "lineItem": "Driver Payout",
-      "amount": -0.09499095499995747
+      "amount": -2477.272480945001
     },
     {
       "month": "2025-08",
@@ -55279,7 +55585,7 @@
       "hub": "",
       "client": "Blinkit",
       "lineItem": "Driver Payout",
-      "amount": 13444.055018199997
+      "amount": 11719.323316299997
     },
     {
       "month": "2025-08",
@@ -55287,7 +55593,7 @@
       "hub": "",
       "client": "Blinkit",
       "lineItem": "Driver Payout",
-      "amount": 6529.609140499999
+      "amount": 3331.1108488888894
     },
     {
       "month": "2025-08",
@@ -55295,7 +55601,7 @@
       "hub": "",
       "client": "Blinkit",
       "lineItem": "Driver Payout",
-      "amount": 21168.74150811111
+      "amount": 18024.00944538889
     },
     {
       "month": "2025-08",
@@ -55303,7 +55609,7 @@
       "hub": "",
       "client": "Blinkit",
       "lineItem": "Driver Payout",
-      "amount": 7702.0841925
+      "amount": 4383.602848666666
     },
     {
       "month": "2025-08",
@@ -55311,7 +55617,7 @@
       "hub": "",
       "client": "Blinkit",
       "lineItem": "Driver Payout",
-      "amount": 24512.702755111106
+      "amount": 20661.944596611113
     },
     {
       "month": "2025-08",
@@ -55319,7 +55625,7 @@
       "hub": "",
       "client": "Blinkit",
       "lineItem": "Driver Payout",
-      "amount": 8602.8333781
+      "amount": 6147.1683729
     },
     {
       "month": "2025-08",
@@ -55327,7 +55633,7 @@
       "hub": "",
       "client": "Blinkit",
       "lineItem": "Driver Payout",
-      "amount": 22287.561625000002
+      "amount": 18848.501956500004
     },
     {
       "month": "2025-08",
@@ -55543,7 +55849,7 @@
       "hub": "",
       "client": "Blinkit",
       "lineItem": "Driver Payout",
-      "amount": -0.15589705554884858
+      "amount": 161.87343727778352
     },
     {
       "month": "2025-08",
@@ -55703,7 +56009,7 @@
       "hub": "",
       "client": "Blinkit",
       "lineItem": "Driver Payout",
-      "amount": 19733.946160666663
+      "amount": 18235.569096222218
     },
     {
       "month": "2025-08",
@@ -55711,7 +56017,7 @@
       "hub": "",
       "client": "Blinkit",
       "lineItem": "Driver Payout",
-      "amount": 253.66455772222253
+      "amount": 777.6395567222244
     },
     {
       "month": "2025-08",
@@ -55807,7 +56113,7 @@
       "hub": "",
       "client": "Blinkit",
       "lineItem": "Driver Payout",
-      "amount": 0.23253850000037346
+      "amount": 11.66587150000123
     },
     {
       "month": "2025-08",
@@ -55991,7 +56297,7 @@
       "hub": "",
       "client": "Blinkit",
       "lineItem": "Driver Payout",
-      "amount": 387.8775165000002
+      "amount": 78.11334799999986
     },
     {
       "month": "2025-08",
@@ -56039,7 +56345,7 @@
       "hub": "",
       "client": "Blinkit",
       "lineItem": "Driver Payout",
-      "amount": 16451.117847444442
+      "amount": 16436.025064
     },
     {
       "month": "2025-08",
@@ -56087,7 +56393,7 @@
       "hub": "",
       "client": "Blinkit",
       "lineItem": "Driver Payout",
-      "amount": 2276.4191305
+      "amount": 2498.3524665
     },
     {
       "month": "2025-08",
@@ -56135,7 +56441,7 @@
       "hub": "",
       "client": "Blinkit",
       "lineItem": "Driver Payout",
-      "amount": 10055.522517700001
+      "amount": 10145.612516700001
     },
     {
       "month": "2025-08",
@@ -56263,7 +56569,7 @@
       "hub": "",
       "client": "Blinkit",
       "lineItem": "Driver Payout",
-      "amount": 11598.359185000001
+      "amount": 11641.119185000003
     },
     {
       "month": "2025-08",
@@ -56335,7 +56641,7 @@
       "hub": "",
       "client": "Blinkit",
       "lineItem": "Driver Payout",
-      "amount": 11450.751953777779
+      "amount": 12127.447511
     },
     {
       "month": "2025-08",
@@ -56471,7 +56777,7 @@
       "hub": "",
       "client": "Blinkit",
       "lineItem": "Driver Payout",
-      "amount": 6633.935161166667
+      "amount": 6717.034938944445
     },
     {
       "month": "2025-08",
@@ -56543,7 +56849,7 @@
       "hub": "",
       "client": "Blinkit",
       "lineItem": "Driver Payout",
-      "amount": 8224.9375015
+      "amount": 8931.0291685
     },
     {
       "month": "2025-08",
@@ -56551,7 +56857,7 @@
       "hub": "",
       "client": "Blinkit",
       "lineItem": "Driver Payout",
-      "amount": 9571.110005999999
+      "amount": 9757.181674
     },
     {
       "month": "2025-08",
@@ -56639,7 +56945,7 @@
       "hub": "",
       "client": "Blinkit",
       "lineItem": "Driver Payout",
-      "amount": 7498.365
+      "amount": 7865.1050000000005
     },
     {
       "month": "2025-08",
@@ -56751,7 +57057,7 @@
       "hub": "",
       "client": "Blinkit",
       "lineItem": "Driver Payout",
-      "amount": 4947.545
+      "amount": 5674.705055555555
     },
     {
       "month": "2025-08",
@@ -56967,7 +57273,7 @@
       "hub": "",
       "client": "Blinkit",
       "lineItem": "Driver Payout",
-      "amount": 7081.62
+      "amount": 7389.9212777777775
     },
     {
       "month": "2025-08",
@@ -57055,7 +57361,7 @@
       "hub": "",
       "client": "Blinkit",
       "lineItem": "Driver Payout",
-      "amount": 5872.335
+      "amount": 6649.85
     },
     {
       "month": "2025-08",
@@ -59359,7 +59665,7 @@
       "hub": "",
       "client": "Blinkit",
       "lineItem": "Driver Payout",
-      "amount": 900.2325385000004
+      "amount": 911.6658715000012
     },
     {
       "month": "2025-09",
@@ -59575,7 +59881,7 @@
       "hub": "",
       "client": "Blinkit",
       "lineItem": "Driver Payout",
-      "amount": 16668.085000000003
+      "amount": 14271.553363000003
     },
     {
       "month": "2025-09",
@@ -59623,7 +59929,7 @@
       "hub": "",
       "client": "Blinkit",
       "lineItem": "Driver Payout",
-      "amount": 11024.729102944446
+      "amount": 11024.884999999995
     },
     {
       "month": "2025-09",
@@ -60351,7 +60657,7 @@
       "hub": "",
       "client": "Blinkit",
       "lineItem": "Driver Payout",
-      "amount": 5219.259555555555
+      "amount": 4918.484544055557
     },
     {
       "month": "2025-09",
@@ -60439,7 +60745,7 @@
       "hub": "",
       "client": "Blinkit",
       "lineItem": "Driver Payout",
-      "amount": 440.4423613666695
+      "amount": 549.5
     },
     {
       "month": "2025-09",
@@ -60455,7 +60761,7 @@
       "hub": "",
       "client": "Blinkit",
       "lineItem": "Driver Payout",
-      "amount": 4976.921444444444
+      "amount": 3970.5522560944464
     },
     {
       "month": "2025-09",
@@ -63951,7 +64257,7 @@
       "hub": "",
       "client": "Blinkit",
       "lineItem": "Driver Payout",
-      "amount": 27123.6544615
+      "amount": 23697.184461499997
     },
     {
       "month": "2025-10",
@@ -63999,7 +64305,7 @@
       "hub": "",
       "client": "Blinkit",
       "lineItem": "Driver Payout",
-      "amount": 430.05999999999995
+      "amount": -61.36500000000001
     },
     {
       "month": "2025-10",
@@ -64087,7 +64393,7 @@
       "hub": "",
       "client": "Blinkit",
       "lineItem": "Driver Payout",
-      "amount": 1857.23
+      "amount": 707.3249999999999
     },
     {
       "month": "2025-10",
@@ -64199,7 +64505,7 @@
       "hub": "",
       "client": "Blinkit",
       "lineItem": "Driver Payout",
-      "amount": 6817.151777777778
+      "amount": 1905.5900000000001
     },
     {
       "month": "2025-10",
@@ -64231,7 +64537,7 @@
       "hub": "",
       "client": "Blinkit",
       "lineItem": "Driver Payout",
-      "amount": 5225
+      "amount": 2172.665
     },
     {
       "month": "2025-10",
@@ -64287,7 +64593,7 @@
       "hub": "",
       "client": "Blinkit",
       "lineItem": "Driver Payout",
-      "amount": 12173.95722222222
+      "amount": 3194.3949999999995
     },
     {
       "month": "2025-10",
@@ -64583,7 +64889,7 @@
       "hub": "",
       "client": "Blinkit",
       "lineItem": "Driver Payout",
-      "amount": 4268.284666666666
+      "amount": 1313.6549999999997
     },
     {
       "month": "2025-10",
@@ -64599,7 +64905,7 @@
       "hub": "",
       "client": "Blinkit",
       "lineItem": "Driver Payout",
-      "amount": 3072.44338888889
+      "amount": 1263.6100000000006
     },
     {
       "month": "2025-10",
@@ -64711,7 +65017,7 @@
       "hub": "",
       "client": "Blinkit",
       "lineItem": "Driver Payout",
-      "amount": 15512.907277777776
+      "amount": 2905.76
     },
     {
       "month": "2025-10",
@@ -64767,7 +65073,7 @@
       "hub": "",
       "client": "Blinkit",
       "lineItem": "Driver Payout",
-      "amount": 14077.210111111111
+      "amount": 2784.06
     },
     {
       "month": "2025-10",
@@ -64815,7 +65121,7 @@
       "hub": "",
       "client": "Blinkit",
       "lineItem": "Driver Payout",
-      "amount": 13573.5115
+      "amount": 1910.9099999999999
     },
     {
       "month": "2025-10",
@@ -64847,7 +65153,7 @@
       "hub": "",
       "client": "Blinkit",
       "lineItem": "Driver Payout",
-      "amount": 2186.6349999999998
+      "amount": 1519.65
     },
     {
       "month": "2025-10",
@@ -64879,7 +65185,7 @@
       "hub": "",
       "client": "Blinkit",
       "lineItem": "Driver Payout",
-      "amount": 15333.737510999996
+      "amount": 14175.822510999997
     },
     {
       "month": "2025-10",
@@ -65023,7 +65329,7 @@
       "hub": "",
       "client": "Blinkit",
       "lineItem": "Driver Payout",
-      "amount": 3436.22
+      "amount": 2500.615
     },
     {
       "month": "2025-10",
@@ -65039,7 +65345,7 @@
       "hub": "",
       "client": "Blinkit",
       "lineItem": "Driver Payout",
-      "amount": 8211.182444444445
+      "amount": 2382.6
     },
     {
       "month": "2025-10",
@@ -65071,7 +65377,7 @@
       "hub": "",
       "client": "Blinkit",
       "lineItem": "Driver Payout",
-      "amount": 14456.145
+      "amount": 2989.91
     },
     {
       "month": "2025-10",
@@ -65303,7 +65609,7 @@
       "hub": "",
       "client": "Blinkit",
       "lineItem": "Driver Payout",
-      "amount": 4750.290000000001
+      "amount": 1692.8899999999999
     },
     {
       "month": "2025-10",
@@ -65311,7 +65617,7 @@
       "hub": "",
       "client": "Blinkit",
       "lineItem": "Driver Payout",
-      "amount": 10249.591944444444
+      "amount": 2292.87
     },
     {
       "month": "2025-10",
@@ -65327,7 +65633,7 @@
       "hub": "",
       "client": "Blinkit",
       "lineItem": "Driver Payout",
-      "amount": 8656.846000000001
+      "amount": 2328.9750000000004
     },
     {
       "month": "2025-10",
@@ -65335,7 +65641,7 @@
       "hub": "",
       "client": "Blinkit",
       "lineItem": "Driver Payout",
-      "amount": 5823.540333333334
+      "amount": 1792.3100000000002
     },
     {
       "month": "2025-10",
@@ -65375,7 +65681,7 @@
       "hub": "",
       "client": "Blinkit",
       "lineItem": "Driver Payout",
-      "amount": -1718.1699999999998
+      "amount": -491.2
     },
     {
       "month": "2025-10",
@@ -65471,7 +65777,7 @@
       "hub": "",
       "client": "Blinkit",
       "lineItem": "Driver Payout",
-      "amount": 22025.197500000002
+      "amount": 21993.4075
     },
     {
       "month": "2025-10",
@@ -65831,7 +66137,7 @@
       "hub": "",
       "client": "Blinkit",
       "lineItem": "Driver Payout",
-      "amount": 4387.522501649999
+      "amount": 4594.772501649999
     },
     {
       "month": "2025-10",
@@ -66167,7 +66473,7 @@
       "hub": "",
       "client": "Blinkit",
       "lineItem": "Driver Payout",
-      "amount": 32.36188888888864
+      "amount": 2961.49
     },
     {
       "month": "2025-10",
@@ -66423,15 +66729,7 @@
       "hub": "",
       "client": "Porter",
       "lineItem": "Driver Payout",
-      "amount": -153.805
-    },
-    {
-      "month": "2025-10",
-      "city": "Delhi",
-      "hub": "",
-      "client": "Porter",
-      "lineItem": "Driver Payout",
-      "amount": -103.04999999999995
+      "amount": -1.8050000000000068
     },
     {
       "month": "2025-10",
@@ -66447,7 +66745,7 @@
       "hub": "",
       "client": "Porter",
       "lineItem": "Driver Payout",
-      "amount": 767.875
+      "amount": 600
     },
     {
       "month": "2025-10",
@@ -66695,14 +66993,6 @@
       "hub": "",
       "client": "Porter",
       "lineItem": "Driver Payout",
-      "amount": -27
-    },
-    {
-      "month": "2025-10",
-      "city": "Delhi",
-      "hub": "",
-      "client": "Porter",
-      "lineItem": "Driver Payout",
       "amount": 598.5
     },
     {
@@ -66728,14 +67018,6 @@
       "client": "Porter",
       "lineItem": "Driver Payout",
       "amount": 4141.25
-    },
-    {
-      "month": "2025-10",
-      "city": "Noida",
-      "hub": "",
-      "client": "Porter",
-      "lineItem": "Driver Payout",
-      "amount": -204.06500000000005
     },
     {
       "month": "2025-10",
@@ -67087,7 +67369,7 @@
       "hub": "",
       "client": "Delhivery",
       "lineItem": "Driver Payout",
-      "amount": 21542
+      "amount": 21502
     },
     {
       "month": "2025-10",
@@ -67135,7 +67417,7 @@
       "hub": "",
       "client": "",
       "lineItem": "Driver Payout",
-      "amount": 2417.5
+      "amount": 2400
     },
     {
       "month": "2025-10",
@@ -67151,7 +67433,7 @@
       "hub": "",
       "client": "",
       "lineItem": "Driver Payout",
-      "amount": 500.0300000000002
+      "amount": 500
     },
     {
       "month": "2025-10",
@@ -67983,7 +68265,7 @@
       "hub": "",
       "client": "Blinkit",
       "lineItem": "Driver Payout",
-      "amount": 505.3252148888887
+      "amount": 472.96332599999994
     },
     {
       "month": "2025-11",
@@ -68903,7 +69185,7 @@
       "hub": "",
       "client": "Blinkit",
       "lineItem": "Driver Payout",
-      "amount": -351.54696608333325
+      "amount": -412.911966083333
     },
     {
       "month": "2025-11",
@@ -69943,7 +70225,7 @@
       "hub": "",
       "client": "Porter",
       "lineItem": "Driver Payout",
-      "amount": 3943.515
+      "amount": 4095.515
     },
     {
       "month": "2025-11",
@@ -75559,7 +75841,7 @@
       "hub": "",
       "client": "Blinkit",
       "lineItem": "Driver Payout",
-      "amount": 7453.86753465
+      "amount": 6496.412562150001
     },
     {
       "month": "2026-01",
@@ -75775,7 +76057,7 @@
       "hub": "",
       "client": "Blinkit",
       "lineItem": "Driver Payout",
-      "amount": 17073.96337715
+      "amount": 17382.647549499998
     },
     {
       "month": "2026-01",
@@ -76255,7 +76537,7 @@
       "hub": "",
       "client": "Blinkit",
       "lineItem": "Driver Payout",
-      "amount": -220.84500737000008
+      "amount": 417.0324945
     },
     {
       "month": "2026-01",
@@ -76367,7 +76649,7 @@
       "hub": "",
       "client": "Blinkit",
       "lineItem": "Driver Payout",
-      "amount": -225.55501100000004
+      "amount": 113.2541685
     },
     {
       "month": "2026-01",
@@ -76839,7 +77121,7 @@
       "hub": "",
       "client": "Blinkit",
       "lineItem": "Driver Payout",
-      "amount": 1147.0216674
+      "amount": -24.310009349999973
     },
     {
       "month": "2026-01",
@@ -77127,7 +77409,7 @@
       "hub": "",
       "client": "Blinkit",
       "lineItem": "Driver Payout",
-      "amount": -2413.839168225
+      "amount": -874.843336725
     },
     {
       "month": "2026-01",
@@ -77671,7 +77953,7 @@
       "hub": "",
       "client": "Blinkit",
       "lineItem": "Driver Payout",
-      "amount": -356.2100055000001
+      "amount": -296.76
     },
     {
       "month": "2026-01",
@@ -77703,7 +77985,7 @@
       "hub": "",
       "client": "Blinkit",
       "lineItem": "Driver Payout",
-      "amount": -3545.890815
+      "amount": -1228.735
     },
     {
       "month": "2026-01",
@@ -77767,7 +78049,7 @@
       "hub": "",
       "client": "Blinkit",
       "lineItem": "Driver Payout",
-      "amount": -507.236685
+      "amount": -335.535
     },
     {
       "month": "2026-01",
@@ -77919,7 +78201,7 @@
       "hub": "",
       "client": "Porter",
       "lineItem": "Driver Payout",
-      "amount": 1506.4499999999998
+      "amount": 326.45000000000005
     },
     {
       "month": "2026-01",
@@ -77935,7 +78217,7 @@
       "hub": "",
       "client": "Porter",
       "lineItem": "Driver Payout",
-      "amount": 3691.16
+      "amount": 2774.58
     },
     {
       "month": "2026-01",
@@ -78263,7 +78545,7 @@
       "hub": "",
       "client": "Porter",
       "lineItem": "Driver Payout",
-      "amount": -1333.2050000000002
+      "amount": 317.20000000000005
     },
     {
       "month": "2026-01",
@@ -78360,14 +78642,6 @@
       "client": "Porter",
       "lineItem": "Driver Payout",
       "amount": 7019.084999999999
-    },
-    {
-      "month": "2026-01",
-      "city": "Delhi",
-      "hub": "",
-      "client": "Porter",
-      "lineItem": "Driver Payout",
-      "amount": -808.3076923076924
     },
     {
       "month": "2026-01",
@@ -79391,7 +79665,7 @@
       "hub": "",
       "client": "Blinkit",
       "lineItem": "Driver Payout",
-      "amount": 11310.625855700002
+      "amount": 11482.327540700002
     },
     {
       "month": "2026-02",
@@ -80463,7 +80737,7 @@
       "hub": "",
       "client": "Blinkit",
       "lineItem": "Driver Payout",
-      "amount": 8011.39913
+      "amount": 7985.38413
     },
     {
       "month": "2026-02",
@@ -80855,7 +81129,7 @@
       "hub": "",
       "client": "Blinkit",
       "lineItem": "Driver Payout",
-      "amount": -598.47
+      "amount": -578.9449999999999
     },
     {
       "month": "2026-02",
@@ -81607,7 +81881,7 @@
       "hub": "",
       "client": "Blinkit",
       "lineItem": "Driver Payout",
-      "amount": -1339.038331225
+      "amount": -1279.588325725
     },
     {
       "month": "2026-02",
@@ -81791,7 +82065,7 @@
       "hub": "",
       "client": "Blinkit",
       "lineItem": "Driver Payout",
-      "amount": 8120.187535200001
+      "amount": 6904.107542350001
     },
     {
       "month": "2026-02",
@@ -82063,7 +82337,7 @@
       "hub": "",
       "client": "Porter",
       "lineItem": "Driver Payout",
-      "amount": -571.1576923076924
+      "amount": 237.14999999999998
     },
     {
       "month": "2026-02",
@@ -104443,11 +104717,11 @@
     },
     {
       "month": "2026-07",
-      "city": "Sold Vehicles",
+      "city": "Gurgaon",
       "hub": "",
       "client": "Porter",
       "lineItem": "Driver Payout",
-      "amount": -10
+      "amount": 23440.199999999997
     },
     {
       "month": "2026-07",
@@ -104467,6 +104741,14 @@
     },
     {
       "month": "2026-07",
+      "city": "Gurgaon",
+      "hub": "",
+      "client": "Porter",
+      "lineItem": "Driver Payout",
+      "amount": 22575.6
+    },
+    {
+      "month": "2026-07",
       "city": "Delhi",
       "hub": "",
       "client": "DELHIVERY",
@@ -104483,11 +104765,11 @@
     },
     {
       "month": "2026-07",
-      "city": "Sold Vehicles",
+      "city": "Gurgaon",
       "hub": "",
       "client": "Porter",
       "lineItem": "Driver Payout",
-      "amount": -20
+      "amount": 25677.199999999993
     },
     {
       "month": "2026-07",
@@ -104507,6 +104789,14 @@
     },
     {
       "month": "2026-07",
+      "city": "Gurgaon",
+      "hub": "",
+      "client": "Porter",
+      "lineItem": "Driver Payout",
+      "amount": 27366.399999999994
+    },
+    {
+      "month": "2026-07",
       "city": "Bangalore",
       "hub": "",
       "client": "Porter",
@@ -104515,11 +104805,11 @@
     },
     {
       "month": "2026-07",
-      "city": "Sold Vehicles",
+      "city": "Gurgaon",
       "hub": "",
       "client": "Porter",
       "lineItem": "Driver Payout",
-      "amount": -20
+      "amount": 35100.00000000001
     },
     {
       "month": "2026-07",
@@ -108069,25 +108359,41 @@
       "month": "2026-08",
       "city": "Gurgaon",
       "hub": "",
+      "client": "Porter",
+      "lineItem": "Driver Payout",
+      "amount": 26940.399999999998
+    },
+    {
+      "month": "2026-08",
+      "city": "Gurgaon",
+      "hub": "",
       "client": "DELHIVERY",
       "lineItem": "Driver Payout",
       "amount": -543.49
     },
     {
       "month": "2026-08",
-      "city": "Sold Vehicles",
+      "city": "Gurgaon",
       "hub": "",
       "client": "Porter",
       "lineItem": "Driver Payout",
-      "amount": -20
+      "amount": 27109.899999999998
     },
     {
       "month": "2026-08",
-      "city": "Sold Vehicles",
+      "city": "Gurgaon",
       "hub": "",
       "client": "Porter",
       "lineItem": "Driver Payout",
-      "amount": -10
+      "amount": 18088.5
+    },
+    {
+      "month": "2026-08",
+      "city": "Gurgaon",
+      "hub": "",
+      "client": "Porter",
+      "lineItem": "Driver Payout",
+      "amount": 15686.4
     },
     {
       "month": "2026-08",
@@ -108155,11 +108461,11 @@
     },
     {
       "month": "2026-08",
-      "city": "Sold Vehicles",
+      "city": "Gurgaon",
       "hub": "",
       "client": "Porter",
       "lineItem": "Driver Payout",
-      "amount": -20
+      "amount": 28536.799999999996
     },
     {
       "month": "2026-08",
