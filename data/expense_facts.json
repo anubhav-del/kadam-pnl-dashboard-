@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-12T06:49:27.960Z",
+  "generatedAt": "2026-09-12T08:49:37.969Z",
   "records": [
     {
       "month": "2026-06",
@@ -25873,6 +25873,33 @@
       "client": "Wash4you",
       "lineItem": "Maintenance",
       "amount": 2.6804123711340204,
+      "segment": "cargo"
+    },
+    {
+      "month": "2026-09",
+      "city": "Delhi",
+      "hub": "Saket",
+      "client": "Porter - 3W L3",
+      "lineItem": "Maintenance",
+      "amount": 23.06451612903226,
+      "segment": "cargo"
+    },
+    {
+      "month": "2026-09",
+      "city": "Delhi",
+      "hub": "Saket",
+      "client": "Blinkit",
+      "lineItem": "Maintenance",
+      "amount": 76.29032258064517,
+      "segment": "cargo"
+    },
+    {
+      "month": "2026-09",
+      "city": "Delhi",
+      "hub": "Saket",
+      "client": "Rental_L5",
+      "lineItem": "Maintenance",
+      "amount": 10.64516129032258,
       "segment": "cargo"
     },
     {
