@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-12T12:49:04.528Z",
+  "generatedAt": "2026-09-12T14:50:22.658Z",
   "records": [
     {
       "month": "2026-06",
@@ -26215,6 +26215,60 @@
       "client": "Rental_L5",
       "lineItem": "Maintenance",
       "amount": 6.290322580645161,
+      "segment": "cargo"
+    },
+    {
+      "month": "2026-09",
+      "city": "Delhi",
+      "hub": "Nilothi",
+      "client": "Porter - 3W L3",
+      "lineItem": "Maintenance",
+      "amount": 840.0943396226415,
+      "segment": "cargo"
+    },
+    {
+      "month": "2026-09",
+      "city": "Delhi",
+      "hub": "Nilothi",
+      "client": "Blinkit",
+      "lineItem": "Maintenance",
+      "amount": 1809.433962264151,
+      "segment": "cargo"
+    },
+    {
+      "month": "2026-09",
+      "city": "Delhi",
+      "hub": "Nilothi",
+      "client": "Delhivery",
+      "lineItem": "Maintenance",
+      "amount": 775.4716981132076,
+      "segment": "cargo"
+    },
+    {
+      "month": "2026-09",
+      "city": "Delhi",
+      "hub": "Nilothi",
+      "client": "Porter - 3W L3",
+      "lineItem": "Maintenance",
+      "amount": 26.9811320754717,
+      "segment": "cargo"
+    },
+    {
+      "month": "2026-09",
+      "city": "Delhi",
+      "hub": "Nilothi",
+      "client": "Blinkit",
+      "lineItem": "Maintenance",
+      "amount": 58.11320754716981,
+      "segment": "cargo"
+    },
+    {
+      "month": "2026-09",
+      "city": "Delhi",
+      "hub": "Nilothi",
+      "client": "Delhivery",
+      "lineItem": "Maintenance",
+      "amount": 24.90566037735849,
       "segment": "cargo"
     },
     {
