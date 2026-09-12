@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-12T02:48:31.874Z",
+  "generatedAt": "2026-09-12T03:49:51.004Z",
   "records": [
     {
       "date": "2025-04-16",
@@ -638186,6 +638186,30 @@
       "revenue": 1600
     },
     {
+      "date": "2026-09-11",
+      "city": "Gurgaon",
+      "hub": "",
+      "client": "Amicco",
+      "vehicleType": "3W L5",
+      "revenue": 1600
+    },
+    {
+      "date": "2026-09-11",
+      "city": "Gurgaon",
+      "hub": "",
+      "client": "Amicco",
+      "vehicleType": "3W L5",
+      "revenue": 1600
+    },
+    {
+      "date": "2026-09-11",
+      "city": "Noida",
+      "hub": "",
+      "client": "Amicco",
+      "vehicleType": "3W L5",
+      "revenue": 1600
+    },
+    {
       "date": "2026-04-05",
       "city": "Gurgaon",
       "hub": "",
@@ -687743,7 +687767,7 @@
       "hub": "",
       "client": "Delhivery",
       "vehicleType": "3W L5",
-      "revenue": 4540.6
+      "revenue": 4016.3
     },
     {
       "date": "2001-09-01",
@@ -687823,7 +687847,7 @@
       "hub": "",
       "client": "Delhivery",
       "vehicleType": "3W L5",
-      "revenue": 20237.600000000002
+      "revenue": 20761.9
     },
     {
       "date": "2001-01-01",
@@ -690528,6 +690552,14 @@
       "client": "Mortrex - Rental",
       "vehicleType": "3W L3",
       "revenue": 17345.064516129034
+    },
+    {
+      "date": "2026-09-11",
+      "city": "Gurgaon",
+      "hub": "Badshahpur",
+      "client": "Passenger Rental",
+      "vehicleType": "3W L5",
+      "revenue": 88945
     },
     {
       "date": "2026-09-10",
