@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-12T01:49:57.227Z",
+  "generatedAt": "2026-09-12T02:48:31.874Z",
   "records": [
     {
       "date": "2025-04-16",
@@ -687578,6 +687578,14 @@
       "revenue": 9989.23
     },
     {
+      "date": "2001-09-11",
+      "city": "Bangalore",
+      "hub": "",
+      "client": "Delhivery",
+      "vehicleType": "3W L5",
+      "revenue": 9038.79
+    },
+    {
       "date": "2001-09-01",
       "city": "Gurgaon",
       "hub": "",
@@ -687648,6 +687656,14 @@
       "client": "Delhivery",
       "vehicleType": "3W L5",
       "revenue": 3971.8999999999996
+    },
+    {
+      "date": "2001-09-11",
+      "city": "Gurgaon",
+      "hub": "",
+      "client": "Delhivery",
+      "vehicleType": "3W L5",
+      "revenue": 1244.2
     },
     {
       "date": "2001-09-01",
@@ -687722,6 +687738,14 @@
       "revenue": 11422.1
     },
     {
+      "date": "2001-09-11",
+      "city": "Noida",
+      "hub": "",
+      "client": "Delhivery",
+      "vehicleType": "3W L5",
+      "revenue": 4540.6
+    },
+    {
       "date": "2001-09-01",
       "city": "Delhi",
       "hub": "",
@@ -687792,6 +687816,14 @@
       "client": "Delhivery",
       "vehicleType": "3W L5",
       "revenue": 30328.6
+    },
+    {
+      "date": "2001-09-11",
+      "city": "Delhi",
+      "hub": "",
+      "client": "Delhivery",
+      "vehicleType": "3W L5",
+      "revenue": 20237.600000000002
     },
     {
       "date": "2001-01-01",
