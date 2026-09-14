@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-14T11:49:47.071Z",
+  "generatedAt": "2026-09-14T13:49:10.271Z",
   "records": [
     {
       "date": "2025-04-16",
@@ -297900,7 +297900,7 @@
     {
       "date": "2026-09-11",
       "city": "",
-      "hub": "Kaushambi",
+      "hub": "Sector 121",
       "client": "Porter - 3W L3",
       "vehicleType": "3W L3",
       "revenue": 0
@@ -298637,8 +298637,8 @@
       "date": "2026-09-12",
       "city": "",
       "hub": "Sector 121",
-      "client": "Porter - 3W L3",
-      "vehicleType": "3W L3",
+      "client": "Porter - 3W L5",
+      "vehicleType": "3W L5",
       "revenue": 1343
     },
     {
@@ -298804,7 +298804,7 @@
     {
       "date": "2026-09-12",
       "city": "",
-      "hub": "Kaushambi",
+      "hub": "Sector 121",
       "client": "Porter - 3W L3",
       "vehicleType": "3W L3",
       "revenue": 1330
