@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-15T11:50:01.779Z",
+  "generatedAt": "2026-09-15T15:49:46.656Z",
   "records": [
     {
       "month": "2026-06",
@@ -27831,6 +27831,87 @@
       "segment": "cargo"
     },
     {
+      "month": "2026-09",
+      "city": "Delhi",
+      "hub": "Ali Village",
+      "client": "Porter - 3W L3",
+      "lineItem": "Maintenance",
+      "amount": 284.8627450980392,
+      "segment": "cargo"
+    },
+    {
+      "month": "2026-09",
+      "city": "Delhi",
+      "hub": "Ali Village",
+      "client": "Blinkit",
+      "lineItem": "Maintenance",
+      "amount": 445.09803921568624,
+      "segment": "cargo"
+    },
+    {
+      "month": "2026-09",
+      "city": "Delhi",
+      "hub": "Ali Village",
+      "client": "Delhivery",
+      "lineItem": "Maintenance",
+      "amount": 178.0392156862745,
+      "segment": "cargo"
+    },
+    {
+      "month": "2026-09",
+      "city": "Delhi",
+      "hub": "Ali Village",
+      "client": "Porter - 3W L3",
+      "lineItem": "Maintenance",
+      "amount": 15.058823529411764,
+      "segment": "cargo"
+    },
+    {
+      "month": "2026-09",
+      "city": "Delhi",
+      "hub": "Ali Village",
+      "client": "Blinkit",
+      "lineItem": "Maintenance",
+      "amount": 23.52941176470588,
+      "segment": "cargo"
+    },
+    {
+      "month": "2026-09",
+      "city": "Delhi",
+      "hub": "Ali Village",
+      "client": "Delhivery",
+      "lineItem": "Maintenance",
+      "amount": 9.411764705882353,
+      "segment": "cargo"
+    },
+    {
+      "month": "2026-09",
+      "city": "Delhi",
+      "hub": "Ali Village",
+      "client": "Porter - 3W L3",
+      "lineItem": "Maintenance",
+      "amount": 34.509803921568626,
+      "segment": "cargo"
+    },
+    {
+      "month": "2026-09",
+      "city": "Delhi",
+      "hub": "Ali Village",
+      "client": "Blinkit",
+      "lineItem": "Maintenance",
+      "amount": 53.92156862745098,
+      "segment": "cargo"
+    },
+    {
+      "month": "2026-09",
+      "city": "Delhi",
+      "hub": "Ali Village",
+      "client": "Delhivery",
+      "lineItem": "Maintenance",
+      "amount": 21.56862745098039,
+      "segment": "cargo"
+    },
+    {
       "month": "2026-03",
       "city": "Gurgaon",
       "hub": "Gurgaon Sec 68",
@@ -30645,6 +30726,15 @@
       "client": "",
       "lineItem": "Maintenance",
       "amount": 250,
+      "segment": "passenger"
+    },
+    {
+      "month": "2026-09",
+      "city": "",
+      "hub": "",
+      "client": "",
+      "lineItem": "Maintenance",
+      "amount": 106,
       "segment": "passenger"
     },
     {
