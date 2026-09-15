@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-15T09:50:05.091Z",
+  "generatedAt": "2026-09-15T10:50:11.490Z",
   "records": [
     {
       "month": "2026-06",
@@ -23,15 +23,7 @@
       "hub": "Saket",
       "client": "Rental_L5",
       "lineItem": "Hub Rental",
-      "amount": 9714.285714285714
-    },
-    {
-      "month": "2026-06",
-      "city": "Delhi",
-      "hub": "Saket",
-      "client": "Delhivery",
-      "lineItem": "Hub Rental",
-      "amount": 1619.047619047619
+      "amount": 11333.333333333332
     },
     {
       "month": "2026-06",
@@ -111,15 +103,7 @@
       "hub": "Saket",
       "client": "Rental_L5",
       "lineItem": "Hub Rental",
-      "amount": 13333.333333333332
-    },
-    {
-      "month": "2026-07",
-      "city": "Delhi",
-      "hub": "Saket",
-      "client": "Delhivery",
-      "lineItem": "Hub Rental",
-      "amount": 2222.222222222222
+      "amount": 15555.555555555555
     },
     {
       "month": "2026-07",
@@ -239,13 +223,21 @@
       "hub": "Sector 121",
       "client": "Delhivery",
       "lineItem": "Hub Rental",
-      "amount": 8333.333333333332
+      "amount": 7407.407407407407
     },
     {
       "month": "2026-08",
       "city": "Noida",
       "hub": "Sector 121",
       "client": "Amicco",
+      "lineItem": "Hub Rental",
+      "amount": 925.9259259259259
+    },
+    {
+      "month": "2026-08",
+      "city": "Noida",
+      "hub": "Sector 121",
+      "client": "Rental_L5",
       "lineItem": "Hub Rental",
       "amount": 925.9259259259259
     },
@@ -375,15 +367,7 @@
       "hub": "Saket",
       "client": "Rental_L5",
       "lineItem": "Electricity",
-      "amount": 3422.190476190476
-    },
-    {
-      "month": "2026-06",
-      "city": "Delhi",
-      "hub": "Saket",
-      "client": "Delhivery",
-      "lineItem": "Electricity",
-      "amount": 570.3650793650793
+      "amount": 3992.555555555555
     },
     {
       "month": "2026-06",
@@ -463,15 +447,7 @@
       "hub": "Saket",
       "client": "Rental_L5",
       "lineItem": "Electricity",
-      "amount": 6025.714285714285
-    },
-    {
-      "month": "2026-07",
-      "city": "Delhi",
-      "hub": "Saket",
-      "client": "Delhivery",
-      "lineItem": "Electricity",
-      "amount": 1004.2857142857142
+      "amount": 7030
     },
     {
       "month": "2026-07",
@@ -551,15 +527,7 @@
       "hub": "Saket",
       "client": "Rental_L5",
       "lineItem": "Electricity",
-      "amount": 3304.090476190476
-    },
-    {
-      "month": "2026-08",
-      "city": "Delhi",
-      "hub": "Saket",
-      "client": "Delhivery",
-      "lineItem": "Electricity",
-      "amount": 550.681746031746
+      "amount": 3854.772222222222
     },
     {
       "month": "2026-08",
@@ -639,15 +607,7 @@
       "hub": "Saket",
       "client": "Rental_L5",
       "lineItem": "Electricity",
-      "amount": 3304.090476190476
-    },
-    {
-      "month": "2026-09",
-      "city": "Delhi",
-      "hub": "Saket",
-      "client": "Delhivery",
-      "lineItem": "Electricity",
-      "amount": 550.681746031746
+      "amount": 3854.772222222222
     },
     {
       "month": "2026-09",
@@ -1367,7 +1327,7 @@
       "hub": "Ali Village",
       "client": "Blinkit",
       "lineItem": "Supervisor Cost",
-      "amount": 33147.2691932619
+      "amount": 33160.11971135237
     },
     {
       "month": "2026-09",
@@ -1375,7 +1335,7 @@
       "hub": "Ali Village",
       "client": "Delhivery",
       "lineItem": "Supervisor Cost",
-      "amount": 19095.566627100034
+      "amount": 19100.861040553307
     },
     {
       "month": "2026-09",
@@ -1383,7 +1343,7 @@
       "hub": "Ali Village",
       "client": "Porter - 3W L3",
       "lineItem": "Supervisor Cost",
-      "amount": 29663.01611976704
+      "amount": 29671.24045134494
     },
     {
       "month": "2026-09",
@@ -1391,7 +1351,7 @@
       "hub": "Nilothi",
       "client": "Blinkit",
       "lineItem": "Supervisor Cost",
-      "amount": 42716.51016118486
+      "amount": 43138.04285807983
     },
     {
       "month": "2026-09",
@@ -1399,7 +1359,7 @@
       "hub": "Nilothi",
       "client": "Delhivery",
       "lineItem": "Supervisor Cost",
-      "amount": 17290.01601762244
+      "amount": 16433.540136411364
     },
     {
       "month": "2026-09",
@@ -1407,7 +1367,7 @@
       "hub": "Nilothi",
       "client": "Porter - 3W L3",
       "lineItem": "Supervisor Cost",
-      "amount": 19832.665431978683
+      "amount": 20028.37704125135
     },
     {
       "month": "2026-09",
@@ -1415,7 +1375,7 @@
       "hub": "Saket",
       "client": "Blinkit",
       "lineItem": "Supervisor Cost",
-      "amount": 72329.77971491944
+      "amount": 72351.88260603504
     },
     {
       "month": "2026-09",
@@ -1423,7 +1383,7 @@
       "hub": "Saket",
       "client": "Porter - 3W L3",
       "lineItem": "Supervisor Cost",
-      "amount": 21867.142704510527
+      "amount": 21873.82497391757
     },
     {
       "month": "2026-09",
@@ -1431,7 +1391,7 @@
       "hub": "Saket",
       "client": "Rental_L5",
       "lineItem": "Supervisor Cost",
-      "amount": 9587.901031977693
+      "amount": 9590.83095010232
     },
     {
       "month": "2026-09",
@@ -1439,7 +1399,7 @@
       "hub": "Saket",
       "client": "Delhivery",
       "lineItem": "Supervisor Cost",
-      "amount": 504.62637010408906
+      "amount": 504.78057632117464
     },
     {
       "month": "2026-09",
@@ -1447,7 +1407,7 @@
       "hub": "Shalimar Bagh",
       "client": "Blinkit",
       "lineItem": "Supervisor Cost",
-      "amount": 36651.47259438043
+      "amount": 36714.826333649304
     },
     {
       "month": "2026-09",
@@ -1455,7 +1415,7 @@
       "hub": "Shalimar Bagh",
       "client": "Delhivery",
       "lineItem": "Supervisor Cost",
-      "amount": 9162.868148595107
+      "amount": 9178.706583412326
     },
     {
       "month": "2026-09",
@@ -1463,7 +1423,7 @@
       "hub": "Shalimar Bagh",
       "client": "Porter - 3W L3",
       "lineItem": "Supervisor Cost",
-      "amount": 9162.868148595107
+      "amount": 9178.706583412326
     },
     {
       "month": "2026-09",
@@ -1471,7 +1431,7 @@
       "hub": "Faridabad",
       "client": "Blinkit",
       "lineItem": "Supervisor Cost",
-      "amount": 14584.798445035236
+      "amount": 14590.452672995041
     },
     {
       "month": "2026-09",
@@ -1479,7 +1439,7 @@
       "hub": "Kaushambi",
       "client": "Blinkit",
       "lineItem": "Supervisor Cost",
-      "amount": 11990.092609682455
+      "amount": 11995.232816918648
     },
     {
       "month": "2026-09",
@@ -1487,7 +1447,7 @@
       "hub": "Kaushambi",
       "client": "Porter - 3W L3",
       "lineItem": "Supervisor Cost",
-      "amount": 9592.074087745965
+      "amount": 9596.186253534917
     },
     {
       "month": "2026-09",
@@ -1495,7 +1455,7 @@
       "hub": "Sector 68",
       "client": "Blinkit",
       "lineItem": "Supervisor Cost",
-      "amount": 4715.438410059191
+      "amount": 4717.494492953666
     },
     {
       "month": "2026-09",
@@ -1511,7 +1471,7 @@
       "hub": "Sector 68",
       "client": "Porter - 3W L3",
       "lineItem": "Supervisor Cost",
-      "amount": 4672.338305420195
+      "amount": 4674.39438831467
     },
     {
       "month": "2026-09",
@@ -1519,7 +1479,7 @@
       "hub": "Wazirabad",
       "client": "Amicco",
       "lineItem": "Supervisor Cost",
-      "amount": 7254.285602681834
+      "amount": 7255.313644129071
     },
     {
       "month": "2026-09",
@@ -1527,7 +1487,7 @@
       "hub": "Wazirabad",
       "client": "Blinkit",
       "lineItem": "Supervisor Cost",
-      "amount": 50690.9629081363
+      "amount": 50713.06579925191
     },
     {
       "month": "2026-09",
@@ -1535,7 +1495,7 @@
       "hub": "Wazirabad",
       "client": "Delhivery",
       "lineItem": "Supervisor Cost",
-      "amount": 27608.878919731244
+      "amount": 27612.477064796578
     },
     {
       "month": "2026-09",
@@ -1543,7 +1503,7 @@
       "hub": "Wazirabad",
       "client": "Porter - 3W L3",
       "lineItem": "Supervisor Cost",
-      "amount": 66580.82085223778
+      "amount": 66610.12003348405
     },
     {
       "month": "2026-09",
@@ -1551,7 +1511,7 @@
       "hub": "Wazirabad",
       "client": "Wash4you",
       "lineItem": "Supervisor Cost",
-      "amount": 3944.125559961606
+      "amount": 3944.639580685225
     },
     {
       "month": "2026-09",
@@ -1591,7 +1551,7 @@
       "hub": "Sector 121",
       "client": "Amicco",
       "lineItem": "Supervisor Cost",
-      "amount": 1274.3311762643393
+      "amount": 1274.5312026447648
     },
     {
       "month": "2026-09",
@@ -1599,7 +1559,7 @@
       "hub": "Sector 121",
       "client": "Blinkit",
       "lineItem": "Supervisor Cost",
-      "amount": 57051.433906031016
+      "amount": 57058.23480296549
     },
     {
       "month": "2026-09",
@@ -1607,7 +1567,7 @@
       "hub": "Sector 121",
       "client": "Delhivery",
       "lineItem": "Supervisor Cost",
-      "amount": 11745.88345124168
+      "amount": 11747.28363590466
     },
     {
       "month": "2026-09",
@@ -1615,7 +1575,7 @@
       "hub": "Sector 121",
       "client": "Porter - 3W L3",
       "lineItem": "Supervisor Cost",
-      "amount": 16779.833501773828
+      "amount": 16781.833765578085
     },
     {
       "month": "2026-03",
@@ -2325,16 +2285,7 @@
       "hub": "Saket",
       "client": "Rental_L5",
       "lineItem": "Maintenance",
-      "amount": 264.0952380952381,
-      "segment": "cargo"
-    },
-    {
-      "month": "2026-05",
-      "city": "Delhi",
-      "hub": "Saket",
-      "client": "Delhivery",
-      "lineItem": "Maintenance",
-      "amount": 44.01587301587301,
+      "amount": 308.1111111111111,
       "segment": "cargo"
     },
     {
@@ -2361,16 +2312,7 @@
       "hub": "Saket",
       "client": "Rental_L5",
       "lineItem": "Maintenance",
-      "amount": 264.0952380952381,
-      "segment": "cargo"
-    },
-    {
-      "month": "2026-05",
-      "city": "Delhi",
-      "hub": "Saket",
-      "client": "Delhivery",
-      "lineItem": "Maintenance",
-      "amount": 44.01587301587301,
+      "amount": 308.1111111111111,
       "segment": "cargo"
     },
     {
@@ -2397,16 +2339,7 @@
       "hub": "Saket",
       "client": "Rental_L5",
       "lineItem": "Maintenance",
-      "amount": 199.16380952380953,
-      "segment": "cargo"
-    },
-    {
-      "month": "2026-05",
-      "city": "Delhi",
-      "hub": "Saket",
-      "client": "Delhivery",
-      "lineItem": "Maintenance",
-      "amount": 33.19396825396826,
+      "amount": 232.35777777777778,
       "segment": "cargo"
     },
     {
@@ -2433,16 +2366,7 @@
       "hub": "Saket",
       "client": "Rental_L5",
       "lineItem": "Maintenance",
-      "amount": 199.16380952380953,
-      "segment": "cargo"
-    },
-    {
-      "month": "2026-05",
-      "city": "Delhi",
-      "hub": "Saket",
-      "client": "Delhivery",
-      "lineItem": "Maintenance",
-      "amount": 33.19396825396826,
+      "amount": 232.35777777777778,
       "segment": "cargo"
     },
     {
@@ -2469,16 +2393,7 @@
       "hub": "Saket",
       "client": "Rental_L5",
       "lineItem": "Maintenance",
-      "amount": 199.16380952380953,
-      "segment": "cargo"
-    },
-    {
-      "month": "2026-05",
-      "city": "Delhi",
-      "hub": "Saket",
-      "client": "Delhivery",
-      "lineItem": "Maintenance",
-      "amount": 33.19396825396826,
+      "amount": 232.35777777777778,
       "segment": "cargo"
     },
     {
@@ -2505,16 +2420,7 @@
       "hub": "Saket",
       "client": "Rental_L5",
       "lineItem": "Maintenance",
-      "amount": 199.16380952380953,
-      "segment": "cargo"
-    },
-    {
-      "month": "2026-05",
-      "city": "Delhi",
-      "hub": "Saket",
-      "client": "Delhivery",
-      "lineItem": "Maintenance",
-      "amount": 33.19396825396826,
+      "amount": 232.35777777777778,
       "segment": "cargo"
     },
     {
@@ -2541,16 +2447,7 @@
       "hub": "Saket",
       "client": "Rental_L5",
       "lineItem": "Maintenance",
-      "amount": 199.16380952380953,
-      "segment": "cargo"
-    },
-    {
-      "month": "2026-05",
-      "city": "Delhi",
-      "hub": "Saket",
-      "client": "Delhivery",
-      "lineItem": "Maintenance",
-      "amount": 33.19396825396826,
+      "amount": 232.35777777777778,
       "segment": "cargo"
     },
     {
@@ -2577,16 +2474,7 @@
       "hub": "Saket",
       "client": "Rental_L5",
       "lineItem": "Maintenance",
-      "amount": 199.16380952380953,
-      "segment": "cargo"
-    },
-    {
-      "month": "2026-05",
-      "city": "Delhi",
-      "hub": "Saket",
-      "client": "Delhivery",
-      "lineItem": "Maintenance",
-      "amount": 33.19396825396826,
+      "amount": 232.35777777777778,
       "segment": "cargo"
     },
     {
@@ -2613,16 +2501,7 @@
       "hub": "Saket",
       "client": "Rental_L5",
       "lineItem": "Maintenance",
-      "amount": 199.16380952380953,
-      "segment": "cargo"
-    },
-    {
-      "month": "2026-05",
-      "city": "Delhi",
-      "hub": "Saket",
-      "client": "Delhivery",
-      "lineItem": "Maintenance",
-      "amount": 33.19396825396826,
+      "amount": 232.35777777777778,
       "segment": "cargo"
     },
     {
@@ -2649,16 +2528,7 @@
       "hub": "Saket",
       "client": "Rental_L5",
       "lineItem": "Maintenance",
-      "amount": 199.16380952380953,
-      "segment": "cargo"
-    },
-    {
-      "month": "2026-05",
-      "city": "Delhi",
-      "hub": "Saket",
-      "client": "Delhivery",
-      "lineItem": "Maintenance",
-      "amount": 33.19396825396826,
+      "amount": 232.35777777777778,
       "segment": "cargo"
     },
     {
@@ -2685,16 +2555,7 @@
       "hub": "Saket",
       "client": "Rental_L5",
       "lineItem": "Maintenance",
-      "amount": 199.16380952380953,
-      "segment": "cargo"
-    },
-    {
-      "month": "2026-05",
-      "city": "Delhi",
-      "hub": "Saket",
-      "client": "Delhivery",
-      "lineItem": "Maintenance",
-      "amount": 33.19396825396826,
+      "amount": 232.35777777777778,
       "segment": "cargo"
     },
     {
@@ -2721,16 +2582,7 @@
       "hub": "Saket",
       "client": "Rental_L5",
       "lineItem": "Maintenance",
-      "amount": 224.76190476190476,
-      "segment": "cargo"
-    },
-    {
-      "month": "2026-05",
-      "city": "Delhi",
-      "hub": "Saket",
-      "client": "Delhivery",
-      "lineItem": "Maintenance",
-      "amount": 37.460317460317455,
+      "amount": 262.22222222222223,
       "segment": "cargo"
     },
     {
@@ -2757,16 +2609,7 @@
       "hub": "Saket",
       "client": "Rental_L5",
       "lineItem": "Maintenance",
-      "amount": 282.5990476190476,
-      "segment": "cargo"
-    },
-    {
-      "month": "2026-05",
-      "city": "Delhi",
-      "hub": "Saket",
-      "client": "Delhivery",
-      "lineItem": "Maintenance",
-      "amount": 47.099841269841264,
+      "amount": 329.69888888888886,
       "segment": "cargo"
     },
     {
@@ -2793,16 +2636,7 @@
       "hub": "Saket",
       "client": "Rental_L5",
       "lineItem": "Maintenance",
-      "amount": 282.5990476190476,
-      "segment": "cargo"
-    },
-    {
-      "month": "2026-05",
-      "city": "Delhi",
-      "hub": "Saket",
-      "client": "Delhivery",
-      "lineItem": "Maintenance",
-      "amount": 47.099841269841264,
+      "amount": 329.69888888888886,
       "segment": "cargo"
     },
     {
@@ -2829,16 +2663,7 @@
       "hub": "Saket",
       "client": "Rental_L5",
       "lineItem": "Maintenance",
-      "amount": 282.5990476190476,
-      "segment": "cargo"
-    },
-    {
-      "month": "2026-05",
-      "city": "Delhi",
-      "hub": "Saket",
-      "client": "Delhivery",
-      "lineItem": "Maintenance",
-      "amount": 47.099841269841264,
+      "amount": 329.69888888888886,
       "segment": "cargo"
     },
     {
@@ -2865,16 +2690,7 @@
       "hub": "Saket",
       "client": "Rental_L5",
       "lineItem": "Maintenance",
-      "amount": 282.5990476190476,
-      "segment": "cargo"
-    },
-    {
-      "month": "2026-05",
-      "city": "Delhi",
-      "hub": "Saket",
-      "client": "Delhivery",
-      "lineItem": "Maintenance",
-      "amount": 47.099841269841264,
+      "amount": 329.69888888888886,
       "segment": "cargo"
     },
     {
@@ -2901,16 +2717,7 @@
       "hub": "Saket",
       "client": "Rental_L5",
       "lineItem": "Maintenance",
-      "amount": 282.5990476190476,
-      "segment": "cargo"
-    },
-    {
-      "month": "2026-05",
-      "city": "Delhi",
-      "hub": "Saket",
-      "client": "Delhivery",
-      "lineItem": "Maintenance",
-      "amount": 47.099841269841264,
+      "amount": 329.69888888888886,
       "segment": "cargo"
     },
     {
@@ -2937,16 +2744,7 @@
       "hub": "Saket",
       "client": "Rental_L5",
       "lineItem": "Maintenance",
-      "amount": 282.5990476190476,
-      "segment": "cargo"
-    },
-    {
-      "month": "2026-05",
-      "city": "Delhi",
-      "hub": "Saket",
-      "client": "Delhivery",
-      "lineItem": "Maintenance",
-      "amount": 47.099841269841264,
+      "amount": 329.69888888888886,
       "segment": "cargo"
     },
     {
@@ -2973,16 +2771,7 @@
       "hub": "Saket",
       "client": "Rental_L5",
       "lineItem": "Maintenance",
-      "amount": 282.5990476190476,
-      "segment": "cargo"
-    },
-    {
-      "month": "2026-05",
-      "city": "Delhi",
-      "hub": "Saket",
-      "client": "Delhivery",
-      "lineItem": "Maintenance",
-      "amount": 47.099841269841264,
+      "amount": 329.69888888888886,
       "segment": "cargo"
     },
     {
@@ -3009,16 +2798,7 @@
       "hub": "Saket",
       "client": "Rental_L5",
       "lineItem": "Maintenance",
-      "amount": 90.41904761904762,
-      "segment": "cargo"
-    },
-    {
-      "month": "2026-05",
-      "city": "Delhi",
-      "hub": "Saket",
-      "client": "Delhivery",
-      "lineItem": "Maintenance",
-      "amount": 15.069841269841268,
+      "amount": 105.48888888888888,
       "segment": "cargo"
     },
     {
@@ -3045,16 +2825,7 @@
       "hub": "Saket",
       "client": "Rental_L5",
       "lineItem": "Maintenance",
-      "amount": 90.41904761904762,
-      "segment": "cargo"
-    },
-    {
-      "month": "2026-05",
-      "city": "Delhi",
-      "hub": "Saket",
-      "client": "Delhivery",
-      "lineItem": "Maintenance",
-      "amount": 15.069841269841268,
+      "amount": 105.48888888888888,
       "segment": "cargo"
     },
     {
@@ -3081,16 +2852,7 @@
       "hub": "Saket",
       "client": "Rental_L5",
       "lineItem": "Maintenance",
-      "amount": 90.41904761904762,
-      "segment": "cargo"
-    },
-    {
-      "month": "2026-05",
-      "city": "Delhi",
-      "hub": "Saket",
-      "client": "Delhivery",
-      "lineItem": "Maintenance",
-      "amount": 15.069841269841268,
+      "amount": 105.48888888888888,
       "segment": "cargo"
     },
     {
@@ -3117,16 +2879,7 @@
       "hub": "Saket",
       "client": "Rental_L5",
       "lineItem": "Maintenance",
-      "amount": 90.41904761904762,
-      "segment": "cargo"
-    },
-    {
-      "month": "2026-05",
-      "city": "Delhi",
-      "hub": "Saket",
-      "client": "Delhivery",
-      "lineItem": "Maintenance",
-      "amount": 15.069841269841268,
+      "amount": 105.48888888888888,
       "segment": "cargo"
     },
     {
@@ -3153,16 +2906,7 @@
       "hub": "Saket",
       "client": "Rental_L5",
       "lineItem": "Maintenance",
-      "amount": 90.41904761904762,
-      "segment": "cargo"
-    },
-    {
-      "month": "2026-05",
-      "city": "Delhi",
-      "hub": "Saket",
-      "client": "Delhivery",
-      "lineItem": "Maintenance",
-      "amount": 15.069841269841268,
+      "amount": 105.48888888888888,
       "segment": "cargo"
     },
     {
@@ -3189,16 +2933,7 @@
       "hub": "Saket",
       "client": "Rental_L5",
       "lineItem": "Maintenance",
-      "amount": 90.41904761904762,
-      "segment": "cargo"
-    },
-    {
-      "month": "2026-05",
-      "city": "Delhi",
-      "hub": "Saket",
-      "client": "Delhivery",
-      "lineItem": "Maintenance",
-      "amount": 15.069841269841268,
+      "amount": 105.48888888888888,
       "segment": "cargo"
     },
     {
@@ -3225,16 +2960,7 @@
       "hub": "Saket",
       "client": "Rental_L5",
       "lineItem": "Maintenance",
-      "amount": 90.41904761904762,
-      "segment": "cargo"
-    },
-    {
-      "month": "2026-05",
-      "city": "Delhi",
-      "hub": "Saket",
-      "client": "Delhivery",
-      "lineItem": "Maintenance",
-      "amount": 15.069841269841268,
+      "amount": 105.48888888888888,
       "segment": "cargo"
     },
     {
@@ -3261,16 +2987,7 @@
       "hub": "Saket",
       "client": "Rental_L5",
       "lineItem": "Maintenance",
-      "amount": 90.41904761904762,
-      "segment": "cargo"
-    },
-    {
-      "month": "2026-05",
-      "city": "Delhi",
-      "hub": "Saket",
-      "client": "Delhivery",
-      "lineItem": "Maintenance",
-      "amount": 15.069841269841268,
+      "amount": 105.48888888888888,
       "segment": "cargo"
     },
     {
@@ -3297,16 +3014,7 @@
       "hub": "Saket",
       "client": "Rental_L5",
       "lineItem": "Maintenance",
-      "amount": 90.41904761904762,
-      "segment": "cargo"
-    },
-    {
-      "month": "2026-05",
-      "city": "Delhi",
-      "hub": "Saket",
-      "client": "Delhivery",
-      "lineItem": "Maintenance",
-      "amount": 15.069841269841268,
+      "amount": 105.48888888888888,
       "segment": "cargo"
     },
     {
@@ -3333,16 +3041,7 @@
       "hub": "Saket",
       "client": "Rental_L5",
       "lineItem": "Maintenance",
-      "amount": 90.41904761904762,
-      "segment": "cargo"
-    },
-    {
-      "month": "2026-05",
-      "city": "Delhi",
-      "hub": "Saket",
-      "client": "Delhivery",
-      "lineItem": "Maintenance",
-      "amount": 15.069841269841268,
+      "amount": 105.48888888888888,
       "segment": "cargo"
     },
     {
@@ -3369,16 +3068,7 @@
       "hub": "Saket",
       "client": "Rental_L5",
       "lineItem": "Maintenance",
-      "amount": 90.41904761904762,
-      "segment": "cargo"
-    },
-    {
-      "month": "2026-05",
-      "city": "Delhi",
-      "hub": "Saket",
-      "client": "Delhivery",
-      "lineItem": "Maintenance",
-      "amount": 15.069841269841268,
+      "amount": 105.48888888888888,
       "segment": "cargo"
     },
     {
@@ -3405,16 +3095,7 @@
       "hub": "Saket",
       "client": "Rental_L5",
       "lineItem": "Maintenance",
-      "amount": 90.41904761904762,
-      "segment": "cargo"
-    },
-    {
-      "month": "2026-05",
-      "city": "Delhi",
-      "hub": "Saket",
-      "client": "Delhivery",
-      "lineItem": "Maintenance",
-      "amount": 15.069841269841268,
+      "amount": 105.48888888888888,
       "segment": "cargo"
     },
     {
@@ -3441,16 +3122,7 @@
       "hub": "Saket",
       "client": "Rental_L5",
       "lineItem": "Maintenance",
-      "amount": 90.41904761904762,
-      "segment": "cargo"
-    },
-    {
-      "month": "2026-05",
-      "city": "Delhi",
-      "hub": "Saket",
-      "client": "Delhivery",
-      "lineItem": "Maintenance",
-      "amount": 15.069841269841268,
+      "amount": 105.48888888888888,
       "segment": "cargo"
     },
     {
@@ -3477,16 +3149,7 @@
       "hub": "Saket",
       "client": "Rental_L5",
       "lineItem": "Maintenance",
-      "amount": 90.41904761904762,
-      "segment": "cargo"
-    },
-    {
-      "month": "2026-05",
-      "city": "Delhi",
-      "hub": "Saket",
-      "client": "Delhivery",
-      "lineItem": "Maintenance",
-      "amount": 15.069841269841268,
+      "amount": 105.48888888888888,
       "segment": "cargo"
     },
     {
@@ -3513,16 +3176,7 @@
       "hub": "Saket",
       "client": "Rental_L5",
       "lineItem": "Maintenance",
-      "amount": 90.41904761904762,
-      "segment": "cargo"
-    },
-    {
-      "month": "2026-05",
-      "city": "Delhi",
-      "hub": "Saket",
-      "client": "Delhivery",
-      "lineItem": "Maintenance",
-      "amount": 15.069841269841268,
+      "amount": 105.48888888888888,
       "segment": "cargo"
     },
     {
@@ -3549,16 +3203,7 @@
       "hub": "Saket",
       "client": "Rental_L5",
       "lineItem": "Maintenance",
-      "amount": 90.41904761904762,
-      "segment": "cargo"
-    },
-    {
-      "month": "2026-05",
-      "city": "Delhi",
-      "hub": "Saket",
-      "client": "Delhivery",
-      "lineItem": "Maintenance",
-      "amount": 15.069841269841268,
+      "amount": 105.48888888888888,
       "segment": "cargo"
     },
     {
@@ -3585,16 +3230,7 @@
       "hub": "Saket",
       "client": "Rental_L5",
       "lineItem": "Maintenance",
-      "amount": 90.41904761904762,
-      "segment": "cargo"
-    },
-    {
-      "month": "2026-05",
-      "city": "Delhi",
-      "hub": "Saket",
-      "client": "Delhivery",
-      "lineItem": "Maintenance",
-      "amount": 15.069841269841268,
+      "amount": 105.48888888888888,
       "segment": "cargo"
     },
     {
@@ -3621,16 +3257,7 @@
       "hub": "Saket",
       "client": "Rental_L5",
       "lineItem": "Maintenance",
-      "amount": 90.41904761904762,
-      "segment": "cargo"
-    },
-    {
-      "month": "2026-05",
-      "city": "Delhi",
-      "hub": "Saket",
-      "client": "Delhivery",
-      "lineItem": "Maintenance",
-      "amount": 15.069841269841268,
+      "amount": 105.48888888888888,
       "segment": "cargo"
     },
     {
@@ -3657,16 +3284,7 @@
       "hub": "Saket",
       "client": "Rental_L5",
       "lineItem": "Maintenance",
-      "amount": 264.0952380952381,
-      "segment": "cargo"
-    },
-    {
-      "month": "2026-05",
-      "city": "Delhi",
-      "hub": "Saket",
-      "client": "Delhivery",
-      "lineItem": "Maintenance",
-      "amount": 44.01587301587301,
+      "amount": 308.1111111111111,
       "segment": "cargo"
     },
     {
@@ -6726,7 +6344,7 @@
       "hub": "Sector 121",
       "client": "Delhivery",
       "lineItem": "Maintenance",
-      "amount": -3640.254901960784,
+      "amount": -3235.7821350762524,
       "segment": "cargo"
     },
     {
@@ -6734,6 +6352,15 @@
       "city": "Noida",
       "hub": "Sector 121",
       "client": "Amicco",
+      "lineItem": "Maintenance",
+      "amount": -404.47276688453155,
+      "segment": "cargo"
+    },
+    {
+      "month": "2026-05",
+      "city": "Noida",
+      "hub": "Sector 121",
+      "client": "Rental_L5",
       "lineItem": "Maintenance",
       "amount": -404.47276688453155,
       "segment": "cargo"
@@ -6762,7 +6389,7 @@
       "hub": "Sector 121",
       "client": "Delhivery",
       "lineItem": "Maintenance",
-      "amount": 95.74509803921569,
+      "amount": 85.10675381263617,
       "segment": "cargo"
     },
     {
@@ -6770,6 +6397,15 @@
       "city": "Noida",
       "hub": "Sector 121",
       "client": "Amicco",
+      "lineItem": "Maintenance",
+      "amount": 10.638344226579521,
+      "segment": "cargo"
+    },
+    {
+      "month": "2026-05",
+      "city": "Noida",
+      "hub": "Sector 121",
+      "client": "Rental_L5",
       "lineItem": "Maintenance",
       "amount": 10.638344226579521,
       "segment": "cargo"
@@ -6798,7 +6434,7 @@
       "hub": "Sector 121",
       "client": "Delhivery",
       "lineItem": "Maintenance",
-      "amount": 147.91176470588235,
+      "amount": 131.47712418300654,
       "segment": "cargo"
     },
     {
@@ -6806,6 +6442,15 @@
       "city": "Noida",
       "hub": "Sector 121",
       "client": "Amicco",
+      "lineItem": "Maintenance",
+      "amount": 16.434640522875817,
+      "segment": "cargo"
+    },
+    {
+      "month": "2026-05",
+      "city": "Noida",
+      "hub": "Sector 121",
+      "client": "Rental_L5",
       "lineItem": "Maintenance",
       "amount": 16.434640522875817,
       "segment": "cargo"
@@ -6834,7 +6479,7 @@
       "hub": "Sector 121",
       "client": "Delhivery",
       "lineItem": "Maintenance",
-      "amount": 98.07843137254902,
+      "amount": 87.18082788671023,
       "segment": "cargo"
     },
     {
@@ -6842,6 +6487,15 @@
       "city": "Noida",
       "hub": "Sector 121",
       "client": "Amicco",
+      "lineItem": "Maintenance",
+      "amount": 10.89760348583878,
+      "segment": "cargo"
+    },
+    {
+      "month": "2026-05",
+      "city": "Noida",
+      "hub": "Sector 121",
+      "client": "Rental_L5",
       "lineItem": "Maintenance",
       "amount": 10.89760348583878,
       "segment": "cargo"
@@ -6870,7 +6524,7 @@
       "hub": "Sector 121",
       "client": "Delhivery",
       "lineItem": "Maintenance",
-      "amount": 286.9117647058823,
+      "amount": 255.03267973856208,
       "segment": "cargo"
     },
     {
@@ -6878,6 +6532,15 @@
       "city": "Noida",
       "hub": "Sector 121",
       "client": "Amicco",
+      "lineItem": "Maintenance",
+      "amount": 31.87908496732026,
+      "segment": "cargo"
+    },
+    {
+      "month": "2026-05",
+      "city": "Noida",
+      "hub": "Sector 121",
+      "client": "Rental_L5",
       "lineItem": "Maintenance",
       "amount": 31.87908496732026,
       "segment": "cargo"
@@ -6906,7 +6569,7 @@
       "hub": "Sector 121",
       "client": "Delhivery",
       "lineItem": "Maintenance",
-      "amount": 70.57843137254902,
+      "amount": 62.7363834422658,
       "segment": "cargo"
     },
     {
@@ -6914,6 +6577,15 @@
       "city": "Noida",
       "hub": "Sector 121",
       "client": "Amicco",
+      "lineItem": "Maintenance",
+      "amount": 7.842047930283225,
+      "segment": "cargo"
+    },
+    {
+      "month": "2026-05",
+      "city": "Noida",
+      "hub": "Sector 121",
+      "client": "Rental_L5",
       "lineItem": "Maintenance",
       "amount": 7.842047930283225,
       "segment": "cargo"
@@ -6942,7 +6614,7 @@
       "hub": "Sector 121",
       "client": "Delhivery",
       "lineItem": "Maintenance",
-      "amount": 324.078431372549,
+      "amount": 288.0697167755991,
       "segment": "cargo"
     },
     {
@@ -6950,6 +6622,15 @@
       "city": "Noida",
       "hub": "Sector 121",
       "client": "Amicco",
+      "lineItem": "Maintenance",
+      "amount": 36.008714596949886,
+      "segment": "cargo"
+    },
+    {
+      "month": "2026-05",
+      "city": "Noida",
+      "hub": "Sector 121",
+      "client": "Rental_L5",
       "lineItem": "Maintenance",
       "amount": 36.008714596949886,
       "segment": "cargo"
@@ -6978,7 +6659,7 @@
       "hub": "Sector 121",
       "client": "Delhivery",
       "lineItem": "Maintenance",
-      "amount": 141.578431372549,
+      "amount": 125.8474945533769,
       "segment": "cargo"
     },
     {
@@ -6986,6 +6667,15 @@
       "city": "Noida",
       "hub": "Sector 121",
       "client": "Amicco",
+      "lineItem": "Maintenance",
+      "amount": 15.730936819172113,
+      "segment": "cargo"
+    },
+    {
+      "month": "2026-05",
+      "city": "Noida",
+      "hub": "Sector 121",
+      "client": "Rental_L5",
       "lineItem": "Maintenance",
       "amount": 15.730936819172113,
       "segment": "cargo"
@@ -7014,7 +6704,7 @@
       "hub": "Sector 121",
       "client": "Delhivery",
       "lineItem": "Maintenance",
-      "amount": 52.74509803921569,
+      "amount": 46.88453159041394,
       "segment": "cargo"
     },
     {
@@ -7022,6 +6712,15 @@
       "city": "Noida",
       "hub": "Sector 121",
       "client": "Amicco",
+      "lineItem": "Maintenance",
+      "amount": 5.860566448801743,
+      "segment": "cargo"
+    },
+    {
+      "month": "2026-05",
+      "city": "Noida",
+      "hub": "Sector 121",
+      "client": "Rental_L5",
       "lineItem": "Maintenance",
       "amount": 5.860566448801743,
       "segment": "cargo"
@@ -7050,7 +6749,7 @@
       "hub": "Sector 121",
       "client": "Delhivery",
       "lineItem": "Maintenance",
-      "amount": 56.911764705882355,
+      "amount": 50.588235294117645,
       "segment": "cargo"
     },
     {
@@ -7058,6 +6757,15 @@
       "city": "Noida",
       "hub": "Sector 121",
       "client": "Amicco",
+      "lineItem": "Maintenance",
+      "amount": 6.323529411764706,
+      "segment": "cargo"
+    },
+    {
+      "month": "2026-05",
+      "city": "Noida",
+      "hub": "Sector 121",
+      "client": "Rental_L5",
       "lineItem": "Maintenance",
       "amount": 6.323529411764706,
       "segment": "cargo"
@@ -7086,7 +6794,7 @@
       "hub": "Sector 121",
       "client": "Delhivery",
       "lineItem": "Maintenance",
-      "amount": 116.07843137254902,
+      "amount": 103.18082788671023,
       "segment": "cargo"
     },
     {
@@ -7094,6 +6802,15 @@
       "city": "Noida",
       "hub": "Sector 121",
       "client": "Amicco",
+      "lineItem": "Maintenance",
+      "amount": 12.89760348583878,
+      "segment": "cargo"
+    },
+    {
+      "month": "2026-05",
+      "city": "Noida",
+      "hub": "Sector 121",
+      "client": "Rental_L5",
       "lineItem": "Maintenance",
       "amount": 12.89760348583878,
       "segment": "cargo"
@@ -7122,7 +6839,7 @@
       "hub": "Sector 121",
       "client": "Delhivery",
       "lineItem": "Maintenance",
-      "amount": 116.07843137254902,
+      "amount": 103.18082788671023,
       "segment": "cargo"
     },
     {
@@ -7130,6 +6847,15 @@
       "city": "Noida",
       "hub": "Sector 121",
       "client": "Amicco",
+      "lineItem": "Maintenance",
+      "amount": 12.89760348583878,
+      "segment": "cargo"
+    },
+    {
+      "month": "2026-05",
+      "city": "Noida",
+      "hub": "Sector 121",
+      "client": "Rental_L5",
       "lineItem": "Maintenance",
       "amount": 12.89760348583878,
       "segment": "cargo"
@@ -7158,7 +6884,7 @@
       "hub": "Sector 121",
       "client": "Delhivery",
       "lineItem": "Maintenance",
-      "amount": 426.7450980392157,
+      "amount": 379.3289760348584,
       "segment": "cargo"
     },
     {
@@ -7166,6 +6892,15 @@
       "city": "Noida",
       "hub": "Sector 121",
       "client": "Amicco",
+      "lineItem": "Maintenance",
+      "amount": 47.4161220043573,
+      "segment": "cargo"
+    },
+    {
+      "month": "2026-05",
+      "city": "Noida",
+      "hub": "Sector 121",
+      "client": "Rental_L5",
       "lineItem": "Maintenance",
       "amount": 47.4161220043573,
       "segment": "cargo"
@@ -7194,7 +6929,7 @@
       "hub": "Sector 121",
       "client": "Delhivery",
       "lineItem": "Maintenance",
-      "amount": 426.7450980392157,
+      "amount": 379.3289760348584,
       "segment": "cargo"
     },
     {
@@ -7202,6 +6937,15 @@
       "city": "Noida",
       "hub": "Sector 121",
       "client": "Amicco",
+      "lineItem": "Maintenance",
+      "amount": 47.4161220043573,
+      "segment": "cargo"
+    },
+    {
+      "month": "2026-05",
+      "city": "Noida",
+      "hub": "Sector 121",
+      "client": "Rental_L5",
       "lineItem": "Maintenance",
       "amount": 47.4161220043573,
       "segment": "cargo"
@@ -7230,7 +6974,7 @@
       "hub": "Sector 121",
       "client": "Delhivery",
       "lineItem": "Maintenance",
-      "amount": 140.7450980392157,
+      "amount": 125.10675381263616,
       "segment": "cargo"
     },
     {
@@ -7238,6 +6982,15 @@
       "city": "Noida",
       "hub": "Sector 121",
       "client": "Amicco",
+      "lineItem": "Maintenance",
+      "amount": 15.63834422657952,
+      "segment": "cargo"
+    },
+    {
+      "month": "2026-05",
+      "city": "Noida",
+      "hub": "Sector 121",
+      "client": "Rental_L5",
       "lineItem": "Maintenance",
       "amount": 15.63834422657952,
       "segment": "cargo"
@@ -7266,7 +7019,7 @@
       "hub": "Sector 121",
       "client": "Delhivery",
       "lineItem": "Maintenance",
-      "amount": 248.2450980392157,
+      "amount": 220.6623093681917,
       "segment": "cargo"
     },
     {
@@ -7274,6 +7027,15 @@
       "city": "Noida",
       "hub": "Sector 121",
       "client": "Amicco",
+      "lineItem": "Maintenance",
+      "amount": 27.582788671023962,
+      "segment": "cargo"
+    },
+    {
+      "month": "2026-05",
+      "city": "Noida",
+      "hub": "Sector 121",
+      "client": "Rental_L5",
       "lineItem": "Maintenance",
       "amount": 27.582788671023962,
       "segment": "cargo"
@@ -7302,7 +7064,7 @@
       "hub": "Sector 121",
       "client": "Delhivery",
       "lineItem": "Maintenance",
-      "amount": 100.74509803921569,
+      "amount": 89.55119825708061,
       "segment": "cargo"
     },
     {
@@ -7310,6 +7072,15 @@
       "city": "Noida",
       "hub": "Sector 121",
       "client": "Amicco",
+      "lineItem": "Maintenance",
+      "amount": 11.193899782135077,
+      "segment": "cargo"
+    },
+    {
+      "month": "2026-05",
+      "city": "Noida",
+      "hub": "Sector 121",
+      "client": "Rental_L5",
       "lineItem": "Maintenance",
       "amount": 11.193899782135077,
       "segment": "cargo"
@@ -7338,7 +7109,7 @@
       "hub": "Sector 121",
       "client": "Delhivery",
       "lineItem": "Maintenance",
-      "amount": 173.41176470588235,
+      "amount": 154.1437908496732,
       "segment": "cargo"
     },
     {
@@ -7346,6 +7117,15 @@
       "city": "Noida",
       "hub": "Sector 121",
       "client": "Amicco",
+      "lineItem": "Maintenance",
+      "amount": 19.26797385620915,
+      "segment": "cargo"
+    },
+    {
+      "month": "2026-05",
+      "city": "Noida",
+      "hub": "Sector 121",
+      "client": "Rental_L5",
       "lineItem": "Maintenance",
       "amount": 19.26797385620915,
       "segment": "cargo"
@@ -7374,7 +7154,7 @@
       "hub": "Sector 121",
       "client": "Delhivery",
       "lineItem": "Maintenance",
-      "amount": 151.578431372549,
+      "amount": 134.7363834422658,
       "segment": "cargo"
     },
     {
@@ -7382,6 +7162,15 @@
       "city": "Noida",
       "hub": "Sector 121",
       "client": "Amicco",
+      "lineItem": "Maintenance",
+      "amount": 16.842047930283226,
+      "segment": "cargo"
+    },
+    {
+      "month": "2026-05",
+      "city": "Noida",
+      "hub": "Sector 121",
+      "client": "Rental_L5",
       "lineItem": "Maintenance",
       "amount": 16.842047930283226,
       "segment": "cargo"
@@ -7410,7 +7199,7 @@
       "hub": "Sector 121",
       "client": "Delhivery",
       "lineItem": "Maintenance",
-      "amount": 1111.2450980392155,
+      "amount": 987.7734204793027,
       "segment": "cargo"
     },
     {
@@ -7418,6 +7207,15 @@
       "city": "Noida",
       "hub": "Sector 121",
       "client": "Amicco",
+      "lineItem": "Maintenance",
+      "amount": 123.47167755991283,
+      "segment": "cargo"
+    },
+    {
+      "month": "2026-05",
+      "city": "Noida",
+      "hub": "Sector 121",
+      "client": "Rental_L5",
       "lineItem": "Maintenance",
       "amount": 123.47167755991283,
       "segment": "cargo"
@@ -7446,7 +7244,7 @@
       "hub": "Sector 121",
       "client": "Delhivery",
       "lineItem": "Maintenance",
-      "amount": 107.24509803921569,
+      "amount": 95.32897603485839,
       "segment": "cargo"
     },
     {
@@ -7454,6 +7252,15 @@
       "city": "Noida",
       "hub": "Sector 121",
       "client": "Amicco",
+      "lineItem": "Maintenance",
+      "amount": 11.916122004357298,
+      "segment": "cargo"
+    },
+    {
+      "month": "2026-05",
+      "city": "Noida",
+      "hub": "Sector 121",
+      "client": "Rental_L5",
       "lineItem": "Maintenance",
       "amount": 11.916122004357298,
       "segment": "cargo"
@@ -7482,7 +7289,7 @@
       "hub": "Sector 121",
       "client": "Delhivery",
       "lineItem": "Maintenance",
-      "amount": 193.41176470588235,
+      "amount": 171.92156862745097,
       "segment": "cargo"
     },
     {
@@ -7490,6 +7297,15 @@
       "city": "Noida",
       "hub": "Sector 121",
       "client": "Amicco",
+      "lineItem": "Maintenance",
+      "amount": 21.49019607843137,
+      "segment": "cargo"
+    },
+    {
+      "month": "2026-05",
+      "city": "Noida",
+      "hub": "Sector 121",
+      "client": "Rental_L5",
       "lineItem": "Maintenance",
       "amount": 21.49019607843137,
       "segment": "cargo"
@@ -7518,7 +7334,7 @@
       "hub": "Sector 121",
       "client": "Delhivery",
       "lineItem": "Maintenance",
-      "amount": 99.07843137254902,
+      "amount": 88.06971677559913,
       "segment": "cargo"
     },
     {
@@ -7526,6 +7342,15 @@
       "city": "Noida",
       "hub": "Sector 121",
       "client": "Amicco",
+      "lineItem": "Maintenance",
+      "amount": 11.008714596949892,
+      "segment": "cargo"
+    },
+    {
+      "month": "2026-05",
+      "city": "Noida",
+      "hub": "Sector 121",
+      "client": "Rental_L5",
       "lineItem": "Maintenance",
       "amount": 11.008714596949892,
       "segment": "cargo"
@@ -7554,7 +7379,7 @@
       "hub": "Sector 121",
       "client": "Delhivery",
       "lineItem": "Maintenance",
-      "amount": 489.4117647058823,
+      "amount": 435.0326797385621,
       "segment": "cargo"
     },
     {
@@ -7562,6 +7387,15 @@
       "city": "Noida",
       "hub": "Sector 121",
       "client": "Amicco",
+      "lineItem": "Maintenance",
+      "amount": 54.37908496732026,
+      "segment": "cargo"
+    },
+    {
+      "month": "2026-05",
+      "city": "Noida",
+      "hub": "Sector 121",
+      "client": "Rental_L5",
       "lineItem": "Maintenance",
       "amount": 54.37908496732026,
       "segment": "cargo"
@@ -7590,7 +7424,7 @@
       "hub": "Sector 121",
       "client": "Delhivery",
       "lineItem": "Maintenance",
-      "amount": 383.9117647058823,
+      "amount": 341.2549019607843,
       "segment": "cargo"
     },
     {
@@ -7598,6 +7432,15 @@
       "city": "Noida",
       "hub": "Sector 121",
       "client": "Amicco",
+      "lineItem": "Maintenance",
+      "amount": 42.65686274509804,
+      "segment": "cargo"
+    },
+    {
+      "month": "2026-05",
+      "city": "Noida",
+      "hub": "Sector 121",
+      "client": "Rental_L5",
       "lineItem": "Maintenance",
       "amount": 42.65686274509804,
       "segment": "cargo"
@@ -7626,7 +7469,7 @@
       "hub": "Sector 121",
       "client": "Delhivery",
       "lineItem": "Maintenance",
-      "amount": 151.578431372549,
+      "amount": 134.7363834422658,
       "segment": "cargo"
     },
     {
@@ -7634,6 +7477,15 @@
       "city": "Noida",
       "hub": "Sector 121",
       "client": "Amicco",
+      "lineItem": "Maintenance",
+      "amount": 16.842047930283226,
+      "segment": "cargo"
+    },
+    {
+      "month": "2026-05",
+      "city": "Noida",
+      "hub": "Sector 121",
+      "client": "Rental_L5",
       "lineItem": "Maintenance",
       "amount": 16.842047930283226,
       "segment": "cargo"
@@ -7662,7 +7514,7 @@
       "hub": "Sector 121",
       "client": "Delhivery",
       "lineItem": "Maintenance",
-      "amount": 42.57843137254902,
+      "amount": 37.847494553376904,
       "segment": "cargo"
     },
     {
@@ -7670,6 +7522,15 @@
       "city": "Noida",
       "hub": "Sector 121",
       "client": "Amicco",
+      "lineItem": "Maintenance",
+      "amount": 4.730936819172113,
+      "segment": "cargo"
+    },
+    {
+      "month": "2026-05",
+      "city": "Noida",
+      "hub": "Sector 121",
+      "client": "Rental_L5",
       "lineItem": "Maintenance",
       "amount": 4.730936819172113,
       "segment": "cargo"
@@ -7698,7 +7559,7 @@
       "hub": "Sector 121",
       "client": "Delhivery",
       "lineItem": "Maintenance",
-      "amount": 54.411764705882355,
+      "amount": 48.36601307189542,
       "segment": "cargo"
     },
     {
@@ -7706,6 +7567,15 @@
       "city": "Noida",
       "hub": "Sector 121",
       "client": "Amicco",
+      "lineItem": "Maintenance",
+      "amount": 6.045751633986928,
+      "segment": "cargo"
+    },
+    {
+      "month": "2026-05",
+      "city": "Noida",
+      "hub": "Sector 121",
+      "client": "Rental_L5",
       "lineItem": "Maintenance",
       "amount": 6.045751633986928,
       "segment": "cargo"
@@ -7734,7 +7604,7 @@
       "hub": "Sector 121",
       "client": "Delhivery",
       "lineItem": "Maintenance",
-      "amount": 56.411764705882355,
+      "amount": 50.1437908496732,
       "segment": "cargo"
     },
     {
@@ -7742,6 +7612,15 @@
       "city": "Noida",
       "hub": "Sector 121",
       "client": "Amicco",
+      "lineItem": "Maintenance",
+      "amount": 6.26797385620915,
+      "segment": "cargo"
+    },
+    {
+      "month": "2026-05",
+      "city": "Noida",
+      "hub": "Sector 121",
+      "client": "Rental_L5",
       "lineItem": "Maintenance",
       "amount": 6.26797385620915,
       "segment": "cargo"
@@ -7770,7 +7649,7 @@
       "hub": "Sector 121",
       "client": "Delhivery",
       "lineItem": "Maintenance",
-      "amount": 38.57843137254902,
+      "amount": 34.29193899782135,
       "segment": "cargo"
     },
     {
@@ -7778,6 +7657,15 @@
       "city": "Noida",
       "hub": "Sector 121",
       "client": "Amicco",
+      "lineItem": "Maintenance",
+      "amount": 4.286492374727668,
+      "segment": "cargo"
+    },
+    {
+      "month": "2026-05",
+      "city": "Noida",
+      "hub": "Sector 121",
+      "client": "Rental_L5",
       "lineItem": "Maintenance",
       "amount": 4.286492374727668,
       "segment": "cargo"
@@ -7806,7 +7694,7 @@
       "hub": "Sector 121",
       "client": "Delhivery",
       "lineItem": "Maintenance",
-      "amount": 55.411764705882355,
+      "amount": 49.254901960784316,
       "segment": "cargo"
     },
     {
@@ -7814,6 +7702,15 @@
       "city": "Noida",
       "hub": "Sector 121",
       "client": "Amicco",
+      "lineItem": "Maintenance",
+      "amount": 6.1568627450980395,
+      "segment": "cargo"
+    },
+    {
+      "month": "2026-05",
+      "city": "Noida",
+      "hub": "Sector 121",
+      "client": "Rental_L5",
       "lineItem": "Maintenance",
       "amount": 6.1568627450980395,
       "segment": "cargo"
@@ -7842,7 +7739,7 @@
       "hub": "Sector 121",
       "client": "Delhivery",
       "lineItem": "Maintenance",
-      "amount": 78.91176470588235,
+      "amount": 70.14379084967321,
       "segment": "cargo"
     },
     {
@@ -7850,6 +7747,15 @@
       "city": "Noida",
       "hub": "Sector 121",
       "client": "Amicco",
+      "lineItem": "Maintenance",
+      "amount": 8.767973856209151,
+      "segment": "cargo"
+    },
+    {
+      "month": "2026-05",
+      "city": "Noida",
+      "hub": "Sector 121",
+      "client": "Rental_L5",
       "lineItem": "Maintenance",
       "amount": 8.767973856209151,
       "segment": "cargo"
@@ -7878,7 +7784,7 @@
       "hub": "Sector 121",
       "client": "Delhivery",
       "lineItem": "Maintenance",
-      "amount": 116.57843137254902,
+      "amount": 103.62527233115468,
       "segment": "cargo"
     },
     {
@@ -7886,6 +7792,15 @@
       "city": "Noida",
       "hub": "Sector 121",
       "client": "Amicco",
+      "lineItem": "Maintenance",
+      "amount": 12.953159041394334,
+      "segment": "cargo"
+    },
+    {
+      "month": "2026-05",
+      "city": "Noida",
+      "hub": "Sector 121",
+      "client": "Rental_L5",
       "lineItem": "Maintenance",
       "amount": 12.953159041394334,
       "segment": "cargo"
@@ -7914,7 +7829,7 @@
       "hub": "Sector 121",
       "client": "Delhivery",
       "lineItem": "Maintenance",
-      "amount": 37.91176470588235,
+      "amount": 33.69934640522876,
       "segment": "cargo"
     },
     {
@@ -7922,6 +7837,15 @@
       "city": "Noida",
       "hub": "Sector 121",
       "client": "Amicco",
+      "lineItem": "Maintenance",
+      "amount": 4.212418300653595,
+      "segment": "cargo"
+    },
+    {
+      "month": "2026-05",
+      "city": "Noida",
+      "hub": "Sector 121",
+      "client": "Rental_L5",
       "lineItem": "Maintenance",
       "amount": 4.212418300653595,
       "segment": "cargo"
@@ -8211,7 +8135,7 @@
       "hub": "Sector 121",
       "client": "Delhivery",
       "lineItem": "Maintenance",
-      "amount": 6338.666666666666,
+      "amount": 5634.37037037037,
       "segment": "cargo"
     },
     {
@@ -8219,6 +8143,15 @@
       "city": "Noida",
       "hub": "Sector 121",
       "client": "Amicco",
+      "lineItem": "Maintenance",
+      "amount": 704.2962962962963,
+      "segment": "cargo"
+    },
+    {
+      "month": "2026-07",
+      "city": "Noida",
+      "hub": "Sector 121",
+      "client": "Rental_L5",
       "lineItem": "Maintenance",
       "amount": 704.2962962962963,
       "segment": "cargo"
@@ -8328,16 +8261,7 @@
       "hub": "Saket",
       "client": "Rental_L5",
       "lineItem": "Maintenance",
-      "amount": 596.952380952381,
-      "segment": "cargo"
-    },
-    {
-      "month": "2026-06",
-      "city": "Delhi",
-      "hub": "Saket",
-      "client": "Delhivery",
-      "lineItem": "Maintenance",
-      "amount": 99.49206349206348,
+      "amount": 696.4444444444445,
       "segment": "cargo"
     },
     {
@@ -8409,7 +8333,7 @@
       "hub": "Sector 121",
       "client": "Delhivery",
       "lineItem": "Maintenance",
-      "amount": 3451.5,
+      "amount": 3068,
       "segment": "cargo"
     },
     {
@@ -8417,6 +8341,15 @@
       "city": "Noida",
       "hub": "Sector 121",
       "client": "Amicco",
+      "lineItem": "Maintenance",
+      "amount": 383.5,
+      "segment": "cargo"
+    },
+    {
+      "month": "2026-08",
+      "city": "Noida",
+      "hub": "Sector 121",
+      "client": "Rental_L5",
       "lineItem": "Maintenance",
       "amount": 383.5,
       "segment": "cargo"
@@ -8823,7 +8756,7 @@
       "hub": "Sector 121",
       "client": "Delhivery",
       "lineItem": "Maintenance",
-      "amount": 2037.6666666666665,
+      "amount": 1811.2592592592591,
       "segment": "cargo"
     },
     {
@@ -8831,6 +8764,15 @@
       "city": "Noida",
       "hub": "Sector 121",
       "client": "Amicco",
+      "lineItem": "Maintenance",
+      "amount": 226.4074074074074,
+      "segment": "cargo"
+    },
+    {
+      "month": "2026-09",
+      "city": "Noida",
+      "hub": "Sector 121",
+      "client": "Rental_L5",
       "lineItem": "Maintenance",
       "amount": 226.4074074074074,
       "segment": "cargo"
@@ -9021,16 +8963,7 @@
       "hub": "Saket",
       "client": "Rental_L5",
       "lineItem": "Maintenance",
-      "amount": 34,
-      "segment": "cargo"
-    },
-    {
-      "month": "2026-06",
-      "city": "Delhi",
-      "hub": "Saket",
-      "client": "Delhivery",
-      "lineItem": "Maintenance",
-      "amount": 5.666666666666666,
+      "amount": 39.666666666666664,
       "segment": "cargo"
     },
     {
@@ -9228,16 +9161,7 @@
       "hub": "Saket",
       "client": "Rental_L5",
       "lineItem": "Maintenance",
-      "amount": 6.19047619047619,
-      "segment": "cargo"
-    },
-    {
-      "month": "2026-06",
-      "city": "Delhi",
-      "hub": "Saket",
-      "client": "Delhivery",
-      "lineItem": "Maintenance",
-      "amount": 1.0317460317460316,
+      "amount": 7.222222222222221,
       "segment": "cargo"
     },
     {
@@ -9264,16 +9188,7 @@
       "hub": "Saket",
       "client": "Rental_L5",
       "lineItem": "Maintenance",
-      "amount": 17.142857142857142,
-      "segment": "cargo"
-    },
-    {
-      "month": "2026-06",
-      "city": "Delhi",
-      "hub": "Saket",
-      "client": "Delhivery",
-      "lineItem": "Maintenance",
-      "amount": 2.8571428571428568,
+      "amount": 20,
       "segment": "cargo"
     },
     {
@@ -9381,16 +9296,7 @@
       "hub": "Saket",
       "client": "Rental_L5",
       "lineItem": "Maintenance",
-      "amount": 24.76190476190476,
-      "segment": "cargo"
-    },
-    {
-      "month": "2026-06",
-      "city": "Delhi",
-      "hub": "Saket",
-      "client": "Delhivery",
-      "lineItem": "Maintenance",
-      "amount": 4.1269841269841265,
+      "amount": 28.888888888888886,
       "segment": "cargo"
     },
     {
@@ -9750,7 +9656,7 @@
       "hub": "Sector 121",
       "client": "Delhivery",
       "lineItem": "Maintenance",
-      "amount": 18.333333333333332,
+      "amount": 16.296296296296294,
       "segment": "cargo"
     },
     {
@@ -9758,6 +9664,15 @@
       "city": "Noida",
       "hub": "Sector 121",
       "client": "Amicco",
+      "lineItem": "Maintenance",
+      "amount": 2.0370370370370368,
+      "segment": "cargo"
+    },
+    {
+      "month": "2026-06",
+      "city": "Noida",
+      "hub": "Sector 121",
+      "client": "Rental_L5",
       "lineItem": "Maintenance",
       "amount": 2.0370370370370368,
       "segment": "cargo"
@@ -9786,16 +9701,7 @@
       "hub": "Saket",
       "client": "Rental_L5",
       "lineItem": "Maintenance",
-      "amount": 34,
-      "segment": "cargo"
-    },
-    {
-      "month": "2026-06",
-      "city": "Delhi",
-      "hub": "Saket",
-      "client": "Delhivery",
-      "lineItem": "Maintenance",
-      "amount": 5.666666666666666,
+      "amount": 39.666666666666664,
       "segment": "cargo"
     },
     {
@@ -9822,16 +9728,7 @@
       "hub": "Saket",
       "client": "Rental_L5",
       "lineItem": "Maintenance",
-      "amount": 34,
-      "segment": "cargo"
-    },
-    {
-      "month": "2026-06",
-      "city": "Delhi",
-      "hub": "Saket",
-      "client": "Delhivery",
-      "lineItem": "Maintenance",
-      "amount": 5.666666666666666,
+      "amount": 39.666666666666664,
       "segment": "cargo"
     },
     {
@@ -9858,7 +9755,7 @@
       "hub": "Sector 121",
       "client": "Delhivery",
       "lineItem": "Maintenance",
-      "amount": 333,
+      "amount": 296,
       "segment": "cargo"
     },
     {
@@ -9866,6 +9763,15 @@
       "city": "Noida",
       "hub": "Sector 121",
       "client": "Amicco",
+      "lineItem": "Maintenance",
+      "amount": 37,
+      "segment": "cargo"
+    },
+    {
+      "month": "2026-06",
+      "city": "Noida",
+      "hub": "Sector 121",
+      "client": "Rental_L5",
       "lineItem": "Maintenance",
       "amount": 37,
       "segment": "cargo"
@@ -9894,16 +9800,7 @@
       "hub": "Saket",
       "client": "Rental_L5",
       "lineItem": "Maintenance",
-      "amount": 35.33333333333333,
-      "segment": "cargo"
-    },
-    {
-      "month": "2026-06",
-      "city": "Delhi",
-      "hub": "Saket",
-      "client": "Delhivery",
-      "lineItem": "Maintenance",
-      "amount": 5.888888888888888,
+      "amount": 41.22222222222222,
       "segment": "cargo"
     },
     {
@@ -9939,16 +9836,7 @@
       "hub": "Saket",
       "client": "Rental_L5",
       "lineItem": "Maintenance",
-      "amount": 6.19047619047619,
-      "segment": "cargo"
-    },
-    {
-      "month": "2026-06",
-      "city": "Delhi",
-      "hub": "Saket",
-      "client": "Delhivery",
-      "lineItem": "Maintenance",
-      "amount": 1.0317460317460316,
+      "amount": 7.222222222222221,
       "segment": "cargo"
     },
     {
@@ -10074,16 +9962,7 @@
       "hub": "Saket",
       "client": "Rental_L5",
       "lineItem": "Maintenance",
-      "amount": 24.76190476190476,
-      "segment": "cargo"
-    },
-    {
-      "month": "2026-06",
-      "city": "Delhi",
-      "hub": "Saket",
-      "client": "Delhivery",
-      "lineItem": "Maintenance",
-      "amount": 4.1269841269841265,
+      "amount": 28.888888888888886,
       "segment": "cargo"
     },
     {
@@ -10137,16 +10016,7 @@
       "hub": "Saket",
       "client": "Rental_L5",
       "lineItem": "Maintenance",
-      "amount": 51.42857142857142,
-      "segment": "cargo"
-    },
-    {
-      "month": "2026-06",
-      "city": "Delhi",
-      "hub": "Saket",
-      "client": "Delhivery",
-      "lineItem": "Maintenance",
-      "amount": 8.571428571428571,
+      "amount": 60,
       "segment": "cargo"
     },
     {
@@ -10200,16 +10070,7 @@
       "hub": "Saket",
       "client": "Rental_L5",
       "lineItem": "Maintenance",
-      "amount": 6.666666666666666,
-      "segment": "cargo"
-    },
-    {
-      "month": "2026-06",
-      "city": "Delhi",
-      "hub": "Saket",
-      "client": "Delhivery",
-      "lineItem": "Maintenance",
-      "amount": 1.1111111111111112,
+      "amount": 7.777777777777778,
       "segment": "cargo"
     },
     {
@@ -10263,16 +10124,7 @@
       "hub": "Saket",
       "client": "Rental_L5",
       "lineItem": "Maintenance",
-      "amount": 19.047619047619047,
-      "segment": "cargo"
-    },
-    {
-      "month": "2026-06",
-      "city": "Delhi",
-      "hub": "Saket",
-      "client": "Delhivery",
-      "lineItem": "Maintenance",
-      "amount": 3.1746031746031744,
+      "amount": 22.22222222222222,
       "segment": "cargo"
     },
     {
@@ -10326,7 +10178,7 @@
       "hub": "Sector 121",
       "client": "Delhivery",
       "lineItem": "Maintenance",
-      "amount": 33.33333333333333,
+      "amount": 29.629629629629626,
       "segment": "cargo"
     },
     {
@@ -10334,6 +10186,15 @@
       "city": "Noida",
       "hub": "Sector 121",
       "client": "Amicco",
+      "lineItem": "Maintenance",
+      "amount": 3.7037037037037033,
+      "segment": "cargo"
+    },
+    {
+      "month": "2026-06",
+      "city": "Noida",
+      "hub": "Sector 121",
+      "client": "Rental_L5",
       "lineItem": "Maintenance",
       "amount": 3.7037037037037033,
       "segment": "cargo"
@@ -10362,7 +10223,7 @@
       "hub": "Sector 121",
       "client": "Delhivery",
       "lineItem": "Maintenance",
-      "amount": 44.166666666666664,
+      "amount": 39.25925925925926,
       "segment": "cargo"
     },
     {
@@ -10370,6 +10231,15 @@
       "city": "Noida",
       "hub": "Sector 121",
       "client": "Amicco",
+      "lineItem": "Maintenance",
+      "amount": 4.907407407407407,
+      "segment": "cargo"
+    },
+    {
+      "month": "2026-06",
+      "city": "Noida",
+      "hub": "Sector 121",
+      "client": "Rental_L5",
       "lineItem": "Maintenance",
       "amount": 4.907407407407407,
       "segment": "cargo"
@@ -10398,7 +10268,7 @@
       "hub": "Sector 121",
       "client": "Delhivery",
       "lineItem": "Maintenance",
-      "amount": 43.33333333333333,
+      "amount": 38.51851851851852,
       "segment": "cargo"
     },
     {
@@ -10406,6 +10276,15 @@
       "city": "Noida",
       "hub": "Sector 121",
       "client": "Amicco",
+      "lineItem": "Maintenance",
+      "amount": 4.814814814814815,
+      "segment": "cargo"
+    },
+    {
+      "month": "2026-06",
+      "city": "Noida",
+      "hub": "Sector 121",
+      "client": "Rental_L5",
       "lineItem": "Maintenance",
       "amount": 4.814814814814815,
       "segment": "cargo"
@@ -10443,7 +10322,7 @@
       "hub": "Sector 121",
       "client": "Delhivery",
       "lineItem": "Maintenance",
-      "amount": 11.666666666666666,
+      "amount": 10.37037037037037,
       "segment": "cargo"
     },
     {
@@ -10451,6 +10330,15 @@
       "city": "Noida",
       "hub": "Sector 121",
       "client": "Amicco",
+      "lineItem": "Maintenance",
+      "amount": 1.2962962962962963,
+      "segment": "cargo"
+    },
+    {
+      "month": "2026-06",
+      "city": "Noida",
+      "hub": "Sector 121",
+      "client": "Rental_L5",
       "lineItem": "Maintenance",
       "amount": 1.2962962962962963,
       "segment": "cargo"
@@ -11064,7 +10952,7 @@
       "hub": "Sector 121",
       "client": "Delhivery",
       "lineItem": "Maintenance",
-      "amount": 56.666666666666664,
+      "amount": 50.37037037037037,
       "segment": "cargo"
     },
     {
@@ -11072,6 +10960,15 @@
       "city": "Noida",
       "hub": "Sector 121",
       "client": "Amicco",
+      "lineItem": "Maintenance",
+      "amount": 6.296296296296296,
+      "segment": "cargo"
+    },
+    {
+      "month": "2026-07",
+      "city": "Noida",
+      "hub": "Sector 121",
+      "client": "Rental_L5",
       "lineItem": "Maintenance",
       "amount": 6.296296296296296,
       "segment": "cargo"
@@ -11217,7 +11114,7 @@
       "hub": "Sector 121",
       "client": "Delhivery",
       "lineItem": "Maintenance",
-      "amount": 46.666666666666664,
+      "amount": 41.48148148148148,
       "segment": "cargo"
     },
     {
@@ -11225,6 +11122,15 @@
       "city": "Noida",
       "hub": "Sector 121",
       "client": "Amicco",
+      "lineItem": "Maintenance",
+      "amount": 5.185185185185185,
+      "segment": "cargo"
+    },
+    {
+      "month": "2026-07",
+      "city": "Noida",
+      "hub": "Sector 121",
+      "client": "Rental_L5",
       "lineItem": "Maintenance",
       "amount": 5.185185185185185,
       "segment": "cargo"
@@ -11739,16 +11645,7 @@
       "hub": "Saket",
       "client": "Rental_L5",
       "lineItem": "Maintenance",
-      "amount": 24.76190476190476,
-      "segment": "cargo"
-    },
-    {
-      "month": "2026-07",
-      "city": "Delhi",
-      "hub": "Saket",
-      "client": "Delhivery",
-      "lineItem": "Maintenance",
-      "amount": 4.1269841269841265,
+      "amount": 28.888888888888886,
       "segment": "cargo"
     },
     {
@@ -11793,7 +11690,7 @@
       "hub": "Sector 121",
       "client": "Delhivery",
       "lineItem": "Maintenance",
-      "amount": 18.333333333333332,
+      "amount": 16.296296296296294,
       "segment": "cargo"
     },
     {
@@ -11801,6 +11698,15 @@
       "city": "Noida",
       "hub": "Sector 121",
       "client": "Amicco",
+      "lineItem": "Maintenance",
+      "amount": 2.0370370370370368,
+      "segment": "cargo"
+    },
+    {
+      "month": "2026-07",
+      "city": "Noida",
+      "hub": "Sector 121",
+      "client": "Rental_L5",
       "lineItem": "Maintenance",
       "amount": 2.0370370370370368,
       "segment": "cargo"
@@ -12144,16 +12050,7 @@
       "hub": "Saket",
       "client": "Rental_L5",
       "lineItem": "Maintenance",
-      "amount": 10.476190476190476,
-      "segment": "cargo"
-    },
-    {
-      "month": "2026-07",
-      "city": "Delhi",
-      "hub": "Saket",
-      "client": "Delhivery",
-      "lineItem": "Maintenance",
-      "amount": 1.746031746031746,
+      "amount": 12.222222222222221,
       "segment": "cargo"
     },
     {
@@ -12180,16 +12077,7 @@
       "hub": "Saket",
       "client": "Rental_L5",
       "lineItem": "Maintenance",
-      "amount": 6.19047619047619,
-      "segment": "cargo"
-    },
-    {
-      "month": "2026-07",
-      "city": "Delhi",
-      "hub": "Saket",
-      "client": "Delhivery",
-      "lineItem": "Maintenance",
-      "amount": 1.0317460317460316,
+      "amount": 7.222222222222221,
       "segment": "cargo"
     },
     {
@@ -12621,7 +12509,7 @@
       "hub": "Sector 121",
       "client": "Delhivery",
       "lineItem": "Maintenance",
-      "amount": 18.333333333333332,
+      "amount": 16.296296296296294,
       "segment": "cargo"
     },
     {
@@ -12629,6 +12517,15 @@
       "city": "Noida",
       "hub": "Sector 121",
       "client": "Amicco",
+      "lineItem": "Maintenance",
+      "amount": 2.0370370370370368,
+      "segment": "cargo"
+    },
+    {
+      "month": "2026-07",
+      "city": "Noida",
+      "hub": "Sector 121",
+      "client": "Rental_L5",
       "lineItem": "Maintenance",
       "amount": 2.0370370370370368,
       "segment": "cargo"
@@ -12711,7 +12608,7 @@
       "hub": "Sector 121",
       "client": "Delhivery",
       "lineItem": "Maintenance",
-      "amount": 36.666666666666664,
+      "amount": 32.59259259259259,
       "segment": "cargo"
     },
     {
@@ -12719,6 +12616,15 @@
       "city": "Noida",
       "hub": "Sector 121",
       "client": "Amicco",
+      "lineItem": "Maintenance",
+      "amount": 4.0740740740740735,
+      "segment": "cargo"
+    },
+    {
+      "month": "2026-07",
+      "city": "Noida",
+      "hub": "Sector 121",
+      "client": "Rental_L5",
       "lineItem": "Maintenance",
       "amount": 4.0740740740740735,
       "segment": "cargo"
@@ -13404,7 +13310,7 @@
       "hub": "Sector 121",
       "client": "Delhivery",
       "lineItem": "Maintenance",
-      "amount": 18.333333333333332,
+      "amount": 16.296296296296294,
       "segment": "cargo"
     },
     {
@@ -13412,6 +13318,15 @@
       "city": "Noida",
       "hub": "Sector 121",
       "client": "Amicco",
+      "lineItem": "Maintenance",
+      "amount": 2.0370370370370368,
+      "segment": "cargo"
+    },
+    {
+      "month": "2026-07",
+      "city": "Noida",
+      "hub": "Sector 121",
+      "client": "Rental_L5",
       "lineItem": "Maintenance",
       "amount": 2.0370370370370368,
       "segment": "cargo"
@@ -13440,7 +13355,7 @@
       "hub": "Sector 121",
       "client": "Delhivery",
       "lineItem": "Maintenance",
-      "amount": 18.333333333333332,
+      "amount": 16.296296296296294,
       "segment": "cargo"
     },
     {
@@ -13448,6 +13363,15 @@
       "city": "Noida",
       "hub": "Sector 121",
       "client": "Amicco",
+      "lineItem": "Maintenance",
+      "amount": 2.0370370370370368,
+      "segment": "cargo"
+    },
+    {
+      "month": "2026-07",
+      "city": "Noida",
+      "hub": "Sector 121",
+      "client": "Rental_L5",
       "lineItem": "Maintenance",
       "amount": 2.0370370370370368,
       "segment": "cargo"
@@ -13476,7 +13400,7 @@
       "hub": "Sector 121",
       "client": "Delhivery",
       "lineItem": "Maintenance",
-      "amount": 17.5,
+      "amount": 15.555555555555555,
       "segment": "cargo"
     },
     {
@@ -13484,6 +13408,15 @@
       "city": "Noida",
       "hub": "Sector 121",
       "client": "Amicco",
+      "lineItem": "Maintenance",
+      "amount": 1.9444444444444444,
+      "segment": "cargo"
+    },
+    {
+      "month": "2026-07",
+      "city": "Noida",
+      "hub": "Sector 121",
+      "client": "Rental_L5",
       "lineItem": "Maintenance",
       "amount": 1.9444444444444444,
       "segment": "cargo"
@@ -13674,7 +13607,7 @@
       "hub": "Sector 121",
       "client": "Delhivery",
       "lineItem": "Maintenance",
-      "amount": 18.333333333333332,
+      "amount": 16.296296296296294,
       "segment": "cargo"
     },
     {
@@ -13682,6 +13615,15 @@
       "city": "Noida",
       "hub": "Sector 121",
       "client": "Amicco",
+      "lineItem": "Maintenance",
+      "amount": 2.0370370370370368,
+      "segment": "cargo"
+    },
+    {
+      "month": "2026-07",
+      "city": "Noida",
+      "hub": "Sector 121",
+      "client": "Rental_L5",
       "lineItem": "Maintenance",
       "amount": 2.0370370370370368,
       "segment": "cargo"
@@ -14007,7 +13949,7 @@
       "hub": "Sector 121",
       "client": "Delhivery",
       "lineItem": "Maintenance",
-      "amount": 83.66666666666666,
+      "amount": 74.37037037037037,
       "segment": "cargo"
     },
     {
@@ -14015,6 +13957,15 @@
       "city": "Noida",
       "hub": "Sector 121",
       "client": "Amicco",
+      "lineItem": "Maintenance",
+      "amount": 9.296296296296296,
+      "segment": "cargo"
+    },
+    {
+      "month": "2026-07",
+      "city": "Noida",
+      "hub": "Sector 121",
+      "client": "Rental_L5",
       "lineItem": "Maintenance",
       "amount": 9.296296296296296,
       "segment": "cargo"
@@ -14160,7 +14111,7 @@
       "hub": "Sector 121",
       "client": "Delhivery",
       "lineItem": "Maintenance",
-      "amount": 68.66666666666666,
+      "amount": 61.03703703703703,
       "segment": "cargo"
     },
     {
@@ -14168,6 +14119,15 @@
       "city": "Noida",
       "hub": "Sector 121",
       "client": "Amicco",
+      "lineItem": "Maintenance",
+      "amount": 7.629629629629629,
+      "segment": "cargo"
+    },
+    {
+      "month": "2026-07",
+      "city": "Noida",
+      "hub": "Sector 121",
+      "client": "Rental_L5",
       "lineItem": "Maintenance",
       "amount": 7.629629629629629,
       "segment": "cargo"
@@ -14196,7 +14156,7 @@
       "hub": "Sector 121",
       "client": "Delhivery",
       "lineItem": "Maintenance",
-      "amount": 18.333333333333332,
+      "amount": 16.296296296296294,
       "segment": "cargo"
     },
     {
@@ -14204,6 +14164,15 @@
       "city": "Noida",
       "hub": "Sector 121",
       "client": "Amicco",
+      "lineItem": "Maintenance",
+      "amount": 2.0370370370370368,
+      "segment": "cargo"
+    },
+    {
+      "month": "2026-07",
+      "city": "Noida",
+      "hub": "Sector 121",
+      "client": "Rental_L5",
       "lineItem": "Maintenance",
       "amount": 2.0370370370370368,
       "segment": "cargo"
@@ -14232,7 +14201,7 @@
       "hub": "Sector 121",
       "client": "Delhivery",
       "lineItem": "Maintenance",
-      "amount": 111.66666666666666,
+      "amount": 99.25925925925925,
       "segment": "cargo"
     },
     {
@@ -14240,6 +14209,15 @@
       "city": "Noida",
       "hub": "Sector 121",
       "client": "Amicco",
+      "lineItem": "Maintenance",
+      "amount": 12.407407407407407,
+      "segment": "cargo"
+    },
+    {
+      "month": "2026-07",
+      "city": "Noida",
+      "hub": "Sector 121",
+      "client": "Rental_L5",
       "lineItem": "Maintenance",
       "amount": 12.407407407407407,
       "segment": "cargo"
@@ -14268,7 +14246,7 @@
       "hub": "Sector 121",
       "client": "Delhivery",
       "lineItem": "Maintenance",
-      "amount": 18.333333333333332,
+      "amount": 16.296296296296294,
       "segment": "cargo"
     },
     {
@@ -14276,6 +14254,15 @@
       "city": "Noida",
       "hub": "Sector 121",
       "client": "Amicco",
+      "lineItem": "Maintenance",
+      "amount": 2.0370370370370368,
+      "segment": "cargo"
+    },
+    {
+      "month": "2026-07",
+      "city": "Noida",
+      "hub": "Sector 121",
+      "client": "Rental_L5",
       "lineItem": "Maintenance",
       "amount": 2.0370370370370368,
       "segment": "cargo"
@@ -14574,7 +14561,7 @@
       "hub": "Sector 121",
       "client": "Delhivery",
       "lineItem": "Maintenance",
-      "amount": 560,
+      "amount": 497.77777777777777,
       "segment": "cargo"
     },
     {
@@ -14582,6 +14569,15 @@
       "city": "Noida",
       "hub": "Sector 121",
       "client": "Amicco",
+      "lineItem": "Maintenance",
+      "amount": 62.22222222222222,
+      "segment": "cargo"
+    },
+    {
+      "month": "2026-07",
+      "city": "Noida",
+      "hub": "Sector 121",
+      "client": "Rental_L5",
       "lineItem": "Maintenance",
       "amount": 62.22222222222222,
       "segment": "cargo"
@@ -14610,7 +14606,7 @@
       "hub": "Sector 121",
       "client": "Delhivery",
       "lineItem": "Maintenance",
-      "amount": 560,
+      "amount": 497.77777777777777,
       "segment": "cargo"
     },
     {
@@ -14618,6 +14614,15 @@
       "city": "Noida",
       "hub": "Sector 121",
       "client": "Amicco",
+      "lineItem": "Maintenance",
+      "amount": 62.22222222222222,
+      "segment": "cargo"
+    },
+    {
+      "month": "2026-07",
+      "city": "Noida",
+      "hub": "Sector 121",
+      "client": "Rental_L5",
       "lineItem": "Maintenance",
       "amount": 62.22222222222222,
       "segment": "cargo"
@@ -14691,16 +14696,7 @@
       "hub": "Saket",
       "client": "Rental_L5",
       "lineItem": "Maintenance",
-      "amount": 46.285714285714285,
-      "segment": "cargo"
-    },
-    {
-      "month": "2026-07",
-      "city": "Gurgaon",
-      "hub": "Saket",
-      "client": "Delhivery",
-      "lineItem": "Maintenance",
-      "amount": 7.7142857142857135,
+      "amount": 54,
       "segment": "cargo"
     },
     {
@@ -14727,16 +14723,7 @@
       "hub": "Saket",
       "client": "Rental_L5",
       "lineItem": "Maintenance",
-      "amount": 14.285714285714285,
-      "segment": "cargo"
-    },
-    {
-      "month": "2026-07",
-      "city": "Delhi",
-      "hub": "Saket",
-      "client": "Delhivery",
-      "lineItem": "Maintenance",
-      "amount": 2.380952380952381,
+      "amount": 16.666666666666664,
       "segment": "cargo"
     },
     {
@@ -15078,16 +15065,7 @@
       "hub": "Saket",
       "client": "Rental_L5",
       "lineItem": "Maintenance",
-      "amount": 19.047619047619047,
-      "segment": "cargo"
-    },
-    {
-      "month": "2026-07",
-      "city": "Delhi",
-      "hub": "Saket",
-      "client": "Delhivery",
-      "lineItem": "Maintenance",
-      "amount": 3.1746031746031744,
+      "amount": 22.22222222222222,
       "segment": "cargo"
     },
     {
@@ -15114,16 +15092,7 @@
       "hub": "Saket",
       "client": "Rental_L5",
       "lineItem": "Maintenance",
-      "amount": 28.095238095238095,
-      "segment": "cargo"
-    },
-    {
-      "month": "2026-07",
-      "city": "Delhi",
-      "hub": "Saket",
-      "client": "Delhivery",
-      "lineItem": "Maintenance",
-      "amount": 4.682539682539682,
+      "amount": 32.77777777777778,
       "segment": "cargo"
     },
     {
@@ -15150,16 +15119,7 @@
       "hub": "Saket",
       "client": "Rental_L5",
       "lineItem": "Maintenance",
-      "amount": 24.76190476190476,
-      "segment": "cargo"
-    },
-    {
-      "month": "2026-07",
-      "city": "Delhi",
-      "hub": "Saket",
-      "client": "Delhivery",
-      "lineItem": "Maintenance",
-      "amount": 4.1269841269841265,
+      "amount": 28.888888888888886,
       "segment": "cargo"
     },
     {
@@ -15186,16 +15146,7 @@
       "hub": "Saket",
       "client": "Rental_L5",
       "lineItem": "Maintenance",
-      "amount": 26.952380952380953,
-      "segment": "cargo"
-    },
-    {
-      "month": "2026-07",
-      "city": "Delhi",
-      "hub": "Saket",
-      "client": "Delhivery",
-      "lineItem": "Maintenance",
-      "amount": 4.492063492063492,
+      "amount": 31.444444444444443,
       "segment": "cargo"
     },
     {
@@ -15537,7 +15488,7 @@
       "hub": "Sector 121",
       "client": "Delhivery",
       "lineItem": "Maintenance",
-      "amount": 110,
+      "amount": 97.77777777777777,
       "segment": "cargo"
     },
     {
@@ -15545,6 +15496,15 @@
       "city": "Noida",
       "hub": "Sector 121",
       "client": "Amicco",
+      "lineItem": "Maintenance",
+      "amount": 12.222222222222221,
+      "segment": "cargo"
+    },
+    {
+      "month": "2026-07",
+      "city": "Noida",
+      "hub": "Sector 121",
+      "client": "Rental_L5",
       "lineItem": "Maintenance",
       "amount": 12.222222222222221,
       "segment": "cargo"
@@ -15618,7 +15578,7 @@
       "hub": "Sector 121",
       "client": "Delhivery",
       "lineItem": "Maintenance",
-      "amount": 18.333333333333332,
+      "amount": 16.296296296296294,
       "segment": "cargo"
     },
     {
@@ -15626,6 +15586,15 @@
       "city": "Noida",
       "hub": "Sector 121",
       "client": "Amicco",
+      "lineItem": "Maintenance",
+      "amount": 2.0370370370370368,
+      "segment": "cargo"
+    },
+    {
+      "month": "2026-07",
+      "city": "Noida",
+      "hub": "Sector 121",
+      "client": "Rental_L5",
       "lineItem": "Maintenance",
       "amount": 2.0370370370370368,
       "segment": "cargo"
@@ -15654,7 +15623,7 @@
       "hub": "Sector 121",
       "client": "Delhivery",
       "lineItem": "Maintenance",
-      "amount": 56.666666666666664,
+      "amount": 50.37037037037037,
       "segment": "cargo"
     },
     {
@@ -15662,6 +15631,15 @@
       "city": "Noida",
       "hub": "Sector 121",
       "client": "Amicco",
+      "lineItem": "Maintenance",
+      "amount": 6.296296296296296,
+      "segment": "cargo"
+    },
+    {
+      "month": "2026-07",
+      "city": "Noida",
+      "hub": "Sector 121",
+      "client": "Rental_L5",
       "lineItem": "Maintenance",
       "amount": 6.296296296296296,
       "segment": "cargo"
@@ -16158,16 +16136,7 @@
       "hub": "Saket",
       "client": "Rental_L5",
       "lineItem": "Maintenance",
-      "amount": 24.76190476190476,
-      "segment": "cargo"
-    },
-    {
-      "month": "2026-07",
-      "city": "Delhi",
-      "hub": "Saket",
-      "client": "Delhivery",
-      "lineItem": "Maintenance",
-      "amount": 4.1269841269841265,
+      "amount": 28.888888888888886,
       "segment": "cargo"
     },
     {
@@ -16239,16 +16208,7 @@
       "hub": "Saket",
       "client": "Rental_L5",
       "lineItem": "Maintenance",
-      "amount": 140,
-      "segment": "cargo"
-    },
-    {
-      "month": "2026-07",
-      "city": "Delhi",
-      "hub": "Saket",
-      "client": "Delhivery",
-      "lineItem": "Maintenance",
-      "amount": 23.333333333333332,
+      "amount": 163.33333333333331,
       "segment": "cargo"
     },
     {
@@ -16320,16 +16280,7 @@
       "hub": "Saket",
       "client": "Rental_L5",
       "lineItem": "Maintenance",
-      "amount": 51.42857142857142,
-      "segment": "cargo"
-    },
-    {
-      "month": "2026-07",
-      "city": "Delhi",
-      "hub": "Saket",
-      "client": "Delhivery",
-      "lineItem": "Maintenance",
-      "amount": 8.571428571428571,
+      "amount": 60,
       "segment": "cargo"
     },
     {
@@ -16356,16 +16307,7 @@
       "hub": "Saket",
       "client": "Rental_L5",
       "lineItem": "Maintenance",
-      "amount": 32.38095238095238,
-      "segment": "cargo"
-    },
-    {
-      "month": "2026-07",
-      "city": "Delhi",
-      "hub": "Saket",
-      "client": "Delhivery",
-      "lineItem": "Maintenance",
-      "amount": 5.396825396825396,
+      "amount": 37.77777777777778,
       "segment": "cargo"
     },
     {
@@ -16437,7 +16379,7 @@
       "hub": "Sector 121",
       "client": "Delhivery",
       "lineItem": "Maintenance",
-      "amount": 43.33333333333333,
+      "amount": 38.51851851851852,
       "segment": "cargo"
     },
     {
@@ -16445,6 +16387,15 @@
       "city": "Noida",
       "hub": "Sector 121",
       "client": "Amicco",
+      "lineItem": "Maintenance",
+      "amount": 4.814814814814815,
+      "segment": "cargo"
+    },
+    {
+      "month": "2026-07",
+      "city": "Noida",
+      "hub": "Sector 121",
+      "client": "Rental_L5",
       "lineItem": "Maintenance",
       "amount": 4.814814814814815,
       "segment": "cargo"
@@ -16473,7 +16424,7 @@
       "hub": "Sector 121",
       "client": "Delhivery",
       "lineItem": "Maintenance",
-      "amount": 110,
+      "amount": 97.77777777777777,
       "segment": "cargo"
     },
     {
@@ -16481,6 +16432,15 @@
       "city": "Noida",
       "hub": "Sector 121",
       "client": "Amicco",
+      "lineItem": "Maintenance",
+      "amount": 12.222222222222221,
+      "segment": "cargo"
+    },
+    {
+      "month": "2026-07",
+      "city": "Noida",
+      "hub": "Sector 121",
+      "client": "Rental_L5",
       "lineItem": "Maintenance",
       "amount": 12.222222222222221,
       "segment": "cargo"
@@ -16599,7 +16559,7 @@
       "hub": "Sector 121",
       "client": "Delhivery",
       "lineItem": "Maintenance",
-      "amount": 92.83333333333333,
+      "amount": 82.51851851851852,
       "segment": "cargo"
     },
     {
@@ -16607,6 +16567,15 @@
       "city": "Noida",
       "hub": "Sector 121",
       "client": "Amicco",
+      "lineItem": "Maintenance",
+      "amount": 10.314814814814815,
+      "segment": "cargo"
+    },
+    {
+      "month": "2026-07",
+      "city": "Noida",
+      "hub": "Sector 121",
+      "client": "Rental_L5",
       "lineItem": "Maintenance",
       "amount": 10.314814814814815,
       "segment": "cargo"
@@ -16824,7 +16793,7 @@
       "hub": "Sector 121",
       "client": "Delhivery",
       "lineItem": "Maintenance",
-      "amount": 36.166666666666664,
+      "amount": 32.148148148148145,
       "segment": "cargo"
     },
     {
@@ -16832,6 +16801,15 @@
       "city": "Noida",
       "hub": "Sector 121",
       "client": "Amicco",
+      "lineItem": "Maintenance",
+      "amount": 4.018518518518518,
+      "segment": "cargo"
+    },
+    {
+      "month": "2026-07",
+      "city": "Noida",
+      "hub": "Sector 121",
+      "client": "Rental_L5",
       "lineItem": "Maintenance",
       "amount": 4.018518518518518,
       "segment": "cargo"
@@ -16860,7 +16838,7 @@
       "hub": "Sector 121",
       "client": "Delhivery",
       "lineItem": "Maintenance",
-      "amount": 56.666666666666664,
+      "amount": 50.37037037037037,
       "segment": "cargo"
     },
     {
@@ -16868,6 +16846,15 @@
       "city": "Noida",
       "hub": "Sector 121",
       "client": "Amicco",
+      "lineItem": "Maintenance",
+      "amount": 6.296296296296296,
+      "segment": "cargo"
+    },
+    {
+      "month": "2026-07",
+      "city": "Noida",
+      "hub": "Sector 121",
+      "client": "Rental_L5",
       "lineItem": "Maintenance",
       "amount": 6.296296296296296,
       "segment": "cargo"
@@ -17292,16 +17279,7 @@
       "hub": "Saket",
       "client": "Rental_L5",
       "lineItem": "Maintenance",
-      "amount": 32.38095238095238,
-      "segment": "cargo"
-    },
-    {
-      "month": "2026-07",
-      "city": "Delhi",
-      "hub": "Saket",
-      "client": "Delhivery",
-      "lineItem": "Maintenance",
-      "amount": 5.396825396825396,
+      "amount": 37.77777777777778,
       "segment": "cargo"
     },
     {
@@ -17544,16 +17522,7 @@
       "hub": "Saket",
       "client": "Rental_L5",
       "lineItem": "Maintenance",
-      "amount": 6.666666666666666,
-      "segment": "cargo"
-    },
-    {
-      "month": "2026-07",
-      "city": "Delhi",
-      "hub": "Saket",
-      "client": "Delhivery",
-      "lineItem": "Maintenance",
-      "amount": 1.1111111111111112,
+      "amount": 7.777777777777778,
       "segment": "cargo"
     },
     {
@@ -17580,16 +17549,7 @@
       "hub": "Saket",
       "client": "Rental_L5",
       "lineItem": "Maintenance",
-      "amount": 93.33333333333333,
-      "segment": "cargo"
-    },
-    {
-      "month": "2026-07",
-      "city": "Delhi",
-      "hub": "Saket",
-      "client": "Delhivery",
-      "lineItem": "Maintenance",
-      "amount": 15.555555555555555,
+      "amount": 108.88888888888889,
       "segment": "cargo"
     },
     {
@@ -17616,16 +17576,7 @@
       "hub": "Saket",
       "client": "Rental_L5",
       "lineItem": "Maintenance",
-      "amount": 10.476190476190476,
-      "segment": "cargo"
-    },
-    {
-      "month": "2026-07",
-      "city": "Delhi",
-      "hub": "Saket",
-      "client": "Delhivery",
-      "lineItem": "Maintenance",
-      "amount": 1.746031746031746,
+      "amount": 12.222222222222221,
       "segment": "cargo"
     },
     {
@@ -17679,7 +17630,7 @@
       "hub": "Sector 121",
       "client": "Delhivery",
       "lineItem": "Maintenance",
-      "amount": 33.33333333333333,
+      "amount": 29.629629629629626,
       "segment": "cargo"
     },
     {
@@ -17687,6 +17638,15 @@
       "city": "Noida",
       "hub": "Sector 121",
       "client": "Amicco",
+      "lineItem": "Maintenance",
+      "amount": 3.7037037037037033,
+      "segment": "cargo"
+    },
+    {
+      "month": "2026-07",
+      "city": "Noida",
+      "hub": "Sector 121",
+      "client": "Rental_L5",
       "lineItem": "Maintenance",
       "amount": 3.7037037037037033,
       "segment": "cargo"
@@ -18489,16 +18449,7 @@
       "hub": "Saket",
       "client": "Rental_L5",
       "lineItem": "Maintenance",
-      "amount": 10.476190476190476,
-      "segment": "cargo"
-    },
-    {
-      "month": "2026-08",
-      "city": "Delhi",
-      "hub": "Saket",
-      "client": "Delhivery",
-      "lineItem": "Maintenance",
-      "amount": 1.746031746031746,
+      "amount": 12.222222222222221,
       "segment": "cargo"
     },
     {
@@ -18525,16 +18476,7 @@
       "hub": "Saket",
       "client": "Rental_L5",
       "lineItem": "Maintenance",
-      "amount": 32.38095238095238,
-      "segment": "cargo"
-    },
-    {
-      "month": "2026-08",
-      "city": "Delhi",
-      "hub": "Saket",
-      "client": "Delhivery",
-      "lineItem": "Maintenance",
-      "amount": 5.396825396825396,
+      "amount": 37.77777777777778,
       "segment": "cargo"
     },
     {
@@ -18561,16 +18503,7 @@
       "hub": "Saket",
       "client": "Rental_L5",
       "lineItem": "Maintenance",
-      "amount": 19.047619047619047,
-      "segment": "cargo"
-    },
-    {
-      "month": "2026-08",
-      "city": "Delhi",
-      "hub": "Saket",
-      "client": "Delhivery",
-      "lineItem": "Maintenance",
-      "amount": 3.1746031746031744,
+      "amount": 22.22222222222222,
       "segment": "cargo"
     },
     {
@@ -18597,16 +18530,7 @@
       "hub": "Saket",
       "client": "Rental_L5",
       "lineItem": "Maintenance",
-      "amount": 10.476190476190476,
-      "segment": "cargo"
-    },
-    {
-      "month": "2026-08",
-      "city": "Delhi",
-      "hub": "Saket",
-      "client": "Delhivery",
-      "lineItem": "Maintenance",
-      "amount": 1.746031746031746,
+      "amount": 12.222222222222221,
       "segment": "cargo"
     },
     {
@@ -18795,16 +18719,7 @@
       "hub": "Saket",
       "client": "Rental_L5",
       "lineItem": "Maintenance",
-      "amount": 32.38095238095238,
-      "segment": "cargo"
-    },
-    {
-      "month": "2026-08",
-      "city": "Delhi",
-      "hub": "Saket",
-      "client": "Delhivery",
-      "lineItem": "Maintenance",
-      "amount": 5.396825396825396,
+      "amount": 37.77777777777778,
       "segment": "cargo"
     },
     {
@@ -18831,16 +18746,7 @@
       "hub": "Saket",
       "client": "Rental_L5",
       "lineItem": "Maintenance",
-      "amount": 6.19047619047619,
-      "segment": "cargo"
-    },
-    {
-      "month": "2026-08",
-      "city": "Delhi",
-      "hub": "Saket",
-      "client": "Delhivery",
-      "lineItem": "Maintenance",
-      "amount": 1.0317460317460316,
+      "amount": 7.222222222222221,
       "segment": "cargo"
     },
     {
@@ -19272,7 +19178,7 @@
       "hub": "Sector 121",
       "client": "Delhivery",
       "lineItem": "Maintenance",
-      "amount": 18.333333333333332,
+      "amount": 16.296296296296294,
       "segment": "cargo"
     },
     {
@@ -19280,6 +19186,15 @@
       "city": "Noida",
       "hub": "Sector 121",
       "client": "Amicco",
+      "lineItem": "Maintenance",
+      "amount": 2.0370370370370368,
+      "segment": "cargo"
+    },
+    {
+      "month": "2026-08",
+      "city": "Noida",
+      "hub": "Sector 121",
+      "client": "Rental_L5",
       "lineItem": "Maintenance",
       "amount": 2.0370370370370368,
       "segment": "cargo"
@@ -19308,7 +19223,7 @@
       "hub": "Sector 121",
       "client": "Delhivery",
       "lineItem": "Maintenance",
-      "amount": 43.33333333333333,
+      "amount": 38.51851851851852,
       "segment": "cargo"
     },
     {
@@ -19316,6 +19231,15 @@
       "city": "Noida",
       "hub": "Sector 121",
       "client": "Amicco",
+      "lineItem": "Maintenance",
+      "amount": 4.814814814814815,
+      "segment": "cargo"
+    },
+    {
+      "month": "2026-08",
+      "city": "Noida",
+      "hub": "Sector 121",
+      "client": "Rental_L5",
       "lineItem": "Maintenance",
       "amount": 4.814814814814815,
       "segment": "cargo"
@@ -19479,7 +19403,7 @@
       "hub": "Sector 121",
       "client": "Delhivery",
       "lineItem": "Maintenance",
-      "amount": 18.333333333333332,
+      "amount": 16.296296296296294,
       "segment": "cargo"
     },
     {
@@ -19487,6 +19411,15 @@
       "city": "Noida",
       "hub": "Sector 121",
       "client": "Amicco",
+      "lineItem": "Maintenance",
+      "amount": 2.0370370370370368,
+      "segment": "cargo"
+    },
+    {
+      "month": "2026-08",
+      "city": "Noida",
+      "hub": "Sector 121",
+      "client": "Rental_L5",
       "lineItem": "Maintenance",
       "amount": 2.0370370370370368,
       "segment": "cargo"
@@ -19614,7 +19547,7 @@
       "hub": "Sector 121",
       "client": "Delhivery",
       "lineItem": "Maintenance",
-      "amount": 118.33333333333333,
+      "amount": 105.18518518518518,
       "segment": "cargo"
     },
     {
@@ -19622,6 +19555,15 @@
       "city": "Noida",
       "hub": "Sector 121",
       "client": "Amicco",
+      "lineItem": "Maintenance",
+      "amount": 13.148148148148147,
+      "segment": "cargo"
+    },
+    {
+      "month": "2026-08",
+      "city": "Noida",
+      "hub": "Sector 121",
+      "client": "Rental_L5",
       "lineItem": "Maintenance",
       "amount": 13.148148148148147,
       "segment": "cargo"
@@ -19830,7 +19772,7 @@
       "hub": "Sector 121",
       "client": "Delhivery",
       "lineItem": "Maintenance",
-      "amount": 51.666666666666664,
+      "amount": 45.925925925925924,
       "segment": "cargo"
     },
     {
@@ -19838,6 +19780,15 @@
       "city": "Noida",
       "hub": "Sector 121",
       "client": "Amicco",
+      "lineItem": "Maintenance",
+      "amount": 5.7407407407407405,
+      "segment": "cargo"
+    },
+    {
+      "month": "2026-08",
+      "city": "Noida",
+      "hub": "Sector 121",
+      "client": "Rental_L5",
       "lineItem": "Maintenance",
       "amount": 5.7407407407407405,
       "segment": "cargo"
@@ -19866,7 +19817,7 @@
       "hub": "Sector 121",
       "client": "Delhivery",
       "lineItem": "Maintenance",
-      "amount": 18.333333333333332,
+      "amount": 16.296296296296294,
       "segment": "cargo"
     },
     {
@@ -19874,6 +19825,15 @@
       "city": "Noida",
       "hub": "Sector 121",
       "client": "Amicco",
+      "lineItem": "Maintenance",
+      "amount": 2.0370370370370368,
+      "segment": "cargo"
+    },
+    {
+      "month": "2026-08",
+      "city": "Noida",
+      "hub": "Sector 121",
+      "client": "Rental_L5",
       "lineItem": "Maintenance",
       "amount": 2.0370370370370368,
       "segment": "cargo"
@@ -19929,7 +19889,7 @@
       "hub": "Sector 121",
       "client": "Delhivery",
       "lineItem": "Maintenance",
-      "amount": 90,
+      "amount": 80,
       "segment": "cargo"
     },
     {
@@ -19937,6 +19897,15 @@
       "city": "Noida",
       "hub": "Sector 121",
       "client": "Amicco",
+      "lineItem": "Maintenance",
+      "amount": 10,
+      "segment": "cargo"
+    },
+    {
+      "month": "2026-08",
+      "city": "Noida",
+      "hub": "Sector 121",
+      "client": "Rental_L5",
       "lineItem": "Maintenance",
       "amount": 10,
       "segment": "cargo"
@@ -20325,16 +20294,7 @@
       "hub": "Saket",
       "client": "Rental_L5",
       "lineItem": "Maintenance",
-      "amount": 140,
-      "segment": "cargo"
-    },
-    {
-      "month": "2026-08",
-      "city": "Delhi",
-      "hub": "Saket",
-      "client": "Delhivery",
-      "lineItem": "Maintenance",
-      "amount": 23.333333333333332,
+      "amount": 163.33333333333331,
       "segment": "cargo"
     },
     {
@@ -20478,7 +20438,7 @@
       "hub": "Sector 121",
       "client": "Delhivery",
       "lineItem": "Maintenance",
-      "amount": 90,
+      "amount": 80,
       "segment": "cargo"
     },
     {
@@ -20486,6 +20446,15 @@
       "city": "Noida",
       "hub": "Sector 121",
       "client": "Amicco",
+      "lineItem": "Maintenance",
+      "amount": 10,
+      "segment": "cargo"
+    },
+    {
+      "month": "2026-08",
+      "city": "Noida",
+      "hub": "Sector 121",
+      "client": "Rental_L5",
       "lineItem": "Maintenance",
       "amount": 10,
       "segment": "cargo"
@@ -20514,7 +20483,7 @@
       "hub": "Sector 121",
       "client": "Delhivery",
       "lineItem": "Maintenance",
-      "amount": 33.33333333333333,
+      "amount": 29.629629629629626,
       "segment": "cargo"
     },
     {
@@ -20522,6 +20491,15 @@
       "city": "Noida",
       "hub": "Sector 121",
       "client": "Amicco",
+      "lineItem": "Maintenance",
+      "amount": 3.7037037037037033,
+      "segment": "cargo"
+    },
+    {
+      "month": "2026-08",
+      "city": "Noida",
+      "hub": "Sector 121",
+      "client": "Rental_L5",
       "lineItem": "Maintenance",
       "amount": 3.7037037037037033,
       "segment": "cargo"
@@ -20604,7 +20582,7 @@
       "hub": "Sector 121",
       "client": "Delhivery",
       "lineItem": "Maintenance",
-      "amount": 18.333333333333332,
+      "amount": 16.296296296296294,
       "segment": "cargo"
     },
     {
@@ -20612,6 +20590,15 @@
       "city": "Noida",
       "hub": "Sector 121",
       "client": "Amicco",
+      "lineItem": "Maintenance",
+      "amount": 2.0370370370370368,
+      "segment": "cargo"
+    },
+    {
+      "month": "2026-08",
+      "city": "Noida",
+      "hub": "Sector 121",
+      "client": "Rental_L5",
       "lineItem": "Maintenance",
       "amount": 2.0370370370370368,
       "segment": "cargo"
@@ -20712,16 +20699,7 @@
       "hub": "Saket",
       "client": "Rental_L5",
       "lineItem": "Maintenance",
-      "amount": 83.80952380952381,
-      "segment": "cargo"
-    },
-    {
-      "month": "2026-08",
-      "city": "Delhi",
-      "hub": "Saket",
-      "client": "Delhivery",
-      "lineItem": "Maintenance",
-      "amount": 13.968253968253968,
+      "amount": 97.77777777777777,
       "segment": "cargo"
     },
     {
@@ -20748,16 +20726,7 @@
       "hub": "Saket",
       "client": "Rental_L5",
       "lineItem": "Maintenance",
-      "amount": 24.76190476190476,
-      "segment": "cargo"
-    },
-    {
-      "month": "2026-08",
-      "city": "Delhi",
-      "hub": "Saket",
-      "client": "Delhivery",
-      "lineItem": "Maintenance",
-      "amount": 4.1269841269841265,
+      "amount": 28.888888888888886,
       "segment": "cargo"
     },
     {
@@ -21351,16 +21320,7 @@
       "hub": "Saket",
       "client": "Rental_L5",
       "lineItem": "Maintenance",
-      "amount": 16.666666666666664,
-      "segment": "cargo"
-    },
-    {
-      "month": "2026-08",
-      "city": "Delhi",
-      "hub": "Saket",
-      "client": "Delhivery",
-      "lineItem": "Maintenance",
-      "amount": 2.7777777777777777,
+      "amount": 19.444444444444443,
       "segment": "cargo"
     },
     {
@@ -21387,16 +21347,7 @@
       "hub": "Saket",
       "client": "Rental_L5",
       "lineItem": "Maintenance",
-      "amount": 10.476190476190476,
-      "segment": "cargo"
-    },
-    {
-      "month": "2026-08",
-      "city": "Delhi",
-      "hub": "Saket",
-      "client": "Delhivery",
-      "lineItem": "Maintenance",
-      "amount": 1.746031746031746,
+      "amount": 12.222222222222221,
       "segment": "cargo"
     },
     {
@@ -21792,16 +21743,7 @@
       "hub": "Saket",
       "client": "Rental_L5",
       "lineItem": "Maintenance",
-      "amount": 34,
-      "segment": "cargo"
-    },
-    {
-      "month": "2026-08",
-      "city": "Delhi",
-      "hub": "Saket",
-      "client": "Delhivery",
-      "lineItem": "Maintenance",
-      "amount": 5.666666666666666,
+      "amount": 39.666666666666664,
       "segment": "cargo"
     },
     {
@@ -22296,7 +22238,7 @@
       "hub": "Sector 121",
       "client": "Delhivery",
       "lineItem": "Maintenance",
-      "amount": 18.333333333333332,
+      "amount": 16.296296296296294,
       "segment": "cargo"
     },
     {
@@ -22304,6 +22246,15 @@
       "city": "Noida",
       "hub": "Sector 121",
       "client": "Amicco",
+      "lineItem": "Maintenance",
+      "amount": 2.0370370370370368,
+      "segment": "cargo"
+    },
+    {
+      "month": "2026-08",
+      "city": "Noida",
+      "hub": "Sector 121",
+      "client": "Rental_L5",
       "lineItem": "Maintenance",
       "amount": 2.0370370370370368,
       "segment": "cargo"
@@ -22332,7 +22283,7 @@
       "hub": "Sector 121",
       "client": "Delhivery",
       "lineItem": "Maintenance",
-      "amount": 60.83333333333333,
+      "amount": 54.07407407407407,
       "segment": "cargo"
     },
     {
@@ -22340,6 +22291,15 @@
       "city": "Noida",
       "hub": "Sector 121",
       "client": "Amicco",
+      "lineItem": "Maintenance",
+      "amount": 6.759259259259259,
+      "segment": "cargo"
+    },
+    {
+      "month": "2026-08",
+      "city": "Noida",
+      "hub": "Sector 121",
+      "client": "Rental_L5",
       "lineItem": "Maintenance",
       "amount": 6.759259259259259,
       "segment": "cargo"
@@ -22368,7 +22328,7 @@
       "hub": "Sector 121",
       "client": "Delhivery",
       "lineItem": "Maintenance",
-      "amount": 81.66666666666666,
+      "amount": 72.5925925925926,
       "segment": "cargo"
     },
     {
@@ -22376,6 +22336,15 @@
       "city": "Noida",
       "hub": "Sector 121",
       "client": "Amicco",
+      "lineItem": "Maintenance",
+      "amount": 9.074074074074074,
+      "segment": "cargo"
+    },
+    {
+      "month": "2026-08",
+      "city": "Noida",
+      "hub": "Sector 121",
+      "client": "Rental_L5",
       "lineItem": "Maintenance",
       "amount": 9.074074074074074,
       "segment": "cargo"
@@ -22845,16 +22814,7 @@
       "hub": "Saket",
       "client": "Rental_L5",
       "lineItem": "Maintenance",
-      "amount": 14.285714285714285,
-      "segment": "cargo"
-    },
-    {
-      "month": "2026-08",
-      "city": "Delhi",
-      "hub": "Saket",
-      "client": "Delhivery",
-      "lineItem": "Maintenance",
-      "amount": 2.380952380952381,
+      "amount": 16.666666666666664,
       "segment": "cargo"
     },
     {
@@ -22881,16 +22841,7 @@
       "hub": "Saket",
       "client": "Rental_L5",
       "lineItem": "Maintenance",
-      "amount": 46.666666666666664,
-      "segment": "cargo"
-    },
-    {
-      "month": "2026-08",
-      "city": "Delhi",
-      "hub": "Saket",
-      "client": "Delhivery",
-      "lineItem": "Maintenance",
-      "amount": 7.777777777777778,
+      "amount": 54.44444444444444,
       "segment": "cargo"
     },
     {
@@ -23061,7 +23012,7 @@
       "hub": "Sector 121",
       "client": "Delhivery",
       "lineItem": "Maintenance",
-      "amount": 10.833333333333332,
+      "amount": 9.62962962962963,
       "segment": "cargo"
     },
     {
@@ -23069,6 +23020,15 @@
       "city": "Noida",
       "hub": "Sector 121",
       "client": "Amicco",
+      "lineItem": "Maintenance",
+      "amount": 1.2037037037037037,
+      "segment": "cargo"
+    },
+    {
+      "month": "2026-09",
+      "city": "Noida",
+      "hub": "Sector 121",
+      "client": "Rental_L5",
       "lineItem": "Maintenance",
       "amount": 1.2037037037037037,
       "segment": "cargo"
@@ -23448,16 +23408,7 @@
       "hub": "Saket",
       "client": "Rental_L5",
       "lineItem": "Maintenance",
-      "amount": 140,
-      "segment": "cargo"
-    },
-    {
-      "month": "2026-09",
-      "city": "Delhi",
-      "hub": "Saket",
-      "client": "Delhivery",
-      "lineItem": "Maintenance",
-      "amount": 23.333333333333332,
+      "amount": 163.33333333333331,
       "segment": "cargo"
     },
     {
@@ -23484,16 +23435,7 @@
       "hub": "Saket",
       "client": "Rental_L5",
       "lineItem": "Maintenance",
-      "amount": 35.33333333333333,
-      "segment": "cargo"
-    },
-    {
-      "month": "2026-09",
-      "city": "Delhi",
-      "hub": "Saket",
-      "client": "Delhivery",
-      "lineItem": "Maintenance",
-      "amount": 5.888888888888888,
+      "amount": 41.22222222222222,
       "segment": "cargo"
     },
     {
@@ -23520,16 +23462,7 @@
       "hub": "Saket",
       "client": "Rental_L5",
       "lineItem": "Maintenance",
-      "amount": 4.571428571428571,
-      "segment": "cargo"
-    },
-    {
-      "month": "2026-09",
-      "city": "Delhi",
-      "hub": "Saket",
-      "client": "Delhivery",
-      "lineItem": "Maintenance",
-      "amount": 0.7619047619047619,
+      "amount": 5.333333333333333,
       "segment": "cargo"
     },
     {
@@ -23844,16 +23777,7 @@
       "hub": "Saket",
       "client": "Rental_L5",
       "lineItem": "Maintenance",
-      "amount": 29.333333333333332,
-      "segment": "cargo"
-    },
-    {
-      "month": "2026-09",
-      "city": "Delhi",
-      "hub": "Saket",
-      "client": "Delhivery",
-      "lineItem": "Maintenance",
-      "amount": 4.888888888888888,
+      "amount": 34.22222222222222,
       "segment": "cargo"
     },
     {
@@ -23880,16 +23804,7 @@
       "hub": "Saket",
       "client": "Rental_L5",
       "lineItem": "Maintenance",
-      "amount": 25.71428571428571,
-      "segment": "cargo"
-    },
-    {
-      "month": "2026-09",
-      "city": "Delhi",
-      "hub": "Saket",
-      "client": "Delhivery",
-      "lineItem": "Maintenance",
-      "amount": 4.285714285714286,
+      "amount": 30,
       "segment": "cargo"
     },
     {
@@ -23916,16 +23831,7 @@
       "hub": "Saket",
       "client": "Rental_L5",
       "lineItem": "Maintenance",
-      "amount": 42.857142857142854,
-      "segment": "cargo"
-    },
-    {
-      "month": "2026-09",
-      "city": "Delhi",
-      "hub": "Saket",
-      "client": "Delhivery",
-      "lineItem": "Maintenance",
-      "amount": 7.142857142857142,
+      "amount": 50,
       "segment": "cargo"
     },
     {
@@ -23952,16 +23858,7 @@
       "hub": "Saket",
       "client": "Rental_L5",
       "lineItem": "Maintenance",
-      "amount": 4.571428571428571,
-      "segment": "cargo"
-    },
-    {
-      "month": "2026-09",
-      "city": "Delhi",
-      "hub": "Saket",
-      "client": "Delhivery",
-      "lineItem": "Maintenance",
-      "amount": 0.7619047619047619,
+      "amount": 5.333333333333333,
       "segment": "cargo"
     },
     {
@@ -23997,7 +23894,7 @@
       "hub": "Sector 121",
       "client": "Delhivery",
       "lineItem": "Maintenance",
-      "amount": 56.666666666666664,
+      "amount": 50.37037037037037,
       "segment": "cargo"
     },
     {
@@ -24005,6 +23902,15 @@
       "city": "Noida",
       "hub": "Sector 121",
       "client": "Amicco",
+      "lineItem": "Maintenance",
+      "amount": 6.296296296296296,
+      "segment": "cargo"
+    },
+    {
+      "month": "2026-09",
+      "city": "Noida",
+      "hub": "Sector 121",
+      "client": "Rental_L5",
       "lineItem": "Maintenance",
       "amount": 6.296296296296296,
       "segment": "cargo"
@@ -24069,7 +23975,7 @@
       "hub": "Sector 121",
       "client": "Delhivery",
       "lineItem": "Maintenance",
-      "amount": 43.33333333333333,
+      "amount": 38.51851851851852,
       "segment": "cargo"
     },
     {
@@ -24077,6 +23983,15 @@
       "city": "Noida",
       "hub": "Sector 121",
       "client": "Amicco",
+      "lineItem": "Maintenance",
+      "amount": 4.814814814814815,
+      "segment": "cargo"
+    },
+    {
+      "month": "2026-09",
+      "city": "Noida",
+      "hub": "Sector 121",
+      "client": "Rental_L5",
       "lineItem": "Maintenance",
       "amount": 4.814814814814815,
       "segment": "cargo"
@@ -24168,16 +24083,7 @@
       "hub": "Saket",
       "client": "Rental_L5",
       "lineItem": "Maintenance",
-      "amount": 10.476190476190476,
-      "segment": "cargo"
-    },
-    {
-      "month": "2026-09",
-      "city": "Delhi",
-      "hub": "Saket",
-      "client": "Delhivery",
-      "lineItem": "Maintenance",
-      "amount": 1.746031746031746,
+      "amount": 12.222222222222221,
       "segment": "cargo"
     },
     {
@@ -24204,16 +24110,7 @@
       "hub": "Saket",
       "client": "Rental_L5",
       "lineItem": "Maintenance",
-      "amount": 20.952380952380953,
-      "segment": "cargo"
-    },
-    {
-      "month": "2026-09",
-      "city": "Delhi",
-      "hub": "Saket",
-      "client": "Delhivery",
-      "lineItem": "Maintenance",
-      "amount": 3.492063492063492,
+      "amount": 24.444444444444443,
       "segment": "cargo"
     },
     {
@@ -24384,16 +24281,7 @@
       "hub": "Saket",
       "client": "Rental_L5",
       "lineItem": "Maintenance",
-      "amount": 159.7142857142857,
-      "segment": "cargo"
-    },
-    {
-      "month": "2026-09",
-      "city": "Delhi",
-      "hub": "Saket",
-      "client": "Delhivery",
-      "lineItem": "Maintenance",
-      "amount": 26.619047619047617,
+      "amount": 186.33333333333331,
       "segment": "cargo"
     },
     {
@@ -24420,16 +24308,7 @@
       "hub": "Saket",
       "client": "Rental_L5",
       "lineItem": "Maintenance",
-      "amount": 6.19047619047619,
-      "segment": "cargo"
-    },
-    {
-      "month": "2026-09",
-      "city": "Delhi",
-      "hub": "Saket",
-      "client": "Delhivery",
-      "lineItem": "Maintenance",
-      "amount": 1.0317460317460316,
+      "amount": 7.222222222222221,
       "segment": "cargo"
     },
     {
@@ -24663,16 +24542,7 @@
       "hub": "Saket",
       "client": "Rental_L5",
       "lineItem": "Maintenance",
-      "amount": 173.33333333333331,
-      "segment": "cargo"
-    },
-    {
-      "month": "2026-09",
-      "city": "Delhi",
-      "hub": "Saket",
-      "client": "Delhivery",
-      "lineItem": "Maintenance",
-      "amount": 28.888888888888886,
+      "amount": 202.2222222222222,
       "segment": "cargo"
     },
     {
@@ -24699,16 +24569,7 @@
       "hub": "Saket",
       "client": "Rental_L5",
       "lineItem": "Maintenance",
-      "amount": 10.476190476190476,
-      "segment": "cargo"
-    },
-    {
-      "month": "2026-09",
-      "city": "Delhi",
-      "hub": "Saket",
-      "client": "Delhivery",
-      "lineItem": "Maintenance",
-      "amount": 1.746031746031746,
+      "amount": 12.222222222222221,
       "segment": "cargo"
     },
     {
@@ -25644,7 +25505,7 @@
       "hub": "Sector 121",
       "client": "Delhivery",
       "lineItem": "Maintenance",
-      "amount": 81.66666666666666,
+      "amount": 72.5925925925926,
       "segment": "cargo"
     },
     {
@@ -25652,6 +25513,15 @@
       "city": "Noida",
       "hub": "Sector 121",
       "client": "Amicco",
+      "lineItem": "Maintenance",
+      "amount": 9.074074074074074,
+      "segment": "cargo"
+    },
+    {
+      "month": "2026-09",
+      "city": "Noida",
+      "hub": "Sector 121",
+      "client": "Rental_L5",
       "lineItem": "Maintenance",
       "amount": 9.074074074074074,
       "segment": "cargo"
@@ -25680,7 +25550,7 @@
       "hub": "Sector 121",
       "client": "Delhivery",
       "lineItem": "Maintenance",
-      "amount": 56.666666666666664,
+      "amount": 50.37037037037037,
       "segment": "cargo"
     },
     {
@@ -25688,6 +25558,15 @@
       "city": "Noida",
       "hub": "Sector 121",
       "client": "Amicco",
+      "lineItem": "Maintenance",
+      "amount": 6.296296296296296,
+      "segment": "cargo"
+    },
+    {
+      "month": "2026-09",
+      "city": "Noida",
+      "hub": "Sector 121",
+      "client": "Rental_L5",
       "lineItem": "Maintenance",
       "amount": 6.296296296296296,
       "segment": "cargo"
@@ -26148,16 +26027,7 @@
       "hub": "Saket",
       "client": "Rental_L5",
       "lineItem": "Maintenance",
-      "amount": 6.666666666666666,
-      "segment": "cargo"
-    },
-    {
-      "month": "2026-09",
-      "city": "Delhi",
-      "hub": "Saket",
-      "client": "Delhivery",
-      "lineItem": "Maintenance",
-      "amount": 1.1111111111111112,
+      "amount": 7.777777777777778,
       "segment": "cargo"
     },
     {
@@ -26229,16 +26099,7 @@
       "hub": "Saket",
       "client": "Rental_L5",
       "lineItem": "Maintenance",
-      "amount": 14.285714285714285,
-      "segment": "cargo"
-    },
-    {
-      "month": "2026-09",
-      "city": "Delhi",
-      "hub": "Saket",
-      "client": "Delhivery",
-      "lineItem": "Maintenance",
-      "amount": 2.380952380952381,
+      "amount": 16.666666666666664,
       "segment": "cargo"
     },
     {
@@ -26310,16 +26171,7 @@
       "hub": "Saket",
       "client": "Rental_L5",
       "lineItem": "Maintenance",
-      "amount": 7.523809523809524,
-      "segment": "cargo"
-    },
-    {
-      "month": "2026-09",
-      "city": "Delhi",
-      "hub": "Saket",
-      "client": "Delhivery",
-      "lineItem": "Maintenance",
-      "amount": 1.253968253968254,
+      "amount": 8.777777777777777,
       "segment": "cargo"
     },
     {
@@ -26481,16 +26333,7 @@
       "hub": "Saket",
       "client": "Rental_L5",
       "lineItem": "Maintenance",
-      "amount": 46.666666666666664,
-      "segment": "cargo"
-    },
-    {
-      "month": "2026-09",
-      "city": "Delhi",
-      "hub": "Saket",
-      "client": "Delhivery",
-      "lineItem": "Maintenance",
-      "amount": 7.777777777777778,
+      "amount": 54.44444444444444,
       "segment": "cargo"
     },
     {
@@ -26877,16 +26720,7 @@
       "hub": "Saket",
       "client": "Rental_L5",
       "lineItem": "Maintenance",
-      "amount": 59.52380952380952,
-      "segment": "cargo"
-    },
-    {
-      "month": "2026-09",
-      "city": "Delhi",
-      "hub": "Saket",
-      "client": "Delhivery",
-      "lineItem": "Maintenance",
-      "amount": 9.920634920634921,
+      "amount": 69.44444444444444,
       "segment": "cargo"
     },
     {
@@ -26985,16 +26819,7 @@
       "hub": "Saket",
       "client": "Rental_L5",
       "lineItem": "Maintenance",
-      "amount": 10.476190476190476,
-      "segment": "cargo"
-    },
-    {
-      "month": "2026-09",
-      "city": "Delhi",
-      "hub": "Saket",
-      "client": "Delhivery",
-      "lineItem": "Maintenance",
-      "amount": 1.746031746031746,
+      "amount": 12.222222222222221,
       "segment": "cargo"
     },
     {
@@ -27048,7 +26873,7 @@
       "hub": "Sector 121",
       "client": "Delhivery",
       "lineItem": "Maintenance",
-      "amount": 38.5,
+      "amount": 34.22222222222222,
       "segment": "cargo"
     },
     {
@@ -27056,6 +26881,15 @@
       "city": "Noida",
       "hub": "Sector 121",
       "client": "Amicco",
+      "lineItem": "Maintenance",
+      "amount": 4.277777777777778,
+      "segment": "cargo"
+    },
+    {
+      "month": "2026-09",
+      "city": "Noida",
+      "hub": "Sector 121",
+      "client": "Rental_L5",
       "lineItem": "Maintenance",
       "amount": 4.277777777777778,
       "segment": "cargo"
@@ -27084,7 +26918,7 @@
       "hub": "Sector 121",
       "client": "Delhivery",
       "lineItem": "Maintenance",
-      "amount": 38.5,
+      "amount": 34.22222222222222,
       "segment": "cargo"
     },
     {
@@ -27092,6 +26926,15 @@
       "city": "Noida",
       "hub": "Sector 121",
       "client": "Amicco",
+      "lineItem": "Maintenance",
+      "amount": 4.277777777777778,
+      "segment": "cargo"
+    },
+    {
+      "month": "2026-09",
+      "city": "Noida",
+      "hub": "Sector 121",
+      "client": "Rental_L5",
       "lineItem": "Maintenance",
       "amount": 4.277777777777778,
       "segment": "cargo"
@@ -27120,7 +26963,7 @@
       "hub": "Sector 121",
       "client": "Delhivery",
       "lineItem": "Maintenance",
-      "amount": 18.333333333333332,
+      "amount": 16.296296296296294,
       "segment": "cargo"
     },
     {
@@ -27128,6 +26971,15 @@
       "city": "Noida",
       "hub": "Sector 121",
       "client": "Amicco",
+      "lineItem": "Maintenance",
+      "amount": 2.0370370370370368,
+      "segment": "cargo"
+    },
+    {
+      "month": "2026-09",
+      "city": "Noida",
+      "hub": "Sector 121",
+      "client": "Rental_L5",
       "lineItem": "Maintenance",
       "amount": 2.0370370370370368,
       "segment": "cargo"
@@ -27156,7 +27008,7 @@
       "hub": "Sector 121",
       "client": "Delhivery",
       "lineItem": "Maintenance",
-      "amount": 271.8333333333333,
+      "amount": 241.62962962962962,
       "segment": "cargo"
     },
     {
@@ -27164,6 +27016,15 @@
       "city": "Noida",
       "hub": "Sector 121",
       "client": "Amicco",
+      "lineItem": "Maintenance",
+      "amount": 30.203703703703702,
+      "segment": "cargo"
+    },
+    {
+      "month": "2026-09",
+      "city": "Noida",
+      "hub": "Sector 121",
+      "client": "Rental_L5",
       "lineItem": "Maintenance",
       "amount": 30.203703703703702,
       "segment": "cargo"
@@ -27192,7 +27053,7 @@
       "hub": "Sector 121",
       "client": "Delhivery",
       "lineItem": "Maintenance",
-      "amount": 56.83333333333333,
+      "amount": 50.51851851851852,
       "segment": "cargo"
     },
     {
@@ -27200,6 +27061,15 @@
       "city": "Noida",
       "hub": "Sector 121",
       "client": "Amicco",
+      "lineItem": "Maintenance",
+      "amount": 6.314814814814815,
+      "segment": "cargo"
+    },
+    {
+      "month": "2026-09",
+      "city": "Noida",
+      "hub": "Sector 121",
+      "client": "Rental_L5",
       "lineItem": "Maintenance",
       "amount": 6.314814814814815,
       "segment": "cargo"
@@ -27228,16 +27098,7 @@
       "hub": "Saket",
       "client": "Rental_L5",
       "lineItem": "Maintenance",
-      "amount": 53.047619047619044,
-      "segment": "cargo"
-    },
-    {
-      "month": "2026-09",
-      "city": "Delhi",
-      "hub": "Saket",
-      "client": "Delhivery",
-      "lineItem": "Maintenance",
-      "amount": 8.84126984126984,
+      "amount": 61.888888888888886,
       "segment": "cargo"
     },
     {
@@ -27264,16 +27125,7 @@
       "hub": "Saket",
       "client": "Rental_L5",
       "lineItem": "Maintenance",
-      "amount": 10.476190476190476,
-      "segment": "cargo"
-    },
-    {
-      "month": "2026-09",
-      "city": "Delhi",
-      "hub": "Saket",
-      "client": "Delhivery",
-      "lineItem": "Maintenance",
-      "amount": 1.746031746031746,
+      "amount": 12.222222222222221,
       "segment": "cargo"
     },
     {
@@ -27300,16 +27152,7 @@
       "hub": "Saket",
       "client": "Rental_L5",
       "lineItem": "Maintenance",
-      "amount": 25.71428571428571,
-      "segment": "cargo"
-    },
-    {
-      "month": "2026-09",
-      "city": "Delhi",
-      "hub": "Saket",
-      "client": "Delhivery",
-      "lineItem": "Maintenance",
-      "amount": 4.285714285714286,
+      "amount": 30,
       "segment": "cargo"
     },
     {
@@ -27336,16 +27179,7 @@
       "hub": "Saket",
       "client": "Rental_L5",
       "lineItem": "Maintenance",
-      "amount": 6.19047619047619,
-      "segment": "cargo"
-    },
-    {
-      "month": "2026-09",
-      "city": "Delhi",
-      "hub": "Saket",
-      "client": "Delhivery",
-      "lineItem": "Maintenance",
-      "amount": 1.0317460317460316,
+      "amount": 7.222222222222221,
       "segment": "cargo"
     },
     {
@@ -27795,16 +27629,7 @@
       "hub": "Saket",
       "client": "Rental_L5",
       "lineItem": "Maintenance",
-      "amount": 57.14285714285714,
-      "segment": "cargo"
-    },
-    {
-      "month": "2026-09",
-      "city": "Delhi",
-      "hub": "Saket",
-      "client": "Delhivery",
-      "lineItem": "Maintenance",
-      "amount": 9.523809523809524,
+      "amount": 66.66666666666666,
       "segment": "cargo"
     },
     {
@@ -27831,16 +27656,7 @@
       "hub": "Saket",
       "client": "Rental_L5",
       "lineItem": "Maintenance",
-      "amount": 57.14285714285714,
-      "segment": "cargo"
-    },
-    {
-      "month": "2026-09",
-      "city": "Delhi",
-      "hub": "Saket",
-      "client": "Delhivery",
-      "lineItem": "Maintenance",
-      "amount": 9.523809523809524,
+      "amount": 66.66666666666666,
       "segment": "cargo"
     },
     {
@@ -30716,6 +30532,123 @@
     },
     {
       "month": "2026-09",
+      "city": "Gurgaon",
+      "hub": "Hero Honda",
+      "client": "Passenger Rental",
+      "lineItem": "Maintenance",
+      "amount": 197,
+      "segment": "passenger"
+    },
+    {
+      "month": "2026-09",
+      "city": "Gurgaon",
+      "hub": "Hero Honda",
+      "client": "Passenger Rental",
+      "lineItem": "Maintenance",
+      "amount": 420,
+      "segment": "passenger"
+    },
+    {
+      "month": "2026-09",
+      "city": "Gurgaon",
+      "hub": "Hero Honda",
+      "client": "Passenger Rental",
+      "lineItem": "Maintenance",
+      "amount": 260,
+      "segment": "passenger"
+    },
+    {
+      "month": "2026-09",
+      "city": "Gurgaon",
+      "hub": "Hero Honda",
+      "client": "Passenger Rental",
+      "lineItem": "Maintenance",
+      "amount": 279,
+      "segment": "passenger"
+    },
+    {
+      "month": "2026-09",
+      "city": "Gurgaon",
+      "hub": "Hero Honda",
+      "client": "Passenger Rental",
+      "lineItem": "Maintenance",
+      "amount": 319,
+      "segment": "passenger"
+    },
+    {
+      "month": "2026-09",
+      "city": "Gurgaon",
+      "hub": "Hero Honda",
+      "client": "Passenger Rental",
+      "lineItem": "Maintenance",
+      "amount": 520,
+      "segment": "passenger"
+    },
+    {
+      "month": "2026-09",
+      "city": "Gurgaon",
+      "hub": "Hero Honda",
+      "client": "Passenger Rental",
+      "lineItem": "Maintenance",
+      "amount": 1356,
+      "segment": "passenger"
+    },
+    {
+      "month": "2026-09",
+      "city": "Gurgaon",
+      "hub": "Hero Honda",
+      "client": "Passenger Rental",
+      "lineItem": "Maintenance",
+      "amount": 780,
+      "segment": "passenger"
+    },
+    {
+      "month": "2026-09",
+      "city": "Gurgaon",
+      "hub": "Hero Honda",
+      "client": "Passenger Rental",
+      "lineItem": "Maintenance",
+      "amount": 190,
+      "segment": "passenger"
+    },
+    {
+      "month": "2026-09",
+      "city": "Gurgaon",
+      "hub": "Hero Honda",
+      "client": "Passenger Rental",
+      "lineItem": "Maintenance",
+      "amount": 419,
+      "segment": "passenger"
+    },
+    {
+      "month": "2026-09",
+      "city": "",
+      "hub": "",
+      "client": "",
+      "lineItem": "Maintenance",
+      "amount": 132,
+      "segment": "passenger"
+    },
+    {
+      "month": "2026-09",
+      "city": "",
+      "hub": "",
+      "client": "",
+      "lineItem": "Maintenance",
+      "amount": 250,
+      "segment": "passenger"
+    },
+    {
+      "month": "2026-09",
+      "city": "",
+      "hub": "",
+      "client": "",
+      "lineItem": "Maintenance",
+      "amount": 250,
+      "segment": "passenger"
+    },
+    {
+      "month": "2026-09",
       "city": "Bangalore",
       "hub": "Bangalore Koramangala",
       "client": "3W L3 Porter- Fixed",
@@ -32366,7 +32299,7 @@
       "month": "2026-09",
       "city": "Delhi",
       "hub": "Delhi Saket",
-      "client": "Delhivery",
+      "client": "Rental_L5",
       "lineItem": "Lease/EMI",
       "amount": 15000
     },
@@ -33654,7 +33587,7 @@
       "month": "2026-09",
       "city": "Noida",
       "hub": "Noida Sec 121",
-      "client": "Delhivery",
+      "client": "Rental_L5",
       "lineItem": "Lease/EMI",
       "amount": 15000
     },
