@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-15T07:50:17.173Z",
+  "generatedAt": "2026-09-15T09:50:05.091Z",
   "records": [
     {
       "month": "2026-06",
@@ -30653,6 +30653,69 @@
     },
     {
       "month": "2026-09",
+      "city": "Gurgaon",
+      "hub": "Gurgaon Sec 68",
+      "client": "Passenger Rental",
+      "lineItem": "Maintenance",
+      "amount": 190,
+      "segment": "passenger"
+    },
+    {
+      "month": "2026-09",
+      "city": "Gurgaon",
+      "hub": "Hero Honda",
+      "client": "Passenger Rental",
+      "lineItem": "Maintenance",
+      "amount": 190,
+      "segment": "passenger"
+    },
+    {
+      "month": "2026-09",
+      "city": "Gurgaon",
+      "hub": "Hero Honda",
+      "client": "Passenger Rental",
+      "lineItem": "Maintenance",
+      "amount": 190,
+      "segment": "passenger"
+    },
+    {
+      "month": "2026-09",
+      "city": "Gurgaon",
+      "hub": "Hero Honda",
+      "client": "Passenger Rental",
+      "lineItem": "Maintenance",
+      "amount": 190,
+      "segment": "passenger"
+    },
+    {
+      "month": "2026-09",
+      "city": "Gurgaon",
+      "hub": "Hero Honda",
+      "client": "Passenger Rental",
+      "lineItem": "Maintenance",
+      "amount": 190,
+      "segment": "passenger"
+    },
+    {
+      "month": "2026-09",
+      "city": "Gurgaon",
+      "hub": "Hero Honda",
+      "client": "Passenger Rental",
+      "lineItem": "Maintenance",
+      "amount": 190,
+      "segment": "passenger"
+    },
+    {
+      "month": "2026-09",
+      "city": "Gurgaon",
+      "hub": "Gurgaon Sec 68",
+      "client": "Passenger Rental",
+      "lineItem": "Maintenance",
+      "amount": 850,
+      "segment": "passenger"
+    },
+    {
+      "month": "2026-09",
       "city": "Bangalore",
       "hub": "Bangalore Koramangala",
       "client": "3W L3 Porter- Fixed",
@@ -32295,14 +32358,6 @@
       "month": "2026-09",
       "city": "Delhi",
       "hub": "Shalimar Bagh",
-      "client": "Delhivery",
-      "lineItem": "Lease/EMI",
-      "amount": 10666.666666666668
-    },
-    {
-      "month": "2026-09",
-      "city": "Delhi",
-      "hub": "Nilothi",
       "client": "Delhivery",
       "lineItem": "Lease/EMI",
       "amount": 10666.666666666668
@@ -33013,6 +33068,14 @@
     },
     {
       "month": "2026-09",
+      "city": "Delhi",
+      "hub": "Nilothi",
+      "client": "Delhivery",
+      "lineItem": "Lease/EMI",
+      "amount": 10666.666666666668
+    },
+    {
+      "month": "2026-09",
       "city": "Mumbai",
       "hub": "Mumbai Chakala",
       "client": "Zomato - 2W",
@@ -33594,6 +33657,14 @@
       "client": "Delhivery",
       "lineItem": "Lease/EMI",
       "amount": 15000
+    },
+    {
+      "month": "2026-09",
+      "city": "Noida",
+      "hub": "Noida Sec 121",
+      "client": "Delhivery",
+      "lineItem": "Lease/EMI",
+      "amount": 10666.666666666668
     },
     {
       "month": "2026-09",
