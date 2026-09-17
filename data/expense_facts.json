@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-17T08:49:38.990Z",
+  "generatedAt": "2026-09-17T16:50:34.492Z",
   "records": [
     {
       "month": "2026-06",
@@ -682,7 +682,7 @@
       "amount": 3219.7916666666665
     },
     {
-      "month": "2026-07",
+      "month": "2026-08",
       "city": "Gurgaon",
       "hub": "Wazirabad",
       "client": "Porter - 3W L3",
@@ -690,7 +690,7 @@
       "amount": 102243.75
     },
     {
-      "month": "2026-07",
+      "month": "2026-08",
       "city": "Gurgaon",
       "hub": "Wazirabad",
       "client": "Blinkit",
@@ -698,7 +698,7 @@
       "amount": 53812.5
     },
     {
-      "month": "2026-07",
+      "month": "2026-08",
       "city": "Gurgaon",
       "hub": "Wazirabad",
       "client": "Delhivery",
@@ -706,7 +706,7 @@
       "amount": 10762.5
     },
     {
-      "month": "2026-07",
+      "month": "2026-08",
       "city": "Gurgaon",
       "hub": "Wazirabad",
       "client": "Amicco",
@@ -714,7 +714,7 @@
       "amount": 3587.5
     },
     {
-      "month": "2026-07",
+      "month": "2026-08",
       "city": "Gurgaon",
       "hub": "Wazirabad",
       "client": "Wash4you",
@@ -8684,7 +8684,7 @@
       "hub": "Faridabad",
       "client": "",
       "lineItem": "Maintenance",
-      "amount": 12801,
+      "amount": 5406,
       "segment": "cargo"
     },
     {
@@ -8738,7 +8738,7 @@
       "hub": "Sector 121",
       "client": "Blinkit",
       "lineItem": "Maintenance",
-      "amount": 7697.851851851852,
+      "amount": 4420.62962962963,
       "segment": "cargo"
     },
     {
@@ -8747,7 +8747,7 @@
       "hub": "Sector 121",
       "client": "Porter - 3W L3",
       "lineItem": "Maintenance",
-      "amount": 2264.074074074074,
+      "amount": 1300.1851851851852,
       "segment": "cargo"
     },
     {
@@ -8756,7 +8756,7 @@
       "hub": "Sector 121",
       "client": "Delhivery",
       "lineItem": "Maintenance",
-      "amount": 1811.2592592592591,
+      "amount": 1040.148148148148,
       "segment": "cargo"
     },
     {
@@ -8765,7 +8765,7 @@
       "hub": "Sector 121",
       "client": "Amicco",
       "lineItem": "Maintenance",
-      "amount": 226.4074074074074,
+      "amount": 130.0185185185185,
       "segment": "cargo"
     },
     {
@@ -8774,7 +8774,7 @@
       "hub": "Sector 121",
       "client": "Rental_L5",
       "lineItem": "Maintenance",
-      "amount": 226.4074074074074,
+      "amount": 130.0185185185185,
       "segment": "cargo"
     },
     {
@@ -28476,6 +28476,141 @@
       "client": "Delhivery",
       "lineItem": "Maintenance",
       "amount": 23.26923076923077,
+      "segment": "cargo"
+    },
+    {
+      "month": "2026-09",
+      "city": "Delhi",
+      "hub": "Shalimar Bagh",
+      "client": "Porter - 3W L3",
+      "lineItem": "Maintenance",
+      "amount": 80.8,
+      "segment": "cargo"
+    },
+    {
+      "month": "2026-09",
+      "city": "Delhi",
+      "hub": "Shalimar Bagh",
+      "client": "Blinkit",
+      "lineItem": "Maintenance",
+      "amount": 323.2,
+      "segment": "cargo"
+    },
+    {
+      "month": "2026-09",
+      "city": "Delhi",
+      "hub": "Shalimar Bagh",
+      "client": "Delhivery",
+      "lineItem": "Maintenance",
+      "amount": 101,
+      "segment": "cargo"
+    },
+    {
+      "month": "2026-09",
+      "city": "Delhi",
+      "hub": "Ali Village",
+      "client": "Porter - 3W L3",
+      "lineItem": "Maintenance",
+      "amount": 96.62745098039215,
+      "segment": "cargo"
+    },
+    {
+      "month": "2026-09",
+      "city": "Delhi",
+      "hub": "Ali Village",
+      "client": "Blinkit",
+      "lineItem": "Maintenance",
+      "amount": 150.98039215686273,
+      "segment": "cargo"
+    },
+    {
+      "month": "2026-09",
+      "city": "Delhi",
+      "hub": "Ali Village",
+      "client": "Delhivery",
+      "lineItem": "Maintenance",
+      "amount": 60.3921568627451,
+      "segment": "cargo"
+    },
+    {
+      "month": "2026-09",
+      "city": "Delhi",
+      "hub": "Ali Village",
+      "client": "Porter - 3W L3",
+      "lineItem": "Maintenance",
+      "amount": 109.80392156862744,
+      "segment": "cargo"
+    },
+    {
+      "month": "2026-09",
+      "city": "Delhi",
+      "hub": "Ali Village",
+      "client": "Blinkit",
+      "lineItem": "Maintenance",
+      "amount": 171.5686274509804,
+      "segment": "cargo"
+    },
+    {
+      "month": "2026-09",
+      "city": "Delhi",
+      "hub": "Ali Village",
+      "client": "Delhivery",
+      "lineItem": "Maintenance",
+      "amount": 68.62745098039215,
+      "segment": "cargo"
+    },
+    {
+      "month": "2026-09",
+      "city": "Delhi",
+      "hub": "Ali Village",
+      "client": "Porter - 3W L3",
+      "lineItem": "Maintenance",
+      "amount": 20.392156862745097,
+      "segment": "cargo"
+    },
+    {
+      "month": "2026-09",
+      "city": "Delhi",
+      "hub": "Ali Village",
+      "client": "Blinkit",
+      "lineItem": "Maintenance",
+      "amount": 31.862745098039213,
+      "segment": "cargo"
+    },
+    {
+      "month": "2026-09",
+      "city": "Delhi",
+      "hub": "Ali Village",
+      "client": "Delhivery",
+      "lineItem": "Maintenance",
+      "amount": 12.745098039215685,
+      "segment": "cargo"
+    },
+    {
+      "month": "2026-09",
+      "city": "Delhi",
+      "hub": "Ali Village",
+      "client": "Porter - 3W L3",
+      "lineItem": "Maintenance",
+      "amount": 47.05882352941176,
+      "segment": "cargo"
+    },
+    {
+      "month": "2026-09",
+      "city": "Delhi",
+      "hub": "Ali Village",
+      "client": "Blinkit",
+      "lineItem": "Maintenance",
+      "amount": 73.52941176470588,
+      "segment": "cargo"
+    },
+    {
+      "month": "2026-09",
+      "city": "Delhi",
+      "hub": "Ali Village",
+      "client": "Delhivery",
+      "lineItem": "Maintenance",
+      "amount": 29.41176470588235,
       "segment": "cargo"
     },
     {
@@ -107990,7 +108125,7 @@
       "hub": "",
       "client": "DELHIVERY",
       "lineItem": "Driver Payout",
-      "amount": 3627.5600000000004
+      "amount": 8127.740000000001
     },
     {
       "month": "2026-07",
@@ -108063,14 +108198,6 @@
       "client": "DELHIVERY",
       "lineItem": "Driver Payout",
       "amount": 3155.2
-    },
-    {
-      "month": "2026-07",
-      "city": "Delhi",
-      "hub": "",
-      "client": "DELHIVERY",
-      "lineItem": "Driver Payout",
-      "amount": 2054.5800000000004
     },
     {
       "month": "2026-07",
