@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-17T08:49:29.938Z",
+  "generatedAt": "2026-09-17T16:50:26.618Z",
   "records": [
     {
       "date": "2025-04-16",
@@ -699855,7 +699855,7 @@
       "hub": "",
       "client": "Delhivery",
       "vehicleType": "3W L5",
-      "revenue": 11618.42
+      "revenue": 10164.52
     },
     {
       "date": "2001-09-16",
@@ -699967,7 +699967,7 @@
       "hub": "",
       "client": "Delhivery",
       "vehicleType": "3W L5",
-      "revenue": 4134.8
+      "revenue": 4217.6
     },
     {
       "date": "2001-09-16",
