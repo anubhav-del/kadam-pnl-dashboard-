@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-18T10:49:20.419Z",
+  "generatedAt": "2026-09-18T14:49:20.973Z",
   "records": [
     {
       "month": "2026-06",
@@ -8919,6 +8919,105 @@
       "client": "Spencer",
       "lineItem": "Maintenance",
       "amount": 9440,
+      "segment": "cargo"
+    },
+    {
+      "month": "2026-09",
+      "city": "Kolkata",
+      "hub": "Park Street",
+      "client": "Spencer",
+      "lineItem": "Maintenance",
+      "amount": 58941,
+      "segment": "cargo"
+    },
+    {
+      "month": "2026-09",
+      "city": "Gurgaon",
+      "hub": "Wazirabad",
+      "client": "Porter - 3W L3",
+      "lineItem": "Maintenance",
+      "amount": 9393.71875,
+      "segment": "cargo"
+    },
+    {
+      "month": "2026-09",
+      "city": "Gurgaon",
+      "hub": "Wazirabad",
+      "client": "Blinkit",
+      "lineItem": "Maintenance",
+      "amount": 4944.0625,
+      "segment": "cargo"
+    },
+    {
+      "month": "2026-09",
+      "city": "Gurgaon",
+      "hub": "Wazirabad",
+      "client": "Delhivery",
+      "lineItem": "Maintenance",
+      "amount": 988.8125,
+      "segment": "cargo"
+    },
+    {
+      "month": "2026-09",
+      "city": "Gurgaon",
+      "hub": "Wazirabad",
+      "client": "Amicco",
+      "lineItem": "Maintenance",
+      "amount": 329.60416666666663,
+      "segment": "cargo"
+    },
+    {
+      "month": "2026-09",
+      "city": "Gurgaon",
+      "hub": "Wazirabad",
+      "client": "Wash4you",
+      "lineItem": "Maintenance",
+      "amount": 164.80208333333331,
+      "segment": "cargo"
+    },
+    {
+      "month": "2026-09",
+      "city": "Gurgaon",
+      "hub": "Wazirabad",
+      "client": "Porter - 3W L3",
+      "lineItem": "Maintenance",
+      "amount": 9290.40625,
+      "segment": "cargo"
+    },
+    {
+      "month": "2026-09",
+      "city": "Gurgaon",
+      "hub": "Wazirabad",
+      "client": "Blinkit",
+      "lineItem": "Maintenance",
+      "amount": 4889.6875,
+      "segment": "cargo"
+    },
+    {
+      "month": "2026-09",
+      "city": "Gurgaon",
+      "hub": "Wazirabad",
+      "client": "Delhivery",
+      "lineItem": "Maintenance",
+      "amount": 977.9375,
+      "segment": "cargo"
+    },
+    {
+      "month": "2026-09",
+      "city": "Gurgaon",
+      "hub": "Wazirabad",
+      "client": "Amicco",
+      "lineItem": "Maintenance",
+      "amount": 325.97916666666663,
+      "segment": "cargo"
+    },
+    {
+      "month": "2026-09",
+      "city": "Gurgaon",
+      "hub": "Wazirabad",
+      "client": "Wash4you",
+      "lineItem": "Maintenance",
+      "amount": 162.98958333333331,
       "segment": "cargo"
     },
     {
@@ -28668,6 +28767,87 @@
       "segment": "cargo"
     },
     {
+      "month": "2026-09",
+      "city": "Delhi",
+      "hub": "Ali Village",
+      "client": "Porter - 3W L3",
+      "lineItem": "Maintenance",
+      "amount": 461.1764705882353,
+      "segment": "cargo"
+    },
+    {
+      "month": "2026-09",
+      "city": "Delhi",
+      "hub": "Ali Village",
+      "client": "Blinkit",
+      "lineItem": "Maintenance",
+      "amount": 720.5882352941176,
+      "segment": "cargo"
+    },
+    {
+      "month": "2026-09",
+      "city": "Delhi",
+      "hub": "Ali Village",
+      "client": "Delhivery",
+      "lineItem": "Maintenance",
+      "amount": 288.2352941176471,
+      "segment": "cargo"
+    },
+    {
+      "month": "2026-09",
+      "city": "Delhi",
+      "hub": "Ali Village",
+      "client": "Porter - 3W L3",
+      "lineItem": "Maintenance",
+      "amount": 62.745098039215684,
+      "segment": "cargo"
+    },
+    {
+      "month": "2026-09",
+      "city": "Delhi",
+      "hub": "Ali Village",
+      "client": "Blinkit",
+      "lineItem": "Maintenance",
+      "amount": 98.0392156862745,
+      "segment": "cargo"
+    },
+    {
+      "month": "2026-09",
+      "city": "Delhi",
+      "hub": "Ali Village",
+      "client": "Delhivery",
+      "lineItem": "Maintenance",
+      "amount": 39.21568627450981,
+      "segment": "cargo"
+    },
+    {
+      "month": "2026-09",
+      "city": "Delhi",
+      "hub": "Ali Village",
+      "client": "Porter - 3W L3",
+      "lineItem": "Maintenance",
+      "amount": 62.745098039215684,
+      "segment": "cargo"
+    },
+    {
+      "month": "2026-09",
+      "city": "Delhi",
+      "hub": "Ali Village",
+      "client": "Blinkit",
+      "lineItem": "Maintenance",
+      "amount": 98.0392156862745,
+      "segment": "cargo"
+    },
+    {
+      "month": "2026-09",
+      "city": "Delhi",
+      "hub": "Ali Village",
+      "client": "Delhivery",
+      "lineItem": "Maintenance",
+      "amount": 39.21568627450981,
+      "segment": "cargo"
+    },
+    {
       "month": "2026-03",
       "city": "Gurgaon",
       "hub": "Gurgaon Sec 68",
@@ -31454,7 +31634,7 @@
       "hub": "Hero Honda",
       "client": "Passenger Rental",
       "lineItem": "Maintenance",
-      "amount": 719,
+      "amount": 119,
       "segment": "passenger"
     },
     {
@@ -31644,6 +31824,42 @@
       "client": "Passenger Rental",
       "lineItem": "Maintenance",
       "amount": 40,
+      "segment": "passenger"
+    },
+    {
+      "month": "2026-09",
+      "city": "Gurgaon",
+      "hub": "Gurgaon Sec 68",
+      "client": "Passenger Rental",
+      "lineItem": "Maintenance",
+      "amount": 850,
+      "segment": "passenger"
+    },
+    {
+      "month": "2026-09",
+      "city": "Gurgaon",
+      "hub": "Gurgaon Sec 68",
+      "client": "Passenger Rental",
+      "lineItem": "Maintenance",
+      "amount": 223,
+      "segment": "passenger"
+    },
+    {
+      "month": "2026-09",
+      "city": "Gurgaon",
+      "hub": "Gurgaon Sec 68",
+      "client": "Passenger Rental",
+      "lineItem": "Maintenance",
+      "amount": 850,
+      "segment": "passenger"
+    },
+    {
+      "month": "2026-09",
+      "city": "",
+      "hub": "",
+      "client": "",
+      "lineItem": "Maintenance",
+      "amount": 485,
       "segment": "passenger"
     },
     {
@@ -33180,7 +33396,7 @@
       "hub": "Nilothi",
       "client": "Delhivery",
       "lineItem": "Lease/EMI",
-      "amount": 7687
+      "amount": 14600
     },
     {
       "month": "2026-09",
@@ -33188,7 +33404,7 @@
       "hub": "Nilothi",
       "client": "Delhivery",
       "lineItem": "Lease/EMI",
-      "amount": 7687
+      "amount": 14600
     },
     {
       "month": "2026-09",
@@ -33196,7 +33412,7 @@
       "hub": "Nilothi",
       "client": "Delhivery",
       "lineItem": "Lease/EMI",
-      "amount": 7687
+      "amount": 14600
     },
     {
       "month": "2026-09",
@@ -33204,7 +33420,7 @@
       "hub": "Shalimar Bagh",
       "client": "Delhivery",
       "lineItem": "Lease/EMI",
-      "amount": 7687
+      "amount": 14600
     },
     {
       "month": "2026-09",
@@ -33212,7 +33428,7 @@
       "hub": "Nilothi",
       "client": "Delhivery",
       "lineItem": "Lease/EMI",
-      "amount": 7687
+      "amount": 14600
     },
     {
       "month": "2026-09",
@@ -35570,6 +35786,46 @@
       "month": "2026-09",
       "city": "Gurgaon",
       "hub": "Hero Honda",
+      "client": "Passenger Rental",
+      "lineItem": "Lease/EMI",
+      "amount": 7687
+    },
+    {
+      "month": "2026-09",
+      "city": "Gurgaon",
+      "hub": "Gurgaon Sec 68",
+      "client": "Passenger Rental",
+      "lineItem": "Lease/EMI",
+      "amount": 7687
+    },
+    {
+      "month": "2026-09",
+      "city": "Gurgaon",
+      "hub": "Gurgaon Sec 68",
+      "client": "Passenger Rental",
+      "lineItem": "Lease/EMI",
+      "amount": 7687
+    },
+    {
+      "month": "2026-09",
+      "city": "Gurgaon",
+      "hub": "Gurgaon Sec 68",
+      "client": "Passenger Rental",
+      "lineItem": "Lease/EMI",
+      "amount": 7687
+    },
+    {
+      "month": "2026-09",
+      "city": "Gurgaon",
+      "hub": "Gurgaon Sec 68",
+      "client": "Passenger Rental",
+      "lineItem": "Lease/EMI",
+      "amount": 7687
+    },
+    {
+      "month": "2026-09",
+      "city": "Gurgaon",
+      "hub": "Gurgaon Sec 68",
       "client": "Passenger Rental",
       "lineItem": "Lease/EMI",
       "amount": 7687
