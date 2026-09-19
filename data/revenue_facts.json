@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-19T09:50:35.916Z",
+  "generatedAt": "2026-09-19T10:49:40.702Z",
   "records": [
     {
       "date": "2025-04-16",
@@ -302384,14 +302384,6 @@
       "client": "Porter - 3W L3",
       "vehicleType": "3W L3",
       "revenue": 1015
-    },
-    {
-      "date": "2026-09-18",
-      "city": "",
-      "hub": "Sector 121",
-      "client": "Porter - 3W L5",
-      "vehicleType": "3W L5",
-      "revenue": 0
     },
     {
       "date": "2026-09-18",
@@ -694015,7 +694007,7 @@
       "hub": "",
       "client": "Spencer",
       "vehicleType": "2W",
-      "revenue": 554.6999999999999
+      "revenue": 1140.36
     },
     {
       "date": "2001-09-01",
@@ -694023,7 +694015,7 @@
       "hub": "",
       "client": "Spencer",
       "vehicleType": "2W",
-      "revenue": 543.9
+      "revenue": 984.06
     },
     {
       "date": "2001-03-01",
@@ -694032,6 +694024,22 @@
       "client": "Spencer",
       "vehicleType": "2W",
       "revenue": 53.94
+    },
+    {
+      "date": "2001-03-01",
+      "city": "Kolkata",
+      "hub": "",
+      "client": "Spencer",
+      "vehicleType": "2W",
+      "revenue": 405.65999999999997
+    },
+    {
+      "date": "2001-03-01",
+      "city": "Kolkata",
+      "hub": "",
+      "client": "Spencer",
+      "vehicleType": "2W",
+      "revenue": 144
     },
     {
       "date": "2001-08-29",
