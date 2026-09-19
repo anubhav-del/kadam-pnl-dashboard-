@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-19T08:50:06.184Z",
+  "generatedAt": "2026-09-19T10:49:48.615Z",
   "records": [
     {
       "month": "2026-06",
@@ -29055,6 +29055,240 @@
       "segment": "cargo"
     },
     {
+      "month": "2026-09",
+      "city": "Delhi",
+      "hub": "Nilothi",
+      "client": "Porter - 3W L3",
+      "lineItem": "Maintenance",
+      "amount": 181.25,
+      "segment": "cargo"
+    },
+    {
+      "month": "2026-09",
+      "city": "Delhi",
+      "hub": "Nilothi",
+      "client": "Blinkit",
+      "lineItem": "Maintenance",
+      "amount": 390.38461538461536,
+      "segment": "cargo"
+    },
+    {
+      "month": "2026-09",
+      "city": "Delhi",
+      "hub": "Nilothi",
+      "client": "Delhivery",
+      "lineItem": "Maintenance",
+      "amount": 153.3653846153846,
+      "segment": "cargo"
+    },
+    {
+      "month": "2026-09",
+      "city": "Delhi",
+      "hub": "Nilothi",
+      "client": "Porter - 3W L3",
+      "lineItem": "Maintenance",
+      "amount": 85,
+      "segment": "cargo"
+    },
+    {
+      "month": "2026-09",
+      "city": "Delhi",
+      "hub": "Nilothi",
+      "client": "Blinkit",
+      "lineItem": "Maintenance",
+      "amount": 183.07692307692307,
+      "segment": "cargo"
+    },
+    {
+      "month": "2026-09",
+      "city": "Delhi",
+      "hub": "Nilothi",
+      "client": "Delhivery",
+      "lineItem": "Maintenance",
+      "amount": 71.92307692307692,
+      "segment": "cargo"
+    },
+    {
+      "month": "2026-09",
+      "city": "Noida",
+      "hub": "Sector 121",
+      "client": "Blinkit",
+      "lineItem": "Maintenance",
+      "amount": 233.5925925925926,
+      "segment": "cargo"
+    },
+    {
+      "month": "2026-09",
+      "city": "Noida",
+      "hub": "Sector 121",
+      "client": "Porter - 3W L3",
+      "lineItem": "Maintenance",
+      "amount": 68.7037037037037,
+      "segment": "cargo"
+    },
+    {
+      "month": "2026-09",
+      "city": "Noida",
+      "hub": "Sector 121",
+      "client": "Delhivery",
+      "lineItem": "Maintenance",
+      "amount": 54.96296296296296,
+      "segment": "cargo"
+    },
+    {
+      "month": "2026-09",
+      "city": "Noida",
+      "hub": "Sector 121",
+      "client": "Amicco",
+      "lineItem": "Maintenance",
+      "amount": 6.87037037037037,
+      "segment": "cargo"
+    },
+    {
+      "month": "2026-09",
+      "city": "Noida",
+      "hub": "Sector 121",
+      "client": "Rental_L5",
+      "lineItem": "Maintenance",
+      "amount": 6.87037037037037,
+      "segment": "cargo"
+    },
+    {
+      "month": "2026-09",
+      "city": "Noida",
+      "hub": "Sector 121",
+      "client": "Blinkit",
+      "lineItem": "Maintenance",
+      "amount": 125.92592592592592,
+      "segment": "cargo"
+    },
+    {
+      "month": "2026-09",
+      "city": "Noida",
+      "hub": "Sector 121",
+      "client": "Porter - 3W L3",
+      "lineItem": "Maintenance",
+      "amount": 37.03703703703704,
+      "segment": "cargo"
+    },
+    {
+      "month": "2026-09",
+      "city": "Noida",
+      "hub": "Sector 121",
+      "client": "Delhivery",
+      "lineItem": "Maintenance",
+      "amount": 29.629629629629626,
+      "segment": "cargo"
+    },
+    {
+      "month": "2026-09",
+      "city": "Noida",
+      "hub": "Sector 121",
+      "client": "Amicco",
+      "lineItem": "Maintenance",
+      "amount": 3.7037037037037033,
+      "segment": "cargo"
+    },
+    {
+      "month": "2026-09",
+      "city": "Noida",
+      "hub": "Sector 121",
+      "client": "Rental_L5",
+      "lineItem": "Maintenance",
+      "amount": 3.7037037037037033,
+      "segment": "cargo"
+    },
+    {
+      "month": "2026-09",
+      "city": "Noida",
+      "hub": "Sector 121",
+      "client": "Blinkit",
+      "lineItem": "Maintenance",
+      "amount": 125.92592592592592,
+      "segment": "cargo"
+    },
+    {
+      "month": "2026-09",
+      "city": "Noida",
+      "hub": "Sector 121",
+      "client": "Porter - 3W L3",
+      "lineItem": "Maintenance",
+      "amount": 37.03703703703704,
+      "segment": "cargo"
+    },
+    {
+      "month": "2026-09",
+      "city": "Noida",
+      "hub": "Sector 121",
+      "client": "Delhivery",
+      "lineItem": "Maintenance",
+      "amount": 29.629629629629626,
+      "segment": "cargo"
+    },
+    {
+      "month": "2026-09",
+      "city": "Noida",
+      "hub": "Sector 121",
+      "client": "Amicco",
+      "lineItem": "Maintenance",
+      "amount": 3.7037037037037033,
+      "segment": "cargo"
+    },
+    {
+      "month": "2026-09",
+      "city": "Noida",
+      "hub": "Sector 121",
+      "client": "Rental_L5",
+      "lineItem": "Maintenance",
+      "amount": 3.7037037037037033,
+      "segment": "cargo"
+    },
+    {
+      "month": "2026-09",
+      "city": "Noida",
+      "hub": "Sector 121",
+      "client": "Blinkit",
+      "lineItem": "Maintenance",
+      "amount": 314.81481481481484,
+      "segment": "cargo"
+    },
+    {
+      "month": "2026-09",
+      "city": "Noida",
+      "hub": "Sector 121",
+      "client": "Porter - 3W L3",
+      "lineItem": "Maintenance",
+      "amount": 92.59259259259258,
+      "segment": "cargo"
+    },
+    {
+      "month": "2026-09",
+      "city": "Noida",
+      "hub": "Sector 121",
+      "client": "Delhivery",
+      "lineItem": "Maintenance",
+      "amount": 74.07407407407408,
+      "segment": "cargo"
+    },
+    {
+      "month": "2026-09",
+      "city": "Noida",
+      "hub": "Sector 121",
+      "client": "Amicco",
+      "lineItem": "Maintenance",
+      "amount": 9.25925925925926,
+      "segment": "cargo"
+    },
+    {
+      "month": "2026-09",
+      "city": "Noida",
+      "hub": "Sector 121",
+      "client": "Rental_L5",
+      "lineItem": "Maintenance",
+      "amount": 9.25925925925926,
+      "segment": "cargo"
+    },
+    {
       "month": "2026-03",
       "city": "Gurgaon",
       "hub": "Gurgaon Sec 68",
@@ -32067,6 +32301,24 @@
       "client": "",
       "lineItem": "Maintenance",
       "amount": 485,
+      "segment": "passenger"
+    },
+    {
+      "month": "2026-09",
+      "city": "Gurgaon",
+      "hub": "Gurgaon Sec 68",
+      "client": "Passenger Rental",
+      "lineItem": "Maintenance",
+      "amount": 526,
+      "segment": "passenger"
+    },
+    {
+      "month": "2026-09",
+      "city": "Gurgaon",
+      "hub": "Hero Honda",
+      "client": "Passenger Rental",
+      "lineItem": "Maintenance",
+      "amount": 190,
       "segment": "passenger"
     },
     {
