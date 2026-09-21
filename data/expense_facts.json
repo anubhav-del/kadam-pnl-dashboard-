@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-21T06:49:32.149Z",
+  "generatedAt": "2026-09-21T09:48:36.474Z",
   "records": [
     {
       "month": "2026-06",
@@ -29379,6 +29379,51 @@
       "segment": "cargo"
     },
     {
+      "month": "2026-09",
+      "city": "Gurgaon",
+      "hub": "Wazirabad",
+      "client": "Porter - 3W L3",
+      "lineItem": "Maintenance",
+      "amount": 217.42268041237114,
+      "segment": "cargo"
+    },
+    {
+      "month": "2026-09",
+      "city": "Gurgaon",
+      "hub": "Wazirabad",
+      "client": "Blinkit",
+      "lineItem": "Maintenance",
+      "amount": 114.43298969072166,
+      "segment": "cargo"
+    },
+    {
+      "month": "2026-09",
+      "city": "Gurgaon",
+      "hub": "Wazirabad",
+      "client": "Delhivery",
+      "lineItem": "Maintenance",
+      "amount": 26.70103092783505,
+      "segment": "cargo"
+    },
+    {
+      "month": "2026-09",
+      "city": "Gurgaon",
+      "hub": "Wazirabad",
+      "client": "Amicco",
+      "lineItem": "Maintenance",
+      "amount": 7.628865979381443,
+      "segment": "cargo"
+    },
+    {
+      "month": "2026-09",
+      "city": "Gurgaon",
+      "hub": "Wazirabad",
+      "client": "Wash4you",
+      "lineItem": "Maintenance",
+      "amount": 3.8144329896907214,
+      "segment": "cargo"
+    },
+    {
       "month": "2026-03",
       "city": "Gurgaon",
       "hub": "Gurgaon Sec 68",
@@ -32409,6 +32454,24 @@
       "client": "Passenger Rental",
       "lineItem": "Maintenance",
       "amount": 190,
+      "segment": "passenger"
+    },
+    {
+      "month": "2026-09",
+      "city": "Gurgaon",
+      "hub": "Gurgaon Sec 68",
+      "client": "Passenger Rental",
+      "lineItem": "Maintenance",
+      "amount": 16,
+      "segment": "passenger"
+    },
+    {
+      "month": "2026-09",
+      "city": "Gurgaon",
+      "hub": "Gurgaon Sec 68",
+      "client": "Passenger Rental",
+      "lineItem": "Maintenance",
+      "amount": 850,
       "segment": "passenger"
     },
     {
