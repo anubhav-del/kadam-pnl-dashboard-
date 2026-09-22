@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-22T04:49:16.160Z",
+  "generatedAt": "2026-09-22T06:48:13.638Z",
   "records": [
     {
       "date": "2025-04-16",
@@ -303568,6 +303568,662 @@
       "client": "Porter - 3W L3",
       "vehicleType": "3W L3",
       "revenue": 1100
+    },
+    {
+      "date": "2026-09-21",
+      "city": "",
+      "hub": "Ali Village",
+      "client": "Porter - 3W L3",
+      "vehicleType": "3W L3",
+      "revenue": 0
+    },
+    {
+      "date": "2026-09-21",
+      "city": "",
+      "hub": "Saket",
+      "client": "Porter - 3W L5",
+      "vehicleType": "3W L5",
+      "revenue": 0
+    },
+    {
+      "date": "2026-09-21",
+      "city": "",
+      "hub": "Wazirabad",
+      "client": "Porter - 3W L3",
+      "vehicleType": "3W L3",
+      "revenue": 1954
+    },
+    {
+      "date": "2026-09-21",
+      "city": "",
+      "hub": "Wazirabad",
+      "client": "Porter - 3W L3",
+      "vehicleType": "3W L3",
+      "revenue": 1607
+    },
+    {
+      "date": "2026-09-21",
+      "city": "",
+      "hub": "Wazirabad",
+      "client": "Porter - 3W L3",
+      "vehicleType": "3W L3",
+      "revenue": 1214
+    },
+    {
+      "date": "2026-09-21",
+      "city": "",
+      "hub": "Wazirabad",
+      "client": "Porter - 3W L3",
+      "vehicleType": "3W L3",
+      "revenue": 1152
+    },
+    {
+      "date": "2026-09-21",
+      "city": "",
+      "hub": "Wazirabad",
+      "client": "Porter - 3W L3",
+      "vehicleType": "3W L3",
+      "revenue": 2579
+    },
+    {
+      "date": "2026-09-21",
+      "city": "",
+      "hub": "Nilothi",
+      "client": "Porter - 3W L3",
+      "vehicleType": "3W L3",
+      "revenue": 1941
+    },
+    {
+      "date": "2026-09-21",
+      "city": "",
+      "hub": "Sector 121",
+      "client": "Porter - 3W L3",
+      "vehicleType": "3W L3",
+      "revenue": 1288
+    },
+    {
+      "date": "2026-09-21",
+      "city": "",
+      "hub": "Saket",
+      "client": "Porter - 3W L3",
+      "vehicleType": "3W L3",
+      "revenue": 1195
+    },
+    {
+      "date": "2026-09-21",
+      "city": "",
+      "hub": "Saket",
+      "client": "Porter - 3W L3",
+      "vehicleType": "3W L3",
+      "revenue": 1826
+    },
+    {
+      "date": "2026-09-21",
+      "city": "",
+      "hub": "Wazirabad",
+      "client": "Porter - 3W L3",
+      "vehicleType": "3W L3",
+      "revenue": 1033
+    },
+    {
+      "date": "2026-09-21",
+      "city": "",
+      "hub": "Nilothi",
+      "client": "Porter - 3W L3",
+      "vehicleType": "3W L3",
+      "revenue": 1357
+    },
+    {
+      "date": "2026-09-21",
+      "city": "",
+      "hub": "Sector 121",
+      "client": "Porter - 3W L3",
+      "vehicleType": "3W L3",
+      "revenue": 906
+    },
+    {
+      "date": "2026-09-21",
+      "city": "",
+      "hub": "Wazirabad",
+      "client": "Porter - 3W L3",
+      "vehicleType": "3W L3",
+      "revenue": 0
+    },
+    {
+      "date": "2026-09-21",
+      "city": "",
+      "hub": "Wazirabad",
+      "client": "Porter - 3W L3",
+      "vehicleType": "3W L3",
+      "revenue": 878
+    },
+    {
+      "date": "2026-09-21",
+      "city": "",
+      "hub": "Kormangala",
+      "client": "Porter - 3W L3",
+      "vehicleType": "3W L3",
+      "revenue": 986.85
+    },
+    {
+      "date": "2026-09-21",
+      "city": "",
+      "hub": "Ali Village",
+      "client": "Porter - 3W L3",
+      "vehicleType": "3W L3",
+      "revenue": 1112
+    },
+    {
+      "date": "2026-09-21",
+      "city": "",
+      "hub": "Ali Village",
+      "client": "Porter - 3W L3",
+      "vehicleType": "3W L3",
+      "revenue": 1310
+    },
+    {
+      "date": "2026-09-21",
+      "city": "",
+      "hub": "Saket",
+      "client": "Porter - 3W L5",
+      "vehicleType": "3W L5",
+      "revenue": 2523.35
+    },
+    {
+      "date": "2026-09-21",
+      "city": "",
+      "hub": "Sector 121",
+      "client": "Porter - 3W L5",
+      "vehicleType": "3W L5",
+      "revenue": 614.55
+    },
+    {
+      "date": "2026-09-21",
+      "city": "",
+      "hub": "Wazirabad",
+      "client": "Porter - 3W L3",
+      "vehicleType": "3W L3",
+      "revenue": 634
+    },
+    {
+      "date": "2026-09-21",
+      "city": "",
+      "hub": "Wazirabad",
+      "client": "Porter - 3W L3",
+      "vehicleType": "3W L3",
+      "revenue": 1849
+    },
+    {
+      "date": "2026-09-21",
+      "city": "",
+      "hub": "Wazirabad",
+      "client": "Porter - 3W L3",
+      "vehicleType": "3W L3",
+      "revenue": 2409
+    },
+    {
+      "date": "2026-09-21",
+      "city": "",
+      "hub": "Ali Village",
+      "client": "Porter - 3W L3",
+      "vehicleType": "3W L3",
+      "revenue": 1014
+    },
+    {
+      "date": "2026-09-21",
+      "city": "",
+      "hub": "Saket",
+      "client": "Porter - 3W L5",
+      "vehicleType": "3W L5",
+      "revenue": 1329.4
+    },
+    {
+      "date": "2026-09-21",
+      "city": "",
+      "hub": "Wazirabad",
+      "client": "Porter - 3W L3",
+      "vehicleType": "3W L3",
+      "revenue": 1126
+    },
+    {
+      "date": "2026-09-21",
+      "city": "",
+      "hub": "Wazirabad",
+      "client": "Porter - 3W L3",
+      "vehicleType": "3W L3",
+      "revenue": 2052
+    },
+    {
+      "date": "2026-09-21",
+      "city": "",
+      "hub": "Sector 121",
+      "client": "Porter - 3W L3",
+      "vehicleType": "3W L3",
+      "revenue": 1488
+    },
+    {
+      "date": "2026-09-21",
+      "city": "",
+      "hub": "Wazirabad",
+      "client": "Porter - 3W L3",
+      "vehicleType": "3W L3",
+      "revenue": 1973
+    },
+    {
+      "date": "2026-09-21",
+      "city": "",
+      "hub": "Wazirabad",
+      "client": "Porter - 3W L3",
+      "vehicleType": "3W L3",
+      "revenue": 1342
+    },
+    {
+      "date": "2026-09-21",
+      "city": "",
+      "hub": "Ali Village",
+      "client": "Porter - 3W L3",
+      "vehicleType": "3W L3",
+      "revenue": 1210
+    },
+    {
+      "date": "2026-09-21",
+      "city": "",
+      "hub": "Nilothi",
+      "client": "Porter - 3W L3",
+      "vehicleType": "3W L3",
+      "revenue": 335
+    },
+    {
+      "date": "2026-09-21",
+      "city": "",
+      "hub": "Sector 121",
+      "client": "Porter - 3W L3",
+      "vehicleType": "3W L3",
+      "revenue": 30
+    },
+    {
+      "date": "2026-09-21",
+      "city": "",
+      "hub": "Wazirabad",
+      "client": "Porter - 3W L3",
+      "vehicleType": "3W L3",
+      "revenue": 1067
+    },
+    {
+      "date": "2026-09-21",
+      "city": "",
+      "hub": "Wazirabad",
+      "client": "Porter - 3W L3",
+      "vehicleType": "3W L3",
+      "revenue": 522
+    },
+    {
+      "date": "2026-09-21",
+      "city": "",
+      "hub": "Saket",
+      "client": "Porter - 3W L5",
+      "vehicleType": "3W L5",
+      "revenue": 2928.15
+    },
+    {
+      "date": "2026-09-21",
+      "city": "",
+      "hub": "Wazirabad",
+      "client": "Porter - 3W L3",
+      "vehicleType": "3W L3",
+      "revenue": 2098
+    },
+    {
+      "date": "2026-09-21",
+      "city": "",
+      "hub": "Kormangala",
+      "client": "Porter - 3W L3",
+      "vehicleType": "3W L3",
+      "revenue": 343.2
+    },
+    {
+      "date": "2026-09-21",
+      "city": "",
+      "hub": "Saket",
+      "client": "Porter - 3W L3",
+      "vehicleType": "3W L3",
+      "revenue": 0
+    },
+    {
+      "date": "2026-09-21",
+      "city": "",
+      "hub": "Sector 121",
+      "client": "Porter - 3W L3",
+      "vehicleType": "3W L3",
+      "revenue": 773
+    },
+    {
+      "date": "2026-09-21",
+      "city": "",
+      "hub": "Wazirabad",
+      "client": "Porter - 3W L3",
+      "vehicleType": "3W L3",
+      "revenue": 1725
+    },
+    {
+      "date": "2026-09-21",
+      "city": "",
+      "hub": "Saket",
+      "client": "Porter - 3W L3",
+      "vehicleType": "3W L3",
+      "revenue": 909
+    },
+    {
+      "date": "2026-09-21",
+      "city": "",
+      "hub": "Saket",
+      "client": "Porter - 3W L5",
+      "vehicleType": "3W L5",
+      "revenue": 2174.55
+    },
+    {
+      "date": "2026-09-21",
+      "city": "",
+      "hub": "Wazirabad",
+      "client": "Porter - 3W L3",
+      "vehicleType": "3W L3",
+      "revenue": 1899
+    },
+    {
+      "date": "2026-09-21",
+      "city": "",
+      "hub": "Wazirabad",
+      "client": "Porter - 3W L3",
+      "vehicleType": "3W L3",
+      "revenue": 1356
+    },
+    {
+      "date": "2026-09-21",
+      "city": "",
+      "hub": "Wazirabad",
+      "client": "Porter - 3W L3",
+      "vehicleType": "3W L3",
+      "revenue": 1934
+    },
+    {
+      "date": "2026-09-21",
+      "city": "",
+      "hub": "Saket",
+      "client": "Porter - 3W L3",
+      "vehicleType": "3W L3",
+      "revenue": 1116
+    },
+    {
+      "date": "2026-09-21",
+      "city": "",
+      "hub": "Kaushambi",
+      "client": "Porter - 3W L3",
+      "vehicleType": "3W L3",
+      "revenue": 1778
+    },
+    {
+      "date": "2026-09-21",
+      "city": "",
+      "hub": "Kormangala",
+      "client": "Porter - 3W L3",
+      "vehicleType": "3W L3",
+      "revenue": 2001.55
+    },
+    {
+      "date": "2026-09-21",
+      "city": "",
+      "hub": "Wazirabad",
+      "client": "Porter - 3W L3",
+      "vehicleType": "3W L3",
+      "revenue": 1611
+    },
+    {
+      "date": "2026-09-21",
+      "city": "",
+      "hub": "Saket",
+      "client": "Porter - 3W L5",
+      "vehicleType": "3W L5",
+      "revenue": 1191.7
+    },
+    {
+      "date": "2026-09-21",
+      "city": "",
+      "hub": "Saket",
+      "client": "Porter - 3W L3",
+      "vehicleType": "3W L3",
+      "revenue": 1207
+    },
+    {
+      "date": "2026-09-21",
+      "city": "",
+      "hub": "Ali Village",
+      "client": "Porter - 3W L3",
+      "vehicleType": "3W L3",
+      "revenue": 1064
+    },
+    {
+      "date": "2026-09-21",
+      "city": "",
+      "hub": "Nilothi",
+      "client": "Porter - 3W L3",
+      "vehicleType": "3W L3",
+      "revenue": 1114
+    },
+    {
+      "date": "2026-09-21",
+      "city": "",
+      "hub": "Ali Village",
+      "client": "Porter - 3W L3",
+      "vehicleType": "3W L3",
+      "revenue": 781
+    },
+    {
+      "date": "2026-09-21",
+      "city": "",
+      "hub": "Kaushambi",
+      "client": "Porter - 3W L3",
+      "vehicleType": "3W L3",
+      "revenue": 2192
+    },
+    {
+      "date": "2026-09-21",
+      "city": "",
+      "hub": "Kaushambi",
+      "client": "Porter - 3W L3",
+      "vehicleType": "3W L3",
+      "revenue": 2200
+    },
+    {
+      "date": "2026-09-21",
+      "city": "",
+      "hub": "Wazirabad",
+      "client": "Porter - 3W L3",
+      "vehicleType": "3W L3",
+      "revenue": 1048
+    },
+    {
+      "date": "2026-09-21",
+      "city": "",
+      "hub": "Kormangala",
+      "client": "Porter - 3W L3",
+      "vehicleType": "3W L3",
+      "revenue": 186.15
+    },
+    {
+      "date": "2026-09-21",
+      "city": "",
+      "hub": "Wazirabad",
+      "client": "Porter - 3W L3",
+      "vehicleType": "3W L3",
+      "revenue": 1170
+    },
+    {
+      "date": "2026-09-21",
+      "city": "",
+      "hub": "Saket",
+      "client": "Porter - 3W L3",
+      "vehicleType": "3W L3",
+      "revenue": 654
+    },
+    {
+      "date": "2026-09-21",
+      "city": "",
+      "hub": "Kormangala",
+      "client": "Porter - 3W L3",
+      "vehicleType": "3W L3",
+      "revenue": 1888.1
+    },
+    {
+      "date": "2026-09-21",
+      "city": "",
+      "hub": "Kaushambi",
+      "client": "Porter - 3W L3",
+      "vehicleType": "3W L3",
+      "revenue": 2316
+    },
+    {
+      "date": "2026-09-21",
+      "city": "",
+      "hub": "Wazirabad",
+      "client": "Porter - 3W L3",
+      "vehicleType": "3W L3",
+      "revenue": 1305
+    },
+    {
+      "date": "2026-09-21",
+      "city": "",
+      "hub": "Saket",
+      "client": "Porter - 3W L3",
+      "vehicleType": "3W L3",
+      "revenue": 1484
+    },
+    {
+      "date": "2026-09-21",
+      "city": "",
+      "hub": "Nilothi",
+      "client": "Porter - 3W L3",
+      "vehicleType": "3W L3",
+      "revenue": 1298
+    },
+    {
+      "date": "2026-09-21",
+      "city": "",
+      "hub": "Kaushambi",
+      "client": "Porter - 3W L3",
+      "vehicleType": "3W L3",
+      "revenue": 0
+    },
+    {
+      "date": "2026-09-21",
+      "city": "",
+      "hub": "Wazirabad",
+      "client": "Porter - 3W L3",
+      "vehicleType": "3W L3",
+      "revenue": 2553
+    },
+    {
+      "date": "2026-09-21",
+      "city": "",
+      "hub": "Ali Village",
+      "client": "Porter - 3W L3",
+      "vehicleType": "3W L3",
+      "revenue": 583
+    },
+    {
+      "date": "2026-09-21",
+      "city": "",
+      "hub": "Wazirabad",
+      "client": "Porter - 3W L3",
+      "vehicleType": "3W L3",
+      "revenue": 1237
+    },
+    {
+      "date": "2026-09-21",
+      "city": "",
+      "hub": "Wazirabad",
+      "client": "Porter - 3W L3",
+      "vehicleType": "3W L3",
+      "revenue": 2426
+    },
+    {
+      "date": "2026-09-21",
+      "city": "",
+      "hub": "Wazirabad",
+      "client": "Porter - 3W L3",
+      "vehicleType": "3W L3",
+      "revenue": 2562
+    },
+    {
+      "date": "2026-09-21",
+      "city": "",
+      "hub": "Kaushambi",
+      "client": "Porter - 3W L3",
+      "vehicleType": "3W L3",
+      "revenue": 1341
+    },
+    {
+      "date": "2026-09-21",
+      "city": "",
+      "hub": "Saket",
+      "client": "Porter - 3W L3",
+      "vehicleType": "3W L3",
+      "revenue": 1583
+    },
+    {
+      "date": "2026-09-21",
+      "city": "",
+      "hub": "Nilothi",
+      "client": "Porter - 3W L3",
+      "vehicleType": "3W L3",
+      "revenue": 1235
+    },
+    {
+      "date": "2026-09-21",
+      "city": "",
+      "hub": "Ali Village",
+      "client": "Porter - 3W L3",
+      "vehicleType": "3W L3",
+      "revenue": 1037
+    },
+    {
+      "date": "2026-09-21",
+      "city": "",
+      "hub": "Nilothi",
+      "client": "Porter - 3W L3",
+      "vehicleType": "3W L3",
+      "revenue": 1148
+    },
+    {
+      "date": "2026-09-21",
+      "city": "",
+      "hub": "Wazirabad",
+      "client": "Porter - 3W L3",
+      "vehicleType": "3W L3",
+      "revenue": 782
+    },
+    {
+      "date": "2026-09-21",
+      "city": "",
+      "hub": "Saket",
+      "client": "Porter - 3W L3",
+      "vehicleType": "3W L3",
+      "revenue": 1105
+    },
+    {
+      "date": "2026-09-21",
+      "city": "",
+      "hub": "Wazirabad",
+      "client": "Porter - 3W L3",
+      "vehicleType": "3W L3",
+      "revenue": 1284
+    },
+    {
+      "date": "2026-09-21",
+      "city": "",
+      "hub": "Sector 121",
+      "client": "Porter - 3W L3",
+      "vehicleType": "3W L3",
+      "revenue": 1524
     },
     {
       "date": "2026-01-01",
@@ -655994,6 +656650,1374 @@
       "revenue": 1741.5
     },
     {
+      "date": "2026-09-21",
+      "city": "Delhi",
+      "hub": "Saket",
+      "client": "Blinkit",
+      "vehicleType": "",
+      "revenue": 1534
+    },
+    {
+      "date": "2026-09-21",
+      "city": "Delhi",
+      "hub": "Saket",
+      "client": "Blinkit",
+      "vehicleType": "",
+      "revenue": 35.4
+    },
+    {
+      "date": "2026-09-21",
+      "city": "Delhi",
+      "hub": "Nilothi",
+      "client": "Blinkit",
+      "vehicleType": "",
+      "revenue": 1574.8000000000002
+    },
+    {
+      "date": "2026-09-21",
+      "city": "Delhi",
+      "hub": "Nilothi",
+      "client": "Blinkit",
+      "vehicleType": "",
+      "revenue": 1537.6000000000001
+    },
+    {
+      "date": "2026-09-21",
+      "city": "Noida",
+      "hub": "Sector 121",
+      "client": "Blinkit",
+      "vehicleType": "",
+      "revenue": 1703.0000000000002
+    },
+    {
+      "date": "2026-09-21",
+      "city": "Ghaziabad",
+      "hub": "Sector 121",
+      "client": "Blinkit",
+      "vehicleType": "",
+      "revenue": 1427.8
+    },
+    {
+      "date": "2026-09-21",
+      "city": "Delhi",
+      "hub": "Saket",
+      "client": "Blinkit",
+      "vehicleType": "",
+      "revenue": 1586
+    },
+    {
+      "date": "2026-09-21",
+      "city": "Delhi",
+      "hub": "Nilothi",
+      "client": "Blinkit",
+      "vehicleType": "",
+      "revenue": 1755
+    },
+    {
+      "date": "2026-09-21",
+      "city": "Delhi",
+      "hub": "Ali Village",
+      "client": "Blinkit",
+      "vehicleType": "",
+      "revenue": 1486.8
+    },
+    {
+      "date": "2026-09-21",
+      "city": "Ghaziabad",
+      "hub": "Kaushambi",
+      "client": "Blinkit",
+      "vehicleType": "",
+      "revenue": 1333.4
+    },
+    {
+      "date": "2026-09-21",
+      "city": "Delhi",
+      "hub": "Shalimar Bagh",
+      "client": "Blinkit",
+      "vehicleType": "",
+      "revenue": 1439.6
+    },
+    {
+      "date": "2026-09-21",
+      "city": "Noida",
+      "hub": "Sector 121",
+      "client": "Blinkit",
+      "vehicleType": "",
+      "revenue": 1620.0000000000002
+    },
+    {
+      "date": "2026-09-21",
+      "city": "Noida",
+      "hub": "Sector 121",
+      "client": "Blinkit",
+      "vehicleType": "",
+      "revenue": 351
+    },
+    {
+      "date": "2026-09-21",
+      "city": "Delhi",
+      "hub": "Nilothi",
+      "client": "Blinkit",
+      "vehicleType": "",
+      "revenue": 1703.0000000000002
+    },
+    {
+      "date": "2026-09-21",
+      "city": "Ghaziabad",
+      "hub": "kaushambi",
+      "client": "Blinkit",
+      "vehicleType": "",
+      "revenue": 1605.4999999999998
+    },
+    {
+      "date": "2026-09-21",
+      "city": "Ghaziabad",
+      "hub": "kaushambi",
+      "client": "Blinkit",
+      "vehicleType": "",
+      "revenue": 1508
+    },
+    {
+      "date": "2026-09-21",
+      "city": "Ghaziabad",
+      "hub": "Sector 121",
+      "client": "Blinkit",
+      "vehicleType": "",
+      "revenue": 1451.4
+    },
+    {
+      "date": "2026-09-21",
+      "city": "Ghaziabad",
+      "hub": "Sector 121",
+      "client": "Blinkit",
+      "vehicleType": "",
+      "revenue": 1313
+    },
+    {
+      "date": "2026-09-21",
+      "city": "Delhi",
+      "hub": "Saket",
+      "client": "Blinkit",
+      "vehicleType": "",
+      "revenue": 1510.3999999999999
+    },
+    {
+      "date": "2026-09-21",
+      "city": "Ghaziabad",
+      "hub": "Sector 121",
+      "client": "Blinkit",
+      "vehicleType": "",
+      "revenue": 1604.8000000000002
+    },
+    {
+      "date": "2026-09-21",
+      "city": "Delhi",
+      "hub": "Saket",
+      "client": "Blinkit",
+      "vehicleType": "",
+      "revenue": 460.2
+    },
+    {
+      "date": "2026-09-21",
+      "city": "Gurgaon",
+      "hub": "Wazirabad",
+      "client": "Blinkit",
+      "vehicleType": "",
+      "revenue": 1183
+    },
+    {
+      "date": "2026-09-21",
+      "city": "Gurgaon",
+      "hub": "Wazirabad",
+      "client": "Blinkit",
+      "vehicleType": "",
+      "revenue": 1500.4
+    },
+    {
+      "date": "2026-09-21",
+      "city": "Delhi",
+      "hub": "Saket",
+      "client": "Blinkit",
+      "vehicleType": "",
+      "revenue": 1498.6
+    },
+    {
+      "date": "2026-09-21",
+      "city": "Gurgaon",
+      "hub": "Wazirabad",
+      "client": "Blinkit",
+      "vehicleType": "",
+      "revenue": 1600
+    },
+    {
+      "date": "2026-09-21",
+      "city": "Gurgaon",
+      "hub": "Wazirabad",
+      "client": "Blinkit",
+      "vehicleType": "",
+      "revenue": 1500.3999999999999
+    },
+    {
+      "date": "2026-09-21",
+      "city": "Noida",
+      "hub": "Sector 121",
+      "client": "Blinkit",
+      "vehicleType": "",
+      "revenue": 1463.2
+    },
+    {
+      "date": "2026-09-21",
+      "city": "Gurgaon",
+      "hub": "Wazirabad",
+      "client": "Blinkit",
+      "vehicleType": "",
+      "revenue": 731.6
+    },
+    {
+      "date": "2026-09-21",
+      "city": "Noida",
+      "hub": "Sector 121",
+      "client": "Blinkit",
+      "vehicleType": "",
+      "revenue": 1546.9999999999998
+    },
+    {
+      "date": "2026-09-21",
+      "city": "Delhi",
+      "hub": "Shalimar Bagh",
+      "client": "Blinkit",
+      "vehicleType": "",
+      "revenue": 1239
+    },
+    {
+      "date": "2026-09-21",
+      "city": "Gurgaon",
+      "hub": "Wazirabad",
+      "client": "Blinkit",
+      "vehicleType": "",
+      "revenue": 778.8
+    },
+    {
+      "date": "2026-09-21",
+      "city": "Delhi",
+      "hub": "Saket",
+      "client": "Blinkit",
+      "vehicleType": "",
+      "revenue": 1711.1999999999998
+    },
+    {
+      "date": "2026-09-21",
+      "city": "Noida",
+      "hub": "Sector 121",
+      "client": "Blinkit",
+      "vehicleType": "",
+      "revenue": 1651.0000000000002
+    },
+    {
+      "date": "2026-09-21",
+      "city": "Delhi",
+      "hub": "kaushambi",
+      "client": "Blinkit",
+      "vehicleType": "",
+      "revenue": 1416
+    },
+    {
+      "date": "2026-09-21",
+      "city": "Delhi",
+      "hub": "Nilothi",
+      "client": "Blinkit",
+      "vehicleType": "",
+      "revenue": 59
+    },
+    {
+      "date": "2026-09-21",
+      "city": "Delhi",
+      "hub": "kaushambi",
+      "client": "Blinkit",
+      "vehicleType": "",
+      "revenue": 23.6
+    },
+    {
+      "date": "2026-09-21",
+      "city": "Gurgaon",
+      "hub": "Wazirabad",
+      "client": "Blinkit",
+      "vehicleType": "",
+      "revenue": 1364
+    },
+    {
+      "date": "2026-09-21",
+      "city": "Faridabad",
+      "hub": "Faridabad",
+      "client": "Blinkit",
+      "vehicleType": "",
+      "revenue": 2016
+    },
+    {
+      "date": "2026-09-21",
+      "city": "Delhi",
+      "hub": "Saket",
+      "client": "Blinkit",
+      "vehicleType": "",
+      "revenue": 1298
+    },
+    {
+      "date": "2026-09-21",
+      "city": "Delhi",
+      "hub": "Ali Village",
+      "client": "Blinkit",
+      "vehicleType": "",
+      "revenue": 660.8
+    },
+    {
+      "date": "2026-09-21",
+      "city": "Delhi",
+      "hub": "Saket",
+      "client": "Blinkit",
+      "vehicleType": "",
+      "revenue": 1392.4
+    },
+    {
+      "date": "2026-09-21",
+      "city": "Gurgaon",
+      "hub": "Wazirabad",
+      "client": "Blinkit",
+      "vehicleType": "",
+      "revenue": 1215.4
+    },
+    {
+      "date": "2026-09-21",
+      "city": "Gurgaon",
+      "hub": "Wazirabad",
+      "client": "Blinkit",
+      "vehicleType": "",
+      "revenue": 1560
+    },
+    {
+      "date": "2026-09-21",
+      "city": "Delhi",
+      "hub": "Saket",
+      "client": "Blinkit",
+      "vehicleType": "",
+      "revenue": 1701
+    },
+    {
+      "date": "2026-09-21",
+      "city": "Delhi",
+      "hub": "Saket",
+      "client": "Blinkit",
+      "vehicleType": "",
+      "revenue": 1380.6000000000001
+    },
+    {
+      "date": "2026-09-21",
+      "city": "Delhi",
+      "hub": "kaushambi",
+      "client": "Blinkit",
+      "vehicleType": "",
+      "revenue": 1581.1999999999998
+    },
+    {
+      "date": "2026-09-21",
+      "city": "Gurgaon",
+      "hub": "Wazirabad",
+      "client": "Blinkit",
+      "vehicleType": "",
+      "revenue": 129.8
+    },
+    {
+      "date": "2026-09-21",
+      "city": "Delhi",
+      "hub": "Ali Village",
+      "client": "Blinkit",
+      "vehicleType": "",
+      "revenue": 1498.6
+    },
+    {
+      "date": "2026-09-21",
+      "city": "Delhi",
+      "hub": "Saket",
+      "client": "Blinkit",
+      "vehicleType": "",
+      "revenue": 1510.3999999999999
+    },
+    {
+      "date": "2026-09-21",
+      "city": "Gurgaon",
+      "hub": "Wazirabad",
+      "client": "Blinkit",
+      "vehicleType": "",
+      "revenue": 1227.2
+    },
+    {
+      "date": "2026-09-21",
+      "city": "Delhi",
+      "hub": "Nilothi",
+      "client": "Blinkit",
+      "vehicleType": "",
+      "revenue": 1647
+    },
+    {
+      "date": "2026-09-21",
+      "city": "Delhi",
+      "hub": "Saket",
+      "client": "Blinkit",
+      "vehicleType": "",
+      "revenue": 1357
+    },
+    {
+      "date": "2026-09-21",
+      "city": "Delhi",
+      "hub": "Nilothi",
+      "client": "Blinkit",
+      "vehicleType": "",
+      "revenue": 1427.8
+    },
+    {
+      "date": "2026-09-21",
+      "city": "Faridabad",
+      "hub": "Faridabad",
+      "client": "Blinkit",
+      "vehicleType": "",
+      "revenue": 1352
+    },
+    {
+      "date": "2026-09-21",
+      "city": "Delhi",
+      "hub": "Saket",
+      "client": "Blinkit",
+      "vehicleType": "",
+      "revenue": 1500.3999999999999
+    },
+    {
+      "date": "2026-09-21",
+      "city": "Delhi",
+      "hub": "Saket",
+      "client": "Blinkit",
+      "vehicleType": "",
+      "revenue": 1890
+    },
+    {
+      "date": "2026-09-21",
+      "city": "Ghaziabad",
+      "hub": "Sector 121",
+      "client": "Blinkit",
+      "vehicleType": "",
+      "revenue": 495.6
+    },
+    {
+      "date": "2026-09-21",
+      "city": "Faridabad",
+      "hub": "Faridabad",
+      "client": "Blinkit",
+      "vehicleType": "",
+      "revenue": 1677.0000000000002
+    },
+    {
+      "date": "2026-09-21",
+      "city": "Gurgaon",
+      "hub": "Wazirabad",
+      "client": "Blinkit",
+      "vehicleType": "",
+      "revenue": 1427.8000000000002
+    },
+    {
+      "date": "2026-09-21",
+      "city": "Delhi",
+      "hub": "Ali Village",
+      "client": "Blinkit",
+      "vehicleType": "",
+      "revenue": 1427.8
+    },
+    {
+      "date": "2026-09-21",
+      "city": "Gurgaon",
+      "hub": "Wazirabad",
+      "client": "Blinkit",
+      "vehicleType": "",
+      "revenue": 1050.2
+    },
+    {
+      "date": "2026-09-21",
+      "city": "Delhi",
+      "hub": "Saket",
+      "client": "Blinkit",
+      "vehicleType": "",
+      "revenue": 1488
+    },
+    {
+      "date": "2026-09-21",
+      "city": "Delhi",
+      "hub": "kaushambi",
+      "client": "Blinkit",
+      "vehicleType": "",
+      "revenue": 259.6
+    },
+    {
+      "date": "2026-09-21",
+      "city": "Delhi",
+      "hub": "Nilothi",
+      "client": "Blinkit",
+      "vehicleType": "",
+      "revenue": 1822.3999999999999
+    },
+    {
+      "date": "2026-09-21",
+      "city": "Delhi",
+      "hub": "Saket",
+      "client": "Blinkit",
+      "vehicleType": "",
+      "revenue": 1781.0000000000002
+    },
+    {
+      "date": "2026-09-21",
+      "city": "Delhi",
+      "hub": "Ali Village",
+      "client": "Blinkit",
+      "vehicleType": "",
+      "revenue": 1500.4
+    },
+    {
+      "date": "2026-09-21",
+      "city": "Ghaziabad",
+      "hub": "Sector 121",
+      "client": "Blinkit",
+      "vehicleType": "",
+      "revenue": 1486.8000000000002
+    },
+    {
+      "date": "2026-09-21",
+      "city": "Delhi",
+      "hub": "Shalimar Bagh",
+      "client": "Blinkit",
+      "vehicleType": "",
+      "revenue": 1849.5000000000002
+    },
+    {
+      "date": "2026-09-21",
+      "city": "Faridabad",
+      "hub": "Faridabad",
+      "client": "Blinkit",
+      "vehicleType": "",
+      "revenue": 424.8
+    },
+    {
+      "date": "2026-09-21",
+      "city": "Delhi",
+      "hub": "Nilothi",
+      "client": "Blinkit",
+      "vehicleType": "",
+      "revenue": 1652
+    },
+    {
+      "date": "2026-09-21",
+      "city": "Gurgaon",
+      "hub": "Wazirabad",
+      "client": "Blinkit",
+      "vehicleType": "",
+      "revenue": 1736
+    },
+    {
+      "date": "2026-09-21",
+      "city": "Faridabad",
+      "hub": "Faridabad",
+      "client": "Blinkit",
+      "vehicleType": "",
+      "revenue": 1690
+    },
+    {
+      "date": "2026-09-21",
+      "city": "Delhi",
+      "hub": "Nilothi",
+      "client": "Blinkit",
+      "vehicleType": "",
+      "revenue": 1534
+    },
+    {
+      "date": "2026-09-21",
+      "city": "Delhi",
+      "hub": "Saket",
+      "client": "Blinkit",
+      "vehicleType": "",
+      "revenue": 1050.2000000000003
+    },
+    {
+      "date": "2026-09-21",
+      "city": "Gurgaon",
+      "hub": "Wazirabad",
+      "client": "Blinkit",
+      "vehicleType": "",
+      "revenue": 1820
+    },
+    {
+      "date": "2026-09-21",
+      "city": "Ghaziabad",
+      "hub": "Sector 121",
+      "client": "Blinkit",
+      "vehicleType": "",
+      "revenue": 1573
+    },
+    {
+      "date": "2026-09-21",
+      "city": "Delhi",
+      "hub": "Ali Village",
+      "client": "Blinkit",
+      "vehicleType": "",
+      "revenue": 1498.6
+    },
+    {
+      "date": "2026-09-21",
+      "city": "Ghaziabad",
+      "hub": "Sector 121",
+      "client": "Blinkit",
+      "vehicleType": "",
+      "revenue": 1180
+    },
+    {
+      "date": "2026-09-21",
+      "city": "Ghaziabad",
+      "hub": "Sector 121",
+      "client": "Blinkit",
+      "vehicleType": "",
+      "revenue": 1250.8
+    },
+    {
+      "date": "2026-09-21",
+      "city": "Gurgaon",
+      "hub": "Wazirabad",
+      "client": "Blinkit",
+      "vehicleType": "",
+      "revenue": 1779.1999999999998
+    },
+    {
+      "date": "2026-09-21",
+      "city": "Delhi",
+      "hub": "Nilothi",
+      "client": "Blinkit",
+      "vehicleType": "",
+      "revenue": 1820
+    },
+    {
+      "date": "2026-09-21",
+      "city": "Delhi",
+      "hub": "Shalimar Bagh",
+      "client": "Blinkit",
+      "vehicleType": "",
+      "revenue": 1573
+    },
+    {
+      "date": "2026-09-21",
+      "city": "Faridabad",
+      "hub": "Ali Village",
+      "client": "Blinkit",
+      "vehicleType": "",
+      "revenue": 1562.4
+    },
+    {
+      "date": "2026-09-21",
+      "city": "Delhi",
+      "hub": "Ali Village",
+      "client": "Blinkit",
+      "vehicleType": "",
+      "revenue": 1463.1999999999998
+    },
+    {
+      "date": "2026-09-21",
+      "city": "Delhi",
+      "hub": "Nilothi",
+      "client": "Blinkit",
+      "vehicleType": "",
+      "revenue": 1357
+    },
+    {
+      "date": "2026-09-21",
+      "city": "Ghaziabad",
+      "hub": "Sector 121",
+      "client": "Blinkit",
+      "vehicleType": "",
+      "revenue": 1262.6000000000001
+    },
+    {
+      "date": "2026-09-21",
+      "city": "Noida",
+      "hub": "Sector 121",
+      "client": "Blinkit",
+      "vehicleType": "",
+      "revenue": 1469
+    },
+    {
+      "date": "2026-09-21",
+      "city": "Delhi",
+      "hub": "Nilothi",
+      "client": "Blinkit",
+      "vehicleType": "",
+      "revenue": 1779.2
+    },
+    {
+      "date": "2026-09-21",
+      "city": "Gurgaon",
+      "hub": "Wazirabad",
+      "client": "Blinkit",
+      "vehicleType": "",
+      "revenue": 1510.3999999999999
+    },
+    {
+      "date": "2026-09-21",
+      "city": "Delhi",
+      "hub": "Ali Village",
+      "client": "Blinkit",
+      "vehicleType": "",
+      "revenue": 962
+    },
+    {
+      "date": "2026-09-21",
+      "city": "Gurgaon",
+      "hub": "Wazirabad",
+      "client": "Blinkit",
+      "vehicleType": "",
+      "revenue": 1534
+    },
+    {
+      "date": "2026-09-21",
+      "city": "Delhi",
+      "hub": "Nilothi",
+      "client": "Blinkit",
+      "vehicleType": "",
+      "revenue": 1890
+    },
+    {
+      "date": "2026-09-21",
+      "city": "Delhi",
+      "hub": "Shalimar Bagh",
+      "client": "Blinkit",
+      "vehicleType": "",
+      "revenue": 1486.8000000000002
+    },
+    {
+      "date": "2026-09-21",
+      "city": "Gurgaon",
+      "hub": "Wazirabad",
+      "client": "Blinkit",
+      "vehicleType": "",
+      "revenue": 1820
+    },
+    {
+      "date": "2026-09-21",
+      "city": "Ghaziabad",
+      "hub": "Sector 121",
+      "client": "Blinkit",
+      "vehicleType": "",
+      "revenue": 1427.8000000000002
+    },
+    {
+      "date": "2026-09-21",
+      "city": "Delhi",
+      "hub": "Ali Village",
+      "client": "Blinkit",
+      "vehicleType": "",
+      "revenue": 1427.8
+    },
+    {
+      "date": "2026-09-21",
+      "city": "Gurgaon",
+      "hub": "Wazirabad",
+      "client": "Blinkit",
+      "vehicleType": "",
+      "revenue": 1820
+    },
+    {
+      "date": "2026-09-21",
+      "city": "Delhi",
+      "hub": "Shalimar Bagh",
+      "client": "Blinkit",
+      "vehicleType": "",
+      "revenue": 1716
+    },
+    {
+      "date": "2026-09-21",
+      "city": "Faridabad",
+      "hub": "Faridabad",
+      "client": "Blinkit",
+      "vehicleType": "",
+      "revenue": 106.2
+    },
+    {
+      "date": "2026-09-21",
+      "city": "Delhi",
+      "hub": "Saket",
+      "client": "Blinkit",
+      "vehicleType": "",
+      "revenue": 1416
+    },
+    {
+      "date": "2026-09-21",
+      "city": "Delhi",
+      "hub": "Saket",
+      "client": "Blinkit",
+      "vehicleType": "",
+      "revenue": 1250.8
+    },
+    {
+      "date": "2026-09-21",
+      "city": "Gurgaon",
+      "hub": "Wazirabad",
+      "client": "Blinkit",
+      "vehicleType": "",
+      "revenue": 1392.4
+    },
+    {
+      "date": "2026-09-21",
+      "city": "Gurgaon",
+      "hub": "Wazirabad",
+      "client": "Blinkit",
+      "vehicleType": "",
+      "revenue": 1820
+    },
+    {
+      "date": "2026-09-21",
+      "city": "Delhi",
+      "hub": "Shalimar Bagh",
+      "client": "Blinkit",
+      "vehicleType": "",
+      "revenue": 1352
+    },
+    {
+      "date": "2026-09-21",
+      "city": "Gurgaon",
+      "hub": "Wazirabad",
+      "client": "Blinkit",
+      "vehicleType": "",
+      "revenue": 1536
+    },
+    {
+      "date": "2026-09-21",
+      "city": "Gurgaon",
+      "hub": "Wazirabad",
+      "client": "Blinkit",
+      "vehicleType": "",
+      "revenue": 1573
+    },
+    {
+      "date": "2026-09-21",
+      "city": "Gurgaon",
+      "hub": "Wazirabad",
+      "client": "Blinkit",
+      "vehicleType": "",
+      "revenue": 1755
+    },
+    {
+      "date": "2026-09-21",
+      "city": "Faridabad",
+      "hub": "Ali Village",
+      "client": "Blinkit",
+      "vehicleType": "",
+      "revenue": 1573
+    },
+    {
+      "date": "2026-09-21",
+      "city": "Delhi",
+      "hub": "Saket",
+      "client": "Blinkit",
+      "vehicleType": "",
+      "revenue": 177
+    },
+    {
+      "date": "2026-09-21",
+      "city": "Delhi",
+      "hub": "Ali Village",
+      "client": "Blinkit",
+      "vehicleType": "",
+      "revenue": 1652
+    },
+    {
+      "date": "2026-09-21",
+      "city": "Delhi",
+      "hub": "Nilothi",
+      "client": "Blinkit",
+      "vehicleType": "",
+      "revenue": 1686.4
+    },
+    {
+      "date": "2026-09-21",
+      "city": "Ghaziabad",
+      "hub": "Noida Sec 121",
+      "client": "Blinkit",
+      "vehicleType": "",
+      "revenue": 1723.6000000000001
+    },
+    {
+      "date": "2026-09-21",
+      "city": "Faridabad",
+      "hub": "Faridabad",
+      "client": "Blinkit",
+      "vehicleType": "",
+      "revenue": 1599
+    },
+    {
+      "date": "2026-09-21",
+      "city": "Delhi",
+      "hub": "Saket",
+      "client": "Blinkit",
+      "vehicleType": "",
+      "revenue": 1300
+    },
+    {
+      "date": "2026-09-21",
+      "city": "Delhi",
+      "hub": "Saket",
+      "client": "Blinkit",
+      "vehicleType": "",
+      "revenue": 1651
+    },
+    {
+      "date": "2026-09-21",
+      "city": "Delhi",
+      "hub": "Ali Village",
+      "client": "Blinkit",
+      "vehicleType": "",
+      "revenue": 1240
+    },
+    {
+      "date": "2026-09-21",
+      "city": "Delhi",
+      "hub": "Ali Village",
+      "client": "Blinkit",
+      "vehicleType": "",
+      "revenue": 1820
+    },
+    {
+      "date": "2026-09-21",
+      "city": "Delhi",
+      "hub": "Saket",
+      "client": "Blinkit",
+      "vehicleType": "",
+      "revenue": 1636.8000000000002
+    },
+    {
+      "date": "2026-09-21",
+      "city": "Faridabad",
+      "hub": "Faridabad",
+      "client": "Blinkit",
+      "vehicleType": "",
+      "revenue": 1339
+    },
+    {
+      "date": "2026-09-21",
+      "city": "Delhi",
+      "hub": "Saket",
+      "client": "Blinkit",
+      "vehicleType": "",
+      "revenue": 1156.4
+    },
+    {
+      "date": "2026-09-21",
+      "city": "Delhi",
+      "hub": "Saket",
+      "client": "Blinkit",
+      "vehicleType": "",
+      "revenue": 1686.3999999999999
+    },
+    {
+      "date": "2026-09-21",
+      "city": "Delhi",
+      "hub": "Saket",
+      "client": "Blinkit",
+      "vehicleType": "",
+      "revenue": 1742
+    },
+    {
+      "date": "2026-09-21",
+      "city": "Noida",
+      "hub": "Sector 121",
+      "client": "Blinkit",
+      "vehicleType": "",
+      "revenue": 1227.1999999999998
+    },
+    {
+      "date": "2026-09-21",
+      "city": "Delhi",
+      "hub": "Nilothi",
+      "client": "Blinkit",
+      "vehicleType": "",
+      "revenue": 1416
+    },
+    {
+      "date": "2026-09-21",
+      "city": "Gurgaon",
+      "hub": "Wazirabad",
+      "client": "Blinkit",
+      "vehicleType": "",
+      "revenue": 1890
+    },
+    {
+      "date": "2026-09-21",
+      "city": "Noida",
+      "hub": "Sector 121",
+      "client": "Blinkit",
+      "vehicleType": "",
+      "revenue": 436.6
+    },
+    {
+      "date": "2026-09-21",
+      "city": "Delhi",
+      "hub": "Saket",
+      "client": "Blinkit",
+      "vehicleType": "",
+      "revenue": 1481.8
+    },
+    {
+      "date": "2026-09-21",
+      "city": "Ghaziabad",
+      "hub": "Sector 121",
+      "client": "Blinkit",
+      "vehicleType": "",
+      "revenue": 1534
+    },
+    {
+      "date": "2026-09-21",
+      "city": "Delhi",
+      "hub": "Saket",
+      "client": "Blinkit",
+      "vehicleType": "",
+      "revenue": 1536
+    },
+    {
+      "date": "2026-09-21",
+      "city": "Delhi",
+      "hub": "Shalimar Bagh",
+      "client": "Blinkit",
+      "vehicleType": "",
+      "revenue": 1661.6000000000004
+    },
+    {
+      "date": "2026-09-21",
+      "city": "Delhi",
+      "hub": "Shalimar Bagh",
+      "client": "Blinkit",
+      "vehicleType": "",
+      "revenue": 1624.4
+    },
+    {
+      "date": "2026-09-21",
+      "city": "Ghaziabad",
+      "hub": "Sector 121",
+      "client": "Blinkit",
+      "vehicleType": "",
+      "revenue": 1427.7999999999997
+    },
+    {
+      "date": "2026-09-21",
+      "city": "Delhi",
+      "hub": "Ali Village",
+      "client": "Blinkit",
+      "vehicleType": "",
+      "revenue": 1469
+    },
+    {
+      "date": "2026-09-21",
+      "city": "Delhi",
+      "hub": "Saket",
+      "client": "Blinkit",
+      "vehicleType": "",
+      "revenue": 1792
+    },
+    {
+      "date": "2026-09-21",
+      "city": "Delhi",
+      "hub": "Saket",
+      "client": "Blinkit",
+      "vehicleType": "",
+      "revenue": 1252.3999999999999
+    },
+    {
+      "date": "2026-09-21",
+      "city": "Delhi",
+      "hub": "Nilothi",
+      "client": "Blinkit",
+      "vehicleType": "",
+      "revenue": 1215.4
+    },
+    {
+      "date": "2026-09-21",
+      "city": "Delhi",
+      "hub": "kaushambi",
+      "client": "Blinkit",
+      "vehicleType": "",
+      "revenue": 1545.7999999999997
+    },
+    {
+      "date": "2026-09-21",
+      "city": "Delhi",
+      "hub": "Ali Village",
+      "client": "Blinkit",
+      "vehicleType": "",
+      "revenue": 1652
+    },
+    {
+      "date": "2026-09-21",
+      "city": "Delhi",
+      "hub": "Saket",
+      "client": "Blinkit",
+      "vehicleType": "",
+      "revenue": 1677
+    },
+    {
+      "date": "2026-09-21",
+      "city": "Delhi",
+      "hub": "Nilothi",
+      "client": "Blinkit",
+      "vehicleType": "",
+      "revenue": 1351.9999999999998
+    },
+    {
+      "date": "2026-09-21",
+      "city": "Delhi",
+      "hub": "Shalimar Bagh",
+      "client": "Blinkit",
+      "vehicleType": "",
+      "revenue": 1191.8000000000002
+    },
+    {
+      "date": "2026-09-21",
+      "city": "Delhi",
+      "hub": "Saket",
+      "client": "Blinkit",
+      "vehicleType": "",
+      "revenue": 1809
+    },
+    {
+      "date": "2026-09-21",
+      "city": "Delhi",
+      "hub": "Saket",
+      "client": "Blinkit",
+      "vehicleType": "",
+      "revenue": 1651.2
+    },
+    {
+      "date": "2026-09-21",
+      "city": "Delhi",
+      "hub": "Saket",
+      "client": "Blinkit",
+      "vehicleType": "",
+      "revenue": 1486.8
+    },
+    {
+      "date": "2026-09-21",
+      "city": "Gurgaon",
+      "hub": "Wazirabad",
+      "client": "Blinkit",
+      "vehicleType": "",
+      "revenue": 1451.4
+    },
+    {
+      "date": "2026-09-21",
+      "city": "Delhi",
+      "hub": "Ali Village",
+      "client": "Blinkit",
+      "vehicleType": "",
+      "revenue": 1651.0000000000002
+    },
+    {
+      "date": "2026-09-21",
+      "city": "Gurgaon",
+      "hub": "Wazirabad",
+      "client": "Blinkit",
+      "vehicleType": "",
+      "revenue": 1451.4
+    },
+    {
+      "date": "2026-09-21",
+      "city": "Ghaziabad",
+      "hub": "Sector 121",
+      "client": "Blinkit",
+      "vehicleType": "",
+      "revenue": 1298
+    },
+    {
+      "date": "2026-09-21",
+      "city": "Delhi",
+      "hub": "Shalimar Bagh",
+      "client": "Blinkit",
+      "vehicleType": "",
+      "revenue": 1180
+    },
+    {
+      "date": "2026-09-21",
+      "city": "Ghaziabad",
+      "hub": "Sector 121",
+      "client": "Blinkit",
+      "vehicleType": "",
+      "revenue": 1742
+    },
+    {
+      "date": "2026-09-21",
+      "city": "Noida",
+      "hub": "Sector 121",
+      "client": "Blinkit",
+      "vehicleType": "",
+      "revenue": 1539.0000000000002
+    },
+    {
+      "date": "2026-09-21",
+      "city": "Ghaziabad",
+      "hub": "Sector 121",
+      "client": "Blinkit",
+      "vehicleType": "",
+      "revenue": 1652
+    },
+    {
+      "date": "2026-09-21",
+      "city": "Gurgaon",
+      "hub": "Wazirabad",
+      "client": "Blinkit",
+      "vehicleType": "",
+      "revenue": 1427.8000000000002
+    },
+    {
+      "date": "2026-09-21",
+      "city": "Ghaziabad",
+      "hub": "Sector 121",
+      "client": "Blinkit",
+      "vehicleType": "",
+      "revenue": 1794
+    },
+    {
+      "date": "2026-09-21",
+      "city": "Delhi",
+      "hub": "Saket",
+      "client": "Blinkit",
+      "vehicleType": "",
+      "revenue": 1652
+    },
+    {
+      "date": "2026-09-21",
+      "city": "Gurgaon",
+      "hub": "Wazirabad",
+      "client": "Blinkit",
+      "vehicleType": "",
+      "revenue": 1586.0000000000002
+    },
+    {
+      "date": "2026-09-21",
+      "city": "Delhi",
+      "hub": "Ali Village",
+      "client": "Blinkit",
+      "vehicleType": "",
+      "revenue": 1185.9
+    },
+    {
+      "date": "2026-09-21",
+      "city": "Gurgaon",
+      "hub": "Wazirabad",
+      "client": "Blinkit",
+      "vehicleType": "",
+      "revenue": 1352
+    },
+    {
+      "date": "2026-09-21",
+      "city": "Delhi",
+      "hub": "Ali Village",
+      "client": "Blinkit",
+      "vehicleType": "",
+      "revenue": 1640.2
+    },
+    {
+      "date": "2026-09-21",
+      "city": "Noida",
+      "hub": "Sector 121",
+      "client": "Blinkit",
+      "vehicleType": "",
+      "revenue": 1388.8000000000002
+    },
+    {
+      "date": "2026-09-21",
+      "city": "Delhi",
+      "hub": "",
+      "client": "Blinkit",
+      "vehicleType": "",
+      "revenue": 1562.3999999999999
+    },
+    {
+      "date": "2026-09-21",
+      "city": "Gurgaon",
+      "hub": "Wazirabad",
+      "client": "Blinkit",
+      "vehicleType": "",
+      "revenue": 1345.2
+    },
+    {
+      "date": "2026-09-21",
+      "city": "Delhi",
+      "hub": "Ali Village",
+      "client": "Blinkit",
+      "vehicleType": "",
+      "revenue": 1768.0000000000002
+    },
+    {
+      "date": "2026-09-21",
+      "city": "Delhi",
+      "hub": "Saket",
+      "client": "Blinkit",
+      "vehicleType": "",
+      "revenue": 1545.8000000000002
+    },
+    {
+      "date": "2026-09-21",
+      "city": "Ghaziabad",
+      "hub": "Sector 121",
+      "client": "Blinkit",
+      "vehicleType": "",
+      "revenue": 1191.8000000000002
+    },
+    {
+      "date": "2026-09-21",
+      "city": "Delhi",
+      "hub": "Saket",
+      "client": "Blinkit",
+      "vehicleType": "",
+      "revenue": 1439.6
+    },
+    {
+      "date": "2026-09-21",
+      "city": "Gurgaon",
+      "hub": "Wazirabad",
+      "client": "Blinkit",
+      "vehicleType": "",
+      "revenue": 1165.6000000000001
+    },
+    {
+      "date": "2026-09-21",
+      "city": "Ghaziabad",
+      "hub": "Sector 121",
+      "client": "Blinkit",
+      "vehicleType": "",
+      "revenue": 1820
+    },
+    {
+      "date": "2026-09-21",
+      "city": "Delhi",
+      "hub": "Nilothi",
+      "client": "Blinkit",
+      "vehicleType": "",
+      "revenue": 1500.4
+    },
+    {
+      "date": "2026-09-21",
+      "city": "Gurgaon",
+      "hub": "Wazirabad",
+      "client": "Blinkit",
+      "vehicleType": "",
+      "revenue": 1795.6
+    },
+    {
+      "date": "2026-09-21",
+      "city": "Delhi",
+      "hub": "Saket",
+      "client": "Blinkit",
+      "vehicleType": "",
+      "revenue": 1890
+    },
+    {
       "date": "2026-04-06",
       "city": "Gurgaon",
       "hub": "",
@@ -658771,6 +660795,30 @@
     },
     {
       "date": "2026-09-20",
+      "city": "Noida",
+      "hub": "",
+      "client": "Amicco",
+      "vehicleType": "3W L5",
+      "revenue": 1600
+    },
+    {
+      "date": "2026-09-21",
+      "city": "Gurgaon",
+      "hub": "",
+      "client": "Amicco",
+      "vehicleType": "3W L5",
+      "revenue": 1600
+    },
+    {
+      "date": "2026-09-21",
+      "city": "Gurgaon",
+      "hub": "",
+      "client": "Amicco",
+      "vehicleType": "3W L5",
+      "revenue": 1600
+    },
+    {
+      "date": "2026-09-21",
       "city": "Noida",
       "hub": "",
       "client": "Amicco",
@@ -708159,7 +710207,7 @@
       "hub": "",
       "client": "Delhivery",
       "vehicleType": "3W L5",
-      "revenue": 8561.369999999999
+      "revenue": 9104.52
     },
     {
       "date": "2001-09-04",
@@ -708167,7 +710215,7 @@
       "hub": "",
       "client": "Delhivery",
       "vehicleType": "3W L5",
-      "revenue": 13434.32
+      "revenue": 12891.17
     },
     {
       "date": "2001-09-05",
@@ -708199,7 +710247,7 @@
       "hub": "",
       "client": "Delhivery",
       "vehicleType": "3W L5",
-      "revenue": 12039.579999999998
+      "revenue": 12936.57
     },
     {
       "date": "2001-09-10",
@@ -708215,7 +710263,7 @@
       "hub": "",
       "client": "Delhivery",
       "vehicleType": "3W L5",
-      "revenue": 8141.8
+      "revenue": 7244.81
     },
     {
       "date": "2001-09-12",
@@ -708231,7 +710279,7 @@
       "hub": "",
       "client": "Delhivery",
       "vehicleType": "3W L5",
-      "revenue": 7175.72
+      "revenue": 7925.8
     },
     {
       "date": "2001-09-16",
@@ -708239,7 +710287,7 @@
       "hub": "",
       "client": "Delhivery",
       "vehicleType": "3W L5",
-      "revenue": 8830.31
+      "revenue": 9026.52
     },
     {
       "date": "2001-09-17",
@@ -708247,7 +710295,7 @@
       "hub": "",
       "client": "Delhivery",
       "vehicleType": "3W L5",
-      "revenue": 10256.9
+      "revenue": 9310.61
     },
     {
       "date": "2001-09-18",
@@ -708343,7 +710391,7 @@
       "hub": "",
       "client": "Delhivery",
       "vehicleType": "3W L5",
-      "revenue": 3971.8999999999996
+      "revenue": 4594.5
     },
     {
       "date": "2001-09-11",
@@ -708351,7 +710399,7 @@
       "hub": "",
       "client": "Delhivery",
       "vehicleType": "3W L5",
-      "revenue": 1244.2
+      "revenue": 621.6
     },
     {
       "date": "2001-09-12",
@@ -708383,7 +710431,7 @@
       "hub": "",
       "client": "Delhivery",
       "vehicleType": "3W L5",
-      "revenue": 2380.5
+      "revenue": 2945
     },
     {
       "date": "2001-09-17",
@@ -708391,7 +710439,7 @@
       "hub": "",
       "client": "Delhivery",
       "vehicleType": "3W L5",
-      "revenue": 1220.8
+      "revenue": 656.3
     },
     {
       "date": "2001-09-18",
@@ -708399,7 +710447,7 @@
       "hub": "",
       "client": "Delhivery",
       "vehicleType": "3W L5",
-      "revenue": 2314
+      "revenue": 3508.3
     },
     {
       "date": "2001-09-19",
@@ -708407,7 +710455,7 @@
       "hub": "",
       "client": "Delhivery",
       "vehicleType": "3W L5",
-      "revenue": 5050
+      "revenue": 4282.2
     },
     {
       "date": "2001-09-21",
@@ -708415,7 +710463,7 @@
       "hub": "",
       "client": "Delhivery",
       "vehicleType": "3W L5",
-      "revenue": 2381.5
+      "revenue": 2439.5
     },
     {
       "date": "2001-09-01",
@@ -708487,7 +710535,7 @@
       "hub": "",
       "client": "Delhivery",
       "vehicleType": "3W L5",
-      "revenue": 9555.399999999998
+      "revenue": 8137.8
     },
     {
       "date": "2001-09-11",
@@ -708535,7 +710583,7 @@
       "hub": "",
       "client": "Delhivery",
       "vehicleType": "3W L5",
-      "revenue": 8192.9
+      "revenue": 8204.9
     },
     {
       "date": "2001-09-18",
@@ -708551,7 +710599,7 @@
       "hub": "",
       "client": "Delhivery",
       "vehicleType": "3W L5",
-      "revenue": 11940.2
+      "revenue": 11928.2
     },
     {
       "date": "2001-09-21",
@@ -708559,7 +710607,7 @@
       "hub": "",
       "client": "Delhivery",
       "vehicleType": "3W L5",
-      "revenue": 8775.5
+      "revenue": 11229.6
     },
     {
       "date": "2001-09-01",
@@ -708631,7 +710679,7 @@
       "hub": "",
       "client": "Delhivery",
       "vehicleType": "3W L5",
-      "revenue": 26325
+      "revenue": 27462.2
     },
     {
       "date": "2001-09-11",
@@ -708639,7 +710687,7 @@
       "hub": "",
       "client": "Delhivery",
       "vehicleType": "3W L5",
-      "revenue": 27002
+      "revenue": 25864.8
     },
     {
       "date": "2001-09-12",
@@ -708679,7 +710727,7 @@
       "hub": "",
       "client": "Delhivery",
       "vehicleType": "3W L5",
-      "revenue": 41570.3
+      "revenue": 41723.9
     },
     {
       "date": "2001-09-17",
@@ -708687,7 +710735,7 @@
       "hub": "",
       "client": "Delhivery",
       "vehicleType": "3W L5",
-      "revenue": 37720.3
+      "revenue": 40158.200000000004
     },
     {
       "date": "2001-09-18",
@@ -708695,7 +710743,7 @@
       "hub": "",
       "client": "Delhivery",
       "vehicleType": "3W L5",
-      "revenue": 39940.7
+      "revenue": 41639.8
     },
     {
       "date": "2001-09-19",
@@ -708703,7 +710751,7 @@
       "hub": "",
       "client": "Delhivery",
       "vehicleType": "3W L5",
-      "revenue": 32755.1
+      "revenue": 30077
     },
     {
       "date": "2001-09-21",
@@ -708711,7 +710759,7 @@
       "hub": "",
       "client": "Delhivery",
       "vehicleType": "3W L5",
-      "revenue": 30235.599999999995
+      "revenue": 29944.8
     },
     {
       "date": "2001-01-01",
@@ -711416,6 +713464,14 @@
       "client": "Mortrex - Rental",
       "vehicleType": "3W L3",
       "revenue": 17345.064516129034
+    },
+    {
+      "date": "2026-09-21",
+      "city": "Gurgaon",
+      "hub": "Badshahpur",
+      "client": "Passenger Rental",
+      "vehicleType": "3W L5",
+      "revenue": 79365
     },
     {
       "date": "2026-09-20",
