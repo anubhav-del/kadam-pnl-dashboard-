@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-22T06:48:13.638Z",
+  "generatedAt": "2026-09-22T09:49:47.144Z",
   "records": [
     {
       "date": "2025-04-16",
@@ -710263,7 +710263,7 @@
       "hub": "",
       "client": "Delhivery",
       "vehicleType": "3W L5",
-      "revenue": 7244.81
+      "revenue": 8141.8
     },
     {
       "date": "2001-09-12",
@@ -710271,7 +710271,7 @@
       "hub": "",
       "client": "Delhivery",
       "vehicleType": "3W L5",
-      "revenue": 9584.66
+      "revenue": 11634.66
     },
     {
       "date": "2001-09-15",
@@ -710279,7 +710279,7 @@
       "hub": "",
       "client": "Delhivery",
       "vehicleType": "3W L5",
-      "revenue": 7925.8
+      "revenue": 10914.6
     },
     {
       "date": "2001-09-16",
@@ -710287,7 +710287,7 @@
       "hub": "",
       "client": "Delhivery",
       "vehicleType": "3W L5",
-      "revenue": 9026.52
+      "revenue": 10679.9
     },
     {
       "date": "2001-09-17",
@@ -710295,7 +710295,7 @@
       "hub": "",
       "client": "Delhivery",
       "vehicleType": "3W L5",
-      "revenue": 9310.61
+      "revenue": 10343.9
     },
     {
       "date": "2001-09-18",
@@ -710399,7 +710399,7 @@
       "hub": "",
       "client": "Delhivery",
       "vehicleType": "3W L5",
-      "revenue": 621.6
+      "revenue": 1244.2
     },
     {
       "date": "2001-09-12",
@@ -710423,7 +710423,7 @@
       "hub": "",
       "client": "Delhivery",
       "vehicleType": "3W L5",
-      "revenue": 2806.4
+      "revenue": 3553.4000000000005
     },
     {
       "date": "2001-09-16",
@@ -710439,7 +710439,7 @@
       "hub": "",
       "client": "Delhivery",
       "vehicleType": "3W L5",
-      "revenue": 656.3
+      "revenue": 1298.8
     },
     {
       "date": "2001-09-18",
@@ -710455,7 +710455,7 @@
       "hub": "",
       "client": "Delhivery",
       "vehicleType": "3W L5",
-      "revenue": 4282.2
+      "revenue": 5476.5
     },
     {
       "date": "2001-09-21",
@@ -710535,7 +710535,7 @@
       "hub": "",
       "client": "Delhivery",
       "vehicleType": "3W L5",
-      "revenue": 8137.8
+      "revenue": 11362
     },
     {
       "date": "2001-09-11",
@@ -710543,7 +710543,7 @@
       "hub": "",
       "client": "Delhivery",
       "vehicleType": "3W L5",
-      "revenue": 7009.4
+      "revenue": 8755.9
     },
     {
       "date": "2001-09-12",
@@ -710551,7 +710551,7 @@
       "hub": "",
       "client": "Delhivery",
       "vehicleType": "3W L5",
-      "revenue": 4488.2
+      "revenue": 10974.3
     },
     {
       "date": "2001-09-14",
@@ -710559,7 +710559,7 @@
       "hub": "",
       "client": "Delhivery",
       "vehicleType": "3W L5",
-      "revenue": 8957.1
+      "revenue": 9870.699999999999
     },
     {
       "date": "2001-09-15",
@@ -710567,7 +710567,7 @@
       "hub": "",
       "client": "Delhivery",
       "vehicleType": "3W L5",
-      "revenue": 10127.9
+      "revenue": 10599.699999999999
     },
     {
       "date": "2001-09-16",
@@ -710575,7 +710575,7 @@
       "hub": "",
       "client": "Delhivery",
       "vehicleType": "3W L5",
-      "revenue": 6324.3
+      "revenue": 8022.1
     },
     {
       "date": "2001-09-17",
@@ -710599,7 +710599,7 @@
       "hub": "",
       "client": "Delhivery",
       "vehicleType": "3W L5",
-      "revenue": 11928.2
+      "revenue": 11940.2
     },
     {
       "date": "2001-09-21",
@@ -710607,7 +710607,7 @@
       "hub": "",
       "client": "Delhivery",
       "vehicleType": "3W L5",
-      "revenue": 11229.6
+      "revenue": 8775.5
     },
     {
       "date": "2001-09-01",
@@ -710647,7 +710647,7 @@
       "hub": "",
       "client": "Delhivery",
       "vehicleType": "3W L5",
-      "revenue": 30436.5
+      "revenue": 29517
     },
     {
       "date": "2001-09-07",
@@ -710679,7 +710679,7 @@
       "hub": "",
       "client": "Delhivery",
       "vehicleType": "3W L5",
-      "revenue": 27462.2
+      "revenue": 29464
     },
     {
       "date": "2001-09-11",
@@ -710687,7 +710687,7 @@
       "hub": "",
       "client": "Delhivery",
       "vehicleType": "3W L5",
-      "revenue": 25864.8
+      "revenue": 27231.399999999998
     },
     {
       "date": "2001-09-12",
@@ -710695,7 +710695,7 @@
       "hub": "",
       "client": "Delhivery",
       "vehicleType": "3W L5",
-      "revenue": 24822.899999999998
+      "revenue": 31087.499999999996
     },
     {
       "date": "2001-09-13",
@@ -710711,7 +710711,7 @@
       "hub": "",
       "client": "Delhivery",
       "vehicleType": "3W L5",
-      "revenue": 33100.4
+      "revenue": 37430.5
     },
     {
       "date": "2001-09-15",
@@ -710719,7 +710719,7 @@
       "hub": "",
       "client": "Delhivery",
       "vehicleType": "3W L5",
-      "revenue": 35606.700000000004
+      "revenue": 36924.9
     },
     {
       "date": "2001-09-16",
@@ -710727,7 +710727,7 @@
       "hub": "",
       "client": "Delhivery",
       "vehicleType": "3W L5",
-      "revenue": 41723.9
+      "revenue": 43474.3
     },
     {
       "date": "2001-09-17",
@@ -710735,7 +710735,7 @@
       "hub": "",
       "client": "Delhivery",
       "vehicleType": "3W L5",
-      "revenue": 40158.200000000004
+      "revenue": 41849.8
     },
     {
       "date": "2001-09-18",
@@ -710743,7 +710743,7 @@
       "hub": "",
       "client": "Delhivery",
       "vehicleType": "3W L5",
-      "revenue": 41639.8
+      "revenue": 41669.8
     },
     {
       "date": "2001-09-19",
@@ -710751,7 +710751,7 @@
       "hub": "",
       "client": "Delhivery",
       "vehicleType": "3W L5",
-      "revenue": 30077
+      "revenue": 34367.600000000006
     },
     {
       "date": "2001-09-21",
@@ -710759,7 +710759,7 @@
       "hub": "",
       "client": "Delhivery",
       "vehicleType": "3W L5",
-      "revenue": 29944.8
+      "revenue": 32398.899999999998
     },
     {
       "date": "2001-01-01",
