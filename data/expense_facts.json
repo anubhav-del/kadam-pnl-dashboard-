@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-22T09:49:57.601Z",
+  "generatedAt": "2026-09-23T03:49:16.429Z",
   "records": [
     {
       "month": "2026-06",
@@ -247,7 +247,7 @@
       "hub": "Kaushambi",
       "client": "Blinkit",
       "lineItem": "Hub Rental",
-      "amount": 56666.66666666667
+      "amount": 44347.82608695652
     },
     {
       "month": "2026-09",
@@ -255,7 +255,15 @@
       "hub": "Kaushambi",
       "client": "Porter - 3W L3",
       "lineItem": "Hub Rental",
-      "amount": 45333.33333333333
+      "amount": 35478.260869565216
+    },
+    {
+      "month": "2026-09",
+      "city": "Ghaziabad",
+      "hub": "Kaushambi",
+      "client": "Delhivery",
+      "lineItem": "Hub Rental",
+      "amount": 22173.91304347826
     },
     {
       "month": "2026-09",
@@ -1327,7 +1335,7 @@
       "hub": "Ali Village",
       "client": "Blinkit",
       "lineItem": "Supervisor Cost",
-      "amount": 33153.946783912266
+      "amount": 33157.89437173217
     },
     {
       "month": "2026-09",
@@ -1335,7 +1343,7 @@
       "hub": "Ali Village",
       "client": "Delhivery",
       "lineItem": "Supervisor Cost",
-      "amount": 19098.317794447987
+      "amount": 19099.944200629783
     },
     {
       "month": "2026-09",
@@ -1343,7 +1351,7 @@
       "hub": "Ali Village",
       "client": "Porter - 3W L3",
       "lineItem": "Supervisor Cost",
-      "amount": 29667.289777783277
+      "amount": 29669.81623398801
     },
     {
       "month": "2026-09",
@@ -1351,7 +1359,7 @@
       "hub": "Nilothi",
       "client": "Blinkit",
       "lineItem": "Supervisor Cost",
-      "amount": 43196.18511745324
+      "amount": 43200.60641581153
     },
     {
       "month": "2026-09",
@@ -1359,7 +1367,7 @@
       "hub": "Nilothi",
       "client": "Delhivery",
       "lineItem": "Supervisor Cost",
-      "amount": 16455.689568553615
+      "amount": 16457.373872690107
     },
     {
       "month": "2026-09",
@@ -1367,7 +1375,7 @@
       "hub": "Nilothi",
       "client": "Porter - 3W L3",
       "lineItem": "Supervisor Cost",
-      "amount": 20055.371661674722
+      "amount": 20057.424407341066
     },
     {
       "month": "2026-09",
@@ -1375,7 +1383,7 @@
       "hub": "Saket",
       "client": "Blinkit",
       "lineItem": "Supervisor Cost",
-      "amount": 72067.30243149013
+      "amount": 72074.09228254035
     },
     {
       "month": "2026-09",
@@ -1383,7 +1391,7 @@
       "hub": "Saket",
       "client": "Porter - 3W L3",
       "lineItem": "Supervisor Cost",
-      "amount": 21787.78910719469
+      "amount": 21789.84185286104
     },
     {
       "month": "2026-09",
@@ -1391,7 +1399,7 @@
       "hub": "Saket",
       "client": "Rental_L5",
       "lineItem": "Supervisor Cost",
-      "amount": 10111.768790774971
+      "amount": 10112.721475302173
     },
     {
       "month": "2026-09",
@@ -1399,7 +1407,7 @@
       "hub": "Saket",
       "client": "Delhivery",
       "lineItem": "Supervisor Cost",
-      "amount": 502.79513324295436
+      "amount": 502.84250429679315
     },
     {
       "month": "2026-09",
@@ -1407,7 +1415,7 @@
       "hub": "Shalimar Bagh",
       "client": "Blinkit",
       "lineItem": "Supervisor Cost",
-      "amount": 37114.24766496128
+      "amount": 37116.77412116601
     },
     {
       "month": "2026-09",
@@ -1415,7 +1423,7 @@
       "hub": "Shalimar Bagh",
       "client": "Delhivery",
       "lineItem": "Supervisor Cost",
-      "amount": 8505.348423220294
+      "amount": 8505.92740276721
     },
     {
       "month": "2026-09",
@@ -1423,7 +1431,7 @@
       "hub": "Shalimar Bagh",
       "client": "Porter - 3W L3",
       "lineItem": "Supervisor Cost",
-      "amount": 9278.56191624032
+      "amount": 9279.193530291503
     },
     {
       "month": "2026-09",
@@ -1431,7 +1439,7 @@
       "hub": "Faridabad",
       "client": "Blinkit",
       "lineItem": "Supervisor Cost",
-      "amount": 14587.736584921397
+      "amount": 14589.473523562152
     },
     {
       "month": "2026-09",
@@ -1439,7 +1447,7 @@
       "hub": "Kaushambi",
       "client": "Blinkit",
       "lineItem": "Supervisor Cost",
-      "amount": 11985.271550864196
+      "amount": 11942.892015478046
     },
     {
       "month": "2026-09",
@@ -1447,7 +1455,7 @@
       "hub": "Kaushambi",
       "client": "Porter - 3W L3",
       "lineItem": "Supervisor Cost",
-      "amount": 9588.217240691356
+      "amount": 9554.313612382437
     },
     {
       "month": "2026-09",
@@ -1455,7 +1463,7 @@
       "hub": "Sector 68",
       "client": "Blinkit",
       "lineItem": "Supervisor Cost",
-      "amount": 4723.939353873878
+      "amount": 4728.254568938077
     },
     {
       "month": "2026-09",
@@ -1471,7 +1479,7 @@
       "hub": "Sector 68",
       "client": "Porter - 3W L3",
       "lineItem": "Supervisor Cost",
-      "amount": 4680.839249234883
+      "amount": 4697.823893230806
     },
     {
       "month": "2026-09",
@@ -1479,7 +1487,7 @@
       "hub": "Wazirabad",
       "client": "Amicco",
       "lineItem": "Supervisor Cost",
-      "amount": 7584.192119998292
+      "amount": 7584.507927023883
     },
     {
       "month": "2026-09",
@@ -1487,7 +1495,7 @@
       "hub": "Wazirabad",
       "client": "Blinkit",
       "lineItem": "Supervisor Cost",
-      "amount": 50782.34805414418
+      "amount": 50828.73661608432
     },
     {
       "month": "2026-09",
@@ -1495,7 +1503,7 @@
       "hub": "Wazirabad",
       "client": "Delhivery",
       "lineItem": "Supervisor Cost",
-      "amount": 26854.34669182131
+      "amount": 26861.394876426166
     },
     {
       "month": "2026-09",
@@ -1503,7 +1511,7 @@
       "hub": "Wazirabad",
       "client": "Porter - 3W L3",
       "lineItem": "Supervisor Cost",
-      "amount": 66701.95930159709
+      "amount": 66552.50515410308
     },
     {
       "month": "2026-09",
@@ -1511,7 +1519,7 @@
       "hub": "Wazirabad",
       "client": "Wash4you",
       "lineItem": "Supervisor Cost",
-      "amount": 4110.35918752367
+      "amount": 4111.437991289719
     },
     {
       "month": "2026-09",
@@ -1551,7 +1559,7 @@
       "hub": "Sector 121",
       "client": "Amicco",
       "lineItem": "Supervisor Cost",
-      "amount": 1272.6756392892598
+      "amount": 1266.1716620416328
     },
     {
       "month": "2026-09",
@@ -1559,7 +1567,7 @@
       "hub": "Sector 121",
       "client": "Blinkit",
       "lineItem": "Supervisor Cost",
-      "amount": 56975.28432628346
+      "amount": 56688.35787283367
     },
     {
       "month": "2026-09",
@@ -1567,7 +1575,7 @@
       "hub": "Sector 121",
       "client": "Delhivery",
       "lineItem": "Supervisor Cost",
-      "amount": 11897.77996225331
+      "amount": 11837.862967562325
     },
     {
       "month": "2026-09",
@@ -1575,7 +1583,7 @@
       "hub": "Sector 121",
       "client": "Porter - 3W L3",
       "lineItem": "Supervisor Cost",
-      "amount": 16757.43656655396
+      "amount": 17228.81464762592
     },
     {
       "month": "2026-03",
@@ -9138,6 +9146,51 @@
       "segment": "cargo"
     },
     {
+      "month": "2026-09",
+      "city": "Delhi",
+      "hub": "Wazirabad",
+      "client": "Porter - 3W L3",
+      "lineItem": "Maintenance",
+      "amount": 1469.0721649484537,
+      "segment": "cargo"
+    },
+    {
+      "month": "2026-09",
+      "city": "Delhi",
+      "hub": "Wazirabad",
+      "client": "Blinkit",
+      "lineItem": "Maintenance",
+      "amount": 773.1958762886599,
+      "segment": "cargo"
+    },
+    {
+      "month": "2026-09",
+      "city": "Delhi",
+      "hub": "Wazirabad",
+      "client": "Delhivery",
+      "lineItem": "Maintenance",
+      "amount": 180.4123711340206,
+      "segment": "cargo"
+    },
+    {
+      "month": "2026-09",
+      "city": "Delhi",
+      "hub": "Wazirabad",
+      "client": "Amicco",
+      "lineItem": "Maintenance",
+      "amount": 51.54639175257732,
+      "segment": "cargo"
+    },
+    {
+      "month": "2026-09",
+      "city": "Delhi",
+      "hub": "Wazirabad",
+      "client": "Wash4you",
+      "lineItem": "Maintenance",
+      "amount": 25.77319587628866,
+      "segment": "cargo"
+    },
+    {
       "month": "2026-06",
       "city": "Delhi",
       "hub": "Nilothi",
@@ -10259,7 +10312,7 @@
       "hub": "Kaushambi",
       "client": "Blinkit",
       "lineItem": "Maintenance",
-      "amount": 188.88888888888889,
+      "amount": 147.82608695652175,
       "segment": "cargo"
     },
     {
@@ -10268,7 +10321,16 @@
       "hub": "Kaushambi",
       "client": "Porter - 3W L3",
       "lineItem": "Maintenance",
-      "amount": 151.11111111111111,
+      "amount": 118.26086956521739,
+      "segment": "cargo"
+    },
+    {
+      "month": "2026-06",
+      "city": "Ghaziabad",
+      "hub": "Kaushambi",
+      "client": "Delhivery",
+      "lineItem": "Maintenance",
+      "amount": 73.91304347826087,
       "segment": "cargo"
     },
     {
@@ -11753,7 +11815,7 @@
       "hub": "Kaushambi",
       "client": "Blinkit",
       "lineItem": "Maintenance",
-      "amount": 400.5555555555556,
+      "amount": 313.4782608695652,
       "segment": "cargo"
     },
     {
@@ -11762,7 +11824,16 @@
       "hub": "Kaushambi",
       "client": "Porter - 3W L3",
       "lineItem": "Maintenance",
-      "amount": 320.4444444444444,
+      "amount": 250.78260869565216,
+      "segment": "cargo"
+    },
+    {
+      "month": "2026-07",
+      "city": "Ghaziabad",
+      "hub": "Kaushambi",
+      "client": "Delhivery",
+      "lineItem": "Maintenance",
+      "amount": 156.7391304347826,
       "segment": "cargo"
     },
     {
@@ -11771,7 +11842,7 @@
       "hub": "Kaushambi",
       "client": "Blinkit",
       "lineItem": "Maintenance",
-      "amount": 366.11111111111114,
+      "amount": 286.52173913043475,
       "segment": "cargo"
     },
     {
@@ -11780,7 +11851,16 @@
       "hub": "Kaushambi",
       "client": "Porter - 3W L3",
       "lineItem": "Maintenance",
-      "amount": 292.88888888888886,
+      "amount": 229.2173913043478,
+      "segment": "cargo"
+    },
+    {
+      "month": "2026-07",
+      "city": "Ghaziabad",
+      "hub": "Kaushambi",
+      "client": "Delhivery",
+      "lineItem": "Maintenance",
+      "amount": 143.26086956521738,
       "segment": "cargo"
     },
     {
@@ -11789,7 +11869,7 @@
       "hub": "Kaushambi",
       "client": "Blinkit",
       "lineItem": "Maintenance",
-      "amount": 144.44444444444446,
+      "amount": 113.04347826086956,
       "segment": "cargo"
     },
     {
@@ -11798,7 +11878,16 @@
       "hub": "Kaushambi",
       "client": "Porter - 3W L3",
       "lineItem": "Maintenance",
-      "amount": 115.55555555555554,
+      "amount": 90.43478260869566,
+      "segment": "cargo"
+    },
+    {
+      "month": "2026-07",
+      "city": "Ghaziabad",
+      "hub": "Kaushambi",
+      "client": "Delhivery",
+      "lineItem": "Maintenance",
+      "amount": 56.52173913043478,
       "segment": "cargo"
     },
     {
@@ -11807,7 +11896,7 @@
       "hub": "Kaushambi",
       "client": "Blinkit",
       "lineItem": "Maintenance",
-      "amount": 188.88888888888889,
+      "amount": 147.82608695652175,
       "segment": "cargo"
     },
     {
@@ -11816,7 +11905,16 @@
       "hub": "Kaushambi",
       "client": "Porter - 3W L3",
       "lineItem": "Maintenance",
-      "amount": 151.11111111111111,
+      "amount": 118.26086956521739,
+      "segment": "cargo"
+    },
+    {
+      "month": "2026-07",
+      "city": "Ghaziabad",
+      "hub": "Kaushambi",
+      "client": "Delhivery",
+      "lineItem": "Maintenance",
+      "amount": 73.91304347826087,
       "segment": "cargo"
     },
     {
@@ -11879,7 +11977,7 @@
       "hub": "Kaushambi",
       "client": "Blinkit",
       "lineItem": "Maintenance",
-      "amount": 61.111111111111114,
+      "amount": 47.826086956521735,
       "segment": "cargo"
     },
     {
@@ -11888,7 +11986,16 @@
       "hub": "Kaushambi",
       "client": "Porter - 3W L3",
       "lineItem": "Maintenance",
-      "amount": 48.888888888888886,
+      "amount": 38.26086956521739,
+      "segment": "cargo"
+    },
+    {
+      "month": "2026-07",
+      "city": "Ghaziabad",
+      "hub": "Kaushambi",
+      "client": "Delhivery",
+      "lineItem": "Maintenance",
+      "amount": 23.913043478260867,
       "segment": "cargo"
     },
     {
@@ -13427,7 +13534,7 @@
       "hub": "Kaushambi",
       "client": "Blinkit",
       "lineItem": "Maintenance",
-      "amount": 61.111111111111114,
+      "amount": 47.826086956521735,
       "segment": "cargo"
     },
     {
@@ -13436,7 +13543,16 @@
       "hub": "Kaushambi",
       "client": "Porter - 3W L3",
       "lineItem": "Maintenance",
-      "amount": 48.888888888888886,
+      "amount": 38.26086956521739,
+      "segment": "cargo"
+    },
+    {
+      "month": "2026-07",
+      "city": "Ghaziabad",
+      "hub": "Kaushambi",
+      "client": "Delhivery",
+      "lineItem": "Maintenance",
+      "amount": 23.913043478260867,
       "segment": "cargo"
     },
     {
@@ -13445,7 +13561,7 @@
       "hub": "Kaushambi",
       "client": "Blinkit",
       "lineItem": "Maintenance",
-      "amount": 111.11111111111111,
+      "amount": 86.95652173913044,
       "segment": "cargo"
     },
     {
@@ -13454,7 +13570,16 @@
       "hub": "Kaushambi",
       "client": "Porter - 3W L3",
       "lineItem": "Maintenance",
-      "amount": 88.88888888888889,
+      "amount": 69.56521739130434,
+      "segment": "cargo"
+    },
+    {
+      "month": "2026-07",
+      "city": "Ghaziabad",
+      "hub": "Kaushambi",
+      "client": "Delhivery",
+      "lineItem": "Maintenance",
+      "amount": 43.47826086956522,
       "segment": "cargo"
     },
     {
@@ -13463,7 +13588,7 @@
       "hub": "Kaushambi",
       "client": "Blinkit",
       "lineItem": "Maintenance",
-      "amount": 61.111111111111114,
+      "amount": 47.826086956521735,
       "segment": "cargo"
     },
     {
@@ -13472,7 +13597,16 @@
       "hub": "Kaushambi",
       "client": "Porter - 3W L3",
       "lineItem": "Maintenance",
-      "amount": 48.888888888888886,
+      "amount": 38.26086956521739,
+      "segment": "cargo"
+    },
+    {
+      "month": "2026-07",
+      "city": "Ghaziabad",
+      "hub": "Kaushambi",
+      "client": "Delhivery",
+      "lineItem": "Maintenance",
+      "amount": 23.913043478260867,
       "segment": "cargo"
     },
     {
@@ -13481,7 +13615,7 @@
       "hub": "Kaushambi",
       "client": "Blinkit",
       "lineItem": "Maintenance",
-      "amount": 61.111111111111114,
+      "amount": 47.826086956521735,
       "segment": "cargo"
     },
     {
@@ -13490,7 +13624,16 @@
       "hub": "Kaushambi",
       "client": "Porter - 3W L3",
       "lineItem": "Maintenance",
-      "amount": 48.888888888888886,
+      "amount": 38.26086956521739,
+      "segment": "cargo"
+    },
+    {
+      "month": "2026-07",
+      "city": "Ghaziabad",
+      "hub": "Kaushambi",
+      "client": "Delhivery",
+      "lineItem": "Maintenance",
+      "amount": 23.913043478260867,
       "segment": "cargo"
     },
     {
@@ -13499,7 +13642,7 @@
       "hub": "Kaushambi",
       "client": "Blinkit",
       "lineItem": "Maintenance",
-      "amount": 61.111111111111114,
+      "amount": 47.826086956521735,
       "segment": "cargo"
     },
     {
@@ -13508,7 +13651,16 @@
       "hub": "Kaushambi",
       "client": "Porter - 3W L3",
       "lineItem": "Maintenance",
-      "amount": 48.888888888888886,
+      "amount": 38.26086956521739,
+      "segment": "cargo"
+    },
+    {
+      "month": "2026-07",
+      "city": "Ghaziabad",
+      "hub": "Kaushambi",
+      "client": "Delhivery",
+      "lineItem": "Maintenance",
+      "amount": 23.913043478260867,
       "segment": "cargo"
     },
     {
@@ -19556,7 +19708,7 @@
       "hub": "Kaushambi",
       "client": "Blinkit",
       "lineItem": "Maintenance",
-      "amount": 188.88888888888889,
+      "amount": 147.82608695652175,
       "segment": "cargo"
     },
     {
@@ -19565,7 +19717,16 @@
       "hub": "Kaushambi",
       "client": "Porter - 3W L3",
       "lineItem": "Maintenance",
-      "amount": 151.11111111111111,
+      "amount": 118.26086956521739,
+      "segment": "cargo"
+    },
+    {
+      "month": "2026-08",
+      "city": "Noida",
+      "hub": "Kaushambi",
+      "client": "Delhivery",
+      "lineItem": "Maintenance",
+      "amount": 73.91304347826087,
       "segment": "cargo"
     },
     {
@@ -19574,7 +19735,7 @@
       "hub": "Kaushambi",
       "client": "Blinkit",
       "lineItem": "Maintenance",
-      "amount": 188.88888888888889,
+      "amount": 147.82608695652175,
       "segment": "cargo"
     },
     {
@@ -19583,7 +19744,16 @@
       "hub": "Kaushambi",
       "client": "Porter - 3W L3",
       "lineItem": "Maintenance",
-      "amount": 151.11111111111111,
+      "amount": 118.26086956521739,
+      "segment": "cargo"
+    },
+    {
+      "month": "2026-08",
+      "city": "Noida",
+      "hub": "Kaushambi",
+      "client": "Delhivery",
+      "lineItem": "Maintenance",
+      "amount": 73.91304347826087,
       "segment": "cargo"
     },
     {
@@ -19592,7 +19762,7 @@
       "hub": "Kaushambi",
       "client": "Blinkit",
       "lineItem": "Maintenance",
-      "amount": 26.666666666666668,
+      "amount": 20.869565217391305,
       "segment": "cargo"
     },
     {
@@ -19601,7 +19771,16 @@
       "hub": "Kaushambi",
       "client": "Porter - 3W L3",
       "lineItem": "Maintenance",
-      "amount": 21.333333333333332,
+      "amount": 16.695652173913043,
+      "segment": "cargo"
+    },
+    {
+      "month": "2026-08",
+      "city": "Noida",
+      "hub": "Kaushambi",
+      "client": "Delhivery",
+      "lineItem": "Maintenance",
+      "amount": 10.434782608695652,
       "segment": "cargo"
     },
     {
@@ -20735,7 +20914,7 @@
       "hub": "Kaushambi",
       "client": "Blinkit",
       "lineItem": "Maintenance",
-      "amount": 36.111111111111114,
+      "amount": 28.26086956521739,
       "segment": "cargo"
     },
     {
@@ -20744,7 +20923,16 @@
       "hub": "Kaushambi",
       "client": "Porter - 3W L3",
       "lineItem": "Maintenance",
-      "amount": 28.888888888888886,
+      "amount": 22.608695652173914,
+      "segment": "cargo"
+    },
+    {
+      "month": "2026-08",
+      "city": "Ghaziabad",
+      "hub": "Kaushambi",
+      "client": "Delhivery",
+      "lineItem": "Maintenance",
+      "amount": 14.130434782608695,
       "segment": "cargo"
     },
     {
@@ -20753,7 +20941,7 @@
       "hub": "Kaushambi",
       "client": "Blinkit",
       "lineItem": "Maintenance",
-      "amount": 61.111111111111114,
+      "amount": 47.826086956521735,
       "segment": "cargo"
     },
     {
@@ -20762,7 +20950,16 @@
       "hub": "Kaushambi",
       "client": "Porter - 3W L3",
       "lineItem": "Maintenance",
-      "amount": 48.888888888888886,
+      "amount": 38.26086956521739,
+      "segment": "cargo"
+    },
+    {
+      "month": "2026-08",
+      "city": "Ghaziabad",
+      "hub": "Kaushambi",
+      "client": "Delhivery",
+      "lineItem": "Maintenance",
+      "amount": 23.913043478260867,
       "segment": "cargo"
     },
     {
@@ -20771,7 +20968,7 @@
       "hub": "Kaushambi",
       "client": "Blinkit",
       "lineItem": "Maintenance",
-      "amount": 188.88888888888889,
+      "amount": 147.82608695652175,
       "segment": "cargo"
     },
     {
@@ -20780,7 +20977,16 @@
       "hub": "Kaushambi",
       "client": "Porter - 3W L3",
       "lineItem": "Maintenance",
-      "amount": 151.11111111111111,
+      "amount": 118.26086956521739,
+      "segment": "cargo"
+    },
+    {
+      "month": "2026-08",
+      "city": "Ghaziabad",
+      "hub": "Kaushambi",
+      "client": "Delhivery",
+      "lineItem": "Maintenance",
+      "amount": 73.91304347826087,
       "segment": "cargo"
     },
     {
@@ -22850,7 +23056,7 @@
       "hub": "Kaushambi",
       "client": "Blinkit",
       "lineItem": "Maintenance",
-      "amount": 61.111111111111114,
+      "amount": 47.826086956521735,
       "segment": "cargo"
     },
     {
@@ -22859,7 +23065,16 @@
       "hub": "Kaushambi",
       "client": "Porter - 3W L3",
       "lineItem": "Maintenance",
-      "amount": 48.888888888888886,
+      "amount": 38.26086956521739,
+      "segment": "cargo"
+    },
+    {
+      "month": "2026-08",
+      "city": "Delhi",
+      "hub": "Kaushambi",
+      "client": "Delhivery",
+      "lineItem": "Maintenance",
+      "amount": 23.913043478260867,
       "segment": "cargo"
     },
     {
@@ -24146,7 +24361,7 @@
       "hub": "Kaushambi",
       "client": "Blinkit",
       "lineItem": "Maintenance",
-      "amount": 26.666666666666668,
+      "amount": 20.869565217391305,
       "segment": "cargo"
     },
     {
@@ -24155,7 +24370,16 @@
       "hub": "Kaushambi",
       "client": "Porter - 3W L3",
       "lineItem": "Maintenance",
-      "amount": 21.333333333333332,
+      "amount": 16.695652173913043,
+      "segment": "cargo"
+    },
+    {
+      "month": "2026-09",
+      "city": "Ghaziabad",
+      "hub": "Kaushambi",
+      "client": "Delhivery",
+      "lineItem": "Maintenance",
+      "amount": 10.434782608695652,
       "segment": "cargo"
     },
     {
@@ -24164,7 +24388,7 @@
       "hub": "Kaushambi",
       "client": "Blinkit",
       "lineItem": "Maintenance",
-      "amount": 83.33333333333334,
+      "amount": 65.21739130434783,
       "segment": "cargo"
     },
     {
@@ -24173,7 +24397,16 @@
       "hub": "Kaushambi",
       "client": "Porter - 3W L3",
       "lineItem": "Maintenance",
-      "amount": 66.66666666666666,
+      "amount": 52.17391304347826,
+      "segment": "cargo"
+    },
+    {
+      "month": "2026-09",
+      "city": "Ghaziabad",
+      "hub": "Kaushambi",
+      "client": "Delhivery",
+      "lineItem": "Maintenance",
+      "amount": 32.608695652173914,
       "segment": "cargo"
     },
     {
@@ -25577,7 +25810,7 @@
       "hub": "Kaushambi",
       "client": "Blinkit",
       "lineItem": "Maintenance",
-      "amount": 61.111111111111114,
+      "amount": 47.826086956521735,
       "segment": "cargo"
     },
     {
@@ -25586,7 +25819,16 @@
       "hub": "Kaushambi",
       "client": "Porter - 3W L3",
       "lineItem": "Maintenance",
-      "amount": 48.888888888888886,
+      "amount": 38.26086956521739,
+      "segment": "cargo"
+    },
+    {
+      "month": "2026-09",
+      "city": "Ghaziabad",
+      "hub": "Kaushambi",
+      "client": "Delhivery",
+      "lineItem": "Maintenance",
+      "amount": 23.913043478260867,
       "segment": "cargo"
     },
     {
@@ -25595,7 +25837,7 @@
       "hub": "Kaushambi",
       "client": "Blinkit",
       "lineItem": "Maintenance",
-      "amount": 61.111111111111114,
+      "amount": 47.826086956521735,
       "segment": "cargo"
     },
     {
@@ -25604,7 +25846,16 @@
       "hub": "Kaushambi",
       "client": "Porter - 3W L3",
       "lineItem": "Maintenance",
-      "amount": 48.888888888888886,
+      "amount": 38.26086956521739,
+      "segment": "cargo"
+    },
+    {
+      "month": "2026-09",
+      "city": "Ghaziabad",
+      "hub": "Kaushambi",
+      "client": "Delhivery",
+      "lineItem": "Maintenance",
+      "amount": 23.913043478260867,
       "segment": "cargo"
     },
     {
@@ -25613,7 +25864,7 @@
       "hub": "Kaushambi",
       "client": "Blinkit",
       "lineItem": "Maintenance",
-      "amount": 61.111111111111114,
+      "amount": 47.826086956521735,
       "segment": "cargo"
     },
     {
@@ -25622,7 +25873,16 @@
       "hub": "Kaushambi",
       "client": "Porter - 3W L3",
       "lineItem": "Maintenance",
-      "amount": 48.888888888888886,
+      "amount": 38.26086956521739,
+      "segment": "cargo"
+    },
+    {
+      "month": "2026-09",
+      "city": "Ghaziabad",
+      "hub": "Kaushambi",
+      "client": "Delhivery",
+      "lineItem": "Maintenance",
+      "amount": 23.913043478260867,
       "segment": "cargo"
     },
     {
@@ -25631,7 +25891,7 @@
       "hub": "Kaushambi",
       "client": "Blinkit",
       "lineItem": "Maintenance",
-      "amount": 61.111111111111114,
+      "amount": 47.826086956521735,
       "segment": "cargo"
     },
     {
@@ -25640,7 +25900,16 @@
       "hub": "Kaushambi",
       "client": "Porter - 3W L3",
       "lineItem": "Maintenance",
-      "amount": 48.888888888888886,
+      "amount": 38.26086956521739,
+      "segment": "cargo"
+    },
+    {
+      "month": "2026-09",
+      "city": "Ghaziabad",
+      "hub": "Kaushambi",
+      "client": "Delhivery",
+      "lineItem": "Maintenance",
+      "amount": 23.913043478260867,
       "segment": "cargo"
     },
     {
@@ -25649,7 +25918,7 @@
       "hub": "Kaushambi",
       "client": "Blinkit",
       "lineItem": "Maintenance",
-      "amount": 111.11111111111111,
+      "amount": 86.95652173913044,
       "segment": "cargo"
     },
     {
@@ -25658,7 +25927,16 @@
       "hub": "Kaushambi",
       "client": "Porter - 3W L3",
       "lineItem": "Maintenance",
-      "amount": 88.88888888888889,
+      "amount": 69.56521739130434,
+      "segment": "cargo"
+    },
+    {
+      "month": "2026-09",
+      "city": "Ghaziabad",
+      "hub": "Kaushambi",
+      "client": "Delhivery",
+      "lineItem": "Maintenance",
+      "amount": 43.47826086956522,
       "segment": "cargo"
     },
     {
@@ -25667,7 +25945,7 @@
       "hub": "Kaushambi",
       "client": "Blinkit",
       "lineItem": "Maintenance",
-      "amount": 61.111111111111114,
+      "amount": 47.826086956521735,
       "segment": "cargo"
     },
     {
@@ -25676,7 +25954,16 @@
       "hub": "Kaushambi",
       "client": "Porter - 3W L3",
       "lineItem": "Maintenance",
-      "amount": 48.888888888888886,
+      "amount": 38.26086956521739,
+      "segment": "cargo"
+    },
+    {
+      "month": "2026-09",
+      "city": "Ghaziabad",
+      "hub": "Kaushambi",
+      "client": "Delhivery",
+      "lineItem": "Maintenance",
+      "amount": 23.913043478260867,
       "segment": "cargo"
     },
     {
@@ -27962,7 +28249,7 @@
       "hub": "Kaushambi",
       "client": "Blinkit",
       "lineItem": "Maintenance",
-      "amount": 144.44444444444446,
+      "amount": 113.04347826086956,
       "segment": "cargo"
     },
     {
@@ -27971,7 +28258,16 @@
       "hub": "Kaushambi",
       "client": "Porter - 3W L3",
       "lineItem": "Maintenance",
-      "amount": 115.55555555555554,
+      "amount": 90.43478260869566,
+      "segment": "cargo"
+    },
+    {
+      "month": "2026-09",
+      "city": "Ghaziabad",
+      "hub": "Kaushambi",
+      "client": "Delhivery",
+      "lineItem": "Maintenance",
+      "amount": 56.52173913043478,
       "segment": "cargo"
     },
     {
@@ -28025,7 +28321,7 @@
       "hub": "Kaushambi",
       "client": "Blinkit",
       "lineItem": "Maintenance",
-      "amount": 118.8888888888889,
+      "amount": 93.04347826086956,
       "segment": "cargo"
     },
     {
@@ -28034,7 +28330,16 @@
       "hub": "Kaushambi",
       "client": "Porter - 3W L3",
       "lineItem": "Maintenance",
-      "amount": 95.1111111111111,
+      "amount": 74.43478260869566,
+      "segment": "cargo"
+    },
+    {
+      "month": "2026-09",
+      "city": "Ghaziabad",
+      "hub": "Kaushambi",
+      "client": "Delhivery",
+      "lineItem": "Maintenance",
+      "amount": 46.52173913043478,
       "segment": "cargo"
     },
     {
@@ -28043,7 +28348,7 @@
       "hub": "Kaushambi",
       "client": "Blinkit",
       "lineItem": "Maintenance",
-      "amount": 111.11111111111111,
+      "amount": 86.95652173913044,
       "segment": "cargo"
     },
     {
@@ -28052,7 +28357,16 @@
       "hub": "Kaushambi",
       "client": "Porter - 3W L3",
       "lineItem": "Maintenance",
-      "amount": 88.88888888888889,
+      "amount": 69.56521739130434,
+      "segment": "cargo"
+    },
+    {
+      "month": "2026-09",
+      "city": "Ghaziabad",
+      "hub": "Kaushambi",
+      "client": "Delhivery",
+      "lineItem": "Maintenance",
+      "amount": 43.47826086956522,
       "segment": "cargo"
     },
     {
@@ -29429,7 +29743,7 @@
       "hub": "Kaushambi",
       "client": "Blinkit",
       "lineItem": "Maintenance",
-      "amount": 111.11111111111111,
+      "amount": 86.95652173913044,
       "segment": "cargo"
     },
     {
@@ -29438,7 +29752,16 @@
       "hub": "Kaushambi",
       "client": "Porter - 3W L3",
       "lineItem": "Maintenance",
-      "amount": 88.88888888888889,
+      "amount": 69.56521739130434,
+      "segment": "cargo"
+    },
+    {
+      "month": "2026-09",
+      "city": "Ghaziabad",
+      "hub": "Kaushambi",
+      "client": "Delhivery",
+      "lineItem": "Maintenance",
+      "amount": 43.47826086956522,
       "segment": "cargo"
     },
     {
@@ -29447,7 +29770,7 @@
       "hub": "Kaushambi",
       "client": "Blinkit",
       "lineItem": "Maintenance",
-      "amount": 128.33333333333334,
+      "amount": 100.43478260869566,
       "segment": "cargo"
     },
     {
@@ -29456,7 +29779,16 @@
       "hub": "Kaushambi",
       "client": "Porter - 3W L3",
       "lineItem": "Maintenance",
-      "amount": 102.66666666666666,
+      "amount": 80.34782608695652,
+      "segment": "cargo"
+    },
+    {
+      "month": "2026-09",
+      "city": "Ghaziabad",
+      "hub": "Kaushambi",
+      "client": "Delhivery",
+      "lineItem": "Maintenance",
+      "amount": 50.21739130434783,
       "segment": "cargo"
     },
     {
@@ -29465,7 +29797,7 @@
       "hub": "Kaushambi",
       "client": "Blinkit",
       "lineItem": "Maintenance",
-      "amount": 118.8888888888889,
+      "amount": 93.04347826086956,
       "segment": "cargo"
     },
     {
@@ -29474,7 +29806,16 @@
       "hub": "Kaushambi",
       "client": "Porter - 3W L3",
       "lineItem": "Maintenance",
-      "amount": 95.1111111111111,
+      "amount": 74.43478260869566,
+      "segment": "cargo"
+    },
+    {
+      "month": "2026-09",
+      "city": "Ghaziabad",
+      "hub": "Kaushambi",
+      "client": "Delhivery",
+      "lineItem": "Maintenance",
+      "amount": 46.52173913043478,
       "segment": "cargo"
     },
     {
@@ -29483,7 +29824,7 @@
       "hub": "Kaushambi",
       "client": "Blinkit",
       "lineItem": "Maintenance",
-      "amount": 36.111111111111114,
+      "amount": 28.26086956521739,
       "segment": "cargo"
     },
     {
@@ -29492,7 +29833,16 @@
       "hub": "Kaushambi",
       "client": "Porter - 3W L3",
       "lineItem": "Maintenance",
-      "amount": 28.888888888888886,
+      "amount": 22.608695652173914,
+      "segment": "cargo"
+    },
+    {
+      "month": "2026-09",
+      "city": "Ghaziabad",
+      "hub": "Kaushambi",
+      "client": "Delhivery",
+      "lineItem": "Maintenance",
+      "amount": 14.130434782608695,
       "segment": "cargo"
     },
     {
@@ -29754,6 +30104,114 @@
       "client": "Wash4you",
       "lineItem": "Maintenance",
       "amount": 0.6185567010309279,
+      "segment": "cargo"
+    },
+    {
+      "month": "2026-09",
+      "city": "Delhi",
+      "hub": "Ali Village",
+      "client": "Porter - 3W L3",
+      "lineItem": "Maintenance",
+      "amount": 243.13725490196077,
+      "segment": "cargo"
+    },
+    {
+      "month": "2026-09",
+      "city": "Delhi",
+      "hub": "Ali Village",
+      "client": "Blinkit",
+      "lineItem": "Maintenance",
+      "amount": 379.9019607843137,
+      "segment": "cargo"
+    },
+    {
+      "month": "2026-09",
+      "city": "Delhi",
+      "hub": "Ali Village",
+      "client": "Delhivery",
+      "lineItem": "Maintenance",
+      "amount": 151.9607843137255,
+      "segment": "cargo"
+    },
+    {
+      "month": "2026-09",
+      "city": "Delhi",
+      "hub": "Ali Village",
+      "client": "Porter - 3W L3",
+      "lineItem": "Maintenance",
+      "amount": 47.05882352941176,
+      "segment": "cargo"
+    },
+    {
+      "month": "2026-09",
+      "city": "Delhi",
+      "hub": "Ali Village",
+      "client": "Blinkit",
+      "lineItem": "Maintenance",
+      "amount": 73.52941176470588,
+      "segment": "cargo"
+    },
+    {
+      "month": "2026-09",
+      "city": "Delhi",
+      "hub": "Ali Village",
+      "client": "Delhivery",
+      "lineItem": "Maintenance",
+      "amount": 29.41176470588235,
+      "segment": "cargo"
+    },
+    {
+      "month": "2026-09",
+      "city": "Delhi",
+      "hub": "Ali Village",
+      "client": "Porter - 3W L3",
+      "lineItem": "Maintenance",
+      "amount": 20.392156862745097,
+      "segment": "cargo"
+    },
+    {
+      "month": "2026-09",
+      "city": "Delhi",
+      "hub": "Ali Village",
+      "client": "Blinkit",
+      "lineItem": "Maintenance",
+      "amount": 31.862745098039213,
+      "segment": "cargo"
+    },
+    {
+      "month": "2026-09",
+      "city": "Delhi",
+      "hub": "Ali Village",
+      "client": "Delhivery",
+      "lineItem": "Maintenance",
+      "amount": 12.745098039215685,
+      "segment": "cargo"
+    },
+    {
+      "month": "2026-09",
+      "city": "Delhi",
+      "hub": "Ali Village",
+      "client": "Porter - 3W L3",
+      "lineItem": "Maintenance",
+      "amount": 175.68627450980392,
+      "segment": "cargo"
+    },
+    {
+      "month": "2026-09",
+      "city": "Delhi",
+      "hub": "Ali Village",
+      "client": "Blinkit",
+      "lineItem": "Maintenance",
+      "amount": 274.5098039215686,
+      "segment": "cargo"
+    },
+    {
+      "month": "2026-09",
+      "city": "Delhi",
+      "hub": "Ali Village",
+      "client": "Delhivery",
+      "lineItem": "Maintenance",
+      "amount": 109.80392156862744,
       "segment": "cargo"
     },
     {
