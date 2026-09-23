@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-23T08:49:59.176Z",
+  "generatedAt": "2026-09-23T09:50:05.137Z",
   "records": [
     {
       "month": "2026-06",
@@ -9188,6 +9188,15 @@
       "client": "Wash4you",
       "lineItem": "Maintenance",
       "amount": 25.77319587628866,
+      "segment": "cargo"
+    },
+    {
+      "month": "2026-09",
+      "city": "Kolkata",
+      "hub": "Park Street",
+      "client": "Spencer",
+      "lineItem": "Maintenance",
+      "amount": 21495,
       "segment": "cargo"
     },
     {
@@ -35066,6 +35075,46 @@
       "client": "Delhivery",
       "lineItem": "Lease/EMI",
       "amount": 10666.666666666668
+    },
+    {
+      "month": "2026-09",
+      "city": "Ghaziabad",
+      "hub": "Ghazipur",
+      "client": "Delhivery",
+      "lineItem": "Lease/EMI",
+      "amount": 5333.333333333334
+    },
+    {
+      "month": "2026-09",
+      "city": "Ghaziabad",
+      "hub": "Ghazipur",
+      "client": "Delhivery",
+      "lineItem": "Lease/EMI",
+      "amount": 5333.333333333334
+    },
+    {
+      "month": "2026-09",
+      "city": "Ghaziabad",
+      "hub": "Ghazipur",
+      "client": "Delhivery",
+      "lineItem": "Lease/EMI",
+      "amount": 5333.333333333334
+    },
+    {
+      "month": "2026-09",
+      "city": "Ghaziabad",
+      "hub": "Ghazipur",
+      "client": "Delhivery",
+      "lineItem": "Lease/EMI",
+      "amount": 5333.333333333334
+    },
+    {
+      "month": "2026-09",
+      "city": "Ghaziabad",
+      "hub": "Ghazipur",
+      "client": "Delhivery",
+      "lineItem": "Lease/EMI",
+      "amount": 5333.333333333334
     },
     {
       "month": "2026-09",
