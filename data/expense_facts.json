@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-23T09:50:05.137Z",
+  "generatedAt": "2026-09-23T10:50:00.216Z",
   "records": [
     {
       "month": "2026-06",
@@ -7,7 +7,7 @@
       "hub": "Saket",
       "client": "Porter - 3W L3",
       "lineItem": "Hub Rental",
-      "amount": 21387.09677419355
+      "amount": 21047.619047619046
     },
     {
       "month": "2026-06",
@@ -15,7 +15,15 @@
       "hub": "Saket",
       "client": "Blinkit",
       "lineItem": "Hub Rental",
-      "amount": 70741.93548387097
+      "amount": 69619.04761904762
+    },
+    {
+      "month": "2026-06",
+      "city": "Delhi",
+      "hub": "Saket",
+      "client": "Delhivery",
+      "lineItem": "Hub Rental",
+      "amount": 1619.047619047619
     },
     {
       "month": "2026-06",
@@ -23,7 +31,7 @@
       "hub": "Saket",
       "client": "Rental_L5",
       "lineItem": "Hub Rental",
-      "amount": 9870.967741935483
+      "amount": 9714.285714285714
     },
     {
       "month": "2026-06",
@@ -87,7 +95,7 @@
       "hub": "Saket",
       "client": "Porter - 3W L3",
       "lineItem": "Hub Rental",
-      "amount": 29354.83870967742
+      "amount": 28888.888888888887
     },
     {
       "month": "2026-07",
@@ -95,7 +103,15 @@
       "hub": "Saket",
       "client": "Blinkit",
       "lineItem": "Hub Rental",
-      "amount": 97096.7741935484
+      "amount": 95555.55555555556
+    },
+    {
+      "month": "2026-07",
+      "city": "Delhi",
+      "hub": "Saket",
+      "client": "Delhivery",
+      "lineItem": "Hub Rental",
+      "amount": 2222.222222222222
     },
     {
       "month": "2026-07",
@@ -103,7 +119,7 @@
       "hub": "Saket",
       "client": "Rental_L5",
       "lineItem": "Hub Rental",
-      "amount": 13548.387096774193
+      "amount": 13333.333333333332
     },
     {
       "month": "2026-07",
@@ -295,7 +311,7 @@
       "hub": "Shalimar Bagh",
       "client": "Porter - 3W L3",
       "lineItem": "Hub Rental",
-      "amount": 14875
+      "amount": 15521.739130434782
     },
     {
       "month": "2026-09",
@@ -303,7 +319,7 @@
       "hub": "Shalimar Bagh",
       "client": "Blinkit",
       "lineItem": "Hub Rental",
-      "amount": 59500
+      "amount": 62086.95652173913
     },
     {
       "month": "2026-09",
@@ -311,7 +327,7 @@
       "hub": "Shalimar Bagh",
       "client": "Delhivery",
       "lineItem": "Hub Rental",
-      "amount": 14875
+      "amount": 11641.304347826086
     },
     {
       "month": "2026-09",
@@ -359,7 +375,7 @@
       "hub": "Saket",
       "client": "Porter - 3W L3",
       "lineItem": "Electricity",
-      "amount": 7534.3387096774195
+      "amount": 7414.746031746031
     },
     {
       "month": "2026-06",
@@ -367,7 +383,15 @@
       "hub": "Saket",
       "client": "Blinkit",
       "lineItem": "Electricity",
-      "amount": 24921.27419354839
+      "amount": 24525.698412698413
+    },
+    {
+      "month": "2026-06",
+      "city": "Delhi",
+      "hub": "Saket",
+      "client": "Delhivery",
+      "lineItem": "Electricity",
+      "amount": 570.3650793650793
     },
     {
       "month": "2026-06",
@@ -375,7 +399,7 @@
       "hub": "Saket",
       "client": "Rental_L5",
       "lineItem": "Electricity",
-      "amount": 3477.3870967741937
+      "amount": 3422.190476190476
     },
     {
       "month": "2026-06",
@@ -439,7 +463,7 @@
       "hub": "Saket",
       "client": "Porter - 3W L3",
       "lineItem": "Electricity",
-      "amount": 13266.290322580646
+      "amount": 13055.714285714284
     },
     {
       "month": "2026-07",
@@ -447,7 +471,15 @@
       "hub": "Saket",
       "client": "Blinkit",
       "lineItem": "Electricity",
-      "amount": 43880.80645161291
+      "amount": 43184.28571428572
+    },
+    {
+      "month": "2026-07",
+      "city": "Delhi",
+      "hub": "Saket",
+      "client": "Delhivery",
+      "lineItem": "Electricity",
+      "amount": 1004.2857142857142
     },
     {
       "month": "2026-07",
@@ -455,7 +487,7 @@
       "hub": "Saket",
       "client": "Rental_L5",
       "lineItem": "Electricity",
-      "amount": 6122.903225806452
+      "amount": 6025.714285714285
     },
     {
       "month": "2026-07",
@@ -519,7 +551,7 @@
       "hub": "Saket",
       "client": "Porter - 3W L3",
       "lineItem": "Electricity",
-      "amount": 7274.328225806451
+      "amount": 7158.862698412698
     },
     {
       "month": "2026-08",
@@ -527,7 +559,15 @@
       "hub": "Saket",
       "client": "Blinkit",
       "lineItem": "Electricity",
-      "amount": 24061.239516129033
+      "amount": 23679.31507936508
+    },
+    {
+      "month": "2026-08",
+      "city": "Delhi",
+      "hub": "Saket",
+      "client": "Delhivery",
+      "lineItem": "Electricity",
+      "amount": 550.681746031746
     },
     {
       "month": "2026-08",
@@ -535,7 +575,7 @@
       "hub": "Saket",
       "client": "Rental_L5",
       "lineItem": "Electricity",
-      "amount": 3357.3822580645156
+      "amount": 3304.090476190476
     },
     {
       "month": "2026-08",
@@ -599,7 +639,7 @@
       "hub": "Saket",
       "client": "Porter - 3W L3",
       "lineItem": "Electricity",
-      "amount": 7274.328225806451
+      "amount": 7158.862698412698
     },
     {
       "month": "2026-09",
@@ -607,7 +647,15 @@
       "hub": "Saket",
       "client": "Blinkit",
       "lineItem": "Electricity",
-      "amount": 24061.239516129033
+      "amount": 23679.31507936508
+    },
+    {
+      "month": "2026-09",
+      "city": "Delhi",
+      "hub": "Saket",
+      "client": "Delhivery",
+      "lineItem": "Electricity",
+      "amount": 550.681746031746
     },
     {
       "month": "2026-09",
@@ -615,7 +663,7 @@
       "hub": "Saket",
       "client": "Rental_L5",
       "lineItem": "Electricity",
-      "amount": 3357.3822580645156
+      "amount": 3304.090476190476
     },
     {
       "month": "2026-09",
@@ -1335,7 +1383,7 @@
       "hub": "Ali Village",
       "client": "Blinkit",
       "lineItem": "Supervisor Cost",
-      "amount": 33157.89437173217
+      "amount": 33169.44344601485
     },
     {
       "month": "2026-09",
@@ -1343,7 +1391,7 @@
       "hub": "Ali Village",
       "client": "Delhivery",
       "lineItem": "Supervisor Cost",
-      "amount": 19099.944200629783
+      "amount": 19248.53525517141
     },
     {
       "month": "2026-09",
@@ -1351,7 +1399,7 @@
       "hub": "Ali Village",
       "client": "Porter - 3W L3",
       "lineItem": "Supervisor Cost",
-      "amount": 29669.81623398801
+      "amount": 29402.293334760205
     },
     {
       "month": "2026-09",
@@ -1383,7 +1431,7 @@
       "hub": "Saket",
       "client": "Blinkit",
       "lineItem": "Supervisor Cost",
-      "amount": 72074.09228254035
+      "amount": 72093.95669030657
     },
     {
       "month": "2026-09",
@@ -1391,7 +1439,7 @@
       "hub": "Saket",
       "client": "Porter - 3W L3",
       "lineItem": "Supervisor Cost",
-      "amount": 21789.84185286104
+      "amount": 21795.847371488035
     },
     {
       "month": "2026-09",
@@ -1399,7 +1447,7 @@
       "hub": "Saket",
       "client": "Rental_L5",
       "lineItem": "Supervisor Cost",
-      "amount": 10112.721475302173
+      "amount": 10115.508651895729
     },
     {
       "month": "2026-09",
@@ -1407,7 +1455,7 @@
       "hub": "Saket",
       "client": "Delhivery",
       "lineItem": "Supervisor Cost",
-      "amount": 502.84250429679315
+      "amount": 502.98109318818535
     },
     {
       "month": "2026-09",
@@ -1439,7 +1487,7 @@
       "hub": "Faridabad",
       "client": "Blinkit",
       "lineItem": "Supervisor Cost",
-      "amount": 14589.473523562152
+      "amount": 14594.555116246534
     },
     {
       "month": "2026-09",
@@ -1447,7 +1495,7 @@
       "hub": "Kaushambi",
       "client": "Blinkit",
       "lineItem": "Supervisor Cost",
-      "amount": 11942.892015478046
+      "amount": 11908.025489662901
     },
     {
       "month": "2026-09",
@@ -1455,7 +1503,7 @@
       "hub": "Kaushambi",
       "client": "Porter - 3W L3",
       "lineItem": "Supervisor Cost",
-      "amount": 9554.313612382437
+      "amount": 9843.967738121331
     },
     {
       "month": "2026-09",
@@ -1559,7 +1607,7 @@
       "hub": "Sector 121",
       "client": "Amicco",
       "lineItem": "Supervisor Cost",
-      "amount": 1266.1716620416328
+      "amount": 1264.219712401398
     },
     {
       "month": "2026-09",
@@ -1567,7 +1615,7 @@
       "hub": "Sector 121",
       "client": "Blinkit",
       "lineItem": "Supervisor Cost",
-      "amount": 56688.35787283367
+      "amount": 56569.811685062166
     },
     {
       "month": "2026-09",
@@ -1575,7 +1623,7 @@
       "hub": "Sector 121",
       "client": "Delhivery",
       "lineItem": "Supervisor Cost",
-      "amount": 11837.862967562325
+      "amount": 11813.107734233568
     },
     {
       "month": "2026-09",
@@ -1583,7 +1631,7 @@
       "hub": "Sector 121",
       "client": "Porter - 3W L3",
       "lineItem": "Supervisor Cost",
-      "amount": 17228.81464762592
+      "amount": 17192.7859042836
     },
     {
       "month": "2026-03",
@@ -2275,7 +2323,7 @@
       "hub": "Saket",
       "client": "Porter - 3W L3",
       "lineItem": "Maintenance",
-      "amount": 581.4354838709678,
+      "amount": 572.2063492063492,
       "segment": "cargo"
     },
     {
@@ -2284,7 +2332,16 @@
       "hub": "Saket",
       "client": "Blinkit",
       "lineItem": "Maintenance",
-      "amount": 1923.2096774193549,
+      "amount": 1892.6825396825398,
+      "segment": "cargo"
+    },
+    {
+      "month": "2026-05",
+      "city": "Delhi",
+      "hub": "Saket",
+      "client": "Delhivery",
+      "lineItem": "Maintenance",
+      "amount": 44.01587301587301,
       "segment": "cargo"
     },
     {
@@ -2293,7 +2350,7 @@
       "hub": "Saket",
       "client": "Rental_L5",
       "lineItem": "Maintenance",
-      "amount": 268.35483870967744,
+      "amount": 264.0952380952381,
       "segment": "cargo"
     },
     {
@@ -2302,7 +2359,7 @@
       "hub": "Saket",
       "client": "Porter - 3W L3",
       "lineItem": "Maintenance",
-      "amount": 581.4354838709678,
+      "amount": 572.2063492063492,
       "segment": "cargo"
     },
     {
@@ -2311,7 +2368,16 @@
       "hub": "Saket",
       "client": "Blinkit",
       "lineItem": "Maintenance",
-      "amount": 1923.2096774193549,
+      "amount": 1892.6825396825398,
+      "segment": "cargo"
+    },
+    {
+      "month": "2026-05",
+      "city": "Delhi",
+      "hub": "Saket",
+      "client": "Delhivery",
+      "lineItem": "Maintenance",
+      "amount": 44.01587301587301,
       "segment": "cargo"
     },
     {
@@ -2320,7 +2386,7 @@
       "hub": "Saket",
       "client": "Rental_L5",
       "lineItem": "Maintenance",
-      "amount": 268.35483870967744,
+      "amount": 264.0952380952381,
       "segment": "cargo"
     },
     {
@@ -2329,7 +2395,7 @@
       "hub": "Saket",
       "client": "Porter - 3W L3",
       "lineItem": "Maintenance",
-      "amount": 438.4816129032259,
+      "amount": 431.5215873015873,
       "segment": "cargo"
     },
     {
@@ -2338,7 +2404,16 @@
       "hub": "Saket",
       "client": "Blinkit",
       "lineItem": "Maintenance",
-      "amount": 1450.3622580645165,
+      "amount": 1427.3406349206352,
+      "segment": "cargo"
+    },
+    {
+      "month": "2026-05",
+      "city": "Delhi",
+      "hub": "Saket",
+      "client": "Delhivery",
+      "lineItem": "Maintenance",
+      "amount": 33.19396825396826,
       "segment": "cargo"
     },
     {
@@ -2347,7 +2422,7 @@
       "hub": "Saket",
       "client": "Rental_L5",
       "lineItem": "Maintenance",
-      "amount": 202.3761290322581,
+      "amount": 199.16380952380953,
       "segment": "cargo"
     },
     {
@@ -2356,7 +2431,7 @@
       "hub": "Saket",
       "client": "Porter - 3W L3",
       "lineItem": "Maintenance",
-      "amount": 438.4816129032259,
+      "amount": 431.5215873015873,
       "segment": "cargo"
     },
     {
@@ -2365,7 +2440,16 @@
       "hub": "Saket",
       "client": "Blinkit",
       "lineItem": "Maintenance",
-      "amount": 1450.3622580645165,
+      "amount": 1427.3406349206352,
+      "segment": "cargo"
+    },
+    {
+      "month": "2026-05",
+      "city": "Delhi",
+      "hub": "Saket",
+      "client": "Delhivery",
+      "lineItem": "Maintenance",
+      "amount": 33.19396825396826,
       "segment": "cargo"
     },
     {
@@ -2374,7 +2458,7 @@
       "hub": "Saket",
       "client": "Rental_L5",
       "lineItem": "Maintenance",
-      "amount": 202.3761290322581,
+      "amount": 199.16380952380953,
       "segment": "cargo"
     },
     {
@@ -2383,7 +2467,7 @@
       "hub": "Saket",
       "client": "Porter - 3W L3",
       "lineItem": "Maintenance",
-      "amount": 438.4816129032259,
+      "amount": 431.5215873015873,
       "segment": "cargo"
     },
     {
@@ -2392,7 +2476,16 @@
       "hub": "Saket",
       "client": "Blinkit",
       "lineItem": "Maintenance",
-      "amount": 1450.3622580645165,
+      "amount": 1427.3406349206352,
+      "segment": "cargo"
+    },
+    {
+      "month": "2026-05",
+      "city": "Delhi",
+      "hub": "Saket",
+      "client": "Delhivery",
+      "lineItem": "Maintenance",
+      "amount": 33.19396825396826,
       "segment": "cargo"
     },
     {
@@ -2401,7 +2494,7 @@
       "hub": "Saket",
       "client": "Rental_L5",
       "lineItem": "Maintenance",
-      "amount": 202.3761290322581,
+      "amount": 199.16380952380953,
       "segment": "cargo"
     },
     {
@@ -2410,7 +2503,7 @@
       "hub": "Saket",
       "client": "Porter - 3W L3",
       "lineItem": "Maintenance",
-      "amount": 438.4816129032259,
+      "amount": 431.5215873015873,
       "segment": "cargo"
     },
     {
@@ -2419,7 +2512,16 @@
       "hub": "Saket",
       "client": "Blinkit",
       "lineItem": "Maintenance",
-      "amount": 1450.3622580645165,
+      "amount": 1427.3406349206352,
+      "segment": "cargo"
+    },
+    {
+      "month": "2026-05",
+      "city": "Delhi",
+      "hub": "Saket",
+      "client": "Delhivery",
+      "lineItem": "Maintenance",
+      "amount": 33.19396825396826,
       "segment": "cargo"
     },
     {
@@ -2428,7 +2530,7 @@
       "hub": "Saket",
       "client": "Rental_L5",
       "lineItem": "Maintenance",
-      "amount": 202.3761290322581,
+      "amount": 199.16380952380953,
       "segment": "cargo"
     },
     {
@@ -2437,7 +2539,7 @@
       "hub": "Saket",
       "client": "Porter - 3W L3",
       "lineItem": "Maintenance",
-      "amount": 438.4816129032259,
+      "amount": 431.5215873015873,
       "segment": "cargo"
     },
     {
@@ -2446,7 +2548,16 @@
       "hub": "Saket",
       "client": "Blinkit",
       "lineItem": "Maintenance",
-      "amount": 1450.3622580645165,
+      "amount": 1427.3406349206352,
+      "segment": "cargo"
+    },
+    {
+      "month": "2026-05",
+      "city": "Delhi",
+      "hub": "Saket",
+      "client": "Delhivery",
+      "lineItem": "Maintenance",
+      "amount": 33.19396825396826,
       "segment": "cargo"
     },
     {
@@ -2455,7 +2566,7 @@
       "hub": "Saket",
       "client": "Rental_L5",
       "lineItem": "Maintenance",
-      "amount": 202.3761290322581,
+      "amount": 199.16380952380953,
       "segment": "cargo"
     },
     {
@@ -2464,7 +2575,7 @@
       "hub": "Saket",
       "client": "Porter - 3W L3",
       "lineItem": "Maintenance",
-      "amount": 438.4816129032259,
+      "amount": 431.5215873015873,
       "segment": "cargo"
     },
     {
@@ -2473,7 +2584,16 @@
       "hub": "Saket",
       "client": "Blinkit",
       "lineItem": "Maintenance",
-      "amount": 1450.3622580645165,
+      "amount": 1427.3406349206352,
+      "segment": "cargo"
+    },
+    {
+      "month": "2026-05",
+      "city": "Delhi",
+      "hub": "Saket",
+      "client": "Delhivery",
+      "lineItem": "Maintenance",
+      "amount": 33.19396825396826,
       "segment": "cargo"
     },
     {
@@ -2482,7 +2602,7 @@
       "hub": "Saket",
       "client": "Rental_L5",
       "lineItem": "Maintenance",
-      "amount": 202.3761290322581,
+      "amount": 199.16380952380953,
       "segment": "cargo"
     },
     {
@@ -2491,7 +2611,7 @@
       "hub": "Saket",
       "client": "Porter - 3W L3",
       "lineItem": "Maintenance",
-      "amount": 438.4816129032259,
+      "amount": 431.5215873015873,
       "segment": "cargo"
     },
     {
@@ -2500,7 +2620,16 @@
       "hub": "Saket",
       "client": "Blinkit",
       "lineItem": "Maintenance",
-      "amount": 1450.3622580645165,
+      "amount": 1427.3406349206352,
+      "segment": "cargo"
+    },
+    {
+      "month": "2026-05",
+      "city": "Delhi",
+      "hub": "Saket",
+      "client": "Delhivery",
+      "lineItem": "Maintenance",
+      "amount": 33.19396825396826,
       "segment": "cargo"
     },
     {
@@ -2509,7 +2638,7 @@
       "hub": "Saket",
       "client": "Rental_L5",
       "lineItem": "Maintenance",
-      "amount": 202.3761290322581,
+      "amount": 199.16380952380953,
       "segment": "cargo"
     },
     {
@@ -2518,7 +2647,7 @@
       "hub": "Saket",
       "client": "Porter - 3W L3",
       "lineItem": "Maintenance",
-      "amount": 438.4816129032259,
+      "amount": 431.5215873015873,
       "segment": "cargo"
     },
     {
@@ -2527,7 +2656,16 @@
       "hub": "Saket",
       "client": "Blinkit",
       "lineItem": "Maintenance",
-      "amount": 1450.3622580645165,
+      "amount": 1427.3406349206352,
+      "segment": "cargo"
+    },
+    {
+      "month": "2026-05",
+      "city": "Delhi",
+      "hub": "Saket",
+      "client": "Delhivery",
+      "lineItem": "Maintenance",
+      "amount": 33.19396825396826,
       "segment": "cargo"
     },
     {
@@ -2536,7 +2674,7 @@
       "hub": "Saket",
       "client": "Rental_L5",
       "lineItem": "Maintenance",
-      "amount": 202.3761290322581,
+      "amount": 199.16380952380953,
       "segment": "cargo"
     },
     {
@@ -2545,7 +2683,7 @@
       "hub": "Saket",
       "client": "Porter - 3W L3",
       "lineItem": "Maintenance",
-      "amount": 438.4816129032259,
+      "amount": 431.5215873015873,
       "segment": "cargo"
     },
     {
@@ -2554,7 +2692,16 @@
       "hub": "Saket",
       "client": "Blinkit",
       "lineItem": "Maintenance",
-      "amount": 1450.3622580645165,
+      "amount": 1427.3406349206352,
+      "segment": "cargo"
+    },
+    {
+      "month": "2026-05",
+      "city": "Delhi",
+      "hub": "Saket",
+      "client": "Delhivery",
+      "lineItem": "Maintenance",
+      "amount": 33.19396825396826,
       "segment": "cargo"
     },
     {
@@ -2563,7 +2710,7 @@
       "hub": "Saket",
       "client": "Rental_L5",
       "lineItem": "Maintenance",
-      "amount": 202.3761290322581,
+      "amount": 199.16380952380953,
       "segment": "cargo"
     },
     {
@@ -2572,7 +2719,7 @@
       "hub": "Saket",
       "client": "Porter - 3W L3",
       "lineItem": "Maintenance",
-      "amount": 494.8387096774194,
+      "amount": 486.98412698412693,
       "segment": "cargo"
     },
     {
@@ -2581,7 +2728,16 @@
       "hub": "Saket",
       "client": "Blinkit",
       "lineItem": "Maintenance",
-      "amount": 1636.7741935483873,
+      "amount": 1610.7936507936508,
+      "segment": "cargo"
+    },
+    {
+      "month": "2026-05",
+      "city": "Delhi",
+      "hub": "Saket",
+      "client": "Delhivery",
+      "lineItem": "Maintenance",
+      "amount": 37.460317460317455,
       "segment": "cargo"
     },
     {
@@ -2590,7 +2746,7 @@
       "hub": "Saket",
       "client": "Rental_L5",
       "lineItem": "Maintenance",
-      "amount": 228.38709677419354,
+      "amount": 224.76190476190476,
       "segment": "cargo"
     },
     {
@@ -2599,7 +2755,7 @@
       "hub": "Saket",
       "client": "Porter - 3W L3",
       "lineItem": "Maintenance",
-      "amount": 622.1737096774194,
+      "amount": 612.2979365079365,
       "segment": "cargo"
     },
     {
@@ -2608,7 +2764,16 @@
       "hub": "Saket",
       "client": "Blinkit",
       "lineItem": "Maintenance",
-      "amount": 2057.9591935483872,
+      "amount": 2025.2931746031745,
+      "segment": "cargo"
+    },
+    {
+      "month": "2026-05",
+      "city": "Delhi",
+      "hub": "Saket",
+      "client": "Delhivery",
+      "lineItem": "Maintenance",
+      "amount": 47.099841269841264,
       "segment": "cargo"
     },
     {
@@ -2617,7 +2782,7 @@
       "hub": "Saket",
       "client": "Rental_L5",
       "lineItem": "Maintenance",
-      "amount": 287.1570967741935,
+      "amount": 282.5990476190476,
       "segment": "cargo"
     },
     {
@@ -2626,7 +2791,7 @@
       "hub": "Saket",
       "client": "Porter - 3W L3",
       "lineItem": "Maintenance",
-      "amount": 622.1737096774194,
+      "amount": 612.2979365079365,
       "segment": "cargo"
     },
     {
@@ -2635,7 +2800,16 @@
       "hub": "Saket",
       "client": "Blinkit",
       "lineItem": "Maintenance",
-      "amount": 2057.9591935483872,
+      "amount": 2025.2931746031745,
+      "segment": "cargo"
+    },
+    {
+      "month": "2026-05",
+      "city": "Delhi",
+      "hub": "Saket",
+      "client": "Delhivery",
+      "lineItem": "Maintenance",
+      "amount": 47.099841269841264,
       "segment": "cargo"
     },
     {
@@ -2644,7 +2818,7 @@
       "hub": "Saket",
       "client": "Rental_L5",
       "lineItem": "Maintenance",
-      "amount": 287.1570967741935,
+      "amount": 282.5990476190476,
       "segment": "cargo"
     },
     {
@@ -2653,7 +2827,7 @@
       "hub": "Saket",
       "client": "Porter - 3W L3",
       "lineItem": "Maintenance",
-      "amount": 622.1737096774194,
+      "amount": 612.2979365079365,
       "segment": "cargo"
     },
     {
@@ -2662,7 +2836,16 @@
       "hub": "Saket",
       "client": "Blinkit",
       "lineItem": "Maintenance",
-      "amount": 2057.9591935483872,
+      "amount": 2025.2931746031745,
+      "segment": "cargo"
+    },
+    {
+      "month": "2026-05",
+      "city": "Delhi",
+      "hub": "Saket",
+      "client": "Delhivery",
+      "lineItem": "Maintenance",
+      "amount": 47.099841269841264,
       "segment": "cargo"
     },
     {
@@ -2671,7 +2854,7 @@
       "hub": "Saket",
       "client": "Rental_L5",
       "lineItem": "Maintenance",
-      "amount": 287.1570967741935,
+      "amount": 282.5990476190476,
       "segment": "cargo"
     },
     {
@@ -2680,7 +2863,7 @@
       "hub": "Saket",
       "client": "Porter - 3W L3",
       "lineItem": "Maintenance",
-      "amount": 622.1737096774194,
+      "amount": 612.2979365079365,
       "segment": "cargo"
     },
     {
@@ -2689,7 +2872,16 @@
       "hub": "Saket",
       "client": "Blinkit",
       "lineItem": "Maintenance",
-      "amount": 2057.9591935483872,
+      "amount": 2025.2931746031745,
+      "segment": "cargo"
+    },
+    {
+      "month": "2026-05",
+      "city": "Delhi",
+      "hub": "Saket",
+      "client": "Delhivery",
+      "lineItem": "Maintenance",
+      "amount": 47.099841269841264,
       "segment": "cargo"
     },
     {
@@ -2698,7 +2890,7 @@
       "hub": "Saket",
       "client": "Rental_L5",
       "lineItem": "Maintenance",
-      "amount": 287.1570967741935,
+      "amount": 282.5990476190476,
       "segment": "cargo"
     },
     {
@@ -2707,7 +2899,7 @@
       "hub": "Saket",
       "client": "Porter - 3W L3",
       "lineItem": "Maintenance",
-      "amount": 622.1737096774194,
+      "amount": 612.2979365079365,
       "segment": "cargo"
     },
     {
@@ -2716,7 +2908,16 @@
       "hub": "Saket",
       "client": "Blinkit",
       "lineItem": "Maintenance",
-      "amount": 2057.9591935483872,
+      "amount": 2025.2931746031745,
+      "segment": "cargo"
+    },
+    {
+      "month": "2026-05",
+      "city": "Delhi",
+      "hub": "Saket",
+      "client": "Delhivery",
+      "lineItem": "Maintenance",
+      "amount": 47.099841269841264,
       "segment": "cargo"
     },
     {
@@ -2725,7 +2926,7 @@
       "hub": "Saket",
       "client": "Rental_L5",
       "lineItem": "Maintenance",
-      "amount": 287.1570967741935,
+      "amount": 282.5990476190476,
       "segment": "cargo"
     },
     {
@@ -2734,7 +2935,7 @@
       "hub": "Saket",
       "client": "Porter - 3W L3",
       "lineItem": "Maintenance",
-      "amount": 622.1737096774194,
+      "amount": 612.2979365079365,
       "segment": "cargo"
     },
     {
@@ -2743,7 +2944,16 @@
       "hub": "Saket",
       "client": "Blinkit",
       "lineItem": "Maintenance",
-      "amount": 2057.9591935483872,
+      "amount": 2025.2931746031745,
+      "segment": "cargo"
+    },
+    {
+      "month": "2026-05",
+      "city": "Delhi",
+      "hub": "Saket",
+      "client": "Delhivery",
+      "lineItem": "Maintenance",
+      "amount": 47.099841269841264,
       "segment": "cargo"
     },
     {
@@ -2752,7 +2962,7 @@
       "hub": "Saket",
       "client": "Rental_L5",
       "lineItem": "Maintenance",
-      "amount": 287.1570967741935,
+      "amount": 282.5990476190476,
       "segment": "cargo"
     },
     {
@@ -2761,7 +2971,7 @@
       "hub": "Saket",
       "client": "Porter - 3W L3",
       "lineItem": "Maintenance",
-      "amount": 622.1737096774194,
+      "amount": 612.2979365079365,
       "segment": "cargo"
     },
     {
@@ -2770,7 +2980,16 @@
       "hub": "Saket",
       "client": "Blinkit",
       "lineItem": "Maintenance",
-      "amount": 2057.9591935483872,
+      "amount": 2025.2931746031745,
+      "segment": "cargo"
+    },
+    {
+      "month": "2026-05",
+      "city": "Delhi",
+      "hub": "Saket",
+      "client": "Delhivery",
+      "lineItem": "Maintenance",
+      "amount": 47.099841269841264,
       "segment": "cargo"
     },
     {
@@ -2779,7 +2998,7 @@
       "hub": "Saket",
       "client": "Rental_L5",
       "lineItem": "Maintenance",
-      "amount": 287.1570967741935,
+      "amount": 282.5990476190476,
       "segment": "cargo"
     },
     {
@@ -2788,7 +3007,7 @@
       "hub": "Saket",
       "client": "Porter - 3W L3",
       "lineItem": "Maintenance",
-      "amount": 199.06774193548387,
+      "amount": 195.90793650793648,
       "segment": "cargo"
     },
     {
@@ -2797,7 +3016,16 @@
       "hub": "Saket",
       "client": "Blinkit",
       "lineItem": "Maintenance",
-      "amount": 658.4548387096775,
+      "amount": 648.0031746031746,
+      "segment": "cargo"
+    },
+    {
+      "month": "2026-05",
+      "city": "Delhi",
+      "hub": "Saket",
+      "client": "Delhivery",
+      "lineItem": "Maintenance",
+      "amount": 15.069841269841268,
       "segment": "cargo"
     },
     {
@@ -2806,7 +3034,7 @@
       "hub": "Saket",
       "client": "Rental_L5",
       "lineItem": "Maintenance",
-      "amount": 91.87741935483871,
+      "amount": 90.41904761904762,
       "segment": "cargo"
     },
     {
@@ -2815,7 +3043,7 @@
       "hub": "Saket",
       "client": "Porter - 3W L3",
       "lineItem": "Maintenance",
-      "amount": 199.06774193548387,
+      "amount": 195.90793650793648,
       "segment": "cargo"
     },
     {
@@ -2824,7 +3052,16 @@
       "hub": "Saket",
       "client": "Blinkit",
       "lineItem": "Maintenance",
-      "amount": 658.4548387096775,
+      "amount": 648.0031746031746,
+      "segment": "cargo"
+    },
+    {
+      "month": "2026-05",
+      "city": "Delhi",
+      "hub": "Saket",
+      "client": "Delhivery",
+      "lineItem": "Maintenance",
+      "amount": 15.069841269841268,
       "segment": "cargo"
     },
     {
@@ -2833,7 +3070,7 @@
       "hub": "Saket",
       "client": "Rental_L5",
       "lineItem": "Maintenance",
-      "amount": 91.87741935483871,
+      "amount": 90.41904761904762,
       "segment": "cargo"
     },
     {
@@ -2842,7 +3079,7 @@
       "hub": "Saket",
       "client": "Porter - 3W L3",
       "lineItem": "Maintenance",
-      "amount": 199.06774193548387,
+      "amount": 195.90793650793648,
       "segment": "cargo"
     },
     {
@@ -2851,7 +3088,16 @@
       "hub": "Saket",
       "client": "Blinkit",
       "lineItem": "Maintenance",
-      "amount": 658.4548387096775,
+      "amount": 648.0031746031746,
+      "segment": "cargo"
+    },
+    {
+      "month": "2026-05",
+      "city": "Delhi",
+      "hub": "Saket",
+      "client": "Delhivery",
+      "lineItem": "Maintenance",
+      "amount": 15.069841269841268,
       "segment": "cargo"
     },
     {
@@ -2860,7 +3106,7 @@
       "hub": "Saket",
       "client": "Rental_L5",
       "lineItem": "Maintenance",
-      "amount": 91.87741935483871,
+      "amount": 90.41904761904762,
       "segment": "cargo"
     },
     {
@@ -2869,7 +3115,7 @@
       "hub": "Saket",
       "client": "Porter - 3W L3",
       "lineItem": "Maintenance",
-      "amount": 199.06774193548387,
+      "amount": 195.90793650793648,
       "segment": "cargo"
     },
     {
@@ -2878,7 +3124,16 @@
       "hub": "Saket",
       "client": "Blinkit",
       "lineItem": "Maintenance",
-      "amount": 658.4548387096775,
+      "amount": 648.0031746031746,
+      "segment": "cargo"
+    },
+    {
+      "month": "2026-05",
+      "city": "Delhi",
+      "hub": "Saket",
+      "client": "Delhivery",
+      "lineItem": "Maintenance",
+      "amount": 15.069841269841268,
       "segment": "cargo"
     },
     {
@@ -2887,7 +3142,7 @@
       "hub": "Saket",
       "client": "Rental_L5",
       "lineItem": "Maintenance",
-      "amount": 91.87741935483871,
+      "amount": 90.41904761904762,
       "segment": "cargo"
     },
     {
@@ -2896,7 +3151,7 @@
       "hub": "Saket",
       "client": "Porter - 3W L3",
       "lineItem": "Maintenance",
-      "amount": 199.06774193548387,
+      "amount": 195.90793650793648,
       "segment": "cargo"
     },
     {
@@ -2905,7 +3160,16 @@
       "hub": "Saket",
       "client": "Blinkit",
       "lineItem": "Maintenance",
-      "amount": 658.4548387096775,
+      "amount": 648.0031746031746,
+      "segment": "cargo"
+    },
+    {
+      "month": "2026-05",
+      "city": "Delhi",
+      "hub": "Saket",
+      "client": "Delhivery",
+      "lineItem": "Maintenance",
+      "amount": 15.069841269841268,
       "segment": "cargo"
     },
     {
@@ -2914,7 +3178,7 @@
       "hub": "Saket",
       "client": "Rental_L5",
       "lineItem": "Maintenance",
-      "amount": 91.87741935483871,
+      "amount": 90.41904761904762,
       "segment": "cargo"
     },
     {
@@ -2923,7 +3187,7 @@
       "hub": "Saket",
       "client": "Porter - 3W L3",
       "lineItem": "Maintenance",
-      "amount": 199.06774193548387,
+      "amount": 195.90793650793648,
       "segment": "cargo"
     },
     {
@@ -2932,7 +3196,16 @@
       "hub": "Saket",
       "client": "Blinkit",
       "lineItem": "Maintenance",
-      "amount": 658.4548387096775,
+      "amount": 648.0031746031746,
+      "segment": "cargo"
+    },
+    {
+      "month": "2026-05",
+      "city": "Delhi",
+      "hub": "Saket",
+      "client": "Delhivery",
+      "lineItem": "Maintenance",
+      "amount": 15.069841269841268,
       "segment": "cargo"
     },
     {
@@ -2941,7 +3214,7 @@
       "hub": "Saket",
       "client": "Rental_L5",
       "lineItem": "Maintenance",
-      "amount": 91.87741935483871,
+      "amount": 90.41904761904762,
       "segment": "cargo"
     },
     {
@@ -2950,7 +3223,7 @@
       "hub": "Saket",
       "client": "Porter - 3W L3",
       "lineItem": "Maintenance",
-      "amount": 199.06774193548387,
+      "amount": 195.90793650793648,
       "segment": "cargo"
     },
     {
@@ -2959,7 +3232,16 @@
       "hub": "Saket",
       "client": "Blinkit",
       "lineItem": "Maintenance",
-      "amount": 658.4548387096775,
+      "amount": 648.0031746031746,
+      "segment": "cargo"
+    },
+    {
+      "month": "2026-05",
+      "city": "Delhi",
+      "hub": "Saket",
+      "client": "Delhivery",
+      "lineItem": "Maintenance",
+      "amount": 15.069841269841268,
       "segment": "cargo"
     },
     {
@@ -2968,7 +3250,7 @@
       "hub": "Saket",
       "client": "Rental_L5",
       "lineItem": "Maintenance",
-      "amount": 91.87741935483871,
+      "amount": 90.41904761904762,
       "segment": "cargo"
     },
     {
@@ -2977,7 +3259,7 @@
       "hub": "Saket",
       "client": "Porter - 3W L3",
       "lineItem": "Maintenance",
-      "amount": 199.06774193548387,
+      "amount": 195.90793650793648,
       "segment": "cargo"
     },
     {
@@ -2986,7 +3268,16 @@
       "hub": "Saket",
       "client": "Blinkit",
       "lineItem": "Maintenance",
-      "amount": 658.4548387096775,
+      "amount": 648.0031746031746,
+      "segment": "cargo"
+    },
+    {
+      "month": "2026-05",
+      "city": "Delhi",
+      "hub": "Saket",
+      "client": "Delhivery",
+      "lineItem": "Maintenance",
+      "amount": 15.069841269841268,
       "segment": "cargo"
     },
     {
@@ -2995,7 +3286,7 @@
       "hub": "Saket",
       "client": "Rental_L5",
       "lineItem": "Maintenance",
-      "amount": 91.87741935483871,
+      "amount": 90.41904761904762,
       "segment": "cargo"
     },
     {
@@ -3004,7 +3295,7 @@
       "hub": "Saket",
       "client": "Porter - 3W L3",
       "lineItem": "Maintenance",
-      "amount": 199.06774193548387,
+      "amount": 195.90793650793648,
       "segment": "cargo"
     },
     {
@@ -3013,7 +3304,16 @@
       "hub": "Saket",
       "client": "Blinkit",
       "lineItem": "Maintenance",
-      "amount": 658.4548387096775,
+      "amount": 648.0031746031746,
+      "segment": "cargo"
+    },
+    {
+      "month": "2026-05",
+      "city": "Delhi",
+      "hub": "Saket",
+      "client": "Delhivery",
+      "lineItem": "Maintenance",
+      "amount": 15.069841269841268,
       "segment": "cargo"
     },
     {
@@ -3022,7 +3322,7 @@
       "hub": "Saket",
       "client": "Rental_L5",
       "lineItem": "Maintenance",
-      "amount": 91.87741935483871,
+      "amount": 90.41904761904762,
       "segment": "cargo"
     },
     {
@@ -3031,7 +3331,7 @@
       "hub": "Saket",
       "client": "Porter - 3W L3",
       "lineItem": "Maintenance",
-      "amount": 199.06774193548387,
+      "amount": 195.90793650793648,
       "segment": "cargo"
     },
     {
@@ -3040,7 +3340,16 @@
       "hub": "Saket",
       "client": "Blinkit",
       "lineItem": "Maintenance",
-      "amount": 658.4548387096775,
+      "amount": 648.0031746031746,
+      "segment": "cargo"
+    },
+    {
+      "month": "2026-05",
+      "city": "Delhi",
+      "hub": "Saket",
+      "client": "Delhivery",
+      "lineItem": "Maintenance",
+      "amount": 15.069841269841268,
       "segment": "cargo"
     },
     {
@@ -3049,7 +3358,7 @@
       "hub": "Saket",
       "client": "Rental_L5",
       "lineItem": "Maintenance",
-      "amount": 91.87741935483871,
+      "amount": 90.41904761904762,
       "segment": "cargo"
     },
     {
@@ -3058,7 +3367,7 @@
       "hub": "Saket",
       "client": "Porter - 3W L3",
       "lineItem": "Maintenance",
-      "amount": 199.06774193548387,
+      "amount": 195.90793650793648,
       "segment": "cargo"
     },
     {
@@ -3067,7 +3376,16 @@
       "hub": "Saket",
       "client": "Blinkit",
       "lineItem": "Maintenance",
-      "amount": 658.4548387096775,
+      "amount": 648.0031746031746,
+      "segment": "cargo"
+    },
+    {
+      "month": "2026-05",
+      "city": "Delhi",
+      "hub": "Saket",
+      "client": "Delhivery",
+      "lineItem": "Maintenance",
+      "amount": 15.069841269841268,
       "segment": "cargo"
     },
     {
@@ -3076,7 +3394,7 @@
       "hub": "Saket",
       "client": "Rental_L5",
       "lineItem": "Maintenance",
-      "amount": 91.87741935483871,
+      "amount": 90.41904761904762,
       "segment": "cargo"
     },
     {
@@ -3085,7 +3403,7 @@
       "hub": "Saket",
       "client": "Porter - 3W L3",
       "lineItem": "Maintenance",
-      "amount": 199.06774193548387,
+      "amount": 195.90793650793648,
       "segment": "cargo"
     },
     {
@@ -3094,7 +3412,16 @@
       "hub": "Saket",
       "client": "Blinkit",
       "lineItem": "Maintenance",
-      "amount": 658.4548387096775,
+      "amount": 648.0031746031746,
+      "segment": "cargo"
+    },
+    {
+      "month": "2026-05",
+      "city": "Delhi",
+      "hub": "Saket",
+      "client": "Delhivery",
+      "lineItem": "Maintenance",
+      "amount": 15.069841269841268,
       "segment": "cargo"
     },
     {
@@ -3103,7 +3430,7 @@
       "hub": "Saket",
       "client": "Rental_L5",
       "lineItem": "Maintenance",
-      "amount": 91.87741935483871,
+      "amount": 90.41904761904762,
       "segment": "cargo"
     },
     {
@@ -3112,7 +3439,7 @@
       "hub": "Saket",
       "client": "Porter - 3W L3",
       "lineItem": "Maintenance",
-      "amount": 199.06774193548387,
+      "amount": 195.90793650793648,
       "segment": "cargo"
     },
     {
@@ -3121,7 +3448,16 @@
       "hub": "Saket",
       "client": "Blinkit",
       "lineItem": "Maintenance",
-      "amount": 658.4548387096775,
+      "amount": 648.0031746031746,
+      "segment": "cargo"
+    },
+    {
+      "month": "2026-05",
+      "city": "Delhi",
+      "hub": "Saket",
+      "client": "Delhivery",
+      "lineItem": "Maintenance",
+      "amount": 15.069841269841268,
       "segment": "cargo"
     },
     {
@@ -3130,7 +3466,7 @@
       "hub": "Saket",
       "client": "Rental_L5",
       "lineItem": "Maintenance",
-      "amount": 91.87741935483871,
+      "amount": 90.41904761904762,
       "segment": "cargo"
     },
     {
@@ -3139,7 +3475,7 @@
       "hub": "Saket",
       "client": "Porter - 3W L3",
       "lineItem": "Maintenance",
-      "amount": 199.06774193548387,
+      "amount": 195.90793650793648,
       "segment": "cargo"
     },
     {
@@ -3148,7 +3484,16 @@
       "hub": "Saket",
       "client": "Blinkit",
       "lineItem": "Maintenance",
-      "amount": 658.4548387096775,
+      "amount": 648.0031746031746,
+      "segment": "cargo"
+    },
+    {
+      "month": "2026-05",
+      "city": "Delhi",
+      "hub": "Saket",
+      "client": "Delhivery",
+      "lineItem": "Maintenance",
+      "amount": 15.069841269841268,
       "segment": "cargo"
     },
     {
@@ -3157,7 +3502,7 @@
       "hub": "Saket",
       "client": "Rental_L5",
       "lineItem": "Maintenance",
-      "amount": 91.87741935483871,
+      "amount": 90.41904761904762,
       "segment": "cargo"
     },
     {
@@ -3166,7 +3511,7 @@
       "hub": "Saket",
       "client": "Porter - 3W L3",
       "lineItem": "Maintenance",
-      "amount": 199.06774193548387,
+      "amount": 195.90793650793648,
       "segment": "cargo"
     },
     {
@@ -3175,7 +3520,16 @@
       "hub": "Saket",
       "client": "Blinkit",
       "lineItem": "Maintenance",
-      "amount": 658.4548387096775,
+      "amount": 648.0031746031746,
+      "segment": "cargo"
+    },
+    {
+      "month": "2026-05",
+      "city": "Delhi",
+      "hub": "Saket",
+      "client": "Delhivery",
+      "lineItem": "Maintenance",
+      "amount": 15.069841269841268,
       "segment": "cargo"
     },
     {
@@ -3184,7 +3538,7 @@
       "hub": "Saket",
       "client": "Rental_L5",
       "lineItem": "Maintenance",
-      "amount": 91.87741935483871,
+      "amount": 90.41904761904762,
       "segment": "cargo"
     },
     {
@@ -3193,7 +3547,7 @@
       "hub": "Saket",
       "client": "Porter - 3W L3",
       "lineItem": "Maintenance",
-      "amount": 199.06774193548387,
+      "amount": 195.90793650793648,
       "segment": "cargo"
     },
     {
@@ -3202,7 +3556,16 @@
       "hub": "Saket",
       "client": "Blinkit",
       "lineItem": "Maintenance",
-      "amount": 658.4548387096775,
+      "amount": 648.0031746031746,
+      "segment": "cargo"
+    },
+    {
+      "month": "2026-05",
+      "city": "Delhi",
+      "hub": "Saket",
+      "client": "Delhivery",
+      "lineItem": "Maintenance",
+      "amount": 15.069841269841268,
       "segment": "cargo"
     },
     {
@@ -3211,7 +3574,7 @@
       "hub": "Saket",
       "client": "Rental_L5",
       "lineItem": "Maintenance",
-      "amount": 91.87741935483871,
+      "amount": 90.41904761904762,
       "segment": "cargo"
     },
     {
@@ -3220,7 +3583,7 @@
       "hub": "Saket",
       "client": "Porter - 3W L3",
       "lineItem": "Maintenance",
-      "amount": 199.06774193548387,
+      "amount": 195.90793650793648,
       "segment": "cargo"
     },
     {
@@ -3229,7 +3592,16 @@
       "hub": "Saket",
       "client": "Blinkit",
       "lineItem": "Maintenance",
-      "amount": 658.4548387096775,
+      "amount": 648.0031746031746,
+      "segment": "cargo"
+    },
+    {
+      "month": "2026-05",
+      "city": "Delhi",
+      "hub": "Saket",
+      "client": "Delhivery",
+      "lineItem": "Maintenance",
+      "amount": 15.069841269841268,
       "segment": "cargo"
     },
     {
@@ -3238,7 +3610,7 @@
       "hub": "Saket",
       "client": "Rental_L5",
       "lineItem": "Maintenance",
-      "amount": 91.87741935483871,
+      "amount": 90.41904761904762,
       "segment": "cargo"
     },
     {
@@ -3247,7 +3619,7 @@
       "hub": "Saket",
       "client": "Porter - 3W L3",
       "lineItem": "Maintenance",
-      "amount": 199.06774193548387,
+      "amount": 195.90793650793648,
       "segment": "cargo"
     },
     {
@@ -3256,7 +3628,16 @@
       "hub": "Saket",
       "client": "Blinkit",
       "lineItem": "Maintenance",
-      "amount": 658.4548387096775,
+      "amount": 648.0031746031746,
+      "segment": "cargo"
+    },
+    {
+      "month": "2026-05",
+      "city": "Delhi",
+      "hub": "Saket",
+      "client": "Delhivery",
+      "lineItem": "Maintenance",
+      "amount": 15.069841269841268,
       "segment": "cargo"
     },
     {
@@ -3265,7 +3646,7 @@
       "hub": "Saket",
       "client": "Rental_L5",
       "lineItem": "Maintenance",
-      "amount": 91.87741935483871,
+      "amount": 90.41904761904762,
       "segment": "cargo"
     },
     {
@@ -3274,7 +3655,7 @@
       "hub": "Saket",
       "client": "Porter - 3W L3",
       "lineItem": "Maintenance",
-      "amount": 581.4354838709678,
+      "amount": 572.2063492063492,
       "segment": "cargo"
     },
     {
@@ -3283,7 +3664,16 @@
       "hub": "Saket",
       "client": "Blinkit",
       "lineItem": "Maintenance",
-      "amount": 1923.2096774193549,
+      "amount": 1892.6825396825398,
+      "segment": "cargo"
+    },
+    {
+      "month": "2026-05",
+      "city": "Delhi",
+      "hub": "Saket",
+      "client": "Delhivery",
+      "lineItem": "Maintenance",
+      "amount": 44.01587301587301,
       "segment": "cargo"
     },
     {
@@ -3292,7 +3682,7 @@
       "hub": "Saket",
       "client": "Rental_L5",
       "lineItem": "Maintenance",
-      "amount": 268.35483870967744,
+      "amount": 264.0952380952381,
       "segment": "cargo"
     },
     {
@@ -5281,7 +5671,7 @@
       "hub": "Shalimar Bagh",
       "client": "Porter - 3W L3",
       "lineItem": "Maintenance",
-      "amount": -4243.380341880342,
+      "amount": -4427.8751393534,
       "segment": "cargo"
     },
     {
@@ -5290,7 +5680,7 @@
       "hub": "Shalimar Bagh",
       "client": "Blinkit",
       "lineItem": "Maintenance",
-      "amount": -16973.521367521367,
+      "amount": -17711.5005574136,
       "segment": "cargo"
     },
     {
@@ -5299,7 +5689,7 @@
       "hub": "Shalimar Bagh",
       "client": "Delhivery",
       "lineItem": "Maintenance",
-      "amount": -4243.380341880342,
+      "amount": -3320.90635451505,
       "segment": "cargo"
     },
     {
@@ -5308,7 +5698,7 @@
       "hub": "Shalimar Bagh",
       "client": "Porter - 3W L3",
       "lineItem": "Maintenance",
-      "amount": 142.45299145299145,
+      "amount": 148.64659977703457,
       "segment": "cargo"
     },
     {
@@ -5317,7 +5707,7 @@
       "hub": "Shalimar Bagh",
       "client": "Blinkit",
       "lineItem": "Maintenance",
-      "amount": 569.8119658119658,
+      "amount": 594.5863991081383,
       "segment": "cargo"
     },
     {
@@ -5326,7 +5716,7 @@
       "hub": "Shalimar Bagh",
       "client": "Delhivery",
       "lineItem": "Maintenance",
-      "amount": 142.45299145299145,
+      "amount": 111.48494983277592,
       "segment": "cargo"
     },
     {
@@ -5335,7 +5725,7 @@
       "hub": "Shalimar Bagh",
       "client": "Porter - 3W L3",
       "lineItem": "Maintenance",
-      "amount": 92.61965811965811,
+      "amount": 96.64659977703455,
       "segment": "cargo"
     },
     {
@@ -5344,7 +5734,7 @@
       "hub": "Shalimar Bagh",
       "client": "Blinkit",
       "lineItem": "Maintenance",
-      "amount": 370.47863247863245,
+      "amount": 386.5863991081382,
       "segment": "cargo"
     },
     {
@@ -5353,7 +5743,7 @@
       "hub": "Shalimar Bagh",
       "client": "Delhivery",
       "lineItem": "Maintenance",
-      "amount": 92.61965811965811,
+      "amount": 72.48494983277592,
       "segment": "cargo"
     },
     {
@@ -5362,7 +5752,7 @@
       "hub": "Shalimar Bagh",
       "client": "Porter - 3W L3",
       "lineItem": "Maintenance",
-      "amount": 281.45299145299145,
+      "amount": 293.69007803790413,
       "segment": "cargo"
     },
     {
@@ -5371,7 +5761,7 @@
       "hub": "Shalimar Bagh",
       "client": "Blinkit",
       "lineItem": "Maintenance",
-      "amount": 1125.8119658119658,
+      "amount": 1174.7603121516165,
       "segment": "cargo"
     },
     {
@@ -5380,7 +5770,7 @@
       "hub": "Shalimar Bagh",
       "client": "Delhivery",
       "lineItem": "Maintenance",
-      "amount": 281.45299145299145,
+      "amount": 220.26755852842808,
       "segment": "cargo"
     },
     {
@@ -5389,7 +5779,7 @@
       "hub": "Shalimar Bagh",
       "client": "Porter - 3W L3",
       "lineItem": "Maintenance",
-      "amount": 65.11965811965811,
+      "amount": 67.95094760312152,
       "segment": "cargo"
     },
     {
@@ -5398,7 +5788,7 @@
       "hub": "Shalimar Bagh",
       "client": "Blinkit",
       "lineItem": "Maintenance",
-      "amount": 260.47863247863245,
+      "amount": 271.8037904124861,
       "segment": "cargo"
     },
     {
@@ -5407,7 +5797,7 @@
       "hub": "Shalimar Bagh",
       "client": "Delhivery",
       "lineItem": "Maintenance",
-      "amount": 65.11965811965811,
+      "amount": 50.96321070234114,
       "segment": "cargo"
     },
     {
@@ -5416,7 +5806,7 @@
       "hub": "Shalimar Bagh",
       "client": "Porter - 3W L3",
       "lineItem": "Maintenance",
-      "amount": 136.1196581196581,
+      "amount": 142.03790412486063,
       "segment": "cargo"
     },
     {
@@ -5425,7 +5815,7 @@
       "hub": "Shalimar Bagh",
       "client": "Blinkit",
       "lineItem": "Maintenance",
-      "amount": 544.4786324786324,
+      "amount": 568.1516164994425,
       "segment": "cargo"
     },
     {
@@ -5434,7 +5824,7 @@
       "hub": "Shalimar Bagh",
       "client": "Delhivery",
       "lineItem": "Maintenance",
-      "amount": 136.1196581196581,
+      "amount": 106.52842809364549,
       "segment": "cargo"
     },
     {
@@ -5443,7 +5833,7 @@
       "hub": "Shalimar Bagh",
       "client": "Porter - 3W L3",
       "lineItem": "Maintenance",
-      "amount": 47.28632478632478,
+      "amount": 49.342251950947606,
       "segment": "cargo"
     },
     {
@@ -5452,7 +5842,7 @@
       "hub": "Shalimar Bagh",
       "client": "Blinkit",
       "lineItem": "Maintenance",
-      "amount": 189.14529914529913,
+      "amount": 197.36900780379042,
       "segment": "cargo"
     },
     {
@@ -5461,7 +5851,7 @@
       "hub": "Shalimar Bagh",
       "client": "Delhivery",
       "lineItem": "Maintenance",
-      "amount": 47.28632478632478,
+      "amount": 37.006688963210706,
       "segment": "cargo"
     },
     {
@@ -5470,7 +5860,7 @@
       "hub": "Shalimar Bagh",
       "client": "Porter - 3W L3",
       "lineItem": "Maintenance",
-      "amount": 242.78632478632477,
+      "amount": 253.3422519509476,
       "segment": "cargo"
     },
     {
@@ -5479,7 +5869,7 @@
       "hub": "Shalimar Bagh",
       "client": "Blinkit",
       "lineItem": "Maintenance",
-      "amount": 971.1452991452991,
+      "amount": 1013.3690078037904,
       "segment": "cargo"
     },
     {
@@ -5488,7 +5878,7 @@
       "hub": "Shalimar Bagh",
       "client": "Delhivery",
       "lineItem": "Maintenance",
-      "amount": 242.78632478632477,
+      "amount": 190.0066889632107,
       "segment": "cargo"
     },
     {
@@ -5497,7 +5887,7 @@
       "hub": "Shalimar Bagh",
       "client": "Porter - 3W L3",
       "lineItem": "Maintenance",
-      "amount": 95.28632478632478,
+      "amount": 99.42920847268674,
       "segment": "cargo"
     },
     {
@@ -5506,7 +5896,7 @@
       "hub": "Shalimar Bagh",
       "client": "Blinkit",
       "lineItem": "Maintenance",
-      "amount": 381.14529914529913,
+      "amount": 397.71683389074695,
       "segment": "cargo"
     },
     {
@@ -5515,7 +5905,7 @@
       "hub": "Shalimar Bagh",
       "client": "Delhivery",
       "lineItem": "Maintenance",
-      "amount": 95.28632478632478,
+      "amount": 74.57190635451505,
       "segment": "cargo"
     },
     {
@@ -5524,7 +5914,7 @@
       "hub": "Shalimar Bagh",
       "client": "Porter - 3W L3",
       "lineItem": "Maintenance",
-      "amount": 111.11965811965811,
+      "amount": 115.95094760312152,
       "segment": "cargo"
     },
     {
@@ -5533,7 +5923,7 @@
       "hub": "Shalimar Bagh",
       "client": "Blinkit",
       "lineItem": "Maintenance",
-      "amount": 444.47863247863245,
+      "amount": 463.8037904124861,
       "segment": "cargo"
     },
     {
@@ -5542,7 +5932,7 @@
       "hub": "Shalimar Bagh",
       "client": "Delhivery",
       "lineItem": "Maintenance",
-      "amount": 111.11965811965811,
+      "amount": 86.96321070234113,
       "segment": "cargo"
     },
     {
@@ -5551,7 +5941,7 @@
       "hub": "Shalimar Bagh",
       "client": "Porter - 3W L3",
       "lineItem": "Maintenance",
-      "amount": 318.6196581196581,
+      "amount": 332.4726867335563,
       "segment": "cargo"
     },
     {
@@ -5560,7 +5950,7 @@
       "hub": "Shalimar Bagh",
       "client": "Blinkit",
       "lineItem": "Maintenance",
-      "amount": 1274.4786324786323,
+      "amount": 1329.8907469342253,
       "segment": "cargo"
     },
     {
@@ -5569,7 +5959,7 @@
       "hub": "Shalimar Bagh",
       "client": "Delhivery",
       "lineItem": "Maintenance",
-      "amount": 318.6196581196581,
+      "amount": 249.3545150501672,
       "segment": "cargo"
     },
     {
@@ -5578,7 +5968,7 @@
       "hub": "Shalimar Bagh",
       "client": "Porter - 3W L3",
       "lineItem": "Maintenance",
-      "amount": 118.95299145299145,
+      "amount": 124.12486064659977,
       "segment": "cargo"
     },
     {
@@ -5587,7 +5977,7 @@
       "hub": "Shalimar Bagh",
       "client": "Blinkit",
       "lineItem": "Maintenance",
-      "amount": 475.8119658119658,
+      "amount": 496.4994425863991,
       "segment": "cargo"
     },
     {
@@ -5596,7 +5986,7 @@
       "hub": "Shalimar Bagh",
       "client": "Delhivery",
       "lineItem": "Maintenance",
-      "amount": 118.95299145299145,
+      "amount": 93.09364548494983,
       "segment": "cargo"
     },
     {
@@ -5605,7 +5995,7 @@
       "hub": "Shalimar Bagh",
       "client": "Porter - 3W L3",
       "lineItem": "Maintenance",
-      "amount": 52.61965811965812,
+      "amount": 54.90746934225195,
       "segment": "cargo"
     },
     {
@@ -5614,7 +6004,7 @@
       "hub": "Shalimar Bagh",
       "client": "Blinkit",
       "lineItem": "Maintenance",
-      "amount": 210.47863247863248,
+      "amount": 219.6298773690078,
       "segment": "cargo"
     },
     {
@@ -5623,7 +6013,7 @@
       "hub": "Shalimar Bagh",
       "client": "Delhivery",
       "lineItem": "Maintenance",
-      "amount": 52.61965811965812,
+      "amount": 41.180602006688964,
       "segment": "cargo"
     },
     {
@@ -5632,7 +6022,7 @@
       "hub": "Shalimar Bagh",
       "client": "Porter - 3W L3",
       "lineItem": "Maintenance",
-      "amount": 51.452991452991455,
+      "amount": 53.69007803790412,
       "segment": "cargo"
     },
     {
@@ -5641,7 +6031,7 @@
       "hub": "Shalimar Bagh",
       "client": "Blinkit",
       "lineItem": "Maintenance",
-      "amount": 205.81196581196582,
+      "amount": 214.7603121516165,
       "segment": "cargo"
     },
     {
@@ -5650,7 +6040,7 @@
       "hub": "Shalimar Bagh",
       "client": "Delhivery",
       "lineItem": "Maintenance",
-      "amount": 51.452991452991455,
+      "amount": 40.2675585284281,
       "segment": "cargo"
     },
     {
@@ -5659,7 +6049,7 @@
       "hub": "Shalimar Bagh",
       "client": "Porter - 3W L3",
       "lineItem": "Maintenance",
-      "amount": 110.61965811965811,
+      "amount": 115.42920847268674,
       "segment": "cargo"
     },
     {
@@ -5668,7 +6058,7 @@
       "hub": "Shalimar Bagh",
       "client": "Blinkit",
       "lineItem": "Maintenance",
-      "amount": 442.47863247863245,
+      "amount": 461.71683389074695,
       "segment": "cargo"
     },
     {
@@ -5677,7 +6067,7 @@
       "hub": "Shalimar Bagh",
       "client": "Delhivery",
       "lineItem": "Maintenance",
-      "amount": 110.61965811965811,
+      "amount": 86.57190635451505,
       "segment": "cargo"
     },
     {
@@ -5686,7 +6076,7 @@
       "hub": "Shalimar Bagh",
       "client": "Porter - 3W L3",
       "lineItem": "Maintenance",
-      "amount": 110.61965811965811,
+      "amount": 115.42920847268674,
       "segment": "cargo"
     },
     {
@@ -5695,7 +6085,7 @@
       "hub": "Shalimar Bagh",
       "client": "Blinkit",
       "lineItem": "Maintenance",
-      "amount": 442.47863247863245,
+      "amount": 461.71683389074695,
       "segment": "cargo"
     },
     {
@@ -5704,7 +6094,7 @@
       "hub": "Shalimar Bagh",
       "client": "Delhivery",
       "lineItem": "Maintenance",
-      "amount": 110.61965811965811,
+      "amount": 86.57190635451505,
       "segment": "cargo"
     },
     {
@@ -5713,7 +6103,7 @@
       "hub": "Shalimar Bagh",
       "client": "Porter - 3W L3",
       "lineItem": "Maintenance",
-      "amount": 421.28632478632477,
+      "amount": 439.603121516165,
       "segment": "cargo"
     },
     {
@@ -5722,7 +6112,7 @@
       "hub": "Shalimar Bagh",
       "client": "Blinkit",
       "lineItem": "Maintenance",
-      "amount": 1685.145299145299,
+      "amount": 1758.41248606466,
       "segment": "cargo"
     },
     {
@@ -5731,7 +6121,7 @@
       "hub": "Shalimar Bagh",
       "client": "Delhivery",
       "lineItem": "Maintenance",
-      "amount": 421.28632478632477,
+      "amount": 329.7023411371237,
       "segment": "cargo"
     },
     {
@@ -5740,7 +6130,7 @@
       "hub": "Shalimar Bagh",
       "client": "Porter - 3W L3",
       "lineItem": "Maintenance",
-      "amount": 421.28632478632477,
+      "amount": 439.603121516165,
       "segment": "cargo"
     },
     {
@@ -5749,7 +6139,7 @@
       "hub": "Shalimar Bagh",
       "client": "Blinkit",
       "lineItem": "Maintenance",
-      "amount": 1685.145299145299,
+      "amount": 1758.41248606466,
       "segment": "cargo"
     },
     {
@@ -5758,7 +6148,7 @@
       "hub": "Shalimar Bagh",
       "client": "Delhivery",
       "lineItem": "Maintenance",
-      "amount": 421.28632478632477,
+      "amount": 329.7023411371237,
       "segment": "cargo"
     },
     {
@@ -5767,7 +6157,7 @@
       "hub": "Shalimar Bagh",
       "client": "Porter - 3W L3",
       "lineItem": "Maintenance",
-      "amount": 135.28632478632477,
+      "amount": 141.16833890746935,
       "segment": "cargo"
     },
     {
@@ -5776,7 +6166,7 @@
       "hub": "Shalimar Bagh",
       "client": "Blinkit",
       "lineItem": "Maintenance",
-      "amount": 541.1452991452991,
+      "amount": 564.6733556298774,
       "segment": "cargo"
     },
     {
@@ -5785,7 +6175,7 @@
       "hub": "Shalimar Bagh",
       "client": "Delhivery",
       "lineItem": "Maintenance",
-      "amount": 135.28632478632477,
+      "amount": 105.876254180602,
       "segment": "cargo"
     },
     {
@@ -5794,7 +6184,7 @@
       "hub": "Shalimar Bagh",
       "client": "Porter - 3W L3",
       "lineItem": "Maintenance",
-      "amount": 89.28632478632478,
+      "amount": 93.16833890746935,
       "segment": "cargo"
     },
     {
@@ -5803,7 +6193,7 @@
       "hub": "Shalimar Bagh",
       "client": "Blinkit",
       "lineItem": "Maintenance",
-      "amount": 357.14529914529913,
+      "amount": 372.6733556298774,
       "segment": "cargo"
     },
     {
@@ -5812,7 +6202,7 @@
       "hub": "Shalimar Bagh",
       "client": "Delhivery",
       "lineItem": "Maintenance",
-      "amount": 89.28632478632478,
+      "amount": 69.876254180602,
       "segment": "cargo"
     },
     {
@@ -5821,7 +6211,7 @@
       "hub": "Shalimar Bagh",
       "client": "Porter - 3W L3",
       "lineItem": "Maintenance",
-      "amount": 55.61965811965812,
+      "amount": 58.037904124860646,
       "segment": "cargo"
     },
     {
@@ -5830,7 +6220,7 @@
       "hub": "Shalimar Bagh",
       "client": "Blinkit",
       "lineItem": "Maintenance",
-      "amount": 222.47863247863248,
+      "amount": 232.15161649944258,
       "segment": "cargo"
     },
     {
@@ -5839,7 +6229,7 @@
       "hub": "Shalimar Bagh",
       "client": "Delhivery",
       "lineItem": "Maintenance",
-      "amount": 55.61965811965812,
+      "amount": 43.52842809364549,
       "segment": "cargo"
     },
     {
@@ -5848,7 +6238,7 @@
       "hub": "Shalimar Bagh",
       "client": "Porter - 3W L3",
       "lineItem": "Maintenance",
-      "amount": 167.95299145299145,
+      "amount": 175.25529542920847,
       "segment": "cargo"
     },
     {
@@ -5857,7 +6247,7 @@
       "hub": "Shalimar Bagh",
       "client": "Blinkit",
       "lineItem": "Maintenance",
-      "amount": 671.8119658119658,
+      "amount": 701.0211817168339,
       "segment": "cargo"
     },
     {
@@ -5866,7 +6256,7 @@
       "hub": "Shalimar Bagh",
       "client": "Delhivery",
       "lineItem": "Maintenance",
-      "amount": 167.95299145299145,
+      "amount": 131.44147157190636,
       "segment": "cargo"
     },
     {
@@ -5875,7 +6265,7 @@
       "hub": "Shalimar Bagh",
       "client": "Porter - 3W L3",
       "lineItem": "Maintenance",
-      "amount": 146.1196581196581,
+      "amount": 152.4726867335563,
       "segment": "cargo"
     },
     {
@@ -5884,7 +6274,7 @@
       "hub": "Shalimar Bagh",
       "client": "Blinkit",
       "lineItem": "Maintenance",
-      "amount": 584.4786324786324,
+      "amount": 609.8907469342251,
       "segment": "cargo"
     },
     {
@@ -5893,7 +6283,7 @@
       "hub": "Shalimar Bagh",
       "client": "Delhivery",
       "lineItem": "Maintenance",
-      "amount": 146.1196581196581,
+      "amount": 114.35451505016722,
       "segment": "cargo"
     },
     {
@@ -5902,7 +6292,7 @@
       "hub": "Shalimar Bagh",
       "client": "Porter - 3W L3",
       "lineItem": "Maintenance",
-      "amount": 1105.7863247863247,
+      "amount": 1153.8639910813824,
       "segment": "cargo"
     },
     {
@@ -5911,7 +6301,7 @@
       "hub": "Shalimar Bagh",
       "client": "Blinkit",
       "lineItem": "Maintenance",
-      "amount": 4423.145299145299,
+      "amount": 4615.45596432553,
       "segment": "cargo"
     },
     {
@@ -5920,7 +6310,7 @@
       "hub": "Shalimar Bagh",
       "client": "Delhivery",
       "lineItem": "Maintenance",
-      "amount": 1105.7863247863247,
+      "amount": 865.3979933110368,
       "segment": "cargo"
     },
     {
@@ -5929,7 +6319,7 @@
       "hub": "Shalimar Bagh",
       "client": "Porter - 3W L3",
       "lineItem": "Maintenance",
-      "amount": 101.78632478632478,
+      "amount": 106.21181716833891,
       "segment": "cargo"
     },
     {
@@ -5938,7 +6328,7 @@
       "hub": "Shalimar Bagh",
       "client": "Blinkit",
       "lineItem": "Maintenance",
-      "amount": 407.14529914529913,
+      "amount": 424.84726867335564,
       "segment": "cargo"
     },
     {
@@ -5947,7 +6337,7 @@
       "hub": "Shalimar Bagh",
       "client": "Delhivery",
       "lineItem": "Maintenance",
-      "amount": 101.78632478632478,
+      "amount": 79.65886287625418,
       "segment": "cargo"
     },
     {
@@ -5956,7 +6346,7 @@
       "hub": "Shalimar Bagh",
       "client": "Porter - 3W L3",
       "lineItem": "Maintenance",
-      "amount": 187.95299145299145,
+      "amount": 196.12486064659979,
       "segment": "cargo"
     },
     {
@@ -5965,7 +6355,7 @@
       "hub": "Shalimar Bagh",
       "client": "Blinkit",
       "lineItem": "Maintenance",
-      "amount": 751.8119658119658,
+      "amount": 784.4994425863991,
       "segment": "cargo"
     },
     {
@@ -5974,7 +6364,7 @@
       "hub": "Shalimar Bagh",
       "client": "Delhivery",
       "lineItem": "Maintenance",
-      "amount": 187.95299145299145,
+      "amount": 147.09364548494983,
       "segment": "cargo"
     },
     {
@@ -5983,7 +6373,7 @@
       "hub": "Shalimar Bagh",
       "client": "Porter - 3W L3",
       "lineItem": "Maintenance",
-      "amount": 93.61965811965811,
+      "amount": 97.69007803790413,
       "segment": "cargo"
     },
     {
@@ -5992,7 +6382,7 @@
       "hub": "Shalimar Bagh",
       "client": "Blinkit",
       "lineItem": "Maintenance",
-      "amount": 374.47863247863245,
+      "amount": 390.7603121516165,
       "segment": "cargo"
     },
     {
@@ -6001,7 +6391,7 @@
       "hub": "Shalimar Bagh",
       "client": "Delhivery",
       "lineItem": "Maintenance",
-      "amount": 93.61965811965811,
+      "amount": 73.2675585284281,
       "segment": "cargo"
     },
     {
@@ -6010,7 +6400,7 @@
       "hub": "Shalimar Bagh",
       "client": "Porter - 3W L3",
       "lineItem": "Maintenance",
-      "amount": 483.95299145299145,
+      "amount": 504.99442586399107,
       "segment": "cargo"
     },
     {
@@ -6019,7 +6409,7 @@
       "hub": "Shalimar Bagh",
       "client": "Blinkit",
       "lineItem": "Maintenance",
-      "amount": 1935.8119658119658,
+      "amount": 2019.9777034559643,
       "segment": "cargo"
     },
     {
@@ -6028,7 +6418,7 @@
       "hub": "Shalimar Bagh",
       "client": "Delhivery",
       "lineItem": "Maintenance",
-      "amount": 483.95299145299145,
+      "amount": 378.74581939799333,
       "segment": "cargo"
     },
     {
@@ -6037,7 +6427,7 @@
       "hub": "Shalimar Bagh",
       "client": "Porter - 3W L3",
       "lineItem": "Maintenance",
-      "amount": 378.45299145299145,
+      "amount": 394.90746934225194,
       "segment": "cargo"
     },
     {
@@ -6046,7 +6436,7 @@
       "hub": "Shalimar Bagh",
       "client": "Blinkit",
       "lineItem": "Maintenance",
-      "amount": 1513.8119658119658,
+      "amount": 1579.6298773690078,
       "segment": "cargo"
     },
     {
@@ -6055,7 +6445,7 @@
       "hub": "Shalimar Bagh",
       "client": "Delhivery",
       "lineItem": "Maintenance",
-      "amount": 378.45299145299145,
+      "amount": 296.18060200668896,
       "segment": "cargo"
     },
     {
@@ -6064,7 +6454,7 @@
       "hub": "Shalimar Bagh",
       "client": "Porter - 3W L3",
       "lineItem": "Maintenance",
-      "amount": 49.952991452991455,
+      "amount": 52.12486064659978,
       "segment": "cargo"
     },
     {
@@ -6073,7 +6463,7 @@
       "hub": "Shalimar Bagh",
       "client": "Blinkit",
       "lineItem": "Maintenance",
-      "amount": 199.81196581196582,
+      "amount": 208.4994425863991,
       "segment": "cargo"
     },
     {
@@ -6082,7 +6472,7 @@
       "hub": "Shalimar Bagh",
       "client": "Delhivery",
       "lineItem": "Maintenance",
-      "amount": 49.952991452991455,
+      "amount": 39.09364548494983,
       "segment": "cargo"
     },
     {
@@ -6091,7 +6481,7 @@
       "hub": "Shalimar Bagh",
       "client": "Porter - 3W L3",
       "lineItem": "Maintenance",
-      "amount": 56.78632478632478,
+      "amount": 59.25529542920847,
       "segment": "cargo"
     },
     {
@@ -6100,7 +6490,7 @@
       "hub": "Shalimar Bagh",
       "client": "Blinkit",
       "lineItem": "Maintenance",
-      "amount": 227.14529914529913,
+      "amount": 237.0211817168339,
       "segment": "cargo"
     },
     {
@@ -6109,7 +6499,7 @@
       "hub": "Shalimar Bagh",
       "client": "Delhivery",
       "lineItem": "Maintenance",
-      "amount": 56.78632478632478,
+      "amount": 44.441471571906355,
       "segment": "cargo"
     },
     {
@@ -6118,7 +6508,7 @@
       "hub": "Shalimar Bagh",
       "client": "Porter - 3W L3",
       "lineItem": "Maintenance",
-      "amount": 95.95299145299145,
+      "amount": 100.12486064659977,
       "segment": "cargo"
     },
     {
@@ -6127,7 +6517,7 @@
       "hub": "Shalimar Bagh",
       "client": "Blinkit",
       "lineItem": "Maintenance",
-      "amount": 383.8119658119658,
+      "amount": 400.4994425863991,
       "segment": "cargo"
     },
     {
@@ -6136,7 +6526,7 @@
       "hub": "Shalimar Bagh",
       "client": "Delhivery",
       "lineItem": "Maintenance",
-      "amount": 95.95299145299145,
+      "amount": 75.09364548494983,
       "segment": "cargo"
     },
     {
@@ -6145,7 +6535,7 @@
       "hub": "Shalimar Bagh",
       "client": "Porter - 3W L3",
       "lineItem": "Maintenance",
-      "amount": 84.95299145299145,
+      "amount": 88.64659977703455,
       "segment": "cargo"
     },
     {
@@ -6154,7 +6544,7 @@
       "hub": "Shalimar Bagh",
       "client": "Blinkit",
       "lineItem": "Maintenance",
-      "amount": 339.8119658119658,
+      "amount": 354.5863991081382,
       "segment": "cargo"
     },
     {
@@ -6163,7 +6553,7 @@
       "hub": "Shalimar Bagh",
       "client": "Delhivery",
       "lineItem": "Maintenance",
-      "amount": 84.95299145299145,
+      "amount": 66.48494983277592,
       "segment": "cargo"
     },
     {
@@ -6172,7 +6562,7 @@
       "hub": "Shalimar Bagh",
       "client": "Porter - 3W L3",
       "lineItem": "Maintenance",
-      "amount": 102.61965811965811,
+      "amount": 107.08138238573021,
       "segment": "cargo"
     },
     {
@@ -6181,7 +6571,7 @@
       "hub": "Shalimar Bagh",
       "client": "Blinkit",
       "lineItem": "Maintenance",
-      "amount": 410.47863247863245,
+      "amount": 428.32552954292083,
       "segment": "cargo"
     },
     {
@@ -6190,7 +6580,7 @@
       "hub": "Shalimar Bagh",
       "client": "Delhivery",
       "lineItem": "Maintenance",
-      "amount": 102.61965811965811,
+      "amount": 80.31103678929766,
       "segment": "cargo"
     },
     {
@@ -6199,7 +6589,7 @@
       "hub": "Shalimar Bagh",
       "client": "Porter - 3W L3",
       "lineItem": "Maintenance",
-      "amount": 78.78632478632478,
+      "amount": 82.21181716833891,
       "segment": "cargo"
     },
     {
@@ -6208,7 +6598,7 @@
       "hub": "Shalimar Bagh",
       "client": "Blinkit",
       "lineItem": "Maintenance",
-      "amount": 315.14529914529913,
+      "amount": 328.84726867335564,
       "segment": "cargo"
     },
     {
@@ -6217,7 +6607,7 @@
       "hub": "Shalimar Bagh",
       "client": "Delhivery",
       "lineItem": "Maintenance",
-      "amount": 78.78632478632478,
+      "amount": 61.65886287625418,
       "segment": "cargo"
     },
     {
@@ -6226,7 +6616,7 @@
       "hub": "Shalimar Bagh",
       "client": "Porter - 3W L3",
       "lineItem": "Maintenance",
-      "amount": 62.28632478632478,
+      "amount": 64.99442586399108,
       "segment": "cargo"
     },
     {
@@ -6235,7 +6625,7 @@
       "hub": "Shalimar Bagh",
       "client": "Blinkit",
       "lineItem": "Maintenance",
-      "amount": 249.14529914529913,
+      "amount": 259.97770345596433,
       "segment": "cargo"
     },
     {
@@ -6244,7 +6634,7 @@
       "hub": "Shalimar Bagh",
       "client": "Delhivery",
       "lineItem": "Maintenance",
-      "amount": 62.28632478632478,
+      "amount": 48.74581939799331,
       "segment": "cargo"
     },
     {
@@ -6253,7 +6643,7 @@
       "hub": "Shalimar Bagh",
       "client": "Porter - 3W L3",
       "lineItem": "Maintenance",
-      "amount": 62.28632478632478,
+      "amount": 64.99442586399108,
       "segment": "cargo"
     },
     {
@@ -6262,7 +6652,7 @@
       "hub": "Shalimar Bagh",
       "client": "Blinkit",
       "lineItem": "Maintenance",
-      "amount": 249.14529914529913,
+      "amount": 259.97770345596433,
       "segment": "cargo"
     },
     {
@@ -6271,7 +6661,7 @@
       "hub": "Shalimar Bagh",
       "client": "Delhivery",
       "lineItem": "Maintenance",
-      "amount": 62.28632478632478,
+      "amount": 48.74581939799331,
       "segment": "cargo"
     },
     {
@@ -6280,7 +6670,7 @@
       "hub": "Shalimar Bagh",
       "client": "Porter - 3W L3",
       "lineItem": "Maintenance",
-      "amount": 212.6196581196581,
+      "amount": 221.86399108138238,
       "segment": "cargo"
     },
     {
@@ -6289,7 +6679,7 @@
       "hub": "Shalimar Bagh",
       "client": "Blinkit",
       "lineItem": "Maintenance",
-      "amount": 850.4786324786324,
+      "amount": 887.4559643255295,
       "segment": "cargo"
     },
     {
@@ -6298,7 +6688,7 @@
       "hub": "Shalimar Bagh",
       "client": "Delhivery",
       "lineItem": "Maintenance",
-      "amount": 212.6196581196581,
+      "amount": 166.3979933110368,
       "segment": "cargo"
     },
     {
@@ -6307,7 +6697,7 @@
       "hub": "Shalimar Bagh",
       "client": "Porter - 3W L3",
       "lineItem": "Maintenance",
-      "amount": 875.2863247863248,
+      "amount": 913.3422519509477,
       "segment": "cargo"
     },
     {
@@ -6316,7 +6706,7 @@
       "hub": "Shalimar Bagh",
       "client": "Blinkit",
       "lineItem": "Maintenance",
-      "amount": 3501.1452991452993,
+      "amount": 3653.3690078037907,
       "segment": "cargo"
     },
     {
@@ -6325,7 +6715,7 @@
       "hub": "Shalimar Bagh",
       "client": "Delhivery",
       "lineItem": "Maintenance",
-      "amount": 875.2863247863248,
+      "amount": 685.0066889632108,
       "segment": "cargo"
     },
     {
@@ -8251,7 +8641,7 @@
       "hub": "Saket",
       "client": "Porter - 3W L3",
       "lineItem": "Maintenance",
-      "amount": 1314.258064516129,
+      "amount": 1293.3968253968253,
       "segment": "cargo"
     },
     {
@@ -8260,7 +8650,16 @@
       "hub": "Saket",
       "client": "Blinkit",
       "lineItem": "Maintenance",
-      "amount": 4347.161290322581,
+      "amount": 4278.158730158731,
+      "segment": "cargo"
+    },
+    {
+      "month": "2026-06",
+      "city": "Delhi",
+      "hub": "Saket",
+      "client": "Delhivery",
+      "lineItem": "Maintenance",
+      "amount": 99.49206349206348,
       "segment": "cargo"
     },
     {
@@ -8269,7 +8668,7 @@
       "hub": "Saket",
       "client": "Rental_L5",
       "lineItem": "Maintenance",
-      "amount": 606.5806451612902,
+      "amount": 596.952380952381,
       "segment": "cargo"
     },
     {
@@ -9034,7 +9433,7 @@
       "hub": "Shalimar Bagh",
       "client": "Porter - 3W L3",
       "lineItem": "Maintenance",
-      "amount": 855.5,
+      "amount": 892.695652173913,
       "segment": "cargo"
     },
     {
@@ -9043,7 +9442,7 @@
       "hub": "Shalimar Bagh",
       "client": "Blinkit",
       "lineItem": "Maintenance",
-      "amount": 3422,
+      "amount": 3570.782608695652,
       "segment": "cargo"
     },
     {
@@ -9052,7 +9451,7 @@
       "hub": "Shalimar Bagh",
       "client": "Delhivery",
       "lineItem": "Maintenance",
-      "amount": 855.5,
+      "amount": 669.5217391304348,
       "segment": "cargo"
     },
     {
@@ -9200,6 +9599,168 @@
       "segment": "cargo"
     },
     {
+      "month": "2026-09",
+      "city": "Delhi",
+      "hub": "Nilothi",
+      "client": "Porter - 3W L3",
+      "lineItem": "Maintenance",
+      "amount": 356.86274509803917,
+      "segment": "cargo"
+    },
+    {
+      "month": "2026-09",
+      "city": "Delhi",
+      "hub": "Nilothi",
+      "client": "Blinkit",
+      "lineItem": "Maintenance",
+      "amount": 768.6274509803923,
+      "segment": "cargo"
+    },
+    {
+      "month": "2026-09",
+      "city": "Delhi",
+      "hub": "Nilothi",
+      "client": "Delhivery",
+      "lineItem": "Maintenance",
+      "amount": 274.5098039215686,
+      "segment": "cargo"
+    },
+    {
+      "month": "2026-09",
+      "city": "Gurgaon",
+      "hub": "Wazirabad",
+      "client": "Porter - 3W L3",
+      "lineItem": "Maintenance",
+      "amount": 8001.742268041237,
+      "segment": "cargo"
+    },
+    {
+      "month": "2026-09",
+      "city": "Gurgaon",
+      "hub": "Wazirabad",
+      "client": "Blinkit",
+      "lineItem": "Maintenance",
+      "amount": 4211.443298969072,
+      "segment": "cargo"
+    },
+    {
+      "month": "2026-09",
+      "city": "Gurgaon",
+      "hub": "Wazirabad",
+      "client": "Delhivery",
+      "lineItem": "Maintenance",
+      "amount": 982.6701030927834,
+      "segment": "cargo"
+    },
+    {
+      "month": "2026-09",
+      "city": "Gurgaon",
+      "hub": "Wazirabad",
+      "client": "Amicco",
+      "lineItem": "Maintenance",
+      "amount": 280.7628865979381,
+      "segment": "cargo"
+    },
+    {
+      "month": "2026-09",
+      "city": "Gurgaon",
+      "hub": "Wazirabad",
+      "client": "Wash4you",
+      "lineItem": "Maintenance",
+      "amount": 140.38144329896906,
+      "segment": "cargo"
+    },
+    {
+      "month": "2026-09",
+      "city": "Gurgaon",
+      "hub": "Wazirabad",
+      "client": "Porter - 3W L3",
+      "lineItem": "Maintenance",
+      "amount": 3016.298969072165,
+      "segment": "cargo"
+    },
+    {
+      "month": "2026-09",
+      "city": "Gurgaon",
+      "hub": "Wazirabad",
+      "client": "Blinkit",
+      "lineItem": "Maintenance",
+      "amount": 1587.5257731958764,
+      "segment": "cargo"
+    },
+    {
+      "month": "2026-09",
+      "city": "Gurgaon",
+      "hub": "Wazirabad",
+      "client": "Delhivery",
+      "lineItem": "Maintenance",
+      "amount": 370.4226804123711,
+      "segment": "cargo"
+    },
+    {
+      "month": "2026-09",
+      "city": "Gurgaon",
+      "hub": "Wazirabad",
+      "client": "Amicco",
+      "lineItem": "Maintenance",
+      "amount": 105.83505154639175,
+      "segment": "cargo"
+    },
+    {
+      "month": "2026-09",
+      "city": "Gurgaon",
+      "hub": "Wazirabad",
+      "client": "Wash4you",
+      "lineItem": "Maintenance",
+      "amount": 52.91752577319588,
+      "segment": "cargo"
+    },
+    {
+      "month": "2026-09",
+      "city": "Gurgaon",
+      "hub": "Wazirabad",
+      "client": "Porter - 3W L3",
+      "lineItem": "Maintenance",
+      "amount": 646.3917525773196,
+      "segment": "cargo"
+    },
+    {
+      "month": "2026-09",
+      "city": "Gurgaon",
+      "hub": "Wazirabad",
+      "client": "Blinkit",
+      "lineItem": "Maintenance",
+      "amount": 340.2061855670103,
+      "segment": "cargo"
+    },
+    {
+      "month": "2026-09",
+      "city": "Gurgaon",
+      "hub": "Wazirabad",
+      "client": "Delhivery",
+      "lineItem": "Maintenance",
+      "amount": 79.38144329896906,
+      "segment": "cargo"
+    },
+    {
+      "month": "2026-09",
+      "city": "Gurgaon",
+      "hub": "Wazirabad",
+      "client": "Amicco",
+      "lineItem": "Maintenance",
+      "amount": 22.68041237113402,
+      "segment": "cargo"
+    },
+    {
+      "month": "2026-09",
+      "city": "Gurgaon",
+      "hub": "Wazirabad",
+      "client": "Wash4you",
+      "lineItem": "Maintenance",
+      "amount": 11.34020618556701,
+      "segment": "cargo"
+    },
+    {
       "month": "2026-06",
       "city": "Delhi",
       "hub": "Nilothi",
@@ -9232,7 +9793,7 @@
       "hub": "Saket",
       "client": "Porter - 3W L3",
       "lineItem": "Maintenance",
-      "amount": 74.85483870967742,
+      "amount": 73.66666666666666,
       "segment": "cargo"
     },
     {
@@ -9241,7 +9802,16 @@
       "hub": "Saket",
       "client": "Blinkit",
       "lineItem": "Maintenance",
-      "amount": 247.5967741935484,
+      "amount": 243.66666666666669,
+      "segment": "cargo"
+    },
+    {
+      "month": "2026-06",
+      "city": "Delhi",
+      "hub": "Saket",
+      "client": "Delhivery",
+      "lineItem": "Maintenance",
+      "amount": 5.666666666666666,
       "segment": "cargo"
     },
     {
@@ -9250,7 +9820,7 @@
       "hub": "Saket",
       "client": "Rental_L5",
       "lineItem": "Maintenance",
-      "amount": 34.54838709677419,
+      "amount": 34,
       "segment": "cargo"
     },
     {
@@ -9430,7 +10000,7 @@
       "hub": "Saket",
       "client": "Porter - 3W L3",
       "lineItem": "Maintenance",
-      "amount": 13.629032258064516,
+      "amount": 13.412698412698411,
       "segment": "cargo"
     },
     {
@@ -9439,7 +10009,16 @@
       "hub": "Saket",
       "client": "Blinkit",
       "lineItem": "Maintenance",
-      "amount": 45.08064516129033,
+      "amount": 44.36507936507937,
+      "segment": "cargo"
+    },
+    {
+      "month": "2026-06",
+      "city": "Delhi",
+      "hub": "Saket",
+      "client": "Delhivery",
+      "lineItem": "Maintenance",
+      "amount": 1.0317460317460316,
       "segment": "cargo"
     },
     {
@@ -9448,7 +10027,7 @@
       "hub": "Saket",
       "client": "Rental_L5",
       "lineItem": "Maintenance",
-      "amount": 6.290322580645161,
+      "amount": 6.19047619047619,
       "segment": "cargo"
     },
     {
@@ -9457,7 +10036,7 @@
       "hub": "Saket",
       "client": "Porter - 3W L3",
       "lineItem": "Maintenance",
-      "amount": 37.74193548387097,
+      "amount": 37.14285714285714,
       "segment": "cargo"
     },
     {
@@ -9466,7 +10045,16 @@
       "hub": "Saket",
       "client": "Blinkit",
       "lineItem": "Maintenance",
-      "amount": 124.83870967741936,
+      "amount": 122.85714285714286,
+      "segment": "cargo"
+    },
+    {
+      "month": "2026-06",
+      "city": "Delhi",
+      "hub": "Saket",
+      "client": "Delhivery",
+      "lineItem": "Maintenance",
+      "amount": 2.8571428571428568,
       "segment": "cargo"
     },
     {
@@ -9475,7 +10063,7 @@
       "hub": "Saket",
       "client": "Rental_L5",
       "lineItem": "Maintenance",
-      "amount": 17.419354838709676,
+      "amount": 17.142857142857142,
       "segment": "cargo"
     },
     {
@@ -9565,7 +10153,7 @@
       "hub": "Saket",
       "client": "Porter - 3W L3",
       "lineItem": "Maintenance",
-      "amount": 54.516129032258064,
+      "amount": 53.650793650793645,
       "segment": "cargo"
     },
     {
@@ -9574,7 +10162,16 @@
       "hub": "Saket",
       "client": "Blinkit",
       "lineItem": "Maintenance",
-      "amount": 180.3225806451613,
+      "amount": 177.46031746031747,
+      "segment": "cargo"
+    },
+    {
+      "month": "2026-06",
+      "city": "Delhi",
+      "hub": "Saket",
+      "client": "Delhivery",
+      "lineItem": "Maintenance",
+      "amount": 4.1269841269841265,
       "segment": "cargo"
     },
     {
@@ -9583,7 +10180,7 @@
       "hub": "Saket",
       "client": "Rental_L5",
       "lineItem": "Maintenance",
-      "amount": 25.161290322580644,
+      "amount": 24.76190476190476,
       "segment": "cargo"
     },
     {
@@ -9970,7 +10567,7 @@
       "hub": "Saket",
       "client": "Porter - 3W L3",
       "lineItem": "Maintenance",
-      "amount": 74.85483870967742,
+      "amount": 73.66666666666666,
       "segment": "cargo"
     },
     {
@@ -9979,7 +10576,16 @@
       "hub": "Saket",
       "client": "Blinkit",
       "lineItem": "Maintenance",
-      "amount": 247.5967741935484,
+      "amount": 243.66666666666669,
+      "segment": "cargo"
+    },
+    {
+      "month": "2026-06",
+      "city": "Delhi",
+      "hub": "Saket",
+      "client": "Delhivery",
+      "lineItem": "Maintenance",
+      "amount": 5.666666666666666,
       "segment": "cargo"
     },
     {
@@ -9988,7 +10594,7 @@
       "hub": "Saket",
       "client": "Rental_L5",
       "lineItem": "Maintenance",
-      "amount": 34.54838709677419,
+      "amount": 34,
       "segment": "cargo"
     },
     {
@@ -9997,7 +10603,7 @@
       "hub": "Saket",
       "client": "Porter - 3W L3",
       "lineItem": "Maintenance",
-      "amount": 74.85483870967742,
+      "amount": 73.66666666666666,
       "segment": "cargo"
     },
     {
@@ -10006,7 +10612,16 @@
       "hub": "Saket",
       "client": "Blinkit",
       "lineItem": "Maintenance",
-      "amount": 247.5967741935484,
+      "amount": 243.66666666666669,
+      "segment": "cargo"
+    },
+    {
+      "month": "2026-06",
+      "city": "Delhi",
+      "hub": "Saket",
+      "client": "Delhivery",
+      "lineItem": "Maintenance",
+      "amount": 5.666666666666666,
       "segment": "cargo"
     },
     {
@@ -10015,7 +10630,7 @@
       "hub": "Saket",
       "client": "Rental_L5",
       "lineItem": "Maintenance",
-      "amount": 34.54838709677419,
+      "amount": 34,
       "segment": "cargo"
     },
     {
@@ -10069,7 +10684,7 @@
       "hub": "Saket",
       "client": "Porter - 3W L3",
       "lineItem": "Maintenance",
-      "amount": 77.79032258064517,
+      "amount": 76.55555555555556,
       "segment": "cargo"
     },
     {
@@ -10078,7 +10693,16 @@
       "hub": "Saket",
       "client": "Blinkit",
       "lineItem": "Maintenance",
-      "amount": 257.30645161290323,
+      "amount": 253.22222222222223,
+      "segment": "cargo"
+    },
+    {
+      "month": "2026-06",
+      "city": "Delhi",
+      "hub": "Saket",
+      "client": "Delhivery",
+      "lineItem": "Maintenance",
+      "amount": 5.888888888888888,
       "segment": "cargo"
     },
     {
@@ -10087,7 +10711,7 @@
       "hub": "Saket",
       "client": "Rental_L5",
       "lineItem": "Maintenance",
-      "amount": 35.90322580645161,
+      "amount": 35.33333333333333,
       "segment": "cargo"
     },
     {
@@ -10105,7 +10729,7 @@
       "hub": "Saket",
       "client": "Porter - 3W L3",
       "lineItem": "Maintenance",
-      "amount": 13.629032258064516,
+      "amount": 13.412698412698411,
       "segment": "cargo"
     },
     {
@@ -10114,7 +10738,16 @@
       "hub": "Saket",
       "client": "Blinkit",
       "lineItem": "Maintenance",
-      "amount": 45.08064516129033,
+      "amount": 44.36507936507937,
+      "segment": "cargo"
+    },
+    {
+      "month": "2026-06",
+      "city": "Delhi",
+      "hub": "Saket",
+      "client": "Delhivery",
+      "lineItem": "Maintenance",
+      "amount": 1.0317460317460316,
       "segment": "cargo"
     },
     {
@@ -10123,7 +10756,7 @@
       "hub": "Saket",
       "client": "Rental_L5",
       "lineItem": "Maintenance",
-      "amount": 6.290322580645161,
+      "amount": 6.19047619047619,
       "segment": "cargo"
     },
     {
@@ -10231,7 +10864,7 @@
       "hub": "Saket",
       "client": "Porter - 3W L3",
       "lineItem": "Maintenance",
-      "amount": 54.516129032258064,
+      "amount": 53.650793650793645,
       "segment": "cargo"
     },
     {
@@ -10240,7 +10873,16 @@
       "hub": "Saket",
       "client": "Blinkit",
       "lineItem": "Maintenance",
-      "amount": 180.3225806451613,
+      "amount": 177.46031746031747,
+      "segment": "cargo"
+    },
+    {
+      "month": "2026-06",
+      "city": "Delhi",
+      "hub": "Saket",
+      "client": "Delhivery",
+      "lineItem": "Maintenance",
+      "amount": 4.1269841269841265,
       "segment": "cargo"
     },
     {
@@ -10249,7 +10891,7 @@
       "hub": "Saket",
       "client": "Rental_L5",
       "lineItem": "Maintenance",
-      "amount": 25.161290322580644,
+      "amount": 24.76190476190476,
       "segment": "cargo"
     },
     {
@@ -10285,7 +10927,7 @@
       "hub": "Saket",
       "client": "Porter - 3W L3",
       "lineItem": "Maintenance",
-      "amount": 113.22580645161291,
+      "amount": 111.42857142857142,
       "segment": "cargo"
     },
     {
@@ -10294,7 +10936,16 @@
       "hub": "Saket",
       "client": "Blinkit",
       "lineItem": "Maintenance",
-      "amount": 374.5161290322581,
+      "amount": 368.57142857142856,
+      "segment": "cargo"
+    },
+    {
+      "month": "2026-06",
+      "city": "Delhi",
+      "hub": "Saket",
+      "client": "Delhivery",
+      "lineItem": "Maintenance",
+      "amount": 8.571428571428571,
       "segment": "cargo"
     },
     {
@@ -10303,7 +10954,7 @@
       "hub": "Saket",
       "client": "Rental_L5",
       "lineItem": "Maintenance",
-      "amount": 52.25806451612903,
+      "amount": 51.42857142857142,
       "segment": "cargo"
     },
     {
@@ -10348,7 +10999,7 @@
       "hub": "Saket",
       "client": "Porter - 3W L3",
       "lineItem": "Maintenance",
-      "amount": 14.67741935483871,
+      "amount": 14.444444444444443,
       "segment": "cargo"
     },
     {
@@ -10357,7 +11008,16 @@
       "hub": "Saket",
       "client": "Blinkit",
       "lineItem": "Maintenance",
-      "amount": 48.5483870967742,
+      "amount": 47.77777777777778,
+      "segment": "cargo"
+    },
+    {
+      "month": "2026-06",
+      "city": "Delhi",
+      "hub": "Saket",
+      "client": "Delhivery",
+      "lineItem": "Maintenance",
+      "amount": 1.1111111111111112,
       "segment": "cargo"
     },
     {
@@ -10366,7 +11026,7 @@
       "hub": "Saket",
       "client": "Rental_L5",
       "lineItem": "Maintenance",
-      "amount": 6.774193548387097,
+      "amount": 6.666666666666666,
       "segment": "cargo"
     },
     {
@@ -10402,7 +11062,7 @@
       "hub": "Saket",
       "client": "Porter - 3W L3",
       "lineItem": "Maintenance",
-      "amount": 41.935483870967744,
+      "amount": 41.269841269841265,
       "segment": "cargo"
     },
     {
@@ -10411,7 +11071,16 @@
       "hub": "Saket",
       "client": "Blinkit",
       "lineItem": "Maintenance",
-      "amount": 138.70967741935485,
+      "amount": 136.5079365079365,
+      "segment": "cargo"
+    },
+    {
+      "month": "2026-06",
+      "city": "Delhi",
+      "hub": "Saket",
+      "client": "Delhivery",
+      "lineItem": "Maintenance",
+      "amount": 3.1746031746031744,
       "segment": "cargo"
     },
     {
@@ -10420,7 +11089,7 @@
       "hub": "Saket",
       "client": "Rental_L5",
       "lineItem": "Maintenance",
-      "amount": 19.35483870967742,
+      "amount": 19.047619047619047,
       "segment": "cargo"
     },
     {
@@ -11959,7 +12628,7 @@
       "hub": "Saket",
       "client": "Porter - 3W L3",
       "lineItem": "Maintenance",
-      "amount": 54.516129032258064,
+      "amount": 53.650793650793645,
       "segment": "cargo"
     },
     {
@@ -11968,7 +12637,16 @@
       "hub": "Saket",
       "client": "Blinkit",
       "lineItem": "Maintenance",
-      "amount": 180.3225806451613,
+      "amount": 177.46031746031747,
+      "segment": "cargo"
+    },
+    {
+      "month": "2026-07",
+      "city": "Delhi",
+      "hub": "Saket",
+      "client": "Delhivery",
+      "lineItem": "Maintenance",
+      "amount": 4.1269841269841265,
       "segment": "cargo"
     },
     {
@@ -11977,7 +12655,7 @@
       "hub": "Saket",
       "client": "Rental_L5",
       "lineItem": "Maintenance",
-      "amount": 25.161290322580644,
+      "amount": 24.76190476190476,
       "segment": "cargo"
     },
     {
@@ -12373,7 +13051,7 @@
       "hub": "Saket",
       "client": "Porter - 3W L3",
       "lineItem": "Maintenance",
-      "amount": 23.06451612903226,
+      "amount": 22.698412698412696,
       "segment": "cargo"
     },
     {
@@ -12382,7 +13060,16 @@
       "hub": "Saket",
       "client": "Blinkit",
       "lineItem": "Maintenance",
-      "amount": 76.29032258064517,
+      "amount": 75.07936507936508,
+      "segment": "cargo"
+    },
+    {
+      "month": "2026-07",
+      "city": "Delhi",
+      "hub": "Saket",
+      "client": "Delhivery",
+      "lineItem": "Maintenance",
+      "amount": 1.746031746031746,
       "segment": "cargo"
     },
     {
@@ -12391,7 +13078,7 @@
       "hub": "Saket",
       "client": "Rental_L5",
       "lineItem": "Maintenance",
-      "amount": 10.64516129032258,
+      "amount": 10.476190476190476,
       "segment": "cargo"
     },
     {
@@ -12400,7 +13087,7 @@
       "hub": "Saket",
       "client": "Porter - 3W L3",
       "lineItem": "Maintenance",
-      "amount": 13.629032258064516,
+      "amount": 13.412698412698411,
       "segment": "cargo"
     },
     {
@@ -12409,7 +13096,16 @@
       "hub": "Saket",
       "client": "Blinkit",
       "lineItem": "Maintenance",
-      "amount": 45.08064516129033,
+      "amount": 44.36507936507937,
+      "segment": "cargo"
+    },
+    {
+      "month": "2026-07",
+      "city": "Delhi",
+      "hub": "Saket",
+      "client": "Delhivery",
+      "lineItem": "Maintenance",
+      "amount": 1.0317460317460316,
       "segment": "cargo"
     },
     {
@@ -12418,7 +13114,7 @@
       "hub": "Saket",
       "client": "Rental_L5",
       "lineItem": "Maintenance",
-      "amount": 6.290322580645161,
+      "amount": 6.19047619047619,
       "segment": "cargo"
     },
     {
@@ -13093,7 +13789,7 @@
       "hub": "Shalimar Bagh",
       "client": "Porter - 3W L3",
       "lineItem": "Maintenance",
-      "amount": 18.333333333333332,
+      "amount": 19.130434782608695,
       "segment": "cargo"
     },
     {
@@ -13102,7 +13798,7 @@
       "hub": "Shalimar Bagh",
       "client": "Blinkit",
       "lineItem": "Maintenance",
-      "amount": 73.33333333333333,
+      "amount": 76.52173913043478,
       "segment": "cargo"
     },
     {
@@ -13111,7 +13807,7 @@
       "hub": "Shalimar Bagh",
       "client": "Delhivery",
       "lineItem": "Maintenance",
-      "amount": 18.333333333333332,
+      "amount": 14.347826086956522,
       "segment": "cargo"
     },
     {
@@ -13120,7 +13816,7 @@
       "hub": "Shalimar Bagh",
       "client": "Porter - 3W L3",
       "lineItem": "Maintenance",
-      "amount": 18.333333333333332,
+      "amount": 19.130434782608695,
       "segment": "cargo"
     },
     {
@@ -13129,7 +13825,7 @@
       "hub": "Shalimar Bagh",
       "client": "Blinkit",
       "lineItem": "Maintenance",
-      "amount": 73.33333333333333,
+      "amount": 76.52173913043478,
       "segment": "cargo"
     },
     {
@@ -13138,7 +13834,7 @@
       "hub": "Shalimar Bagh",
       "client": "Delhivery",
       "lineItem": "Maintenance",
-      "amount": 18.333333333333332,
+      "amount": 14.347826086956522,
       "segment": "cargo"
     },
     {
@@ -13147,7 +13843,7 @@
       "hub": "Shalimar Bagh",
       "client": "Porter - 3W L3",
       "lineItem": "Maintenance",
-      "amount": 18.333333333333332,
+      "amount": 19.130434782608695,
       "segment": "cargo"
     },
     {
@@ -13156,7 +13852,7 @@
       "hub": "Shalimar Bagh",
       "client": "Blinkit",
       "lineItem": "Maintenance",
-      "amount": 73.33333333333333,
+      "amount": 76.52173913043478,
       "segment": "cargo"
     },
     {
@@ -13165,7 +13861,7 @@
       "hub": "Shalimar Bagh",
       "client": "Delhivery",
       "lineItem": "Maintenance",
-      "amount": 18.333333333333332,
+      "amount": 14.347826086956522,
       "segment": "cargo"
     },
     {
@@ -15064,7 +15760,7 @@
       "hub": "Saket",
       "client": "Porter - 3W L3",
       "lineItem": "Maintenance",
-      "amount": 101.90322580645162,
+      "amount": 100.28571428571428,
       "segment": "cargo"
     },
     {
@@ -15073,7 +15769,16 @@
       "hub": "Saket",
       "client": "Blinkit",
       "lineItem": "Maintenance",
-      "amount": 337.06451612903226,
+      "amount": 331.7142857142857,
+      "segment": "cargo"
+    },
+    {
+      "month": "2026-07",
+      "city": "Gurgaon",
+      "hub": "Saket",
+      "client": "Delhivery",
+      "lineItem": "Maintenance",
+      "amount": 7.7142857142857135,
       "segment": "cargo"
     },
     {
@@ -15082,7 +15787,7 @@
       "hub": "Saket",
       "client": "Rental_L5",
       "lineItem": "Maintenance",
-      "amount": 47.03225806451613,
+      "amount": 46.285714285714285,
       "segment": "cargo"
     },
     {
@@ -15091,7 +15796,7 @@
       "hub": "Saket",
       "client": "Porter - 3W L3",
       "lineItem": "Maintenance",
-      "amount": 31.451612903225808,
+      "amount": 30.95238095238095,
       "segment": "cargo"
     },
     {
@@ -15100,7 +15805,16 @@
       "hub": "Saket",
       "client": "Blinkit",
       "lineItem": "Maintenance",
-      "amount": 104.03225806451614,
+      "amount": 102.38095238095238,
+      "segment": "cargo"
+    },
+    {
+      "month": "2026-07",
+      "city": "Delhi",
+      "hub": "Saket",
+      "client": "Delhivery",
+      "lineItem": "Maintenance",
+      "amount": 2.380952380952381,
       "segment": "cargo"
     },
     {
@@ -15109,7 +15823,7 @@
       "hub": "Saket",
       "client": "Rental_L5",
       "lineItem": "Maintenance",
-      "amount": 14.516129032258064,
+      "amount": 14.285714285714285,
       "segment": "cargo"
     },
     {
@@ -15433,7 +16147,7 @@
       "hub": "Saket",
       "client": "Porter - 3W L3",
       "lineItem": "Maintenance",
-      "amount": 41.935483870967744,
+      "amount": 41.269841269841265,
       "segment": "cargo"
     },
     {
@@ -15442,7 +16156,16 @@
       "hub": "Saket",
       "client": "Blinkit",
       "lineItem": "Maintenance",
-      "amount": 138.70967741935485,
+      "amount": 136.5079365079365,
+      "segment": "cargo"
+    },
+    {
+      "month": "2026-07",
+      "city": "Delhi",
+      "hub": "Saket",
+      "client": "Delhivery",
+      "lineItem": "Maintenance",
+      "amount": 3.1746031746031744,
       "segment": "cargo"
     },
     {
@@ -15451,7 +16174,7 @@
       "hub": "Saket",
       "client": "Rental_L5",
       "lineItem": "Maintenance",
-      "amount": 19.35483870967742,
+      "amount": 19.047619047619047,
       "segment": "cargo"
     },
     {
@@ -15460,7 +16183,7 @@
       "hub": "Saket",
       "client": "Porter - 3W L3",
       "lineItem": "Maintenance",
-      "amount": 61.85483870967742,
+      "amount": 60.873015873015866,
       "segment": "cargo"
     },
     {
@@ -15469,7 +16192,16 @@
       "hub": "Saket",
       "client": "Blinkit",
       "lineItem": "Maintenance",
-      "amount": 204.5967741935484,
+      "amount": 201.34920634920636,
+      "segment": "cargo"
+    },
+    {
+      "month": "2026-07",
+      "city": "Delhi",
+      "hub": "Saket",
+      "client": "Delhivery",
+      "lineItem": "Maintenance",
+      "amount": 4.682539682539682,
       "segment": "cargo"
     },
     {
@@ -15478,7 +16210,7 @@
       "hub": "Saket",
       "client": "Rental_L5",
       "lineItem": "Maintenance",
-      "amount": 28.548387096774192,
+      "amount": 28.095238095238095,
       "segment": "cargo"
     },
     {
@@ -15487,7 +16219,7 @@
       "hub": "Saket",
       "client": "Porter - 3W L3",
       "lineItem": "Maintenance",
-      "amount": 54.516129032258064,
+      "amount": 53.650793650793645,
       "segment": "cargo"
     },
     {
@@ -15496,7 +16228,16 @@
       "hub": "Saket",
       "client": "Blinkit",
       "lineItem": "Maintenance",
-      "amount": 180.3225806451613,
+      "amount": 177.46031746031747,
+      "segment": "cargo"
+    },
+    {
+      "month": "2026-07",
+      "city": "Delhi",
+      "hub": "Saket",
+      "client": "Delhivery",
+      "lineItem": "Maintenance",
+      "amount": 4.1269841269841265,
       "segment": "cargo"
     },
     {
@@ -15505,7 +16246,7 @@
       "hub": "Saket",
       "client": "Rental_L5",
       "lineItem": "Maintenance",
-      "amount": 25.161290322580644,
+      "amount": 24.76190476190476,
       "segment": "cargo"
     },
     {
@@ -15514,7 +16255,7 @@
       "hub": "Saket",
       "client": "Porter - 3W L3",
       "lineItem": "Maintenance",
-      "amount": 59.33870967741936,
+      "amount": 58.39682539682539,
       "segment": "cargo"
     },
     {
@@ -15523,7 +16264,16 @@
       "hub": "Saket",
       "client": "Blinkit",
       "lineItem": "Maintenance",
-      "amount": 196.2741935483871,
+      "amount": 193.15873015873015,
+      "segment": "cargo"
+    },
+    {
+      "month": "2026-07",
+      "city": "Delhi",
+      "hub": "Saket",
+      "client": "Delhivery",
+      "lineItem": "Maintenance",
+      "amount": 4.492063492063492,
       "segment": "cargo"
     },
     {
@@ -15532,7 +16282,7 @@
       "hub": "Saket",
       "client": "Rental_L5",
       "lineItem": "Maintenance",
-      "amount": 27.387096774193548,
+      "amount": 26.952380952380953,
       "segment": "cargo"
     },
     {
@@ -16504,7 +17254,7 @@
       "hub": "Saket",
       "client": "Porter - 3W L3",
       "lineItem": "Maintenance",
-      "amount": 54.516129032258064,
+      "amount": 53.650793650793645,
       "segment": "cargo"
     },
     {
@@ -16513,7 +17263,16 @@
       "hub": "Saket",
       "client": "Blinkit",
       "lineItem": "Maintenance",
-      "amount": 180.3225806451613,
+      "amount": 177.46031746031747,
+      "segment": "cargo"
+    },
+    {
+      "month": "2026-07",
+      "city": "Delhi",
+      "hub": "Saket",
+      "client": "Delhivery",
+      "lineItem": "Maintenance",
+      "amount": 4.1269841269841265,
       "segment": "cargo"
     },
     {
@@ -16522,7 +17281,7 @@
       "hub": "Saket",
       "client": "Rental_L5",
       "lineItem": "Maintenance",
-      "amount": 25.161290322580644,
+      "amount": 24.76190476190476,
       "segment": "cargo"
     },
     {
@@ -16576,7 +17335,7 @@
       "hub": "Saket",
       "client": "Porter - 3W L3",
       "lineItem": "Maintenance",
-      "amount": 308.2258064516129,
+      "amount": 303.3333333333333,
       "segment": "cargo"
     },
     {
@@ -16585,7 +17344,16 @@
       "hub": "Saket",
       "client": "Blinkit",
       "lineItem": "Maintenance",
-      "amount": 1019.5161290322582,
+      "amount": 1003.3333333333334,
+      "segment": "cargo"
+    },
+    {
+      "month": "2026-07",
+      "city": "Delhi",
+      "hub": "Saket",
+      "client": "Delhivery",
+      "lineItem": "Maintenance",
+      "amount": 23.333333333333332,
       "segment": "cargo"
     },
     {
@@ -16594,7 +17362,7 @@
       "hub": "Saket",
       "client": "Rental_L5",
       "lineItem": "Maintenance",
-      "amount": 142.25806451612902,
+      "amount": 140,
       "segment": "cargo"
     },
     {
@@ -16648,7 +17416,7 @@
       "hub": "Saket",
       "client": "Porter - 3W L3",
       "lineItem": "Maintenance",
-      "amount": 113.22580645161291,
+      "amount": 111.42857142857142,
       "segment": "cargo"
     },
     {
@@ -16657,7 +17425,16 @@
       "hub": "Saket",
       "client": "Blinkit",
       "lineItem": "Maintenance",
-      "amount": 374.5161290322581,
+      "amount": 368.57142857142856,
+      "segment": "cargo"
+    },
+    {
+      "month": "2026-07",
+      "city": "Delhi",
+      "hub": "Saket",
+      "client": "Delhivery",
+      "lineItem": "Maintenance",
+      "amount": 8.571428571428571,
       "segment": "cargo"
     },
     {
@@ -16666,7 +17443,7 @@
       "hub": "Saket",
       "client": "Rental_L5",
       "lineItem": "Maintenance",
-      "amount": 52.25806451612903,
+      "amount": 51.42857142857142,
       "segment": "cargo"
     },
     {
@@ -16675,7 +17452,7 @@
       "hub": "Saket",
       "client": "Porter - 3W L3",
       "lineItem": "Maintenance",
-      "amount": 71.29032258064517,
+      "amount": 70.15873015873015,
       "segment": "cargo"
     },
     {
@@ -16684,7 +17461,16 @@
       "hub": "Saket",
       "client": "Blinkit",
       "lineItem": "Maintenance",
-      "amount": 235.80645161290323,
+      "amount": 232.06349206349208,
+      "segment": "cargo"
+    },
+    {
+      "month": "2026-07",
+      "city": "Delhi",
+      "hub": "Saket",
+      "client": "Delhivery",
+      "lineItem": "Maintenance",
+      "amount": 5.396825396825396,
       "segment": "cargo"
     },
     {
@@ -16693,7 +17479,7 @@
       "hub": "Saket",
       "client": "Rental_L5",
       "lineItem": "Maintenance",
-      "amount": 32.90322580645161,
+      "amount": 32.38095238095238,
       "segment": "cargo"
     },
     {
@@ -17512,7 +18298,7 @@
       "hub": "Shalimar Bagh",
       "client": "Porter - 3W L3",
       "lineItem": "Maintenance",
-      "amount": 144.16666666666666,
+      "amount": 150.43478260869566,
       "segment": "cargo"
     },
     {
@@ -17521,7 +18307,7 @@
       "hub": "Shalimar Bagh",
       "client": "Blinkit",
       "lineItem": "Maintenance",
-      "amount": 576.6666666666666,
+      "amount": 601.7391304347826,
       "segment": "cargo"
     },
     {
@@ -17530,7 +18316,7 @@
       "hub": "Shalimar Bagh",
       "client": "Delhivery",
       "lineItem": "Maintenance",
-      "amount": 144.16666666666666,
+      "amount": 112.82608695652173,
       "segment": "cargo"
     },
     {
@@ -17539,7 +18325,7 @@
       "hub": "Shalimar Bagh",
       "client": "Porter - 3W L3",
       "lineItem": "Maintenance",
-      "amount": 8,
+      "amount": 8.347826086956522,
       "segment": "cargo"
     },
     {
@@ -17548,7 +18334,7 @@
       "hub": "Shalimar Bagh",
       "client": "Blinkit",
       "lineItem": "Maintenance",
-      "amount": 32,
+      "amount": 33.391304347826086,
       "segment": "cargo"
     },
     {
@@ -17557,7 +18343,7 @@
       "hub": "Shalimar Bagh",
       "client": "Delhivery",
       "lineItem": "Maintenance",
-      "amount": 8,
+      "amount": 6.260869565217391,
       "segment": "cargo"
     },
     {
@@ -17566,7 +18352,7 @@
       "hub": "Shalimar Bagh",
       "client": "Porter - 3W L3",
       "lineItem": "Maintenance",
-      "amount": 10.833333333333332,
+      "amount": 11.304347826086957,
       "segment": "cargo"
     },
     {
@@ -17575,7 +18361,7 @@
       "hub": "Shalimar Bagh",
       "client": "Blinkit",
       "lineItem": "Maintenance",
-      "amount": 43.33333333333333,
+      "amount": 45.21739130434783,
       "segment": "cargo"
     },
     {
@@ -17584,7 +18370,7 @@
       "hub": "Shalimar Bagh",
       "client": "Delhivery",
       "lineItem": "Maintenance",
-      "amount": 10.833333333333332,
+      "amount": 8.478260869565217,
       "segment": "cargo"
     },
     {
@@ -17593,7 +18379,7 @@
       "hub": "Shalimar Bagh",
       "client": "Porter - 3W L3",
       "lineItem": "Maintenance",
-      "amount": 18.333333333333332,
+      "amount": 19.130434782608695,
       "segment": "cargo"
     },
     {
@@ -17602,7 +18388,7 @@
       "hub": "Shalimar Bagh",
       "client": "Blinkit",
       "lineItem": "Maintenance",
-      "amount": 73.33333333333333,
+      "amount": 76.52173913043478,
       "segment": "cargo"
     },
     {
@@ -17611,7 +18397,7 @@
       "hub": "Shalimar Bagh",
       "client": "Delhivery",
       "lineItem": "Maintenance",
-      "amount": 18.333333333333332,
+      "amount": 14.347826086956522,
       "segment": "cargo"
     },
     {
@@ -17647,7 +18433,7 @@
       "hub": "Saket",
       "client": "Porter - 3W L3",
       "lineItem": "Maintenance",
-      "amount": 71.29032258064517,
+      "amount": 70.15873015873015,
       "segment": "cargo"
     },
     {
@@ -17656,7 +18442,16 @@
       "hub": "Saket",
       "client": "Blinkit",
       "lineItem": "Maintenance",
-      "amount": 235.80645161290323,
+      "amount": 232.06349206349208,
+      "segment": "cargo"
+    },
+    {
+      "month": "2026-07",
+      "city": "Delhi",
+      "hub": "Saket",
+      "client": "Delhivery",
+      "lineItem": "Maintenance",
+      "amount": 5.396825396825396,
       "segment": "cargo"
     },
     {
@@ -17665,7 +18460,7 @@
       "hub": "Saket",
       "client": "Rental_L5",
       "lineItem": "Maintenance",
-      "amount": 32.90322580645161,
+      "amount": 32.38095238095238,
       "segment": "cargo"
     },
     {
@@ -17890,7 +18685,7 @@
       "hub": "Saket",
       "client": "Porter - 3W L3",
       "lineItem": "Maintenance",
-      "amount": 14.67741935483871,
+      "amount": 14.444444444444443,
       "segment": "cargo"
     },
     {
@@ -17899,7 +18694,16 @@
       "hub": "Saket",
       "client": "Blinkit",
       "lineItem": "Maintenance",
-      "amount": 48.5483870967742,
+      "amount": 47.77777777777778,
+      "segment": "cargo"
+    },
+    {
+      "month": "2026-07",
+      "city": "Delhi",
+      "hub": "Saket",
+      "client": "Delhivery",
+      "lineItem": "Maintenance",
+      "amount": 1.1111111111111112,
       "segment": "cargo"
     },
     {
@@ -17908,7 +18712,7 @@
       "hub": "Saket",
       "client": "Rental_L5",
       "lineItem": "Maintenance",
-      "amount": 6.774193548387097,
+      "amount": 6.666666666666666,
       "segment": "cargo"
     },
     {
@@ -17917,7 +18721,7 @@
       "hub": "Saket",
       "client": "Porter - 3W L3",
       "lineItem": "Maintenance",
-      "amount": 205.48387096774195,
+      "amount": 202.2222222222222,
       "segment": "cargo"
     },
     {
@@ -17926,7 +18730,16 @@
       "hub": "Saket",
       "client": "Blinkit",
       "lineItem": "Maintenance",
-      "amount": 679.6774193548388,
+      "amount": 668.8888888888889,
+      "segment": "cargo"
+    },
+    {
+      "month": "2026-07",
+      "city": "Delhi",
+      "hub": "Saket",
+      "client": "Delhivery",
+      "lineItem": "Maintenance",
+      "amount": 15.555555555555555,
       "segment": "cargo"
     },
     {
@@ -17935,7 +18748,7 @@
       "hub": "Saket",
       "client": "Rental_L5",
       "lineItem": "Maintenance",
-      "amount": 94.83870967741935,
+      "amount": 93.33333333333333,
       "segment": "cargo"
     },
     {
@@ -17944,7 +18757,7 @@
       "hub": "Saket",
       "client": "Porter - 3W L3",
       "lineItem": "Maintenance",
-      "amount": 23.06451612903226,
+      "amount": 22.698412698412696,
       "segment": "cargo"
     },
     {
@@ -17953,7 +18766,16 @@
       "hub": "Saket",
       "client": "Blinkit",
       "lineItem": "Maintenance",
-      "amount": 76.29032258064517,
+      "amount": 75.07936507936508,
+      "segment": "cargo"
+    },
+    {
+      "month": "2026-07",
+      "city": "Delhi",
+      "hub": "Saket",
+      "client": "Delhivery",
+      "lineItem": "Maintenance",
+      "amount": 1.746031746031746,
       "segment": "cargo"
     },
     {
@@ -17962,7 +18784,7 @@
       "hub": "Saket",
       "client": "Rental_L5",
       "lineItem": "Maintenance",
-      "amount": 10.64516129032258,
+      "amount": 10.476190476190476,
       "segment": "cargo"
     },
     {
@@ -18817,7 +19639,7 @@
       "hub": "Saket",
       "client": "Porter - 3W L3",
       "lineItem": "Maintenance",
-      "amount": 23.06451612903226,
+      "amount": 22.698412698412696,
       "segment": "cargo"
     },
     {
@@ -18826,7 +19648,16 @@
       "hub": "Saket",
       "client": "Blinkit",
       "lineItem": "Maintenance",
-      "amount": 76.29032258064517,
+      "amount": 75.07936507936508,
+      "segment": "cargo"
+    },
+    {
+      "month": "2026-08",
+      "city": "Delhi",
+      "hub": "Saket",
+      "client": "Delhivery",
+      "lineItem": "Maintenance",
+      "amount": 1.746031746031746,
       "segment": "cargo"
     },
     {
@@ -18835,7 +19666,7 @@
       "hub": "Saket",
       "client": "Rental_L5",
       "lineItem": "Maintenance",
-      "amount": 10.64516129032258,
+      "amount": 10.476190476190476,
       "segment": "cargo"
     },
     {
@@ -18844,7 +19675,7 @@
       "hub": "Saket",
       "client": "Porter - 3W L3",
       "lineItem": "Maintenance",
-      "amount": 71.29032258064517,
+      "amount": 70.15873015873015,
       "segment": "cargo"
     },
     {
@@ -18853,7 +19684,16 @@
       "hub": "Saket",
       "client": "Blinkit",
       "lineItem": "Maintenance",
-      "amount": 235.80645161290323,
+      "amount": 232.06349206349208,
+      "segment": "cargo"
+    },
+    {
+      "month": "2026-08",
+      "city": "Delhi",
+      "hub": "Saket",
+      "client": "Delhivery",
+      "lineItem": "Maintenance",
+      "amount": 5.396825396825396,
       "segment": "cargo"
     },
     {
@@ -18862,7 +19702,7 @@
       "hub": "Saket",
       "client": "Rental_L5",
       "lineItem": "Maintenance",
-      "amount": 32.90322580645161,
+      "amount": 32.38095238095238,
       "segment": "cargo"
     },
     {
@@ -18871,7 +19711,7 @@
       "hub": "Saket",
       "client": "Porter - 3W L3",
       "lineItem": "Maintenance",
-      "amount": 41.935483870967744,
+      "amount": 41.269841269841265,
       "segment": "cargo"
     },
     {
@@ -18880,7 +19720,16 @@
       "hub": "Saket",
       "client": "Blinkit",
       "lineItem": "Maintenance",
-      "amount": 138.70967741935485,
+      "amount": 136.5079365079365,
+      "segment": "cargo"
+    },
+    {
+      "month": "2026-08",
+      "city": "Delhi",
+      "hub": "Saket",
+      "client": "Delhivery",
+      "lineItem": "Maintenance",
+      "amount": 3.1746031746031744,
       "segment": "cargo"
     },
     {
@@ -18889,7 +19738,7 @@
       "hub": "Saket",
       "client": "Rental_L5",
       "lineItem": "Maintenance",
-      "amount": 19.35483870967742,
+      "amount": 19.047619047619047,
       "segment": "cargo"
     },
     {
@@ -18898,7 +19747,7 @@
       "hub": "Saket",
       "client": "Porter - 3W L3",
       "lineItem": "Maintenance",
-      "amount": 23.06451612903226,
+      "amount": 22.698412698412696,
       "segment": "cargo"
     },
     {
@@ -18907,7 +19756,16 @@
       "hub": "Saket",
       "client": "Blinkit",
       "lineItem": "Maintenance",
-      "amount": 76.29032258064517,
+      "amount": 75.07936507936508,
+      "segment": "cargo"
+    },
+    {
+      "month": "2026-08",
+      "city": "Delhi",
+      "hub": "Saket",
+      "client": "Delhivery",
+      "lineItem": "Maintenance",
+      "amount": 1.746031746031746,
       "segment": "cargo"
     },
     {
@@ -18916,7 +19774,7 @@
       "hub": "Saket",
       "client": "Rental_L5",
       "lineItem": "Maintenance",
-      "amount": 10.64516129032258,
+      "amount": 10.476190476190476,
       "segment": "cargo"
     },
     {
@@ -19087,7 +19945,7 @@
       "hub": "Saket",
       "client": "Porter - 3W L3",
       "lineItem": "Maintenance",
-      "amount": 71.29032258064517,
+      "amount": 70.15873015873015,
       "segment": "cargo"
     },
     {
@@ -19096,7 +19954,16 @@
       "hub": "Saket",
       "client": "Blinkit",
       "lineItem": "Maintenance",
-      "amount": 235.80645161290323,
+      "amount": 232.06349206349208,
+      "segment": "cargo"
+    },
+    {
+      "month": "2026-08",
+      "city": "Delhi",
+      "hub": "Saket",
+      "client": "Delhivery",
+      "lineItem": "Maintenance",
+      "amount": 5.396825396825396,
       "segment": "cargo"
     },
     {
@@ -19105,7 +19972,7 @@
       "hub": "Saket",
       "client": "Rental_L5",
       "lineItem": "Maintenance",
-      "amount": 32.90322580645161,
+      "amount": 32.38095238095238,
       "segment": "cargo"
     },
     {
@@ -19114,7 +19981,7 @@
       "hub": "Saket",
       "client": "Porter - 3W L3",
       "lineItem": "Maintenance",
-      "amount": 13.629032258064516,
+      "amount": 13.412698412698411,
       "segment": "cargo"
     },
     {
@@ -19123,7 +19990,16 @@
       "hub": "Saket",
       "client": "Blinkit",
       "lineItem": "Maintenance",
-      "amount": 45.08064516129033,
+      "amount": 44.36507936507937,
+      "segment": "cargo"
+    },
+    {
+      "month": "2026-08",
+      "city": "Delhi",
+      "hub": "Saket",
+      "client": "Delhivery",
+      "lineItem": "Maintenance",
+      "amount": 1.0317460317460316,
       "segment": "cargo"
     },
     {
@@ -19132,7 +20008,7 @@
       "hub": "Saket",
       "client": "Rental_L5",
       "lineItem": "Maintenance",
-      "amount": 6.290322580645161,
+      "amount": 6.19047619047619,
       "segment": "cargo"
     },
     {
@@ -20689,7 +21565,7 @@
       "hub": "Saket",
       "client": "Porter - 3W L3",
       "lineItem": "Maintenance",
-      "amount": 308.2258064516129,
+      "amount": 303.3333333333333,
       "segment": "cargo"
     },
     {
@@ -20698,7 +21574,16 @@
       "hub": "Saket",
       "client": "Blinkit",
       "lineItem": "Maintenance",
-      "amount": 1019.5161290322582,
+      "amount": 1003.3333333333334,
+      "segment": "cargo"
+    },
+    {
+      "month": "2026-08",
+      "city": "Delhi",
+      "hub": "Saket",
+      "client": "Delhivery",
+      "lineItem": "Maintenance",
+      "amount": 23.333333333333332,
       "segment": "cargo"
     },
     {
@@ -20707,7 +21592,7 @@
       "hub": "Saket",
       "client": "Rental_L5",
       "lineItem": "Maintenance",
-      "amount": 142.25806451612902,
+      "amount": 140,
       "segment": "cargo"
     },
     {
@@ -21121,7 +22006,7 @@
       "hub": "Saket",
       "client": "Porter - 3W L3",
       "lineItem": "Maintenance",
-      "amount": 184.51612903225808,
+      "amount": 181.58730158730157,
       "segment": "cargo"
     },
     {
@@ -21130,7 +22015,16 @@
       "hub": "Saket",
       "client": "Blinkit",
       "lineItem": "Maintenance",
-      "amount": 610.3225806451613,
+      "amount": 600.6349206349206,
+      "segment": "cargo"
+    },
+    {
+      "month": "2026-08",
+      "city": "Delhi",
+      "hub": "Saket",
+      "client": "Delhivery",
+      "lineItem": "Maintenance",
+      "amount": 13.968253968253968,
       "segment": "cargo"
     },
     {
@@ -21139,7 +22033,7 @@
       "hub": "Saket",
       "client": "Rental_L5",
       "lineItem": "Maintenance",
-      "amount": 85.16129032258064,
+      "amount": 83.80952380952381,
       "segment": "cargo"
     },
     {
@@ -21148,7 +22042,7 @@
       "hub": "Saket",
       "client": "Porter - 3W L3",
       "lineItem": "Maintenance",
-      "amount": 54.516129032258064,
+      "amount": 53.650793650793645,
       "segment": "cargo"
     },
     {
@@ -21157,7 +22051,16 @@
       "hub": "Saket",
       "client": "Blinkit",
       "lineItem": "Maintenance",
-      "amount": 180.3225806451613,
+      "amount": 177.46031746031747,
+      "segment": "cargo"
+    },
+    {
+      "month": "2026-08",
+      "city": "Delhi",
+      "hub": "Saket",
+      "client": "Delhivery",
+      "lineItem": "Maintenance",
+      "amount": 4.1269841269841265,
       "segment": "cargo"
     },
     {
@@ -21166,7 +22069,7 @@
       "hub": "Saket",
       "client": "Rental_L5",
       "lineItem": "Maintenance",
-      "amount": 25.161290322580644,
+      "amount": 24.76190476190476,
       "segment": "cargo"
     },
     {
@@ -21409,7 +22312,7 @@
       "hub": "Shalimar Bagh",
       "client": "Porter - 3W L3",
       "lineItem": "Maintenance",
-      "amount": 81.66666666666666,
+      "amount": 85.21739130434783,
       "segment": "cargo"
     },
     {
@@ -21418,7 +22321,7 @@
       "hub": "Shalimar Bagh",
       "client": "Blinkit",
       "lineItem": "Maintenance",
-      "amount": 326.66666666666663,
+      "amount": 340.8695652173913,
       "segment": "cargo"
     },
     {
@@ -21427,7 +22330,7 @@
       "hub": "Shalimar Bagh",
       "client": "Delhivery",
       "lineItem": "Maintenance",
-      "amount": 81.66666666666666,
+      "amount": 63.91304347826087,
       "segment": "cargo"
     },
     {
@@ -21436,7 +22339,7 @@
       "hub": "Shalimar Bagh",
       "client": "Porter - 3W L3",
       "lineItem": "Maintenance",
-      "amount": 33.33333333333333,
+      "amount": 34.78260869565217,
       "segment": "cargo"
     },
     {
@@ -21445,7 +22348,7 @@
       "hub": "Shalimar Bagh",
       "client": "Blinkit",
       "lineItem": "Maintenance",
-      "amount": 133.33333333333331,
+      "amount": 139.1304347826087,
       "segment": "cargo"
     },
     {
@@ -21454,7 +22357,7 @@
       "hub": "Shalimar Bagh",
       "client": "Delhivery",
       "lineItem": "Maintenance",
-      "amount": 33.33333333333333,
+      "amount": 26.08695652173913,
       "segment": "cargo"
     },
     {
@@ -21463,7 +22366,7 @@
       "hub": "Shalimar Bagh",
       "client": "Porter - 3W L3",
       "lineItem": "Maintenance",
-      "amount": 36.166666666666664,
+      "amount": 37.73913043478261,
       "segment": "cargo"
     },
     {
@@ -21472,7 +22375,7 @@
       "hub": "Shalimar Bagh",
       "client": "Blinkit",
       "lineItem": "Maintenance",
-      "amount": 144.66666666666666,
+      "amount": 150.95652173913044,
       "segment": "cargo"
     },
     {
@@ -21481,7 +22384,7 @@
       "hub": "Shalimar Bagh",
       "client": "Delhivery",
       "lineItem": "Maintenance",
-      "amount": 36.166666666666664,
+      "amount": 28.304347826086957,
       "segment": "cargo"
     },
     {
@@ -21490,7 +22393,7 @@
       "hub": "Shalimar Bagh",
       "client": "Porter - 3W L3",
       "lineItem": "Maintenance",
-      "amount": 56.666666666666664,
+      "amount": 59.130434782608695,
       "segment": "cargo"
     },
     {
@@ -21499,7 +22402,7 @@
       "hub": "Shalimar Bagh",
       "client": "Blinkit",
       "lineItem": "Maintenance",
-      "amount": 226.66666666666666,
+      "amount": 236.52173913043478,
       "segment": "cargo"
     },
     {
@@ -21508,7 +22411,7 @@
       "hub": "Shalimar Bagh",
       "client": "Delhivery",
       "lineItem": "Maintenance",
-      "amount": 56.666666666666664,
+      "amount": 44.34782608695652,
       "segment": "cargo"
     },
     {
@@ -21742,7 +22645,7 @@
       "hub": "Saket",
       "client": "Porter - 3W L3",
       "lineItem": "Maintenance",
-      "amount": 36.693548387096776,
+      "amount": 36.11111111111111,
       "segment": "cargo"
     },
     {
@@ -21751,7 +22654,16 @@
       "hub": "Saket",
       "client": "Blinkit",
       "lineItem": "Maintenance",
-      "amount": 121.37096774193549,
+      "amount": 119.44444444444444,
+      "segment": "cargo"
+    },
+    {
+      "month": "2026-08",
+      "city": "Delhi",
+      "hub": "Saket",
+      "client": "Delhivery",
+      "lineItem": "Maintenance",
+      "amount": 2.7777777777777777,
       "segment": "cargo"
     },
     {
@@ -21760,7 +22672,7 @@
       "hub": "Saket",
       "client": "Rental_L5",
       "lineItem": "Maintenance",
-      "amount": 16.93548387096774,
+      "amount": 16.666666666666664,
       "segment": "cargo"
     },
     {
@@ -21769,7 +22681,7 @@
       "hub": "Saket",
       "client": "Porter - 3W L3",
       "lineItem": "Maintenance",
-      "amount": 23.06451612903226,
+      "amount": 22.698412698412696,
       "segment": "cargo"
     },
     {
@@ -21778,7 +22690,16 @@
       "hub": "Saket",
       "client": "Blinkit",
       "lineItem": "Maintenance",
-      "amount": 76.29032258064517,
+      "amount": 75.07936507936508,
+      "segment": "cargo"
+    },
+    {
+      "month": "2026-08",
+      "city": "Delhi",
+      "hub": "Saket",
+      "client": "Delhivery",
+      "lineItem": "Maintenance",
+      "amount": 1.746031746031746,
       "segment": "cargo"
     },
     {
@@ -21787,7 +22708,7 @@
       "hub": "Saket",
       "client": "Rental_L5",
       "lineItem": "Maintenance",
-      "amount": 10.64516129032258,
+      "amount": 10.476190476190476,
       "segment": "cargo"
     },
     {
@@ -22165,7 +23086,7 @@
       "hub": "Saket",
       "client": "Porter - 3W L3",
       "lineItem": "Maintenance",
-      "amount": 74.85483870967742,
+      "amount": 73.66666666666666,
       "segment": "cargo"
     },
     {
@@ -22174,7 +23095,16 @@
       "hub": "Saket",
       "client": "Blinkit",
       "lineItem": "Maintenance",
-      "amount": 247.5967741935484,
+      "amount": 243.66666666666669,
+      "segment": "cargo"
+    },
+    {
+      "month": "2026-08",
+      "city": "Delhi",
+      "hub": "Saket",
+      "client": "Delhivery",
+      "lineItem": "Maintenance",
+      "amount": 5.666666666666666,
       "segment": "cargo"
     },
     {
@@ -22183,7 +23113,7 @@
       "hub": "Saket",
       "client": "Rental_L5",
       "lineItem": "Maintenance",
-      "amount": 34.54838709677419,
+      "amount": 34,
       "segment": "cargo"
     },
     {
@@ -23245,7 +24175,7 @@
       "hub": "Saket",
       "client": "Porter - 3W L3",
       "lineItem": "Maintenance",
-      "amount": 31.451612903225808,
+      "amount": 30.95238095238095,
       "segment": "cargo"
     },
     {
@@ -23254,7 +24184,16 @@
       "hub": "Saket",
       "client": "Blinkit",
       "lineItem": "Maintenance",
-      "amount": 104.03225806451614,
+      "amount": 102.38095238095238,
+      "segment": "cargo"
+    },
+    {
+      "month": "2026-08",
+      "city": "Delhi",
+      "hub": "Saket",
+      "client": "Delhivery",
+      "lineItem": "Maintenance",
+      "amount": 2.380952380952381,
       "segment": "cargo"
     },
     {
@@ -23263,7 +24202,7 @@
       "hub": "Saket",
       "client": "Rental_L5",
       "lineItem": "Maintenance",
-      "amount": 14.516129032258064,
+      "amount": 14.285714285714285,
       "segment": "cargo"
     },
     {
@@ -23272,7 +24211,7 @@
       "hub": "Saket",
       "client": "Porter - 3W L3",
       "lineItem": "Maintenance",
-      "amount": 102.74193548387098,
+      "amount": 101.1111111111111,
       "segment": "cargo"
     },
     {
@@ -23281,7 +24220,16 @@
       "hub": "Saket",
       "client": "Blinkit",
       "lineItem": "Maintenance",
-      "amount": 339.8387096774194,
+      "amount": 334.44444444444446,
+      "segment": "cargo"
+    },
+    {
+      "month": "2026-08",
+      "city": "Delhi",
+      "hub": "Saket",
+      "client": "Delhivery",
+      "lineItem": "Maintenance",
+      "amount": 7.777777777777778,
       "segment": "cargo"
     },
     {
@@ -23290,7 +24238,7 @@
       "hub": "Saket",
       "client": "Rental_L5",
       "lineItem": "Maintenance",
-      "amount": 47.41935483870967,
+      "amount": 46.666666666666664,
       "segment": "cargo"
     },
     {
@@ -23839,7 +24787,7 @@
       "hub": "Saket",
       "client": "Porter - 3W L3",
       "lineItem": "Maintenance",
-      "amount": 308.2258064516129,
+      "amount": 303.3333333333333,
       "segment": "cargo"
     },
     {
@@ -23848,7 +24796,16 @@
       "hub": "Saket",
       "client": "Blinkit",
       "lineItem": "Maintenance",
-      "amount": 1019.5161290322582,
+      "amount": 1003.3333333333334,
+      "segment": "cargo"
+    },
+    {
+      "month": "2026-09",
+      "city": "Delhi",
+      "hub": "Saket",
+      "client": "Delhivery",
+      "lineItem": "Maintenance",
+      "amount": 23.333333333333332,
       "segment": "cargo"
     },
     {
@@ -23857,7 +24814,7 @@
       "hub": "Saket",
       "client": "Rental_L5",
       "lineItem": "Maintenance",
-      "amount": 142.25806451612902,
+      "amount": 140,
       "segment": "cargo"
     },
     {
@@ -23866,7 +24823,7 @@
       "hub": "Saket",
       "client": "Porter - 3W L3",
       "lineItem": "Maintenance",
-      "amount": 77.79032258064517,
+      "amount": 76.55555555555556,
       "segment": "cargo"
     },
     {
@@ -23875,7 +24832,16 @@
       "hub": "Saket",
       "client": "Blinkit",
       "lineItem": "Maintenance",
-      "amount": 257.30645161290323,
+      "amount": 253.22222222222223,
+      "segment": "cargo"
+    },
+    {
+      "month": "2026-09",
+      "city": "Delhi",
+      "hub": "Saket",
+      "client": "Delhivery",
+      "lineItem": "Maintenance",
+      "amount": 5.888888888888888,
       "segment": "cargo"
     },
     {
@@ -23884,7 +24850,7 @@
       "hub": "Saket",
       "client": "Rental_L5",
       "lineItem": "Maintenance",
-      "amount": 35.90322580645161,
+      "amount": 35.33333333333333,
       "segment": "cargo"
     },
     {
@@ -23893,7 +24859,7 @@
       "hub": "Saket",
       "client": "Porter - 3W L3",
       "lineItem": "Maintenance",
-      "amount": 10.064516129032258,
+      "amount": 9.904761904761905,
       "segment": "cargo"
     },
     {
@@ -23902,7 +24868,16 @@
       "hub": "Saket",
       "client": "Blinkit",
       "lineItem": "Maintenance",
-      "amount": 33.29032258064517,
+      "amount": 32.76190476190476,
+      "segment": "cargo"
+    },
+    {
+      "month": "2026-09",
+      "city": "Delhi",
+      "hub": "Saket",
+      "client": "Delhivery",
+      "lineItem": "Maintenance",
+      "amount": 0.7619047619047619,
       "segment": "cargo"
     },
     {
@@ -23911,7 +24886,7 @@
       "hub": "Saket",
       "client": "Rental_L5",
       "lineItem": "Maintenance",
-      "amount": 4.64516129032258,
+      "amount": 4.571428571428571,
       "segment": "cargo"
     },
     {
@@ -24208,7 +25183,7 @@
       "hub": "Saket",
       "client": "Porter - 3W L3",
       "lineItem": "Maintenance",
-      "amount": 64.58064516129032,
+      "amount": 63.55555555555555,
       "segment": "cargo"
     },
     {
@@ -24217,7 +25192,16 @@
       "hub": "Saket",
       "client": "Blinkit",
       "lineItem": "Maintenance",
-      "amount": 213.61290322580646,
+      "amount": 210.22222222222223,
+      "segment": "cargo"
+    },
+    {
+      "month": "2026-09",
+      "city": "Delhi",
+      "hub": "Saket",
+      "client": "Delhivery",
+      "lineItem": "Maintenance",
+      "amount": 4.888888888888888,
       "segment": "cargo"
     },
     {
@@ -24226,7 +25210,7 @@
       "hub": "Saket",
       "client": "Rental_L5",
       "lineItem": "Maintenance",
-      "amount": 29.806451612903224,
+      "amount": 29.333333333333332,
       "segment": "cargo"
     },
     {
@@ -24235,7 +25219,7 @@
       "hub": "Saket",
       "client": "Porter - 3W L3",
       "lineItem": "Maintenance",
-      "amount": 56.612903225806456,
+      "amount": 55.71428571428571,
       "segment": "cargo"
     },
     {
@@ -24244,7 +25228,16 @@
       "hub": "Saket",
       "client": "Blinkit",
       "lineItem": "Maintenance",
-      "amount": 187.25806451612905,
+      "amount": 184.28571428571428,
+      "segment": "cargo"
+    },
+    {
+      "month": "2026-09",
+      "city": "Delhi",
+      "hub": "Saket",
+      "client": "Delhivery",
+      "lineItem": "Maintenance",
+      "amount": 4.285714285714286,
       "segment": "cargo"
     },
     {
@@ -24253,7 +25246,7 @@
       "hub": "Saket",
       "client": "Rental_L5",
       "lineItem": "Maintenance",
-      "amount": 26.129032258064516,
+      "amount": 25.71428571428571,
       "segment": "cargo"
     },
     {
@@ -24262,7 +25255,7 @@
       "hub": "Saket",
       "client": "Porter - 3W L3",
       "lineItem": "Maintenance",
-      "amount": 94.35483870967742,
+      "amount": 92.85714285714285,
       "segment": "cargo"
     },
     {
@@ -24271,7 +25264,16 @@
       "hub": "Saket",
       "client": "Blinkit",
       "lineItem": "Maintenance",
-      "amount": 312.0967741935484,
+      "amount": 307.14285714285717,
+      "segment": "cargo"
+    },
+    {
+      "month": "2026-09",
+      "city": "Delhi",
+      "hub": "Saket",
+      "client": "Delhivery",
+      "lineItem": "Maintenance",
+      "amount": 7.142857142857142,
       "segment": "cargo"
     },
     {
@@ -24280,7 +25282,7 @@
       "hub": "Saket",
       "client": "Rental_L5",
       "lineItem": "Maintenance",
-      "amount": 43.54838709677419,
+      "amount": 42.857142857142854,
       "segment": "cargo"
     },
     {
@@ -24289,7 +25291,7 @@
       "hub": "Saket",
       "client": "Porter - 3W L3",
       "lineItem": "Maintenance",
-      "amount": 10.064516129032258,
+      "amount": 9.904761904761905,
       "segment": "cargo"
     },
     {
@@ -24298,7 +25300,16 @@
       "hub": "Saket",
       "client": "Blinkit",
       "lineItem": "Maintenance",
-      "amount": 33.29032258064517,
+      "amount": 32.76190476190476,
+      "segment": "cargo"
+    },
+    {
+      "month": "2026-09",
+      "city": "Delhi",
+      "hub": "Saket",
+      "client": "Delhivery",
+      "lineItem": "Maintenance",
+      "amount": 0.7619047619047619,
       "segment": "cargo"
     },
     {
@@ -24307,7 +25318,7 @@
       "hub": "Saket",
       "client": "Rental_L5",
       "lineItem": "Maintenance",
-      "amount": 4.64516129032258,
+      "amount": 4.571428571428571,
       "segment": "cargo"
     },
     {
@@ -24532,7 +25543,7 @@
       "hub": "Saket",
       "client": "Porter - 3W L3",
       "lineItem": "Maintenance",
-      "amount": 23.06451612903226,
+      "amount": 22.698412698412696,
       "segment": "cargo"
     },
     {
@@ -24541,7 +25552,16 @@
       "hub": "Saket",
       "client": "Blinkit",
       "lineItem": "Maintenance",
-      "amount": 76.29032258064517,
+      "amount": 75.07936507936508,
+      "segment": "cargo"
+    },
+    {
+      "month": "2026-09",
+      "city": "Delhi",
+      "hub": "Saket",
+      "client": "Delhivery",
+      "lineItem": "Maintenance",
+      "amount": 1.746031746031746,
       "segment": "cargo"
     },
     {
@@ -24550,7 +25570,7 @@
       "hub": "Saket",
       "client": "Rental_L5",
       "lineItem": "Maintenance",
-      "amount": 10.64516129032258,
+      "amount": 10.476190476190476,
       "segment": "cargo"
     },
     {
@@ -24559,7 +25579,7 @@
       "hub": "Saket",
       "client": "Porter - 3W L3",
       "lineItem": "Maintenance",
-      "amount": 46.12903225806452,
+      "amount": 45.39682539682539,
       "segment": "cargo"
     },
     {
@@ -24568,7 +25588,16 @@
       "hub": "Saket",
       "client": "Blinkit",
       "lineItem": "Maintenance",
-      "amount": 152.58064516129033,
+      "amount": 150.15873015873015,
+      "segment": "cargo"
+    },
+    {
+      "month": "2026-09",
+      "city": "Delhi",
+      "hub": "Saket",
+      "client": "Delhivery",
+      "lineItem": "Maintenance",
+      "amount": 3.492063492063492,
       "segment": "cargo"
     },
     {
@@ -24577,7 +25606,7 @@
       "hub": "Saket",
       "client": "Rental_L5",
       "lineItem": "Maintenance",
-      "amount": 21.29032258064516,
+      "amount": 20.952380952380953,
       "segment": "cargo"
     },
     {
@@ -24730,7 +25759,7 @@
       "hub": "Saket",
       "client": "Porter - 3W L3",
       "lineItem": "Maintenance",
-      "amount": 351.6290322580645,
+      "amount": 346.04761904761904,
       "segment": "cargo"
     },
     {
@@ -24739,7 +25768,16 @@
       "hub": "Saket",
       "client": "Blinkit",
       "lineItem": "Maintenance",
-      "amount": 1163.0806451612905,
+      "amount": 1144.6190476190477,
+      "segment": "cargo"
+    },
+    {
+      "month": "2026-09",
+      "city": "Delhi",
+      "hub": "Saket",
+      "client": "Delhivery",
+      "lineItem": "Maintenance",
+      "amount": 26.619047619047617,
       "segment": "cargo"
     },
     {
@@ -24748,7 +25786,7 @@
       "hub": "Saket",
       "client": "Rental_L5",
       "lineItem": "Maintenance",
-      "amount": 162.29032258064515,
+      "amount": 159.7142857142857,
       "segment": "cargo"
     },
     {
@@ -24757,7 +25795,7 @@
       "hub": "Saket",
       "client": "Porter - 3W L3",
       "lineItem": "Maintenance",
-      "amount": 13.629032258064516,
+      "amount": 13.412698412698411,
       "segment": "cargo"
     },
     {
@@ -24766,7 +25804,16 @@
       "hub": "Saket",
       "client": "Blinkit",
       "lineItem": "Maintenance",
-      "amount": 45.08064516129033,
+      "amount": 44.36507936507937,
+      "segment": "cargo"
+    },
+    {
+      "month": "2026-09",
+      "city": "Delhi",
+      "hub": "Saket",
+      "client": "Delhivery",
+      "lineItem": "Maintenance",
+      "amount": 1.0317460317460316,
       "segment": "cargo"
     },
     {
@@ -24775,7 +25822,7 @@
       "hub": "Saket",
       "client": "Rental_L5",
       "lineItem": "Maintenance",
-      "amount": 6.290322580645161,
+      "amount": 6.19047619047619,
       "segment": "cargo"
     },
     {
@@ -24991,7 +26038,7 @@
       "hub": "Saket",
       "client": "Porter - 3W L3",
       "lineItem": "Maintenance",
-      "amount": 381.61290322580646,
+      "amount": 375.55555555555554,
       "segment": "cargo"
     },
     {
@@ -25000,7 +26047,16 @@
       "hub": "Saket",
       "client": "Blinkit",
       "lineItem": "Maintenance",
-      "amount": 1262.258064516129,
+      "amount": 1242.2222222222222,
+      "segment": "cargo"
+    },
+    {
+      "month": "2026-09",
+      "city": "Delhi",
+      "hub": "Saket",
+      "client": "Delhivery",
+      "lineItem": "Maintenance",
+      "amount": 28.888888888888886,
       "segment": "cargo"
     },
     {
@@ -25009,7 +26065,7 @@
       "hub": "Saket",
       "client": "Rental_L5",
       "lineItem": "Maintenance",
-      "amount": 176.1290322580645,
+      "amount": 173.33333333333331,
       "segment": "cargo"
     },
     {
@@ -25018,7 +26074,7 @@
       "hub": "Saket",
       "client": "Porter - 3W L3",
       "lineItem": "Maintenance",
-      "amount": 23.06451612903226,
+      "amount": 22.698412698412696,
       "segment": "cargo"
     },
     {
@@ -25027,7 +26083,16 @@
       "hub": "Saket",
       "client": "Blinkit",
       "lineItem": "Maintenance",
-      "amount": 76.29032258064517,
+      "amount": 75.07936507936508,
+      "segment": "cargo"
+    },
+    {
+      "month": "2026-09",
+      "city": "Delhi",
+      "hub": "Saket",
+      "client": "Delhivery",
+      "lineItem": "Maintenance",
+      "amount": 1.746031746031746,
       "segment": "cargo"
     },
     {
@@ -25036,7 +26101,7 @@
       "hub": "Saket",
       "client": "Rental_L5",
       "lineItem": "Maintenance",
-      "amount": 10.64516129032258,
+      "amount": 10.476190476190476,
       "segment": "cargo"
     },
     {
@@ -25675,7 +26740,7 @@
       "hub": "Shalimar Bagh",
       "client": "Porter - 3W L3",
       "lineItem": "Maintenance",
-      "amount": 36.166666666666664,
+      "amount": 37.73913043478261,
       "segment": "cargo"
     },
     {
@@ -25684,7 +26749,7 @@
       "hub": "Shalimar Bagh",
       "client": "Blinkit",
       "lineItem": "Maintenance",
-      "amount": 144.66666666666666,
+      "amount": 150.95652173913044,
       "segment": "cargo"
     },
     {
@@ -25693,7 +26758,7 @@
       "hub": "Shalimar Bagh",
       "client": "Delhivery",
       "lineItem": "Maintenance",
-      "amount": 36.166666666666664,
+      "amount": 28.304347826086957,
       "segment": "cargo"
     },
     {
@@ -25747,7 +26812,7 @@
       "hub": "Shalimar Bagh",
       "client": "Porter - 3W L3",
       "lineItem": "Maintenance",
-      "amount": 18.333333333333332,
+      "amount": 19.130434782608695,
       "segment": "cargo"
     },
     {
@@ -25756,7 +26821,7 @@
       "hub": "Shalimar Bagh",
       "client": "Blinkit",
       "lineItem": "Maintenance",
-      "amount": 73.33333333333333,
+      "amount": 76.52173913043478,
       "segment": "cargo"
     },
     {
@@ -25765,7 +26830,7 @@
       "hub": "Shalimar Bagh",
       "client": "Delhivery",
       "lineItem": "Maintenance",
-      "amount": 18.333333333333332,
+      "amount": 14.347826086956522,
       "segment": "cargo"
     },
     {
@@ -25981,7 +27046,7 @@
       "hub": "Shalimar Bagh",
       "client": "Porter - 3W L3",
       "lineItem": "Maintenance",
-      "amount": 62.5,
+      "amount": 65.21739130434783,
       "segment": "cargo"
     },
     {
@@ -25990,7 +27055,7 @@
       "hub": "Shalimar Bagh",
       "client": "Blinkit",
       "lineItem": "Maintenance",
-      "amount": 250,
+      "amount": 260.8695652173913,
       "segment": "cargo"
     },
     {
@@ -25999,7 +27064,7 @@
       "hub": "Shalimar Bagh",
       "client": "Delhivery",
       "lineItem": "Maintenance",
-      "amount": 62.5,
+      "amount": 48.91304347826087,
       "segment": "cargo"
     },
     {
@@ -26530,7 +27595,7 @@
       "hub": "Saket",
       "client": "Porter - 3W L3",
       "lineItem": "Maintenance",
-      "amount": 14.67741935483871,
+      "amount": 14.444444444444443,
       "segment": "cargo"
     },
     {
@@ -26539,7 +27604,16 @@
       "hub": "Saket",
       "client": "Blinkit",
       "lineItem": "Maintenance",
-      "amount": 48.5483870967742,
+      "amount": 47.77777777777778,
+      "segment": "cargo"
+    },
+    {
+      "month": "2026-09",
+      "city": "Delhi",
+      "hub": "Saket",
+      "client": "Delhivery",
+      "lineItem": "Maintenance",
+      "amount": 1.1111111111111112,
       "segment": "cargo"
     },
     {
@@ -26548,7 +27622,7 @@
       "hub": "Saket",
       "client": "Rental_L5",
       "lineItem": "Maintenance",
-      "amount": 6.774193548387097,
+      "amount": 6.666666666666666,
       "segment": "cargo"
     },
     {
@@ -26602,7 +27676,7 @@
       "hub": "Saket",
       "client": "Porter - 3W L3",
       "lineItem": "Maintenance",
-      "amount": 31.451612903225808,
+      "amount": 30.95238095238095,
       "segment": "cargo"
     },
     {
@@ -26611,7 +27685,16 @@
       "hub": "Saket",
       "client": "Blinkit",
       "lineItem": "Maintenance",
-      "amount": 104.03225806451614,
+      "amount": 102.38095238095238,
+      "segment": "cargo"
+    },
+    {
+      "month": "2026-09",
+      "city": "Delhi",
+      "hub": "Saket",
+      "client": "Delhivery",
+      "lineItem": "Maintenance",
+      "amount": 2.380952380952381,
       "segment": "cargo"
     },
     {
@@ -26620,7 +27703,7 @@
       "hub": "Saket",
       "client": "Rental_L5",
       "lineItem": "Maintenance",
-      "amount": 14.516129032258064,
+      "amount": 14.285714285714285,
       "segment": "cargo"
     },
     {
@@ -26674,7 +27757,7 @@
       "hub": "Saket",
       "client": "Porter - 3W L3",
       "lineItem": "Maintenance",
-      "amount": 16.56451612903226,
+      "amount": 16.3015873015873,
       "segment": "cargo"
     },
     {
@@ -26683,7 +27766,16 @@
       "hub": "Saket",
       "client": "Blinkit",
       "lineItem": "Maintenance",
-      "amount": 54.79032258064517,
+      "amount": 53.920634920634924,
+      "segment": "cargo"
+    },
+    {
+      "month": "2026-09",
+      "city": "Delhi",
+      "hub": "Saket",
+      "client": "Delhivery",
+      "lineItem": "Maintenance",
+      "amount": 1.253968253968254,
       "segment": "cargo"
     },
     {
@@ -26692,7 +27784,7 @@
       "hub": "Saket",
       "client": "Rental_L5",
       "lineItem": "Maintenance",
-      "amount": 7.64516129032258,
+      "amount": 7.523809523809524,
       "segment": "cargo"
     },
     {
@@ -26836,7 +27928,7 @@
       "hub": "Saket",
       "client": "Porter - 3W L3",
       "lineItem": "Maintenance",
-      "amount": 102.74193548387098,
+      "amount": 101.1111111111111,
       "segment": "cargo"
     },
     {
@@ -26845,7 +27937,16 @@
       "hub": "Saket",
       "client": "Blinkit",
       "lineItem": "Maintenance",
-      "amount": 339.8387096774194,
+      "amount": 334.44444444444446,
+      "segment": "cargo"
+    },
+    {
+      "month": "2026-09",
+      "city": "Delhi",
+      "hub": "Saket",
+      "client": "Delhivery",
+      "lineItem": "Maintenance",
+      "amount": 7.777777777777778,
       "segment": "cargo"
     },
     {
@@ -26854,7 +27955,7 @@
       "hub": "Saket",
       "client": "Rental_L5",
       "lineItem": "Maintenance",
-      "amount": 47.41935483870967,
+      "amount": 46.666666666666664,
       "segment": "cargo"
     },
     {
@@ -27223,7 +28324,7 @@
       "hub": "Saket",
       "client": "Porter - 3W L3",
       "lineItem": "Maintenance",
-      "amount": 131.0483870967742,
+      "amount": 128.96825396825395,
       "segment": "cargo"
     },
     {
@@ -27232,7 +28333,16 @@
       "hub": "Saket",
       "client": "Blinkit",
       "lineItem": "Maintenance",
-      "amount": 433.4677419354839,
+      "amount": 426.5873015873016,
+      "segment": "cargo"
+    },
+    {
+      "month": "2026-09",
+      "city": "Delhi",
+      "hub": "Saket",
+      "client": "Delhivery",
+      "lineItem": "Maintenance",
+      "amount": 9.920634920634921,
       "segment": "cargo"
     },
     {
@@ -27241,7 +28351,7 @@
       "hub": "Saket",
       "client": "Rental_L5",
       "lineItem": "Maintenance",
-      "amount": 60.483870967741936,
+      "amount": 59.52380952380952,
       "segment": "cargo"
     },
     {
@@ -27322,7 +28432,7 @@
       "hub": "Saket",
       "client": "Porter - 3W L3",
       "lineItem": "Maintenance",
-      "amount": 23.06451612903226,
+      "amount": 22.698412698412696,
       "segment": "cargo"
     },
     {
@@ -27331,7 +28441,16 @@
       "hub": "Saket",
       "client": "Blinkit",
       "lineItem": "Maintenance",
-      "amount": 76.29032258064517,
+      "amount": 75.07936507936508,
+      "segment": "cargo"
+    },
+    {
+      "month": "2026-09",
+      "city": "Delhi",
+      "hub": "Saket",
+      "client": "Delhivery",
+      "lineItem": "Maintenance",
+      "amount": 1.746031746031746,
       "segment": "cargo"
     },
     {
@@ -27340,7 +28459,7 @@
       "hub": "Saket",
       "client": "Rental_L5",
       "lineItem": "Maintenance",
-      "amount": 10.64516129032258,
+      "amount": 10.476190476190476,
       "segment": "cargo"
     },
     {
@@ -27601,7 +28720,7 @@
       "hub": "Saket",
       "client": "Porter - 3W L3",
       "lineItem": "Maintenance",
-      "amount": 116.79032258064517,
+      "amount": 114.93650793650794,
       "segment": "cargo"
     },
     {
@@ -27610,7 +28729,16 @@
       "hub": "Saket",
       "client": "Blinkit",
       "lineItem": "Maintenance",
-      "amount": 386.30645161290323,
+      "amount": 380.1746031746032,
+      "segment": "cargo"
+    },
+    {
+      "month": "2026-09",
+      "city": "Delhi",
+      "hub": "Saket",
+      "client": "Delhivery",
+      "lineItem": "Maintenance",
+      "amount": 8.84126984126984,
       "segment": "cargo"
     },
     {
@@ -27619,7 +28747,7 @@
       "hub": "Saket",
       "client": "Rental_L5",
       "lineItem": "Maintenance",
-      "amount": 53.90322580645161,
+      "amount": 53.047619047619044,
       "segment": "cargo"
     },
     {
@@ -27628,7 +28756,7 @@
       "hub": "Saket",
       "client": "Porter - 3W L3",
       "lineItem": "Maintenance",
-      "amount": 23.06451612903226,
+      "amount": 22.698412698412696,
       "segment": "cargo"
     },
     {
@@ -27637,7 +28765,16 @@
       "hub": "Saket",
       "client": "Blinkit",
       "lineItem": "Maintenance",
-      "amount": 76.29032258064517,
+      "amount": 75.07936507936508,
+      "segment": "cargo"
+    },
+    {
+      "month": "2026-09",
+      "city": "Delhi",
+      "hub": "Saket",
+      "client": "Delhivery",
+      "lineItem": "Maintenance",
+      "amount": 1.746031746031746,
       "segment": "cargo"
     },
     {
@@ -27646,7 +28783,7 @@
       "hub": "Saket",
       "client": "Rental_L5",
       "lineItem": "Maintenance",
-      "amount": 10.64516129032258,
+      "amount": 10.476190476190476,
       "segment": "cargo"
     },
     {
@@ -27655,7 +28792,7 @@
       "hub": "Saket",
       "client": "Porter - 3W L3",
       "lineItem": "Maintenance",
-      "amount": 56.612903225806456,
+      "amount": 55.71428571428571,
       "segment": "cargo"
     },
     {
@@ -27664,7 +28801,16 @@
       "hub": "Saket",
       "client": "Blinkit",
       "lineItem": "Maintenance",
-      "amount": 187.25806451612905,
+      "amount": 184.28571428571428,
+      "segment": "cargo"
+    },
+    {
+      "month": "2026-09",
+      "city": "Delhi",
+      "hub": "Saket",
+      "client": "Delhivery",
+      "lineItem": "Maintenance",
+      "amount": 4.285714285714286,
       "segment": "cargo"
     },
     {
@@ -27673,7 +28819,7 @@
       "hub": "Saket",
       "client": "Rental_L5",
       "lineItem": "Maintenance",
-      "amount": 26.129032258064516,
+      "amount": 25.71428571428571,
       "segment": "cargo"
     },
     {
@@ -27682,7 +28828,7 @@
       "hub": "Saket",
       "client": "Porter - 3W L3",
       "lineItem": "Maintenance",
-      "amount": 13.629032258064516,
+      "amount": 13.412698412698411,
       "segment": "cargo"
     },
     {
@@ -27691,7 +28837,16 @@
       "hub": "Saket",
       "client": "Blinkit",
       "lineItem": "Maintenance",
-      "amount": 45.08064516129033,
+      "amount": 44.36507936507937,
+      "segment": "cargo"
+    },
+    {
+      "month": "2026-09",
+      "city": "Delhi",
+      "hub": "Saket",
+      "client": "Delhivery",
+      "lineItem": "Maintenance",
+      "amount": 1.0317460317460316,
       "segment": "cargo"
     },
     {
@@ -27700,7 +28855,7 @@
       "hub": "Saket",
       "client": "Rental_L5",
       "lineItem": "Maintenance",
-      "amount": 6.290322580645161,
+      "amount": 6.19047619047619,
       "segment": "cargo"
     },
     {
@@ -28132,7 +29287,7 @@
       "hub": "Saket",
       "client": "Porter - 3W L3",
       "lineItem": "Maintenance",
-      "amount": 125.80645161290323,
+      "amount": 123.8095238095238,
       "segment": "cargo"
     },
     {
@@ -28141,7 +29296,16 @@
       "hub": "Saket",
       "client": "Blinkit",
       "lineItem": "Maintenance",
-      "amount": 416.12903225806457,
+      "amount": 409.5238095238095,
+      "segment": "cargo"
+    },
+    {
+      "month": "2026-09",
+      "city": "Delhi",
+      "hub": "Saket",
+      "client": "Delhivery",
+      "lineItem": "Maintenance",
+      "amount": 9.523809523809524,
       "segment": "cargo"
     },
     {
@@ -28150,7 +29314,7 @@
       "hub": "Saket",
       "client": "Rental_L5",
       "lineItem": "Maintenance",
-      "amount": 58.064516129032256,
+      "amount": 57.14285714285714,
       "segment": "cargo"
     },
     {
@@ -28159,7 +29323,7 @@
       "hub": "Saket",
       "client": "Porter - 3W L3",
       "lineItem": "Maintenance",
-      "amount": 125.80645161290323,
+      "amount": 123.8095238095238,
       "segment": "cargo"
     },
     {
@@ -28168,7 +29332,16 @@
       "hub": "Saket",
       "client": "Blinkit",
       "lineItem": "Maintenance",
-      "amount": 416.12903225806457,
+      "amount": 409.5238095238095,
+      "segment": "cargo"
+    },
+    {
+      "month": "2026-09",
+      "city": "Delhi",
+      "hub": "Saket",
+      "client": "Delhivery",
+      "lineItem": "Maintenance",
+      "amount": 9.523809523809524,
       "segment": "cargo"
     },
     {
@@ -28177,7 +29350,7 @@
       "hub": "Saket",
       "client": "Rental_L5",
       "lineItem": "Maintenance",
-      "amount": 58.064516129032256,
+      "amount": 57.14285714285714,
       "segment": "cargo"
     },
     {
@@ -28870,7 +30043,7 @@
       "hub": "Saket",
       "client": "Porter - 3W L3",
       "lineItem": "Maintenance",
-      "amount": 113.22580645161291,
+      "amount": 111.42857142857142,
       "segment": "cargo"
     },
     {
@@ -28879,7 +30052,16 @@
       "hub": "Saket",
       "client": "Blinkit",
       "lineItem": "Maintenance",
-      "amount": 374.5161290322581,
+      "amount": 368.57142857142856,
+      "segment": "cargo"
+    },
+    {
+      "month": "2026-09",
+      "city": "Delhi",
+      "hub": "Saket",
+      "client": "Delhivery",
+      "lineItem": "Maintenance",
+      "amount": 8.571428571428571,
       "segment": "cargo"
     },
     {
@@ -28888,7 +30070,7 @@
       "hub": "Saket",
       "client": "Rental_L5",
       "lineItem": "Maintenance",
-      "amount": 52.25806451612903,
+      "amount": 51.42857142857142,
       "segment": "cargo"
     },
     {
@@ -28897,7 +30079,7 @@
       "hub": "Saket",
       "client": "Porter - 3W L3",
       "lineItem": "Maintenance",
-      "amount": 41.935483870967744,
+      "amount": 41.269841269841265,
       "segment": "cargo"
     },
     {
@@ -28906,7 +30088,16 @@
       "hub": "Saket",
       "client": "Blinkit",
       "lineItem": "Maintenance",
-      "amount": 138.70967741935485,
+      "amount": 136.5079365079365,
+      "segment": "cargo"
+    },
+    {
+      "month": "2026-09",
+      "city": "Delhi",
+      "hub": "Saket",
+      "client": "Delhivery",
+      "lineItem": "Maintenance",
+      "amount": 3.1746031746031744,
       "segment": "cargo"
     },
     {
@@ -28915,7 +30106,7 @@
       "hub": "Saket",
       "client": "Rental_L5",
       "lineItem": "Maintenance",
-      "amount": 19.35483870967742,
+      "amount": 19.047619047619047,
       "segment": "cargo"
     },
     {
@@ -29023,7 +30214,7 @@
       "hub": "Shalimar Bagh",
       "client": "Porter - 3W L3",
       "lineItem": "Maintenance",
-      "amount": 84.16666666666666,
+      "amount": 87.82608695652173,
       "segment": "cargo"
     },
     {
@@ -29032,7 +30223,7 @@
       "hub": "Shalimar Bagh",
       "client": "Blinkit",
       "lineItem": "Maintenance",
-      "amount": 336.66666666666663,
+      "amount": 351.30434782608694,
       "segment": "cargo"
     },
     {
@@ -29041,7 +30232,7 @@
       "hub": "Shalimar Bagh",
       "client": "Delhivery",
       "lineItem": "Maintenance",
-      "amount": 84.16666666666666,
+      "amount": 65.8695652173913,
       "segment": "cargo"
     },
     {
@@ -29860,7 +31051,7 @@
       "hub": "Saket",
       "client": "Porter - 3W L3",
       "lineItem": "Maintenance",
-      "amount": 41.935483870967744,
+      "amount": 41.269841269841265,
       "segment": "cargo"
     },
     {
@@ -29869,7 +31060,16 @@
       "hub": "Saket",
       "client": "Blinkit",
       "lineItem": "Maintenance",
-      "amount": 138.70967741935485,
+      "amount": 136.5079365079365,
+      "segment": "cargo"
+    },
+    {
+      "month": "2026-09",
+      "city": "Delhi",
+      "hub": "Saket",
+      "client": "Delhivery",
+      "lineItem": "Maintenance",
+      "amount": 3.1746031746031744,
       "segment": "cargo"
     },
     {
@@ -29878,7 +31078,7 @@
       "hub": "Saket",
       "client": "Rental_L5",
       "lineItem": "Maintenance",
-      "amount": 19.35483870967742,
+      "amount": 19.047619047619047,
       "segment": "cargo"
     },
     {
@@ -29887,7 +31087,7 @@
       "hub": "Saket",
       "client": "Porter - 3W L3",
       "lineItem": "Maintenance",
-      "amount": 13.629032258064516,
+      "amount": 13.412698412698411,
       "segment": "cargo"
     },
     {
@@ -29896,7 +31096,16 @@
       "hub": "Saket",
       "client": "Blinkit",
       "lineItem": "Maintenance",
-      "amount": 45.08064516129033,
+      "amount": 44.36507936507937,
+      "segment": "cargo"
+    },
+    {
+      "month": "2026-09",
+      "city": "Delhi",
+      "hub": "Saket",
+      "client": "Delhivery",
+      "lineItem": "Maintenance",
+      "amount": 1.0317460317460316,
       "segment": "cargo"
     },
     {
@@ -29905,7 +31114,7 @@
       "hub": "Saket",
       "client": "Rental_L5",
       "lineItem": "Maintenance",
-      "amount": 6.290322580645161,
+      "amount": 6.19047619047619,
       "segment": "cargo"
     },
     {
@@ -29914,7 +31123,7 @@
       "hub": "Saket",
       "client": "Porter - 3W L3",
       "lineItem": "Maintenance",
-      "amount": 41.935483870967744,
+      "amount": 41.269841269841265,
       "segment": "cargo"
     },
     {
@@ -29923,7 +31132,16 @@
       "hub": "Saket",
       "client": "Blinkit",
       "lineItem": "Maintenance",
-      "amount": 138.70967741935485,
+      "amount": 136.5079365079365,
+      "segment": "cargo"
+    },
+    {
+      "month": "2026-09",
+      "city": "Delhi",
+      "hub": "Saket",
+      "client": "Delhivery",
+      "lineItem": "Maintenance",
+      "amount": 3.1746031746031744,
       "segment": "cargo"
     },
     {
@@ -29932,7 +31150,7 @@
       "hub": "Saket",
       "client": "Rental_L5",
       "lineItem": "Maintenance",
-      "amount": 19.35483870967742,
+      "amount": 19.047619047619047,
       "segment": "cargo"
     },
     {
@@ -30364,7 +31582,7 @@
       "hub": "Shalimar Bagh",
       "client": "Porter - 3W L3",
       "lineItem": "Maintenance",
-      "amount": 57,
+      "amount": 59.47826086956522,
       "segment": "cargo"
     },
     {
@@ -30373,7 +31591,7 @@
       "hub": "Shalimar Bagh",
       "client": "Blinkit",
       "lineItem": "Maintenance",
-      "amount": 228,
+      "amount": 237.91304347826087,
       "segment": "cargo"
     },
     {
@@ -30382,7 +31600,34 @@
       "hub": "Shalimar Bagh",
       "client": "Delhivery",
       "lineItem": "Maintenance",
-      "amount": 57,
+      "amount": 44.608695652173914,
+      "segment": "cargo"
+    },
+    {
+      "month": "2026-09",
+      "city": "Delhi",
+      "hub": "Shalimar Bagh",
+      "client": "Porter - 3W L3",
+      "lineItem": "Maintenance",
+      "amount": 175.47826086956522,
+      "segment": "cargo"
+    },
+    {
+      "month": "2026-09",
+      "city": "Delhi",
+      "hub": "Shalimar Bagh",
+      "client": "Blinkit",
+      "lineItem": "Maintenance",
+      "amount": 701.9130434782609,
+      "segment": "cargo"
+    },
+    {
+      "month": "2026-09",
+      "city": "Delhi",
+      "hub": "Shalimar Bagh",
+      "client": "Delhivery",
+      "lineItem": "Maintenance",
+      "amount": 131.6086956521739,
       "segment": "cargo"
     },
     {
@@ -34991,7 +36236,7 @@
     {
       "month": "2026-09",
       "city": "Delhi",
-      "hub": "Shalimar Bagh",
+      "hub": "Delhi Saket",
       "client": "Delhivery",
       "lineItem": "Lease/EMI",
       "amount": 14600
