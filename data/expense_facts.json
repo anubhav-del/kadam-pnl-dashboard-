@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-23T10:50:00.216Z",
+  "generatedAt": "2026-09-23T13:50:06.080Z",
   "records": [
     {
       "month": "2026-06",
@@ -1383,7 +1383,7 @@
       "hub": "Ali Village",
       "client": "Blinkit",
       "lineItem": "Supervisor Cost",
-      "amount": 33169.44344601485
+      "amount": 33182.495497958924
     },
     {
       "month": "2026-09",
@@ -1391,7 +1391,7 @@
       "hub": "Ali Village",
       "client": "Delhivery",
       "lineItem": "Supervisor Cost",
-      "amount": 19248.53525517141
+      "amount": 19419.28785730646
     },
     {
       "month": "2026-09",
@@ -1399,7 +1399,7 @@
       "hub": "Ali Village",
       "client": "Porter - 3W L3",
       "lineItem": "Supervisor Cost",
-      "amount": 29402.293334760205
+      "amount": 29097.508990074075
     },
     {
       "month": "2026-09",
@@ -1431,7 +1431,7 @@
       "hub": "Saket",
       "client": "Blinkit",
       "lineItem": "Supervisor Cost",
-      "amount": 72093.95669030657
+      "amount": 72116.40621965037
     },
     {
       "month": "2026-09",
@@ -1439,7 +1439,7 @@
       "hub": "Saket",
       "client": "Porter - 3W L3",
       "lineItem": "Supervisor Cost",
-      "amount": 21795.847371488035
+      "amount": 21802.63443849895
     },
     {
       "month": "2026-09",
@@ -1447,7 +1447,7 @@
       "hub": "Saket",
       "client": "Rental_L5",
       "lineItem": "Supervisor Cost",
-      "amount": 10115.508651895729
+      "amount": 10118.65854709823
     },
     {
       "month": "2026-09",
@@ -1455,7 +1455,7 @@
       "hub": "Saket",
       "client": "Delhivery",
       "lineItem": "Supervisor Cost",
-      "amount": 502.98109318818535
+      "amount": 503.13771781151416
     },
     {
       "month": "2026-09",
@@ -1487,7 +1487,7 @@
       "hub": "Faridabad",
       "client": "Blinkit",
       "lineItem": "Supervisor Cost",
-      "amount": 14594.555116246534
+      "amount": 14600.298019101925
     },
     {
       "month": "2026-09",
@@ -1495,7 +1495,7 @@
       "hub": "Kaushambi",
       "client": "Blinkit",
       "lineItem": "Supervisor Cost",
-      "amount": 11908.025489662901
+      "amount": 11869.11567879405
     },
     {
       "month": "2026-09",
@@ -1503,7 +1503,7 @@
       "hub": "Kaushambi",
       "client": "Porter - 3W L3",
       "lineItem": "Supervisor Cost",
-      "amount": 9843.967738121331
+      "amount": 10167.875764833572
     },
     {
       "month": "2026-09",
@@ -1607,7 +1607,7 @@
       "hub": "Sector 121",
       "client": "Amicco",
       "lineItem": "Supervisor Cost",
-      "amount": 1264.219712401398
+      "amount": 1262.0412953645234
     },
     {
       "month": "2026-09",
@@ -1615,7 +1615,7 @@
       "hub": "Sector 121",
       "client": "Blinkit",
       "lineItem": "Supervisor Cost",
-      "amount": 56569.811685062166
+      "amount": 56437.51832810808
     },
     {
       "month": "2026-09",
@@ -1623,7 +1623,7 @@
       "hub": "Sector 121",
       "client": "Delhivery",
       "lineItem": "Supervisor Cost",
-      "amount": 11813.107734233568
+      "amount": 11785.481768516687
     },
     {
       "month": "2026-09",
@@ -1631,7 +1631,7 @@
       "hub": "Sector 121",
       "client": "Porter - 3W L3",
       "lineItem": "Supervisor Cost",
-      "amount": 17192.7859042836
+      "amount": 17152.579099719125
     },
     {
       "month": "2026-03",
@@ -31628,6 +31628,33 @@
       "client": "Delhivery",
       "lineItem": "Maintenance",
       "amount": 131.6086956521739,
+      "segment": "cargo"
+    },
+    {
+      "month": "2026-09",
+      "city": "Delhi",
+      "hub": "Shalimar Bagh",
+      "client": "Porter - 3W L3",
+      "lineItem": "Maintenance",
+      "amount": 82.6086956521739,
+      "segment": "cargo"
+    },
+    {
+      "month": "2026-09",
+      "city": "Delhi",
+      "hub": "Shalimar Bagh",
+      "client": "Blinkit",
+      "lineItem": "Maintenance",
+      "amount": 330.4347826086956,
+      "segment": "cargo"
+    },
+    {
+      "month": "2026-09",
+      "city": "Delhi",
+      "hub": "Shalimar Bagh",
+      "client": "Delhivery",
+      "lineItem": "Maintenance",
+      "amount": 61.95652173913043,
       "segment": "cargo"
     },
     {
