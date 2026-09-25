@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-24T22:50:36.595Z",
+  "generatedAt": "2026-09-25T05:48:54.636Z",
   "records": [
     {
       "month": "2026-06",
@@ -31905,6 +31905,96 @@
       "client": "Wash4you",
       "lineItem": "Maintenance",
       "amount": 1.1702127659574468,
+      "segment": "cargo"
+    },
+    {
+      "month": "2026-09",
+      "city": "Gurgaon",
+      "hub": "Wazirabad",
+      "client": "Porter - 3W L3",
+      "lineItem": "Maintenance",
+      "amount": 64.36170212765957,
+      "segment": "cargo"
+    },
+    {
+      "month": "2026-09",
+      "city": "Gurgaon",
+      "hub": "Wazirabad",
+      "client": "Blinkit",
+      "lineItem": "Maintenance",
+      "amount": 35.1063829787234,
+      "segment": "cargo"
+    },
+    {
+      "month": "2026-09",
+      "city": "Gurgaon",
+      "hub": "Wazirabad",
+      "client": "Delhivery",
+      "lineItem": "Maintenance",
+      "amount": 7.0212765957446805,
+      "segment": "cargo"
+    },
+    {
+      "month": "2026-09",
+      "city": "Gurgaon",
+      "hub": "Wazirabad",
+      "client": "Amicco",
+      "lineItem": "Maintenance",
+      "amount": 2.3404255319148937,
+      "segment": "cargo"
+    },
+    {
+      "month": "2026-09",
+      "city": "Gurgaon",
+      "hub": "Wazirabad",
+      "client": "Wash4you",
+      "lineItem": "Maintenance",
+      "amount": 1.1702127659574468,
+      "segment": "cargo"
+    },
+    {
+      "month": "2026-09",
+      "city": "Gurgaon",
+      "hub": "Wazirabad",
+      "client": "Porter - 3W L3",
+      "lineItem": "Maintenance",
+      "amount": 152.12765957446808,
+      "segment": "cargo"
+    },
+    {
+      "month": "2026-09",
+      "city": "Gurgaon",
+      "hub": "Wazirabad",
+      "client": "Blinkit",
+      "lineItem": "Maintenance",
+      "amount": 82.97872340425532,
+      "segment": "cargo"
+    },
+    {
+      "month": "2026-09",
+      "city": "Gurgaon",
+      "hub": "Wazirabad",
+      "client": "Delhivery",
+      "lineItem": "Maintenance",
+      "amount": 16.595744680851062,
+      "segment": "cargo"
+    },
+    {
+      "month": "2026-09",
+      "city": "Gurgaon",
+      "hub": "Wazirabad",
+      "client": "Amicco",
+      "lineItem": "Maintenance",
+      "amount": 5.531914893617021,
+      "segment": "cargo"
+    },
+    {
+      "month": "2026-09",
+      "city": "Gurgaon",
+      "hub": "Wazirabad",
+      "client": "Wash4you",
+      "lineItem": "Maintenance",
+      "amount": 2.7659574468085104,
       "segment": "cargo"
     },
     {
