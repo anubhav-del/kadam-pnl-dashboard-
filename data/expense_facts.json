@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-25T10:49:55.940Z",
+  "generatedAt": "2026-09-25T15:50:40.600Z",
   "records": [
     {
       "month": "2026-06",
@@ -1383,7 +1383,7 @@
       "hub": "Ali Village",
       "client": "Blinkit",
       "lineItem": "Supervisor Cost",
-      "amount": 33158.90329463295
+      "amount": 33152.51277232044
     },
     {
       "month": "2026-09",
@@ -1391,7 +1391,7 @@
       "hub": "Ali Village",
       "client": "Delhivery",
       "lineItem": "Supervisor Cost",
-      "amount": 19559.83895436376
+      "amount": 19557.206059171007
     },
     {
       "month": "2026-09",
@@ -1399,7 +1399,7 @@
       "hub": "Ali Village",
       "client": "Porter - 3W L3",
       "lineItem": "Supervisor Cost",
-      "amount": 28801.70460917641
+      "amount": 28797.827692306822
     },
     {
       "month": "2026-09",
@@ -1407,7 +1407,7 @@
       "hub": "Nilothi",
       "client": "Blinkit",
       "lineItem": "Supervisor Cost",
-      "amount": 43161.12962795248
+      "amount": 43153.97224296248
     },
     {
       "month": "2026-09",
@@ -1415,7 +1415,7 @@
       "hub": "Nilothi",
       "client": "Delhivery",
       "lineItem": "Supervisor Cost",
-      "amount": 16442.33509636285
+      "amount": 16439.608473509514
     },
     {
       "month": "2026-09",
@@ -1423,7 +1423,7 @@
       "hub": "Nilothi",
       "client": "Porter - 3W L3",
       "lineItem": "Supervisor Cost",
-      "amount": 20039.095898692227
+      "amount": 20035.772827089724
     },
     {
       "month": "2026-09",
@@ -1431,7 +1431,7 @@
       "hub": "Saket",
       "client": "Blinkit",
       "lineItem": "Supervisor Cost",
-      "amount": 72075.8276299297
+      "amount": 72064.8359315522
     },
     {
       "month": "2026-09",
@@ -1439,7 +1439,7 @@
       "hub": "Saket",
       "client": "Porter - 3W L3",
       "lineItem": "Supervisor Cost",
-      "amount": 21790.366492769444
+      "amount": 21787.04342116694
     },
     {
       "month": "2026-09",
@@ -1447,7 +1447,7 @@
       "hub": "Saket",
       "client": "Rental_L5",
       "lineItem": "Supervisor Cost",
-      "amount": 10112.964962028896
+      "amount": 10111.422715977478
     },
     {
       "month": "2026-09",
@@ -1455,7 +1455,7 @@
       "hub": "Saket",
       "client": "Delhivery",
       "lineItem": "Supervisor Cost",
-      "amount": 502.8546113716026
+      "amount": 502.7779251038525
     },
     {
       "month": "2026-09",
@@ -1463,7 +1463,7 @@
       "hub": "Shalimar Bagh",
       "client": "Blinkit",
       "lineItem": "Supervisor Cost",
-      "amount": 37094.21595667512
+      "amount": 37090.12602239512
     },
     {
       "month": "2026-09",
@@ -1471,7 +1471,7 @@
       "hub": "Shalimar Bagh",
       "client": "Delhivery",
       "lineItem": "Supervisor Cost",
-      "amount": 8500.757823404714
+      "amount": 8499.820546798881
     },
     {
       "month": "2026-09",
@@ -1479,7 +1479,7 @@
       "hub": "Shalimar Bagh",
       "client": "Porter - 3W L3",
       "lineItem": "Supervisor Cost",
-      "amount": 9273.55398916878
+      "amount": 9272.53150559878
     },
     {
       "month": "2026-09",
@@ -1487,7 +1487,7 @@
       "hub": "Faridabad",
       "client": "Blinkit",
       "lineItem": "Supervisor Cost",
-      "amount": 14589.9174496385
+      "amount": 14587.105619820995
     },
     {
       "month": "2026-09",
@@ -1495,7 +1495,7 @@
       "hub": "Kaushambi",
       "client": "Blinkit",
       "lineItem": "Supervisor Cost",
-      "amount": 11479.415863464945
+      "amount": 11476.85965453994
     },
     {
       "month": "2026-09",
@@ -1503,7 +1503,7 @@
       "hub": "Kaushambi",
       "client": "Porter - 3W L3",
       "lineItem": "Supervisor Cost",
-      "amount": 9834.03292303497
+      "amount": 9831.843104055883
     },
     {
       "month": "2026-09",
@@ -1511,7 +1511,7 @@
       "hub": "Kaushambi",
       "client": "Delhivery",
       "lineItem": "Supervisor Cost",
-      "amount": 1721.9123795197415
+      "amount": 1721.528948180991
     },
     {
       "month": "2026-09",
@@ -1519,7 +1519,7 @@
       "hub": "Sector 68",
       "client": "Blinkit",
       "lineItem": "Supervisor Cost",
-      "amount": 4722.615027815356
+      "amount": 4717.908943232339
     },
     {
       "month": "2026-09",
@@ -1535,7 +1535,7 @@
       "hub": "Sector 68",
       "client": "Porter - 3W L3",
       "lineItem": "Supervisor Cost",
-      "amount": 4692.184352108085
+      "amount": 4687.478267525067
     },
     {
       "month": "2026-09",
@@ -1543,7 +1543,7 @@
       "hub": "Wazirabad",
       "client": "Amicco",
       "lineItem": "Supervisor Cost",
-      "amount": 7581.688156462523
+      "amount": 7343.568239568846
     },
     {
       "month": "2026-09",
@@ -1551,7 +1551,7 @@
       "hub": "Wazirabad",
       "client": "Blinkit",
       "lineItem": "Supervisor Cost",
-      "amount": 50768.111549015084
+      "amount": 50717.521139747645
     },
     {
       "month": "2026-09",
@@ -1559,7 +1559,7 @@
       "hub": "Wazirabad",
       "client": "Delhivery",
       "lineItem": "Supervisor Cost",
-      "amount": 26852.18362592572
+      "amount": 27398.32443152144
     },
     {
       "month": "2026-09",
@@ -1567,7 +1567,7 @@
       "hub": "Wazirabad",
       "client": "Porter - 3W L3",
       "lineItem": "Supervisor Cost",
-      "amount": 66472.61165486452
+      "amount": 66405.94212327179
     },
     {
       "month": "2026-09",
@@ -1575,7 +1575,7 @@
       "hub": "Wazirabad",
       "client": "Wash4you",
       "lineItem": "Supervisor Cost",
-      "amount": 4110.028106009039
+      "amount": 3990.047247308947
     },
     {
       "month": "2026-09",
@@ -1615,7 +1615,7 @@
       "hub": "Sector 121",
       "client": "Amicco",
       "lineItem": "Supervisor Cost",
-      "amount": 1222.224388456373
+      "amount": 1222.1255159361824
     },
     {
       "month": "2026-09",
@@ -1623,7 +1623,7 @@
       "hub": "Sector 121",
       "client": "Blinkit",
       "lineItem": "Supervisor Cost",
-      "amount": 54521.87293184348
+      "amount": 54518.511266156995
     },
     {
       "month": "2026-09",
@@ -1631,7 +1631,7 @@
       "hub": "Sector 121",
       "client": "Delhivery",
       "lineItem": "Supervisor Cost",
-      "amount": 12294.147817964706
+      "amount": 12293.389795309911
     },
     {
       "month": "2026-09",
@@ -1639,7 +1639,7 @@
       "hub": "Sector 121",
       "client": "Porter - 3W L3",
       "lineItem": "Supervisor Cost",
-      "amount": 16997.995678751202
+      "amount": 16996.947630037183
     },
     {
       "month": "2026-09",
@@ -1647,7 +1647,7 @@
       "hub": "Sector 121",
       "client": "Rental_L5",
       "lineItem": "Supervisor Cost",
-      "amount": 1122.5091485967773
+      "amount": 1122.4399378326439
     },
     {
       "month": "2026-09",
@@ -32222,6 +32222,60 @@
       "segment": "cargo"
     },
     {
+      "month": "2026-09",
+      "city": "Delhi",
+      "hub": "Nilothi",
+      "client": "Porter - 3W L3",
+      "lineItem": "Maintenance",
+      "amount": 28.03921568627451,
+      "segment": "cargo"
+    },
+    {
+      "month": "2026-09",
+      "city": "Delhi",
+      "hub": "Nilothi",
+      "client": "Blinkit",
+      "lineItem": "Maintenance",
+      "amount": 60.392156862745104,
+      "segment": "cargo"
+    },
+    {
+      "month": "2026-09",
+      "city": "Delhi",
+      "hub": "Nilothi",
+      "client": "Delhivery",
+      "lineItem": "Maintenance",
+      "amount": 21.56862745098039,
+      "segment": "cargo"
+    },
+    {
+      "month": "2026-09",
+      "city": "Delhi",
+      "hub": "Ali Village",
+      "client": "Blinkit",
+      "lineItem": "Maintenance",
+      "amount": 928.5714285714286,
+      "segment": "cargo"
+    },
+    {
+      "month": "2026-09",
+      "city": "Delhi",
+      "hub": "Ali Village",
+      "client": "Porter - 3W L3",
+      "lineItem": "Maintenance",
+      "amount": 482.8571428571429,
+      "segment": "cargo"
+    },
+    {
+      "month": "2026-09",
+      "city": "Delhi",
+      "hub": "Ali Village",
+      "client": "Delhivery",
+      "lineItem": "Maintenance",
+      "amount": 408.57142857142856,
+      "segment": "cargo"
+    },
+    {
       "month": "2026-03",
       "city": "Gurgaon",
       "hub": "Gurgaon Sec 68",
@@ -35369,6 +35423,78 @@
       "client": "Passenger Rental",
       "lineItem": "Maintenance",
       "amount": 165,
+      "segment": "passenger"
+    },
+    {
+      "month": "2026-09",
+      "city": "Gurgaon",
+      "hub": "Hero Honda",
+      "client": "Passenger Rental",
+      "lineItem": "Maintenance",
+      "amount": 260,
+      "segment": "passenger"
+    },
+    {
+      "month": "2026-09",
+      "city": "",
+      "hub": "",
+      "client": "",
+      "lineItem": "Maintenance",
+      "amount": 520,
+      "segment": "passenger"
+    },
+    {
+      "month": "2026-09",
+      "city": "Gurgaon",
+      "hub": "Gurgaon Sec 68",
+      "client": "Passenger Rental",
+      "lineItem": "Maintenance",
+      "amount": -108,
+      "segment": "passenger"
+    },
+    {
+      "month": "2026-09",
+      "city": "Gurgaon",
+      "hub": "Gurgaon Sec 68",
+      "client": "Passenger Rental",
+      "lineItem": "Maintenance",
+      "amount": -153,
+      "segment": "passenger"
+    },
+    {
+      "month": "2026-09",
+      "city": "Gurgaon",
+      "hub": "Gurgaon Sec 68",
+      "client": "Passenger Rental",
+      "lineItem": "Maintenance",
+      "amount": 1090,
+      "segment": "passenger"
+    },
+    {
+      "month": "2026-09",
+      "city": "Gurgaon",
+      "hub": "Hero Honda",
+      "client": "Passenger Rental",
+      "lineItem": "Maintenance",
+      "amount": 260,
+      "segment": "passenger"
+    },
+    {
+      "month": "2026-09",
+      "city": "Gurgaon",
+      "hub": "Hero Honda",
+      "client": "Passenger Rental",
+      "lineItem": "Maintenance",
+      "amount": 260,
+      "segment": "passenger"
+    },
+    {
+      "month": "2026-09",
+      "city": "Gurgaon",
+      "hub": "Gurgaon Sec 68",
+      "client": "Passenger Rental",
+      "lineItem": "Maintenance",
+      "amount": 7439,
       "segment": "passenger"
     },
     {
