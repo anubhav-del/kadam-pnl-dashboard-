@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-26T03:49:25.014Z",
+  "generatedAt": "2026-09-26T07:49:29.422Z",
   "records": [
     {
       "month": "2026-06",
@@ -39,7 +39,7 @@
       "hub": "Kormangala",
       "client": "3W L3 Porter- Fixed",
       "lineItem": "Hub Rental",
-      "amount": 72413.79310344828
+      "amount": 80769.23076923077
     },
     {
       "month": "2026-06",
@@ -47,7 +47,7 @@
       "hub": "Kormangala",
       "client": "Delhivery",
       "lineItem": "Hub Rental",
-      "amount": 67586.20689655172
+      "amount": 59230.76923076923
     },
     {
       "month": "2026-06",
@@ -151,7 +151,7 @@
       "hub": "Kormangala",
       "client": "3W L3 Porter- Fixed",
       "lineItem": "Hub Rental",
-      "amount": 72413.79310344828
+      "amount": 80769.23076923077
     },
     {
       "month": "2026-08",
@@ -159,7 +159,7 @@
       "hub": "Kormangala",
       "client": "Delhivery",
       "lineItem": "Hub Rental",
-      "amount": 67586.20689655172
+      "amount": 59230.76923076923
     },
     {
       "month": "2026-08",
@@ -423,7 +423,7 @@
       "hub": "Kormangala",
       "client": "3W L3 Porter- Fixed",
       "lineItem": "Electricity",
-      "amount": 4108.448275862069
+      "amount": 4582.5
     },
     {
       "month": "2026-06",
@@ -431,7 +431,7 @@
       "hub": "Kormangala",
       "client": "Delhivery",
       "lineItem": "Electricity",
-      "amount": 3834.551724137931
+      "amount": 3360.5
     },
     {
       "month": "2026-07",
@@ -511,7 +511,7 @@
       "hub": "Kormangala",
       "client": "3W L3 Porter- Fixed",
       "lineItem": "Electricity",
-      "amount": 15703.924137931035
+      "amount": 17515.915384615382
     },
     {
       "month": "2026-07",
@@ -519,7 +519,7 @@
       "hub": "Kormangala",
       "client": "Delhivery",
       "lineItem": "Electricity",
-      "amount": 14656.995862068965
+      "amount": 12845.004615384614
     },
     {
       "month": "2026-08",
@@ -599,7 +599,7 @@
       "hub": "Kormangala",
       "client": "3W L3 Porter- Fixed",
       "lineItem": "Electricity",
-      "amount": 15703.924137931035
+      "amount": 17515.915384615382
     },
     {
       "month": "2026-08",
@@ -607,7 +607,7 @@
       "hub": "Kormangala",
       "client": "Delhivery",
       "lineItem": "Electricity",
-      "amount": 14656.995862068965
+      "amount": 12845.004615384614
     },
     {
       "month": "2026-09",
@@ -687,7 +687,7 @@
       "hub": "Kormangala",
       "client": "3W L3 Porter- Fixed",
       "lineItem": "Electricity",
-      "amount": 15703.924137931035
+      "amount": 17515.915384615382
     },
     {
       "month": "2026-09",
@@ -695,7 +695,7 @@
       "hub": "Kormangala",
       "client": "Delhivery",
       "lineItem": "Electricity",
-      "amount": 14656.995862068965
+      "amount": 12845.004615384614
     },
     {
       "month": "2026-07",
@@ -8377,7 +8377,7 @@
       "hub": "Kormangala",
       "client": "3W L3 Porter- Fixed",
       "lineItem": "Maintenance",
-      "amount": 1376.8965517241381,
+      "amount": 1535.7692307692307,
       "segment": "cargo"
     },
     {
@@ -8386,7 +8386,7 @@
       "hub": "Kormangala",
       "client": "Delhivery",
       "lineItem": "Maintenance",
-      "amount": 1285.103448275862,
+      "amount": 1126.2307692307693,
       "segment": "cargo"
     },
     {
@@ -8395,7 +8395,7 @@
       "hub": "Kormangala",
       "client": "3W L3 Porter- Fixed",
       "lineItem": "Maintenance",
-      "amount": 1827.9310344827588,
+      "amount": 2038.8461538461536,
       "segment": "cargo"
     },
     {
@@ -8404,7 +8404,7 @@
       "hub": "Kormangala",
       "client": "Delhivery",
       "lineItem": "Maintenance",
-      "amount": 1706.0689655172414,
+      "amount": 1495.1538461538462,
       "segment": "cargo"
     },
     {
@@ -8512,7 +8512,7 @@
       "hub": "Kormangala",
       "client": "3W L3 Porter- Fixed",
       "lineItem": "Maintenance",
-      "amount": 441.72413793103453,
+      "amount": 492.6923076923076,
       "segment": "cargo"
     },
     {
@@ -8521,7 +8521,7 @@
       "hub": "Kormangala",
       "client": "Delhivery",
       "lineItem": "Maintenance",
-      "amount": 412.2758620689655,
+      "amount": 361.3076923076923,
       "segment": "cargo"
     },
     {
@@ -8629,7 +8629,7 @@
       "hub": "Kormangala",
       "client": "3W L3 Porter- Fixed",
       "lineItem": "Maintenance",
-      "amount": 9255.517241379312,
+      "amount": 10323.461538461537,
       "segment": "cargo"
     },
     {
@@ -8638,7 +8638,7 @@
       "hub": "Kormangala",
       "client": "Delhivery",
       "lineItem": "Maintenance",
-      "amount": 8638.48275862069,
+      "amount": 7570.538461538462,
       "segment": "cargo"
     },
     {
@@ -8647,7 +8647,7 @@
       "hub": "Kormangala",
       "client": "3W L3 Porter- Fixed",
       "lineItem": "Maintenance",
-      "amount": 4125.517241379311,
+      "amount": 4601.538461538461,
       "segment": "cargo"
     },
     {
@@ -8656,7 +8656,7 @@
       "hub": "Kormangala",
       "client": "Delhivery",
       "lineItem": "Maintenance",
-      "amount": 3850.4827586206898,
+      "amount": 3374.4615384615386,
       "segment": "cargo"
     },
     {
@@ -8701,7 +8701,7 @@
       "hub": "Kormangala",
       "client": "3W L3 Porter- Fixed",
       "lineItem": "Maintenance",
-      "amount": 214.6551724137931,
+      "amount": 239.4230769230769,
       "segment": "cargo"
     },
     {
@@ -8710,7 +8710,7 @@
       "hub": "Kormangala",
       "client": "Delhivery",
       "lineItem": "Maintenance",
-      "amount": 200.34482758620692,
+      "amount": 175.57692307692307,
       "segment": "cargo"
     },
     {
@@ -8800,7 +8800,7 @@
       "hub": "Kormangala",
       "client": "3W L3 Porter- Fixed",
       "lineItem": "Maintenance",
-      "amount": 1163.793103448276,
+      "amount": 1298.0769230769229,
       "segment": "cargo"
     },
     {
@@ -8809,7 +8809,7 @@
       "hub": "Kormangala",
       "client": "Delhivery",
       "lineItem": "Maintenance",
-      "amount": 1086.2068965517242,
+      "amount": 951.9230769230769,
       "segment": "cargo"
     },
     {
@@ -9079,7 +9079,7 @@
       "hub": "Kormangala",
       "client": "3W L3 Porter- Fixed",
       "lineItem": "Maintenance",
-      "amount": 2038.448275862069,
+      "amount": 2273.6538461538457,
       "segment": "cargo"
     },
     {
@@ -9088,7 +9088,7 @@
       "hub": "Kormangala",
       "client": "Delhivery",
       "lineItem": "Maintenance",
-      "amount": 1902.5517241379312,
+      "amount": 1667.3461538461538,
       "segment": "cargo"
     },
     {
@@ -9214,7 +9214,7 @@
       "hub": "Kormangala",
       "client": "3W L3 Porter- Fixed",
       "lineItem": "Maintenance",
-      "amount": 158.79310344827587,
+      "amount": 177.1153846153846,
       "segment": "cargo"
     },
     {
@@ -9223,7 +9223,7 @@
       "hub": "Kormangala",
       "client": "Delhivery",
       "lineItem": "Maintenance",
-      "amount": 148.20689655172416,
+      "amount": 129.8846153846154,
       "segment": "cargo"
     },
     {
@@ -9331,7 +9331,7 @@
       "hub": "Kormangala",
       "client": "3W L3 Porter- Fixed",
       "lineItem": "Maintenance",
-      "amount": 51.724137931034484,
+      "amount": 57.692307692307686,
       "segment": "cargo"
     },
     {
@@ -9340,7 +9340,7 @@
       "hub": "Kormangala",
       "client": "Delhivery",
       "lineItem": "Maintenance",
-      "amount": 48.275862068965516,
+      "amount": 42.30769230769231,
       "segment": "cargo"
     },
     {
@@ -32681,6 +32681,96 @@
       "segment": "cargo"
     },
     {
+      "month": "2026-09",
+      "city": "Gurgaon",
+      "hub": "Wazirabad",
+      "client": "Porter - 3W L3",
+      "lineItem": "Maintenance",
+      "amount": 40.95744680851064,
+      "segment": "cargo"
+    },
+    {
+      "month": "2026-09",
+      "city": "Gurgaon",
+      "hub": "Wazirabad",
+      "client": "Blinkit",
+      "lineItem": "Maintenance",
+      "amount": 22.340425531914896,
+      "segment": "cargo"
+    },
+    {
+      "month": "2026-09",
+      "city": "Gurgaon",
+      "hub": "Wazirabad",
+      "client": "Delhivery",
+      "lineItem": "Maintenance",
+      "amount": 4.468085106382978,
+      "segment": "cargo"
+    },
+    {
+      "month": "2026-09",
+      "city": "Gurgaon",
+      "hub": "Wazirabad",
+      "client": "Amicco",
+      "lineItem": "Maintenance",
+      "amount": 1.4893617021276595,
+      "segment": "cargo"
+    },
+    {
+      "month": "2026-09",
+      "city": "Gurgaon",
+      "hub": "Wazirabad",
+      "client": "Wash4you",
+      "lineItem": "Maintenance",
+      "amount": 0.7446808510638298,
+      "segment": "cargo"
+    },
+    {
+      "month": "2026-09",
+      "city": "Gurgaon",
+      "hub": "Wazirabad",
+      "client": "Porter - 3W L3",
+      "lineItem": "Maintenance",
+      "amount": 61.43617021276596,
+      "segment": "cargo"
+    },
+    {
+      "month": "2026-09",
+      "city": "Gurgaon",
+      "hub": "Wazirabad",
+      "client": "Blinkit",
+      "lineItem": "Maintenance",
+      "amount": 33.51063829787234,
+      "segment": "cargo"
+    },
+    {
+      "month": "2026-09",
+      "city": "Gurgaon",
+      "hub": "Wazirabad",
+      "client": "Delhivery",
+      "lineItem": "Maintenance",
+      "amount": 6.702127659574468,
+      "segment": "cargo"
+    },
+    {
+      "month": "2026-09",
+      "city": "Gurgaon",
+      "hub": "Wazirabad",
+      "client": "Amicco",
+      "lineItem": "Maintenance",
+      "amount": 2.234042553191489,
+      "segment": "cargo"
+    },
+    {
+      "month": "2026-09",
+      "city": "Gurgaon",
+      "hub": "Wazirabad",
+      "client": "Wash4you",
+      "lineItem": "Maintenance",
+      "amount": 1.1170212765957446,
+      "segment": "cargo"
+    },
+    {
       "month": "2026-03",
       "city": "Gurgaon",
       "hub": "Gurgaon Sec 68",
@@ -35913,6 +36003,24 @@
     },
     {
       "month": "2026-09",
+      "city": "Gurgaon",
+      "hub": "Gurgaon Sec 68",
+      "client": "Passenger Rental",
+      "lineItem": "Maintenance",
+      "amount": -89,
+      "segment": "passenger"
+    },
+    {
+      "month": "2026-09",
+      "city": "Gurgaon",
+      "hub": "Gurgaon Sec 68",
+      "client": "Passenger Rental",
+      "lineItem": "Maintenance",
+      "amount": 780,
+      "segment": "passenger"
+    },
+    {
+      "month": "2026-09",
       "city": "Bangalore",
       "hub": "Bangalore Koramangala",
       "client": "3W L3 Porter- Fixed",
@@ -36094,30 +36202,6 @@
       "client": "Delhivery",
       "lineItem": "Lease/EMI",
       "amount": 18500
-    },
-    {
-      "month": "2026-09",
-      "city": "Bangalore",
-      "hub": "Bangalore Koramangala",
-      "client": "Delhivery",
-      "lineItem": "Lease/EMI",
-      "amount": 11500
-    },
-    {
-      "month": "2026-09",
-      "city": "Bangalore",
-      "hub": "Bangalore Koramangala",
-      "client": "Delhivery",
-      "lineItem": "Lease/EMI",
-      "amount": 11500
-    },
-    {
-      "month": "2026-09",
-      "city": "Bangalore",
-      "hub": "Bangalore Koramangala",
-      "client": "Delhivery",
-      "lineItem": "Lease/EMI",
-      "amount": 11500
     },
     {
       "month": "2026-09",
