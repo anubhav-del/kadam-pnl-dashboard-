@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-28T04:48:44.899Z",
+  "generatedAt": "2026-09-28T06:50:20.693Z",
   "records": [
     {
       "month": "2026-06",
@@ -32912,6 +32912,51 @@
       "client": "Delhivery",
       "lineItem": "Maintenance",
       "amount": 416.6666666666667,
+      "segment": "cargo"
+    },
+    {
+      "month": "2026-09",
+      "city": "Gurgaon",
+      "hub": "Wazirabad",
+      "client": "Porter - 3W L3",
+      "lineItem": "Maintenance",
+      "amount": 64.36170212765957,
+      "segment": "cargo"
+    },
+    {
+      "month": "2026-09",
+      "city": "Gurgaon",
+      "hub": "Wazirabad",
+      "client": "Blinkit",
+      "lineItem": "Maintenance",
+      "amount": 35.1063829787234,
+      "segment": "cargo"
+    },
+    {
+      "month": "2026-09",
+      "city": "Gurgaon",
+      "hub": "Wazirabad",
+      "client": "Delhivery",
+      "lineItem": "Maintenance",
+      "amount": 7.0212765957446805,
+      "segment": "cargo"
+    },
+    {
+      "month": "2026-09",
+      "city": "Gurgaon",
+      "hub": "Wazirabad",
+      "client": "Amicco",
+      "lineItem": "Maintenance",
+      "amount": 2.3404255319148937,
+      "segment": "cargo"
+    },
+    {
+      "month": "2026-09",
+      "city": "Gurgaon",
+      "hub": "Wazirabad",
+      "client": "Wash4you",
+      "lineItem": "Maintenance",
+      "amount": 1.1702127659574468,
       "segment": "cargo"
     },
     {
@@ -113737,7 +113782,7 @@
       "hub": "",
       "client": "Blinkit",
       "lineItem": "Driver Payout",
-      "amount": -2995.2199999999993
+      "amount": 3566.6000000000004
     },
     {
       "month": "2026-08",
