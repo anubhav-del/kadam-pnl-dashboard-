@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-29T03:49:49.749Z",
+  "generatedAt": "2026-09-29T14:50:28.848Z",
   "records": [
     {
       "month": "2026-06",
@@ -1383,7 +1383,7 @@
       "hub": "Ali Village",
       "client": "Blinkit",
       "lineItem": "Supervisor Cost",
-      "amount": 33152.51277232044
+      "amount": 33156.345647771224
     },
     {
       "month": "2026-09",
@@ -1391,7 +1391,7 @@
       "hub": "Ali Village",
       "client": "Delhivery",
       "lineItem": "Supervisor Cost",
-      "amount": 19557.206059171007
+      "amount": 19558.78520385673
     },
     {
       "month": "2026-09",
@@ -1399,7 +1399,7 @@
       "hub": "Ali Village",
       "client": "Porter - 3W L3",
       "lineItem": "Supervisor Cost",
-      "amount": 28797.827692306822
+      "amount": 28800.152970080293
     },
     {
       "month": "2026-09",
@@ -1407,7 +1407,7 @@
       "hub": "Nilothi",
       "client": "Blinkit",
       "lineItem": "Supervisor Cost",
-      "amount": 43153.97224296248
+      "amount": 43158.26506346735
     },
     {
       "month": "2026-09",
@@ -1415,7 +1415,7 @@
       "hub": "Nilothi",
       "client": "Delhivery",
       "lineItem": "Supervisor Cost",
-      "amount": 16439.608473509514
+      "amount": 16441.243833701847
     },
     {
       "month": "2026-09",
@@ -1423,7 +1423,7 @@
       "hub": "Nilothi",
       "client": "Porter - 3W L3",
       "lineItem": "Supervisor Cost",
-      "amount": 20035.772827089724
+      "amount": 20037.765922324124
     },
     {
       "month": "2026-09",
@@ -1431,7 +1431,7 @@
       "hub": "Saket",
       "client": "Blinkit",
       "lineItem": "Supervisor Cost",
-      "amount": 72064.8359315522
+      "amount": 72071.42847732754
     },
     {
       "month": "2026-09",
@@ -1439,7 +1439,7 @@
       "hub": "Saket",
       "client": "Porter - 3W L3",
       "lineItem": "Supervisor Cost",
-      "amount": 21787.04342116694
+      "amount": 21789.03651640135
     },
     {
       "month": "2026-09",
@@ -1447,7 +1447,7 @@
       "hub": "Saket",
       "client": "Rental_L5",
       "lineItem": "Supervisor Cost",
-      "amount": 10111.422715977478
+      "amount": 10112.347716586266
     },
     {
       "month": "2026-09",
@@ -1455,7 +1455,7 @@
       "hub": "Saket",
       "client": "Delhivery",
       "lineItem": "Supervisor Cost",
-      "amount": 502.7779251038525
+      "amount": 502.82391960926185
     },
     {
       "month": "2026-09",
@@ -1463,7 +1463,7 @@
       "hub": "Shalimar Bagh",
       "client": "Blinkit",
       "lineItem": "Supervisor Cost",
-      "amount": 37090.12602239512
+      "amount": 37092.579062683624
     },
     {
       "month": "2026-09",
@@ -1471,7 +1471,7 @@
       "hub": "Shalimar Bagh",
       "client": "Delhivery",
       "lineItem": "Supervisor Cost",
-      "amount": 8499.820546798881
+      "amount": 8500.382701864997
     },
     {
       "month": "2026-09",
@@ -1479,7 +1479,7 @@
       "hub": "Shalimar Bagh",
       "client": "Porter - 3W L3",
       "lineItem": "Supervisor Cost",
-      "amount": 9272.53150559878
+      "amount": 9273.144765670906
     },
     {
       "month": "2026-09",
@@ -1487,7 +1487,7 @@
       "hub": "Faridabad",
       "client": "Blinkit",
       "lineItem": "Supervisor Cost",
-      "amount": 14587.105619820995
+      "amount": 14588.792085019339
     },
     {
       "month": "2026-09",
@@ -1495,7 +1495,7 @@
       "hub": "Kaushambi",
       "client": "Blinkit",
       "lineItem": "Supervisor Cost",
-      "amount": 11476.85965453994
+      "amount": 11478.392804720252
     },
     {
       "month": "2026-09",
@@ -1503,7 +1503,7 @@
       "hub": "Kaushambi",
       "client": "Porter - 3W L3",
       "lineItem": "Supervisor Cost",
-      "amount": 9831.843104055883
+      "amount": 9833.156502710352
     },
     {
       "month": "2026-09",
@@ -1511,7 +1511,7 @@
       "hub": "Kaushambi",
       "client": "Delhivery",
       "lineItem": "Supervisor Cost",
-      "amount": 1721.528948180991
+      "amount": 1721.7589207080377
     },
     {
       "month": "2026-09",
@@ -1519,7 +1519,7 @@
       "hub": "Sector 68",
       "client": "Blinkit",
       "lineItem": "Supervisor Cost",
-      "amount": 4717.908943232339
+      "amount": 4725.738201500326
     },
     {
       "month": "2026-09",
@@ -1535,7 +1535,7 @@
       "hub": "Sector 68",
       "client": "Porter - 3W L3",
       "lineItem": "Supervisor Cost",
-      "amount": 4687.478267525067
+      "amount": 4694.12715538645
     },
     {
       "month": "2026-09",
@@ -1543,7 +1543,7 @@
       "hub": "Wazirabad",
       "client": "Amicco",
       "lineItem": "Supervisor Cost",
-      "amount": 7343.568239568846
+      "amount": 7343.874869604908
     },
     {
       "month": "2026-09",
@@ -1551,7 +1551,7 @@
       "hub": "Wazirabad",
       "client": "Blinkit",
       "lineItem": "Supervisor Cost",
-      "amount": 50717.521139747645
+      "amount": 50683.54221109099
     },
     {
       "month": "2026-09",
@@ -1559,7 +1559,7 @@
       "hub": "Wazirabad",
       "client": "Delhivery",
       "lineItem": "Supervisor Cost",
-      "amount": 27398.32443152144
+      "amount": 27403.166917435432
     },
     {
       "month": "2026-09",
@@ -1567,7 +1567,7 @@
       "hub": "Wazirabad",
       "client": "Porter - 3W L3",
       "lineItem": "Supervisor Cost",
-      "amount": 66405.94212327179
+      "amount": 66382.78152242338
     },
     {
       "month": "2026-09",
@@ -1575,7 +1575,7 @@
       "hub": "Wazirabad",
       "client": "Wash4you",
       "lineItem": "Supervisor Cost",
-      "amount": 3990.047247308947
+      "amount": 3990.752463704189
     },
     {
       "month": "2026-09",
@@ -1615,7 +1615,7 @@
       "hub": "Sector 121",
       "client": "Amicco",
       "lineItem": "Supervisor Cost",
-      "amount": 1222.1255159361824
+      "amount": 1222.184819192723
     },
     {
       "month": "2026-09",
@@ -1623,7 +1623,7 @@
       "hub": "Sector 121",
       "client": "Blinkit",
       "lineItem": "Supervisor Cost",
-      "amount": 54518.511266156995
+      "amount": 54520.527576879365
     },
     {
       "month": "2026-09",
@@ -1631,7 +1631,7 @@
       "hub": "Sector 121",
       "client": "Delhivery",
       "lineItem": "Supervisor Cost",
-      "amount": 12293.389795309911
+      "amount": 12293.844453610054
     },
     {
       "month": "2026-09",
@@ -1639,7 +1639,7 @@
       "hub": "Sector 121",
       "client": "Porter - 3W L3",
       "lineItem": "Supervisor Cost",
-      "amount": 16996.947630037183
+      "amount": 16997.57624455651
     },
     {
       "month": "2026-09",
@@ -1647,7 +1647,7 @@
       "hub": "Sector 121",
       "client": "Rental_L5",
       "lineItem": "Supervisor Cost",
-      "amount": 1122.4399378326439
+      "amount": 1122.481450112222
     },
     {
       "month": "2026-09",
@@ -33293,6 +33293,465 @@
       "segment": "cargo"
     },
     {
+      "month": "2026-09",
+      "city": "Gurgaon",
+      "hub": "Wazirabad",
+      "client": "Porter - 3W L3",
+      "lineItem": "Maintenance",
+      "amount": 55.58510638297872,
+      "segment": "cargo"
+    },
+    {
+      "month": "2026-09",
+      "city": "Gurgaon",
+      "hub": "Wazirabad",
+      "client": "Blinkit",
+      "lineItem": "Maintenance",
+      "amount": 30.319148936170215,
+      "segment": "cargo"
+    },
+    {
+      "month": "2026-09",
+      "city": "Gurgaon",
+      "hub": "Wazirabad",
+      "client": "Delhivery",
+      "lineItem": "Maintenance",
+      "amount": 6.063829787234042,
+      "segment": "cargo"
+    },
+    {
+      "month": "2026-09",
+      "city": "Gurgaon",
+      "hub": "Wazirabad",
+      "client": "Amicco",
+      "lineItem": "Maintenance",
+      "amount": 2.021276595744681,
+      "segment": "cargo"
+    },
+    {
+      "month": "2026-09",
+      "city": "Gurgaon",
+      "hub": "Wazirabad",
+      "client": "Wash4you",
+      "lineItem": "Maintenance",
+      "amount": 1.0106382978723405,
+      "segment": "cargo"
+    },
+    {
+      "month": "2026-09",
+      "city": "Gurgaon",
+      "hub": "Wazirabad",
+      "client": "Porter - 3W L3",
+      "lineItem": "Maintenance",
+      "amount": 96.54255319148936,
+      "segment": "cargo"
+    },
+    {
+      "month": "2026-09",
+      "city": "Gurgaon",
+      "hub": "Wazirabad",
+      "client": "Blinkit",
+      "lineItem": "Maintenance",
+      "amount": 52.65957446808511,
+      "segment": "cargo"
+    },
+    {
+      "month": "2026-09",
+      "city": "Gurgaon",
+      "hub": "Wazirabad",
+      "client": "Delhivery",
+      "lineItem": "Maintenance",
+      "amount": 10.53191489361702,
+      "segment": "cargo"
+    },
+    {
+      "month": "2026-09",
+      "city": "Gurgaon",
+      "hub": "Wazirabad",
+      "client": "Amicco",
+      "lineItem": "Maintenance",
+      "amount": 3.5106382978723403,
+      "segment": "cargo"
+    },
+    {
+      "month": "2026-09",
+      "city": "Gurgaon",
+      "hub": "Wazirabad",
+      "client": "Wash4you",
+      "lineItem": "Maintenance",
+      "amount": 1.7553191489361701,
+      "segment": "cargo"
+    },
+    {
+      "month": "2026-09",
+      "city": "Gurgaon",
+      "hub": "Wazirabad",
+      "client": "Porter - 3W L3",
+      "lineItem": "Maintenance",
+      "amount": 92.4468085106383,
+      "segment": "cargo"
+    },
+    {
+      "month": "2026-09",
+      "city": "Gurgaon",
+      "hub": "Wazirabad",
+      "client": "Blinkit",
+      "lineItem": "Maintenance",
+      "amount": 50.42553191489362,
+      "segment": "cargo"
+    },
+    {
+      "month": "2026-09",
+      "city": "Gurgaon",
+      "hub": "Wazirabad",
+      "client": "Delhivery",
+      "lineItem": "Maintenance",
+      "amount": 10.085106382978722,
+      "segment": "cargo"
+    },
+    {
+      "month": "2026-09",
+      "city": "Gurgaon",
+      "hub": "Wazirabad",
+      "client": "Amicco",
+      "lineItem": "Maintenance",
+      "amount": 3.361702127659574,
+      "segment": "cargo"
+    },
+    {
+      "month": "2026-09",
+      "city": "Gurgaon",
+      "hub": "Wazirabad",
+      "client": "Wash4you",
+      "lineItem": "Maintenance",
+      "amount": 1.680851063829787,
+      "segment": "cargo"
+    },
+    {
+      "month": "2026-09",
+      "city": "Gurgaon",
+      "hub": "Wazirabad",
+      "client": "Porter - 3W L3",
+      "lineItem": "Maintenance",
+      "amount": 117.02127659574468,
+      "segment": "cargo"
+    },
+    {
+      "month": "2026-09",
+      "city": "Gurgaon",
+      "hub": "Wazirabad",
+      "client": "Blinkit",
+      "lineItem": "Maintenance",
+      "amount": 63.829787234042556,
+      "segment": "cargo"
+    },
+    {
+      "month": "2026-09",
+      "city": "Gurgaon",
+      "hub": "Wazirabad",
+      "client": "Delhivery",
+      "lineItem": "Maintenance",
+      "amount": 12.76595744680851,
+      "segment": "cargo"
+    },
+    {
+      "month": "2026-09",
+      "city": "Gurgaon",
+      "hub": "Wazirabad",
+      "client": "Amicco",
+      "lineItem": "Maintenance",
+      "amount": 4.25531914893617,
+      "segment": "cargo"
+    },
+    {
+      "month": "2026-09",
+      "city": "Gurgaon",
+      "hub": "Wazirabad",
+      "client": "Wash4you",
+      "lineItem": "Maintenance",
+      "amount": 2.127659574468085,
+      "segment": "cargo"
+    },
+    {
+      "month": "2026-09",
+      "city": "Gurgaon",
+      "hub": "Wazirabad",
+      "client": "Porter - 3W L3",
+      "lineItem": "Maintenance",
+      "amount": 38.03191489361702,
+      "segment": "cargo"
+    },
+    {
+      "month": "2026-09",
+      "city": "Gurgaon",
+      "hub": "Wazirabad",
+      "client": "Blinkit",
+      "lineItem": "Maintenance",
+      "amount": 20.74468085106383,
+      "segment": "cargo"
+    },
+    {
+      "month": "2026-09",
+      "city": "Gurgaon",
+      "hub": "Wazirabad",
+      "client": "Delhivery",
+      "lineItem": "Maintenance",
+      "amount": 4.148936170212766,
+      "segment": "cargo"
+    },
+    {
+      "month": "2026-09",
+      "city": "Gurgaon",
+      "hub": "Wazirabad",
+      "client": "Amicco",
+      "lineItem": "Maintenance",
+      "amount": 1.3829787234042552,
+      "segment": "cargo"
+    },
+    {
+      "month": "2026-09",
+      "city": "Gurgaon",
+      "hub": "Wazirabad",
+      "client": "Wash4you",
+      "lineItem": "Maintenance",
+      "amount": 0.6914893617021276,
+      "segment": "cargo"
+    },
+    {
+      "month": "2026-09",
+      "city": "Delhi",
+      "hub": "Nilothi",
+      "client": "Porter - 3W L3",
+      "lineItem": "Maintenance",
+      "amount": 233.99999999999997,
+      "segment": "cargo"
+    },
+    {
+      "month": "2026-09",
+      "city": "Delhi",
+      "hub": "Nilothi",
+      "client": "Blinkit",
+      "lineItem": "Maintenance",
+      "amount": 504.00000000000006,
+      "segment": "cargo"
+    },
+    {
+      "month": "2026-09",
+      "city": "Delhi",
+      "hub": "Nilothi",
+      "client": "Delhivery",
+      "lineItem": "Maintenance",
+      "amount": 180,
+      "segment": "cargo"
+    },
+    {
+      "month": "2026-09",
+      "city": "Gurgaon",
+      "hub": "Wazirabad",
+      "client": "Porter - 3W L3",
+      "lineItem": "Maintenance",
+      "amount": 28.085106382978722,
+      "segment": "cargo"
+    },
+    {
+      "month": "2026-09",
+      "city": "Gurgaon",
+      "hub": "Wazirabad",
+      "client": "Blinkit",
+      "lineItem": "Maintenance",
+      "amount": 15.319148936170214,
+      "segment": "cargo"
+    },
+    {
+      "month": "2026-09",
+      "city": "Gurgaon",
+      "hub": "Wazirabad",
+      "client": "Delhivery",
+      "lineItem": "Maintenance",
+      "amount": 3.0638297872340425,
+      "segment": "cargo"
+    },
+    {
+      "month": "2026-09",
+      "city": "Gurgaon",
+      "hub": "Wazirabad",
+      "client": "Amicco",
+      "lineItem": "Maintenance",
+      "amount": 1.0212765957446808,
+      "segment": "cargo"
+    },
+    {
+      "month": "2026-09",
+      "city": "Gurgaon",
+      "hub": "Wazirabad",
+      "client": "Wash4you",
+      "lineItem": "Maintenance",
+      "amount": 0.5106382978723404,
+      "segment": "cargo"
+    },
+    {
+      "month": "2026-09",
+      "city": "Gurgaon",
+      "hub": "Wazirabad",
+      "client": "Porter - 3W L3",
+      "lineItem": "Maintenance",
+      "amount": 145.10638297872342,
+      "segment": "cargo"
+    },
+    {
+      "month": "2026-09",
+      "city": "Gurgaon",
+      "hub": "Wazirabad",
+      "client": "Blinkit",
+      "lineItem": "Maintenance",
+      "amount": 79.14893617021276,
+      "segment": "cargo"
+    },
+    {
+      "month": "2026-09",
+      "city": "Gurgaon",
+      "hub": "Wazirabad",
+      "client": "Delhivery",
+      "lineItem": "Maintenance",
+      "amount": 15.829787234042552,
+      "segment": "cargo"
+    },
+    {
+      "month": "2026-09",
+      "city": "Gurgaon",
+      "hub": "Wazirabad",
+      "client": "Amicco",
+      "lineItem": "Maintenance",
+      "amount": 5.276595744680851,
+      "segment": "cargo"
+    },
+    {
+      "month": "2026-09",
+      "city": "Gurgaon",
+      "hub": "Wazirabad",
+      "client": "Wash4you",
+      "lineItem": "Maintenance",
+      "amount": 2.6382978723404253,
+      "segment": "cargo"
+    },
+    {
+      "month": "2026-09",
+      "city": "Gurgaon",
+      "hub": "Wazirabad",
+      "client": "Porter - 3W L3",
+      "lineItem": "Maintenance",
+      "amount": 601.4893617021277,
+      "segment": "cargo"
+    },
+    {
+      "month": "2026-09",
+      "city": "Gurgaon",
+      "hub": "Wazirabad",
+      "client": "Blinkit",
+      "lineItem": "Maintenance",
+      "amount": 328.0851063829787,
+      "segment": "cargo"
+    },
+    {
+      "month": "2026-09",
+      "city": "Gurgaon",
+      "hub": "Wazirabad",
+      "client": "Delhivery",
+      "lineItem": "Maintenance",
+      "amount": 65.61702127659574,
+      "segment": "cargo"
+    },
+    {
+      "month": "2026-09",
+      "city": "Gurgaon",
+      "hub": "Wazirabad",
+      "client": "Amicco",
+      "lineItem": "Maintenance",
+      "amount": 21.872340425531913,
+      "segment": "cargo"
+    },
+    {
+      "month": "2026-09",
+      "city": "Gurgaon",
+      "hub": "Wazirabad",
+      "client": "Wash4you",
+      "lineItem": "Maintenance",
+      "amount": 10.936170212765957,
+      "segment": "cargo"
+    },
+    {
+      "month": "2026-09",
+      "city": "Delhi",
+      "hub": "Nilothi",
+      "client": "Porter - 3W L3",
+      "lineItem": "Maintenance",
+      "amount": 66.27450980392156,
+      "segment": "cargo"
+    },
+    {
+      "month": "2026-09",
+      "city": "Delhi",
+      "hub": "Nilothi",
+      "client": "Blinkit",
+      "lineItem": "Maintenance",
+      "amount": 142.7450980392157,
+      "segment": "cargo"
+    },
+    {
+      "month": "2026-09",
+      "city": "Delhi",
+      "hub": "Nilothi",
+      "client": "Delhivery",
+      "lineItem": "Maintenance",
+      "amount": 50.98039215686274,
+      "segment": "cargo"
+    },
+    {
+      "month": "2026-09",
+      "city": "Gurgaon",
+      "hub": "Wazirabad",
+      "client": "Porter - 3W L3",
+      "lineItem": "Maintenance",
+      "amount": 198.93617021276597,
+      "segment": "cargo"
+    },
+    {
+      "month": "2026-09",
+      "city": "Gurgaon",
+      "hub": "Wazirabad",
+      "client": "Blinkit",
+      "lineItem": "Maintenance",
+      "amount": 108.51063829787235,
+      "segment": "cargo"
+    },
+    {
+      "month": "2026-09",
+      "city": "Gurgaon",
+      "hub": "Wazirabad",
+      "client": "Delhivery",
+      "lineItem": "Maintenance",
+      "amount": 21.702127659574465,
+      "segment": "cargo"
+    },
+    {
+      "month": "2026-09",
+      "city": "Gurgaon",
+      "hub": "Wazirabad",
+      "client": "Amicco",
+      "lineItem": "Maintenance",
+      "amount": 7.23404255319149,
+      "segment": "cargo"
+    },
+    {
+      "month": "2026-09",
+      "city": "Gurgaon",
+      "hub": "Wazirabad",
+      "client": "Wash4you",
+      "lineItem": "Maintenance",
+      "amount": 3.617021276595745,
+      "segment": "cargo"
+    },
+    {
       "month": "2026-03",
       "city": "Gurgaon",
       "hub": "Gurgaon Sec 68",
@@ -36539,6 +36998,69 @@
       "client": "Passenger Rental",
       "lineItem": "Maintenance",
       "amount": 780,
+      "segment": "passenger"
+    },
+    {
+      "month": "2026-09",
+      "city": "Gurgaon",
+      "hub": "Hero Honda",
+      "client": "Passenger Rental",
+      "lineItem": "Maintenance",
+      "amount": 190,
+      "segment": "passenger"
+    },
+    {
+      "month": "2026-09",
+      "city": "Gurgaon",
+      "hub": "Gurgaon Sec 68",
+      "client": "Passenger Rental",
+      "lineItem": "Maintenance",
+      "amount": 1604,
+      "segment": "passenger"
+    },
+    {
+      "month": "2026-09",
+      "city": "",
+      "hub": "",
+      "client": "",
+      "lineItem": "Maintenance",
+      "amount": 28500,
+      "segment": "passenger"
+    },
+    {
+      "month": "2026-09",
+      "city": "",
+      "hub": "",
+      "client": "",
+      "lineItem": "Maintenance",
+      "amount": 1100,
+      "segment": "passenger"
+    },
+    {
+      "month": "2026-09",
+      "city": "Gurgaon",
+      "hub": "Hero Honda",
+      "client": "Passenger Rental",
+      "lineItem": "Maintenance",
+      "amount": 780,
+      "segment": "passenger"
+    },
+    {
+      "month": "2026-09",
+      "city": "Gurgaon",
+      "hub": "Gurgaon Sec 68",
+      "client": "Passenger Rental",
+      "lineItem": "Maintenance",
+      "amount": 384,
+      "segment": "passenger"
+    },
+    {
+      "month": "2026-09",
+      "city": "Gurgaon",
+      "hub": "Gurgaon Sec 68",
+      "client": "Passenger Rental",
+      "lineItem": "Maintenance",
+      "amount": 410,
       "segment": "passenger"
     },
     {
