@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-01T10:49:41.134Z",
+  "generatedAt": "2026-10-01T11:49:52.523Z",
   "records": [
     {
       "month": "2026-06",
@@ -34709,6 +34709,33 @@
       "client": "Delhivery",
       "lineItem": "Maintenance",
       "amount": 162.94117647058823,
+      "segment": "cargo"
+    },
+    {
+      "month": "2026-10",
+      "city": "Delhi",
+      "hub": "Ali Village",
+      "client": "Blinkit",
+      "lineItem": "Maintenance",
+      "amount": 56.12244897959184,
+      "segment": "cargo"
+    },
+    {
+      "month": "2026-10",
+      "city": "Delhi",
+      "hub": "Ali Village",
+      "client": "Porter - 3W L3",
+      "lineItem": "Maintenance",
+      "amount": 29.183673469387756,
+      "segment": "cargo"
+    },
+    {
+      "month": "2026-10",
+      "city": "Delhi",
+      "hub": "Ali Village",
+      "client": "Delhivery",
+      "lineItem": "Maintenance",
+      "amount": 24.693877551020407,
       "segment": "cargo"
     },
     {
