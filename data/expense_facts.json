@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-02T08:49:06.449Z",
+  "generatedAt": "2026-10-02T14:49:14.708Z",
   "records": [
     {
       "month": "2026-06",
@@ -34808,6 +34808,132 @@
       "client": "Delhivery",
       "lineItem": "Maintenance",
       "amount": 140.7391304347826,
+      "segment": "cargo"
+    },
+    {
+      "month": "2026-10",
+      "city": "Gurgaon",
+      "hub": "Wazirabad",
+      "client": "Porter - 3W L3",
+      "lineItem": "Maintenance",
+      "amount": 118.27956989247312,
+      "segment": "cargo"
+    },
+    {
+      "month": "2026-10",
+      "city": "Gurgaon",
+      "hub": "Wazirabad",
+      "client": "Blinkit",
+      "lineItem": "Maintenance",
+      "amount": 64.51612903225806,
+      "segment": "cargo"
+    },
+    {
+      "month": "2026-10",
+      "city": "Gurgaon",
+      "hub": "Wazirabad",
+      "client": "Delhivery",
+      "lineItem": "Maintenance",
+      "amount": 10.75268817204301,
+      "segment": "cargo"
+    },
+    {
+      "month": "2026-10",
+      "city": "Gurgaon",
+      "hub": "Wazirabad",
+      "client": "Amicco",
+      "lineItem": "Maintenance",
+      "amount": 4.301075268817205,
+      "segment": "cargo"
+    },
+    {
+      "month": "2026-10",
+      "city": "Gurgaon",
+      "hub": "Wazirabad",
+      "client": "Wash4you",
+      "lineItem": "Maintenance",
+      "amount": 2.1505376344086025,
+      "segment": "cargo"
+    },
+    {
+      "month": "2026-10",
+      "city": "Delhi",
+      "hub": "Shalimar Bagh",
+      "client": "Porter - 3W L3",
+      "lineItem": "Maintenance",
+      "amount": 111.82608695652173,
+      "segment": "cargo"
+    },
+    {
+      "month": "2026-10",
+      "city": "Delhi",
+      "hub": "Shalimar Bagh",
+      "client": "Blinkit",
+      "lineItem": "Maintenance",
+      "amount": 447.30434782608694,
+      "segment": "cargo"
+    },
+    {
+      "month": "2026-10",
+      "city": "Delhi",
+      "hub": "Shalimar Bagh",
+      "client": "Delhivery",
+      "lineItem": "Maintenance",
+      "amount": 83.8695652173913,
+      "segment": "cargo"
+    },
+    {
+      "month": "2026-10",
+      "city": "Delhi",
+      "hub": "Shalimar Bagh",
+      "client": "Porter - 3W L3",
+      "lineItem": "Maintenance",
+      "amount": 62.086956521739125,
+      "segment": "cargo"
+    },
+    {
+      "month": "2026-10",
+      "city": "Delhi",
+      "hub": "Shalimar Bagh",
+      "client": "Blinkit",
+      "lineItem": "Maintenance",
+      "amount": 248.3478260869565,
+      "segment": "cargo"
+    },
+    {
+      "month": "2026-10",
+      "city": "Delhi",
+      "hub": "Shalimar Bagh",
+      "client": "Delhivery",
+      "lineItem": "Maintenance",
+      "amount": 46.565217391304344,
+      "segment": "cargo"
+    },
+    {
+      "month": "2026-10",
+      "city": "Delhi",
+      "hub": "Shalimar Bagh",
+      "client": "Porter - 3W L3",
+      "lineItem": "Maintenance",
+      "amount": 19.130434782608695,
+      "segment": "cargo"
+    },
+    {
+      "month": "2026-10",
+      "city": "Delhi",
+      "hub": "Shalimar Bagh",
+      "client": "Blinkit",
+      "lineItem": "Maintenance",
+      "amount": 76.52173913043478,
+      "segment": "cargo"
+    },
+    {
+      "month": "2026-10",
+      "city": "Delhi",
+      "hub": "Shalimar Bagh",
+      "client": "Delhivery",
+      "lineItem": "Maintenance",
+      "amount": 14.347826086956522,
       "segment": "cargo"
     },
     {
@@ -122015,7 +122141,7 @@
       "hub": "",
       "client": "DELHIVERY",
       "lineItem": "Driver Payout",
-      "amount": 13503.395
+      "amount": 13003.395
     },
     {
       "month": "2026-09",
@@ -122311,7 +122437,7 @@
       "hub": "",
       "client": "DELHIVERY",
       "lineItem": "Driver Payout",
-      "amount": 1668.8049999999998
+      "amount": 2168.805
     },
     {
       "month": "2026-09",
