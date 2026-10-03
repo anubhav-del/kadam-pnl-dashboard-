@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-03T08:48:41.210Z",
+  "generatedAt": "2026-10-03T09:49:06.962Z",
   "records": [
     {
       "month": "2026-06",
@@ -38471,6 +38471,24 @@
       "client": "",
       "lineItem": "Maintenance",
       "amount": 500,
+      "segment": "passenger"
+    },
+    {
+      "month": "2026-10",
+      "city": "Gurgaon",
+      "hub": "Gurgaon Sec 68",
+      "client": "Passenger Rental",
+      "lineItem": "Maintenance",
+      "amount": 432,
+      "segment": "passenger"
+    },
+    {
+      "month": "2026-10",
+      "city": "Gurgaon",
+      "hub": "Gurgaon Sec 68",
+      "client": "Passenger Rental",
+      "lineItem": "Maintenance",
+      "amount": 432,
       "segment": "passenger"
     },
     {
