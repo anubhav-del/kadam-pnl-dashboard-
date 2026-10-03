@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-03T09:49:06.962Z",
+  "generatedAt": "2026-10-03T15:49:35.388Z",
   "records": [
     {
       "month": "2026-06",
@@ -35078,6 +35078,78 @@
       "client": "Delhivery",
       "lineItem": "Maintenance",
       "amount": 29.41176470588235,
+      "segment": "cargo"
+    },
+    {
+      "month": "2026-10",
+      "city": "Noida",
+      "hub": "Sector 121",
+      "client": "Blinkit",
+      "lineItem": "Maintenance",
+      "amount": 119.29824561403508,
+      "segment": "cargo"
+    },
+    {
+      "month": "2026-10",
+      "city": "Noida",
+      "hub": "Sector 121",
+      "client": "Porter - 3W L3",
+      "lineItem": "Maintenance",
+      "amount": 45.614035087719294,
+      "segment": "cargo"
+    },
+    {
+      "month": "2026-10",
+      "city": "Noida",
+      "hub": "Sector 121",
+      "client": "Delhivery",
+      "lineItem": "Maintenance",
+      "amount": 28.07017543859649,
+      "segment": "cargo"
+    },
+    {
+      "month": "2026-10",
+      "city": "Noida",
+      "hub": "Sector 121",
+      "client": "Amicco",
+      "lineItem": "Maintenance",
+      "amount": 3.508771929824561,
+      "segment": "cargo"
+    },
+    {
+      "month": "2026-10",
+      "city": "Noida",
+      "hub": "Sector 121",
+      "client": "Rental_L5",
+      "lineItem": "Maintenance",
+      "amount": 3.508771929824561,
+      "segment": "cargo"
+    },
+    {
+      "month": "2026-10",
+      "city": "Delhi",
+      "hub": "Nilothi",
+      "client": "Porter - 3W L3",
+      "lineItem": "Maintenance",
+      "amount": 28.03921568627451,
+      "segment": "cargo"
+    },
+    {
+      "month": "2026-10",
+      "city": "Delhi",
+      "hub": "Nilothi",
+      "client": "Blinkit",
+      "lineItem": "Maintenance",
+      "amount": 60.392156862745104,
+      "segment": "cargo"
+    },
+    {
+      "month": "2026-10",
+      "city": "Delhi",
+      "hub": "Nilothi",
+      "client": "Delhivery",
+      "lineItem": "Maintenance",
+      "amount": 21.56862745098039,
       "segment": "cargo"
     },
     {
@@ -122497,7 +122569,7 @@
       "hub": "",
       "client": "DELHIVERY",
       "lineItem": "Driver Payout",
-      "amount": 8414.47
+      "amount": 8289.47
     },
     {
       "month": "2026-09",
