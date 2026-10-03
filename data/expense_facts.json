@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-03T04:49:05.736Z",
+  "generatedAt": "2026-10-03T07:49:48.344Z",
   "records": [
     {
       "month": "2026-06",
@@ -34937,6 +34937,33 @@
       "segment": "cargo"
     },
     {
+      "month": "2026-10",
+      "city": "Delhi",
+      "hub": "Nilothi",
+      "client": "Porter - 3W L3",
+      "lineItem": "Maintenance",
+      "amount": 73.15686274509804,
+      "segment": "cargo"
+    },
+    {
+      "month": "2026-10",
+      "city": "Delhi",
+      "hub": "Nilothi",
+      "client": "Blinkit",
+      "lineItem": "Maintenance",
+      "amount": 157.56862745098042,
+      "segment": "cargo"
+    },
+    {
+      "month": "2026-10",
+      "city": "Delhi",
+      "hub": "Nilothi",
+      "client": "Delhivery",
+      "lineItem": "Maintenance",
+      "amount": 56.27450980392157,
+      "segment": "cargo"
+    },
+    {
       "month": "2026-03",
       "city": "Gurgaon",
       "hub": "Gurgaon Sec 68",
@@ -39894,14 +39921,6 @@
       "client": "Rental_L5",
       "lineItem": "Lease/EMI",
       "amount": 14600
-    },
-    {
-      "month": "2026-10",
-      "city": "Delhi",
-      "hub": "Shalimar Bagh",
-      "client": "Delhivery",
-      "lineItem": "Lease/EMI",
-      "amount": 10666.666666666668
     },
     {
       "month": "2026-10",
@@ -122037,7 +122056,7 @@
       "hub": "",
       "client": "DELHIVERY",
       "lineItem": "Driver Payout",
-      "amount": 25815.92
+      "amount": 26119.12
     },
     {
       "month": "2026-09",
@@ -122157,7 +122176,7 @@
       "hub": "",
       "client": "DELHIVERY",
       "lineItem": "Driver Payout",
-      "amount": 9932.530000000002
+      "amount": 9427.330000000002
     },
     {
       "month": "2026-09",
@@ -122197,7 +122216,7 @@
       "hub": "",
       "client": "DELHIVERY",
       "lineItem": "Driver Payout",
-      "amount": 12211.943000000001
+      "amount": 11405.943000000001
     },
     {
       "month": "2026-09",
@@ -122245,7 +122264,7 @@
       "hub": "",
       "client": "DELHIVERY",
       "lineItem": "Driver Payout",
-      "amount": 14780.945000000002
+      "amount": 15380.945000000002
     },
     {
       "month": "2026-09",
@@ -122357,7 +122376,7 @@
       "hub": "",
       "client": "DELHIVERY",
       "lineItem": "Driver Payout",
-      "amount": -53.09500000000003
+      "amount": 10.504999999999995
     },
     {
       "month": "2026-09",
