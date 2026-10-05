@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-05T05:50:07.218Z",
+  "generatedAt": "2026-10-05T06:49:20.589Z",
   "records": [
     {
       "month": "2026-06",
@@ -35243,6 +35243,51 @@
       "segment": "cargo"
     },
     {
+      "month": "2026-10",
+      "city": "Gurgaon",
+      "hub": "Wazirabad",
+      "client": "Porter - 3W L3",
+      "lineItem": "Maintenance",
+      "amount": 478.44086021505376,
+      "segment": "cargo"
+    },
+    {
+      "month": "2026-10",
+      "city": "Gurgaon",
+      "hub": "Wazirabad",
+      "client": "Blinkit",
+      "lineItem": "Maintenance",
+      "amount": 260.96774193548384,
+      "segment": "cargo"
+    },
+    {
+      "month": "2026-10",
+      "city": "Gurgaon",
+      "hub": "Wazirabad",
+      "client": "Delhivery",
+      "lineItem": "Maintenance",
+      "amount": 43.494623655913976,
+      "segment": "cargo"
+    },
+    {
+      "month": "2026-10",
+      "city": "Gurgaon",
+      "hub": "Wazirabad",
+      "client": "Amicco",
+      "lineItem": "Maintenance",
+      "amount": 17.397849462365592,
+      "segment": "cargo"
+    },
+    {
+      "month": "2026-10",
+      "city": "Gurgaon",
+      "hub": "Wazirabad",
+      "client": "Wash4you",
+      "lineItem": "Maintenance",
+      "amount": 8.698924731182796,
+      "segment": "cargo"
+    },
+    {
       "month": "2026-03",
       "city": "Gurgaon",
       "hub": "Gurgaon Sec 68",
@@ -35433,9 +35478,9 @@
     },
     {
       "month": "2026-04",
-      "city": "",
-      "hub": "",
-      "client": "",
+      "city": "Gurgaon",
+      "hub": "Gurgaon Sec 68",
+      "client": "Passenger Rental",
       "lineItem": "Maintenance",
       "amount": 640,
       "segment": "passenger"
@@ -35856,9 +35901,9 @@
     },
     {
       "month": "2026-05",
-      "city": "",
-      "hub": "",
-      "client": "",
+      "city": "Gurgaon",
+      "hub": "Gurgaon Sec 68",
+      "client": "Passenger Rental",
       "lineItem": "Maintenance",
       "amount": 4371,
       "segment": "passenger"
@@ -36090,9 +36135,9 @@
     },
     {
       "month": "2026-05",
-      "city": "",
-      "hub": "",
-      "client": "",
+      "city": "Gurgaon",
+      "hub": "Gurgaon Sec 68",
+      "client": "Passenger Rental",
       "lineItem": "Maintenance",
       "amount": 350,
       "segment": "passenger"
@@ -36576,18 +36621,18 @@
     },
     {
       "month": "2026-07",
-      "city": "",
-      "hub": "",
-      "client": "",
+      "city": "Gurgaon",
+      "hub": "Gurgaon Sec 68",
+      "client": "Passenger Rental",
       "lineItem": "Maintenance",
       "amount": 680,
       "segment": "passenger"
     },
     {
       "month": "2026-07",
-      "city": "",
-      "hub": "",
-      "client": "",
+      "city": "Gurgaon",
+      "hub": "Gurgaon Sec 68",
+      "client": "Passenger Rental",
       "lineItem": "Maintenance",
       "amount": 680,
       "segment": "passenger"
@@ -36927,9 +36972,9 @@
     },
     {
       "month": "2026-07",
-      "city": "",
-      "hub": "",
-      "client": "",
+      "city": "Gurgaon",
+      "hub": "Gurgaon Sec 68",
+      "client": "Passenger Rental",
       "lineItem": "Maintenance",
       "amount": 1303,
       "segment": "passenger"
@@ -38178,9 +38223,9 @@
     },
     {
       "month": "2026-09",
-      "city": "",
-      "hub": "",
-      "client": "",
+      "city": "Gurgaon",
+      "hub": "Hero Honda",
+      "client": "Passenger Rental",
       "lineItem": "Maintenance",
       "amount": 385,
       "segment": "passenger"
@@ -38250,9 +38295,9 @@
     },
     {
       "month": "2026-09",
-      "city": "",
-      "hub": "",
-      "client": "",
+      "city": "Gurgaon",
+      "hub": "Hero Honda",
+      "client": "Passenger Rental",
       "lineItem": "Maintenance",
       "amount": 485,
       "segment": "passenger"
@@ -38376,9 +38421,9 @@
     },
     {
       "month": "2026-09",
-      "city": "",
-      "hub": "",
-      "client": "",
+      "city": "Gurgaon",
+      "hub": "Gurgaon Sec 68",
+      "client": "Passenger Rental",
       "lineItem": "Maintenance",
       "amount": -272,
       "segment": "passenger"
@@ -38403,9 +38448,9 @@
     },
     {
       "month": "2026-09",
-      "city": "",
-      "hub": "",
-      "client": "",
+      "city": "Gurgaon",
+      "hub": "Gurgaon Sec 68",
+      "client": "Passenger Rental",
       "lineItem": "Maintenance",
       "amount": 520,
       "segment": "passenger"
