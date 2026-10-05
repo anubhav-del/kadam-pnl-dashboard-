@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-05T10:49:57.281Z",
+  "generatedAt": "2026-10-05T12:49:15.315Z",
   "records": [
     {
       "month": "2026-06",
@@ -35333,6 +35333,33 @@
       "segment": "cargo"
     },
     {
+      "month": "2026-10",
+      "city": "Delhi",
+      "hub": "Nilothi",
+      "client": "Porter - 3W L3",
+      "lineItem": "Maintenance",
+      "amount": 38.49019607843137,
+      "segment": "cargo"
+    },
+    {
+      "month": "2026-10",
+      "city": "Delhi",
+      "hub": "Nilothi",
+      "client": "Blinkit",
+      "lineItem": "Maintenance",
+      "amount": 82.90196078431373,
+      "segment": "cargo"
+    },
+    {
+      "month": "2026-10",
+      "city": "Delhi",
+      "hub": "Nilothi",
+      "client": "Delhivery",
+      "lineItem": "Maintenance",
+      "amount": 29.6078431372549,
+      "segment": "cargo"
+    },
+    {
       "month": "2026-03",
       "city": "Gurgaon",
       "hub": "Gurgaon Sec 68",
@@ -38741,6 +38768,33 @@
       "client": "Passenger Rental",
       "lineItem": "Maintenance",
       "amount": 432,
+      "segment": "passenger"
+    },
+    {
+      "month": "2026-10",
+      "city": "Gurgaon",
+      "hub": "Gurgaon Sec 68",
+      "client": "Passenger Rental",
+      "lineItem": "Maintenance",
+      "amount": 650,
+      "segment": "passenger"
+    },
+    {
+      "month": "2026-10",
+      "city": "Gurgaon",
+      "hub": "Gurgaon Sec 68",
+      "client": "Passenger Rental",
+      "lineItem": "Maintenance",
+      "amount": 650,
+      "segment": "passenger"
+    },
+    {
+      "month": "2026-10",
+      "city": "Gurgaon",
+      "hub": "Gurgaon Sec 68",
+      "client": "Passenger Rental",
+      "lineItem": "Maintenance",
+      "amount": 878,
       "segment": "passenger"
     },
     {
