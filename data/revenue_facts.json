@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-05T06:49:11.484Z",
+  "generatedAt": "2026-10-05T09:49:10.609Z",
   "records": [
     {
       "date": "2025-04-16",
@@ -659618,6 +659618,14 @@
       "revenue": 1636.8
     },
     {
+      "date": "2026-09-16",
+      "city": "Delhi",
+      "hub": "Saket",
+      "client": "Blinkit",
+      "vehicleType": "",
+      "revenue": 1378
+    },
+    {
       "date": "2026-09-17",
       "city": "Delhi",
       "hub": "Saket",
@@ -739055,7 +739063,7 @@
       "hub": "",
       "client": "Delhivery",
       "vehicleType": "3W L5",
-      "revenue": 9237.3
+      "revenue": 9185.7
     },
     {
       "date": "2001-09-01",
@@ -739343,7 +739351,7 @@
       "hub": "",
       "client": "Delhivery",
       "vehicleType": "3W L5",
-      "revenue": 2072.8
+      "revenue": 2224.1000000000004
     },
     {
       "date": "2001-10-01",
@@ -739351,7 +739359,7 @@
       "hub": "",
       "client": "Delhivery",
       "vehicleType": "3W L5",
-      "revenue": 42072.100000000006
+      "revenue": 42172.100000000006
     },
     {
       "date": "2001-10-03",
@@ -739359,7 +739367,7 @@
       "hub": "",
       "client": "Delhivery",
       "vehicleType": "3W L5",
-      "revenue": 39472.700000000004
+      "revenue": 39406.700000000004
     },
     {
       "date": "2001-10-04",
